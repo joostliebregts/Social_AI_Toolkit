@@ -2,6 +2,8 @@
 
 > *Live output genereren die betrokkenen direct kunnen reviewen.*
 
+> 🚧 **Work in progress** — Deze pagina wordt nog bijgeschaafd. Inhoud kan veranderen.
+
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md), nu in real-time
 

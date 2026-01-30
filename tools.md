@@ -2,6 +2,8 @@
 
 > Welke tools gebruik je wanneer? Een overzicht.
 
+> 🚧 **Work in progress** — Deze pagina wordt nog bijgeschaafd. Inhoud kan veranderen.
+
 ---
 
 De tool maakt minder uit dan wat je ermee doet. Maar het helpt om te weten wat er is — en wat elk anders maakt.

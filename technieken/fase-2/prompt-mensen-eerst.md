@@ -2,6 +2,8 @@
 
 > *De kwaliteit van AI-output hangt af van de kwaliteit van de menselijke input.*
 
+> 🚧 **Work in progress** — Deze pagina wordt nog bijgeschaafd. Inhoud kan veranderen.
+
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** De vraag die voorafgaat aan de AI-prompt
 

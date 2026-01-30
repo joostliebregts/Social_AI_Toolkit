@@ -4,6 +4,8 @@
 
 > *Spiegel en brug* — Van één gesprek naar collectieve wijsheid die opstapelt over tijd.
 
+> 🚧 **Work in progress** — Deze pagina wordt nog bijgeschaafd. Inhoud kan veranderen.
+
 ---
 
 Van één gesprek naar meerdere. Van één moment naar een traject. Hier wordt het collectief.

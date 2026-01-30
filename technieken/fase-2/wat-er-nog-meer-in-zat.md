@@ -4,6 +4,8 @@
 
 > *Samen met AI verdieping zoeken in je transcript.*
 
+> 🚧 **Work in progress** — Deze pagina wordt nog bijgeschaafd. Inhoud kan veranderen.
+
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 
 **Vorige stap:** [Transcriptie als fundament](../fase-1/transcriptie.md): je hebt tekst

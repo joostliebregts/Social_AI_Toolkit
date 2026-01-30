@@ -2,6 +2,8 @@
 
 > *Privacy, grenzen en verantwoord gebruik.*
 
+> 🚧 **Work in progress** — Deze pagina wordt nog bijgeschaafd. Inhoud kan veranderen.
+
 ---
 
 ## De basisprincipes

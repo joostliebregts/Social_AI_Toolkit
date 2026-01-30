@@ -2,6 +2,8 @@
 
 > *Wanneer de groep vastloopt, kan een andere vraag de opening zijn.*
 
+> 🚧 **Work in progress** — Deze pagina wordt nog bijgeschaafd. Inhoud kan veranderen.
+
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** [Prompt de mensen eerst](prompt-mensen-eerst.md), nu specifiek voor het in-sessie herkaderen van vragen
 
