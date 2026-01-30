@@ -68,7 +68,7 @@ In welke volgorde vraag je de puzzelstukjes uit? Begin met ervaring, eindig met 
 **Stap 4: Formuleer de vragen**
 Hoe krijg je elk puzzelstukje uit mensen? Niet één grote vraag, maar losse vragen die elk iets specifieks opleveren.
 
-![Backwards design visualisatie](../images/prompt-mensen-eerst-backwards-design.png)
+![Backwards design visualisatie](../../images/prompt-mensen-eerst-backwards-design.png)
 
 **Voorbeeld:**
 - **Doel:** Prioriteiten bepalen op basis van echte ervaring

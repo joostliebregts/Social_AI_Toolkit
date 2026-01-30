@@ -1,4 +1,4 @@
-![Taal als eigenaarschap mechanisme](../images/taalalseigenaarschapmechanisme.png)
+![Taal als eigenaarschap mechanisme](../../images/taalalseigenaarschapmechanisme.png)
 
 # Taal als eigenaarschap
 
@@ -47,7 +47,7 @@ Niemand zou dezelfde reactie hebben gehad op een synthese die hun woorden had ve
 
 ---
 
-![Mechanisme: letterlijk citeren](../images/taal-behouden-mechanisme-letterlijk.png)
+![Mechanisme: letterlijk citeren](../../images/taal-behouden-mechanisme-letterlijk.png)
 
 ## Het mechanisme: herkenning creëert eigenaarschap
 
