@@ -1,6 +1,6 @@
 # Social AI Toolkit
 
-![Luisteren op schaal](images/luisterenopschaal.png)
+![Social AI Toolkit](images/socialaitoolkit.png)
 
 **v0.8** — januari 2026, eerste publieke release
 

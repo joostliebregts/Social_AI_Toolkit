@@ -1,3 +1,5 @@
+![Collectieve wijsheid](images/collectivewisdom02.png)
+
 # Fase 3: schaal
 
 > *Spiegel en brug* — Van één gesprek naar collectieve wijsheid die opstapelt over tijd.

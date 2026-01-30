@@ -1,3 +1,5 @@
+![Wat er nog meer in zat](../../images/vergrootglas_waternogmeerinzat.png)
+
 # Wat er nog meer in zat
 
 > *Samen met AI verdieping zoeken in je transcript.*
