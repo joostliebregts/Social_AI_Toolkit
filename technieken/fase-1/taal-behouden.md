@@ -4,7 +4,7 @@
 
 > *Het verschil tussen "communicatieproblemen" en "je praat tegen een muur" is niet semantisch — het eerste ondermijnt eigenaarschap, het tweede creëert het.*
 
-**Fase:** [Fase 1: Begin](../fase-1-begin.md)
+**Fase:** [Fase 1: Begin](../../fase-1-begin.md)
 **Bouwt voort op:** Het fietshelm-verhaal: waar Maarten's eigen woorden de kern blootlegden
 
 ---
@@ -341,7 +341,7 @@ Als AI patronen herkent of vragen stelt, kan interpretatie versmelten met eigena
 
 ## Veilige defaults
 
-*Voor privacy-afwegingen bij gevoelige gesprekken, lees [Veilig werken met AI](../veilig-werken.md).*
+*Voor privacy-afwegingen bij gevoelige gesprekken, lees [Veilig werken met AI](../../veilig-werken.md).*
 
 - [ ] Exacte woorden behouden? (niet geparafraseerd "voor helderheid")
 - [ ] Terminologie van deelnemers gebruikt? (niet vertaald naar jargon)
@@ -374,7 +374,7 @@ Maar (en dit is cruciaal) snelheid zonder taalbehoud heeft weinig zin. Een snell
 ---
 
 **Navigatie:**
-- [Terug naar Fase 1: Begin](../fase-1-begin.md)
+- [Terug naar Fase 1: Begin](../../fase-1-begin.md)
 - [Vorige: Transcriptie](transcriptie.md)
 - [Volgende: Brondocumentstijl](brondocument-stijl.md)
 

@@ -2,7 +2,7 @@
 
 > *De kwaliteit van AI-output hangt af van de kwaliteit van de menselijke input.*
 
-**Fase:** [Fase 2: Verdieping](../fase-2-verdieping.md)
+**Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** De vraag die voorafgaat aan de AI-prompt
 
 ---
@@ -317,7 +317,7 @@ Dit is backwards design in actie. Niet beginnen bij de tools, maar bij het doel.
 
 ---
 
-← [Terug naar Fase 2: Verdieping](../fase-2-verdieping.md)
+← [Terug naar Fase 2: Verdieping](../../fase-2-verdieping.md)
 
 ---
 

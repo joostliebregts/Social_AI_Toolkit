@@ -2,7 +2,7 @@
 
 > *"We weten dat dit document is goedgekeurd door de zorgverzekeraar. Eigenlijk wil ik dat de nieuwe documenten in dezelfde schrijfstijl komen."*
 
-**Fase:** [Fase 1: Begin](../fase-1-begin.md)
+**Fase:** [Fase 1: Begin](../../fase-1-begin.md)
 **Bouwt voort op:** Transcriptie als grondstof voor nieuwe documenten
 
 ---
@@ -148,7 +148,7 @@ Dit zijn de prompts die ik destijds gebruikte bij transformatieplan-sessies. Ze 
 
 De drie prompts hieronder passen bij een gefaseerde workshop: eerst tussentijdse terugkoppeling, dan continue verwerking, dan eind-synthese. Die volgorde is niet toevallig. Door analyse en synthese te scheiden, blijft elke stap behapbaar.
 
-Dit is ook een voorproefje op [Fase 3: Schaal](../fase-3-schaal.md), waar je met meerdere sessies of breakout-groepen aan het itereren bent op hetzelfde document.
+Dit is ook een voorproefje op [Fase 3: Schaal](../../fase-3-schaal.md), waar je met meerdere sessies of breakout-groepen aan het itereren bent op hetzelfde document.
 
 ### Tussentijdse Visie Terugkoppeling
 
@@ -344,7 +344,7 @@ De verleiding is om alles in één prompt te stoppen: analyse, synthese, structu
 
 *Wat ik doe:* Ik splits in fasen. Tijdens een live workshop had ik eerst een tussentijdse terugkoppeling, dan feedback verwerking, dan eind-synthese. Elk met zijn eigen prompt. Door analyse en synthese te scheiden, blijft elke stap behapbaar en gedetailleerd. En kan je makkelijker zien of je bouwt op iets wat je herkent, of dat er veel detail wegvalt.
 
-Dit is ook een voorproefje op [Fase 3: Schaal](../fase-3-schaal.md), waar je met meerdere sessies of breakout-groepen aan het itereren bent op hetzelfde document.
+Dit is ook een voorproefje op [Fase 3: Schaal](../../fase-3-schaal.md), waar je met meerdere sessies of breakout-groepen aan het itereren bent op hetzelfde document.
 
 **Stijl versus echtheid**
 Er is een spanning tussen de officiële stijl en de authentieke stem van de deelnemers. Het document moet acceptabel zijn voor de zorgverzekeraar, maar ook herkenbaar voor de mensen die het gesprek voerden.
@@ -381,4 +381,4 @@ Er is een spanning tussen de officiële stijl en de authentieke stem van de deel
 
 ---
 
-<- [Terug naar Fase 1: Begin](../fase-1-begin.md) | [<- Taal als eigenaarschap](taal-behouden.md) | [Fase 2: Verdieping ->](../fase-2-verdieping.md)
+<- [Terug naar Fase 1: Begin](../../fase-1-begin.md) | [<- Taal als eigenaarschap](taal-behouden.md) | [Fase 2: Verdieping ->](../../fase-2-verdieping.md)

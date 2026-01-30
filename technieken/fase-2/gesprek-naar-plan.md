@@ -2,7 +2,7 @@
 
 > *Live output genereren die betrokkenen direct kunnen reviewen.*
 
-**Fase:** [Fase 2: Verdieping](../fase-2-verdieping.md)
+**Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md), nu in real-time
 
 ---
@@ -248,7 +248,7 @@ De vorm is anders. Maar de intentie (mensen eigenaar maken van een plan) blijft.
 
 ---
 
-<- [Terug naar Fase 2: Verdieping](../fase-2-verdieping.md) | [<- Live reflectie](echo-knop.md) | [Intuïtie zwart op wit ->](intuitie-zwart-op-wit.md)
+<- [Terug naar Fase 2: Verdieping](../../fase-2-verdieping.md) | [<- Live reflectie](echo-knop.md) | [Intuïtie zwart op wit ->](intuitie-zwart-op-wit.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 > *Alles begint met tekst. Transcriptie maakt het vluchtige tastbaar.*
 
-**Fase:** [Fase 1: Begin](../fase-1-begin.md)
+**Fase:** [Fase 1: Begin](../../fase-1-begin.md)
 **Dit is het fundament:** zonder tekst geen verdieping
 
 ---
@@ -27,7 +27,7 @@ Dat is waar deze toolkit over gaat. Transcriptie als ruwe olie. Grondstof voor v
 
 ## Waar het allemaal mee begint
 
-In [Fase 1](../fase-1-begin.md) las je al over Maarten en de ouderavond over smartphonevrij opgroeien. Het fietshelm-moment: AI vond de quote die precies de kern raakte.
+In [Fase 1](../../fase-1-begin.md) las je al over Maarten en de ouderavond over smartphonevrij opgroeien. Het fietshelm-moment: AI vond de quote die precies de kern raakte.
 
 Hier gaan we dieper in op wat dat mogelijk maakte, en hoe je het zelf kunt toepassen.
 
@@ -72,7 +72,7 @@ Kies een tool die past bij je situatie:
 | **Notion AI**                | Je werkt al in Notion, wilt alles op één plek, werkt zowel in het Engels als Nederlands             |
 | **Google Meet transcriptie** | Je werkt al in Google ecosystem, basis is genoeg (let op: vooralsnog geen Nederlandse transcriptie) |
 
-*Zie de [tools-pagina](../tools.md) voor meer details over deze en andere tools.*
+*Zie de [tools-pagina](../../tools.md) voor meer details over deze en andere tools.*
 
 Voor de meeste facilitators (met een Mac) is MacWhisper een goede start: het werkt lokaal (privacy), heeft een gratis versie waarmee je al veel kan, de pro versie is 'betaal één keer', levert goede Nederlandse transcripties, en heeft ingebouwde dictatie.
 
@@ -336,7 +336,7 @@ De tools zijn zo makkelijk. Upload, klik, klaar. Maar niet elk gesprek hoort in 
 
 Bij elke techniek in deze toolkit geef ik een checklist van dingen om te checken voordat je begint. Niet als bureaucratie, maar als snelle scan: heb ik aan de belangrijkste dingen gedacht?
 
-*Zie ook: [Veilig werken met AI](../veilig-werken.md)*
+*Zie ook: [Veilig werken met AI](../../veilig-werken.md)*
 
 Elke keer dat je een transcript gebruikt voor AI-analyse, check:
 
@@ -391,5 +391,5 @@ De kracht van transcriptie ligt niet in de technologie. Die is nu bijna gratis. 
 
 ---
 
-<- [Terug naar Fase 1: Begin](../fase-1-begin.md) | [Volgende: Taal als eigenaarschap ->](taal-behouden.md)
+<- [Terug naar Fase 1: Begin](../../fase-1-begin.md) | [Volgende: Taal als eigenaarschap ->](taal-behouden.md)
 

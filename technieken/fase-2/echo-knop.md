@@ -2,7 +2,7 @@
 
 > *Op precies het juiste moment stelt AI de vraag die de groep verder helpt.*
 
-**Fase:** [Fase 2: Verdieping](../fase-2-verdieping.md)
+**Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** Transcriptie als grondstof, nu gebruikt voor real-time interventie
 
 ---
@@ -21,7 +21,7 @@
 
 ## De vraag die het gesprek opende
 
-*Dit verhaal ken je misschien al van de [waarom-pagina](../waarom.md). Hier gaan we dieper in op timing: het juiste moment voor de juiste vraag.*
+*Dit verhaal ken je misschien al van de [waarom-pagina](../../waarom.md). Hier gaan we dieper in op timing: het juiste moment voor de juiste vraag.*
 
 Een sessie over wijktransformatie. Acht mensen praten 45 minuten over de spanning tussen systeemeisen en mensgerichte aanpak. De energie begint weg te zakken.
 
@@ -221,7 +221,7 @@ De echo is een tool, geen oplossing. Als ik alleen maar op knoppen druk, mis ik 
 
 ## Veilige defaults
 
-*Voor privacy-afwegingen bij live transcriptie, lees [Veilig werken met AI](../veilig-werken.md).*
+*Voor privacy-afwegingen bij live transcriptie, lees [Veilig werken met AI](../../veilig-werken.md).*
 
 - [ ] Focus op laatste 10-15 minuten? (niet het hele gesprek)
 - [ ] "Mogelijk onderbelicht" in plaats van stellige beweringen?
@@ -273,7 +273,7 @@ Maar (en dit is cruciaal) de facilitator moet de vraag eigendom maken. Niet: "AI
 
 ---
 
-← [Terug naar Fase 2: Verdieping](../fase-2-verdieping.md) | [← Vorige: Vragen herkaderen](vragen-herkaderen.md) | [Volgende: Van gesprek naar plan →](gesprek-naar-plan.md)
+← [Terug naar Fase 2: Verdieping](../../fase-2-verdieping.md) | [← Vorige: Vragen herkaderen](vragen-herkaderen.md) | [Volgende: Van gesprek naar plan →](gesprek-naar-plan.md)
 
 ---
 

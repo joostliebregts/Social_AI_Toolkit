@@ -2,7 +2,7 @@
 
 > *Niet sleutelen aan output, maar feedback geven. AI leert wat je bedoelt.*
 
-**Fase:** [Fase 2: Verdieping](../fase-2-verdieping.md)
+**Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** De eerste AI-output die niet helemaal klopt
 
 ---
@@ -340,7 +340,7 @@ De neiging is om te zeggen wat er mis is zonder te zeggen wat ik wel zoek.
 
 ## Veilige defaults
 
-*Voor privacy-afwegingen bij het delen van transcripten, lees [Veilig werken met AI](../veilig-werken.md).*
+*Voor privacy-afwegingen bij het delen van transcripten, lees [Veilig werken met AI](../../veilig-werken.md).*
 
 - [ ] Feedback specifiek geformuleerd?
 - [ ] Richting gegeven, niet alleen kritiek?
@@ -375,7 +375,7 @@ Dit is hetzelfde mechanisme als bij mensen. Dialoog creëert helderheid. Het fei
 
 ---
 
-← [Terug naar Fase 2: Verdieping](../fase-2-verdieping.md)
+← [Terug naar Fase 2: Verdieping](../../fase-2-verdieping.md)
 
 ← [Wat er nog meer in zat](wat-er-nog-meer-in-zat.md) | [Prompt de mensen eerst](prompt-mensen-eerst.md) →
 

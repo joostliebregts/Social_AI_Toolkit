@@ -2,7 +2,7 @@
 
 > *AI maakt zichtbaar wat je al voelde maar nog niet kon benoemen.*
 
-**Fase:** [Fase 2: Verdieping](../fase-2-verdieping.md)
+**Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** Transcripten als grondstof voor patroonherkenning
 
 ---
@@ -39,7 +39,7 @@ Ik had dat op dat moment niet door. Ik voelde alleen mijn eigen frustratie. Pas 
 
 ## Tweede voorbeeld: drie fases in één avond
 
-De ouderavond over smartphonevrij opgroeien. In [Fase 1](../fase-1-begin.md) las je al over Maarten en het fietshelm-moment. Hier bekijken we dezelfde sessie vanuit het perspectief van patroonherkenning: AI maakt zichtbaar wat je al voelde.
+De ouderavond over smartphonevrij opgroeien. In [Fase 1](../../fase-1-begin.md) las je al over Maarten en het fietshelm-moment. Hier bekijken we dezelfde sessie vanuit het perspectief van patroonherkenning: AI maakt zichtbaar wat je al voelde.
 
 Veertien ouders delen hun worstelingen. Na afloop is er een gevoel: de gesprekken over kleuters waren anders dan de gesprekken over tieners. Maar hoe precies?
 
@@ -245,7 +245,7 @@ Dit is wat AI kan: niet nieuwe waarheid creëren, maar bestaande waarheid benoem
 
 ---
 
-<- [Vorige: Van gesprek naar plan](gesprek-naar-plan.md) | [Terug naar Fase 2](../fase-2-verdieping.md) | [Volgende: Wat er nog meer in zat ->](wat-er-nog-meer-in-zat.md)
+<- [Vorige: Van gesprek naar plan](gesprek-naar-plan.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Wat er nog meer in zat ->](wat-er-nog-meer-in-zat.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 > *Wanneer de groep vastloopt, kan een andere vraag de opening zijn.*
 
-**Fase:** [Fase 2: Verdieping](../fase-2-verdieping.md)
+**Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** [Prompt de mensen eerst](prompt-mensen-eerst.md), nu specifiek voor het in-sessie herkaderen van vragen
 
 ---
@@ -191,7 +191,7 @@ Dit start nog steeds vanuit het probleem, maar verschuift de focus naar de oplos
 
 ---
 
-<- [Terug naar Fase 2: Verdieping](../fase-2-verdieping.md) | [<- Prompt de mensen eerst](prompt-mensen-eerst.md) | [Naar Fase 3: Schaal ->](../fase-3-schaal.md)
+<- [Terug naar Fase 2: Verdieping](../../fase-2-verdieping.md) | [<- Prompt de mensen eerst](prompt-mensen-eerst.md) | [Naar Fase 3: Schaal ->](../../fase-3-schaal.md)
 
 ---
 

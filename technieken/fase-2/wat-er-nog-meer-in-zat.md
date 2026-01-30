@@ -2,7 +2,7 @@
 
 > *Samen met AI verdieping zoeken in je transcript.*
 
-**Fase:** [Fase 2: Verdieping](../fase-2-verdieping.md)
+**Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 
 **Vorige stap:** [Transcriptie als fundament](../fase-1/transcriptie.md): je hebt tekst
 **Dit:** Samen graven naar wat erin zit
@@ -24,7 +24,7 @@
 
 ## Het verhaal: samen verdieping zoeken
 
-*Dit verhaal over de online bijeenkomst ken je misschien al van [Fase 1](../fase-1-begin.md). Hier gaan we dieper in op hoe we samen met AI de verdieping zochten.*
+*Dit verhaal over de online bijeenkomst ken je misschien al van [Fase 1](../../fase-1-begin.md). Hier gaan we dieper in op hoe we samen met AI de verdieping zochten.*
 
 Maarten organiseerde een online bijeenkomst over smartphonevrij opgroeien. Veertien ouders deelden hun worstelingen over schermtijd, gaming, en het gevoel er alleen voor te staan. Waardevol mensenwerk.
 
@@ -307,7 +307,7 @@ Transcriptie maakt het mogelijk om terug te gaan. AI maakt het mogelijk om samen
 
 ---
 
-← [Vorige: Intuïtie zwart op wit](intuitie-zwart-op-wit.md) | [Terug naar Fase 2](../fase-2-verdieping.md) | [Volgende: Iteratie als dialoog](iteratie.md) →
+← [Vorige: Intuïtie zwart op wit](intuitie-zwart-op-wit.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Iteratie als dialoog](iteratie.md) →
 
 ---
 
