@@ -105,7 +105,7 @@ Met dank aan de mensen met wie ik heb mogen experimenteren en leren.
 
 Rianne Runhaar van Go Innovate, met wie ik in Doesburg samenwerk aan de gemeenschapspilot waar we met de gemeenschap onderzoeken hoe we gezondheidszorg kunnen verbeteren. Rianne was ook betrokken bij het Mentaal Gezondheidsnetwerk Centraal Gelderland.
 
-De mensen van [B.improve](https://www.bee-improve.nl/), met wie ik een mooi traject heb mogen doen voor het Mentaal Gezondheidsnetwerk Amsterdam.
+De mensen van [Bee Improve](https://www.bee-improve.nl/), met wie ik een mooi traject heb mogen doen voor het Mentaal Gezondheidsnetwerk Amsterdam.
 
 [Jorim en Evelien van Dembrane](https://www.dembrane.com/), met wie ik regelmatig spar over AI gebruiken voor sociale en co-creatieve processen.
 
