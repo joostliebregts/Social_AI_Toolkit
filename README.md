@@ -33,28 +33,27 @@ Wat voorheen alleen kon met kleine groepen (echt luisteren, iedereen horen, coll
 
 ## De drie fasen
 
-Deze toolkit werkt in drie fasen. Elke fase bouwt voort op de vorige, maar je hoeft ze niet lineair te volgen.
-
 | Fase | Metafoor | Kernvraag | Status |
 |------|----------|-----------|--------|
 | **[1. Begin](fase-1-begin.md)** | *Ruwe olie* | Wat werd er gezegd? | ✅ Klaar |
 | **[2. Verdieping](fase-2-verdieping.md)** | *Vergrootglas* | Wat betekent het? | 🔧 Wordt verrijkt |
-| **[3. Schaal](fase-3-schaal.md)** | *Spiegel en brug* | Wat verandert er over tijd? | 📝 Conceptueel |
-
-**Fase 1** — Vastleggen, structuur herkennen, doorzoekbaar maken.
-
-**Fase 2** — Patronen zichtbaar maken, live reflecteren, samenwerken met AI.
-
-**Fase 3** — Van één gesprek naar trajecten, van lokaal naar schaalbaar.
+| **[3. Schaal](fase-3-schaal.md)** | *Spiegel en brug* | Wat verandert er over tijd? | 🔄 Herstructurering |
 
 ---
 
-## Achtergrond en navigatie
+## De reis door deze toolkit
+
+### Waarom en hoe
 
 | | |
 |---|---|
 | [Waarom Social AI?](waarom.md) | De centrale vraag en visie |
 | [De 6 principes](hoe.md) | Hoe mens en AI samenwerken |
+
+### Meta
+
+| | |
+|---|---|
 | [Hoe deze toolkit te lezen](hoe-te-lezen.md) | Navigatie en gebruik |
 | [Tools overzicht](tools.md) | Welke AI-tools en wanneer |
 | [Veilig werken met AI](veilig-werken.md) | Privacy en verantwoordelijkheid |
