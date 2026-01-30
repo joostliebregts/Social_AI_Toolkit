@@ -71,12 +71,12 @@ Wat voorheen alleen kon met kleine groepen (echt luisteren, iedereen horen, coll
 ### Fase 2 — Verdiepen
 
 - [Live reflectie met AI](technieken/echo-knop.md)
+- [Van gesprek naar plan](technieken/gesprek-naar-plan.md)
 - [Intuïtie zwart op wit](technieken/intuitie-zwart-op-wit.md)
 - [Wat er nog meer in zat](technieken/wat-er-nog-meer-in-zat.md)
 - [Iteratie als dialoog](technieken/iteratie.md)
 - [Prompt de mensen eerst](technieken/prompt-mensen-eerst.md)
 - [Vragen herkaderen](technieken/vragen-herkaderen.md)
-- [Van gesprek naar plan](technieken/gesprek-naar-plan.md)
 
 *Deze technieken krijgen nog een verbeterslag.*
 
