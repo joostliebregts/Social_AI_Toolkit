@@ -31,42 +31,33 @@ Wat voorheen alleen kon met kleine groepen (echt luisteren, iedereen horen, coll
 
 ---
 
-## De reis door deze toolkit
+## De drie fasen
 
-### Waarom en hoe
+Deze toolkit werkt in drie fasen. Elke fase bouwt voort op de vorige, maar je hoeft ze niet lineair te volgen.
+
+| Fase | Metafoor | Kernvraag | Status |
+|------|----------|-----------|--------|
+| **[1. Begin](fase-1-begin.md)** | *Ruwe olie* | Wat werd er gezegd? | ✅ Klaar |
+| **[2. Verdieping](fase-2-verdieping.md)** | *Vergrootglas* | Wat betekent het? | 🔧 Wordt verrijkt |
+| **[3. Schaal](fase-3-schaal.md)** | *Spiegel en brug* | Wat verandert er over tijd? | 📝 Conceptueel |
+
+**Fase 1** — Vastleggen, structuur herkennen, doorzoekbaar maken.
+
+**Fase 2** — Patronen zichtbaar maken, live reflecteren, samenwerken met AI.
+
+**Fase 3** — Van één gesprek naar trajecten, van lokaal naar schaalbaar.
+
+---
+
+## Achtergrond en navigatie
 
 | | |
 |---|---|
 | [Waarom Social AI?](waarom.md) | De centrale vraag en visie |
 | [De 6 principes](hoe.md) | Hoe mens en AI samenwerken |
-
-### Meta
-
-| | |
-|---|---|
 | [Hoe deze toolkit te lezen](hoe-te-lezen.md) | Navigatie en gebruik |
 | [Tools overzicht](tools.md) | Welke AI-tools en wanneer |
 | [Veilig werken met AI](veilig-werken.md) | Privacy en verantwoordelijkheid |
-
----
-
-## De drie fasen
-
-Deze toolkit werkt in drie fasen. Elke fase bouwt voort op de vorige, maar je hoeft ze niet lineair te volgen.
-
-**Fase 1: Begin** — *Ruwe olie*
-Wat werd er gezegd? Vastleggen, structuur herkennen, doorzoekbaar maken.
-→ [Start met fase 1](fase-1-begin.md)
-
-**Fase 2: Verdieping** — *Vergrootglas*
-Wat betekent het? Patronen zichtbaar maken, live reflecteren, samenwerken met AI.
-→ [Naar fase 2](fase-2-verdieping.md)
-*De kern staat. Technieken worden nog verrijkt.*
-
-**Fase 3: Schaal** — *Spiegel en brug*
-Wat verandert er over tijd? Van één gesprek naar trajecten, van lokaal naar schaalbaar.
-→ [Naar fase 3](fase-3-schaal.md)
-*De principes en het verhaal staan. De concrete technieken worden nog uitgewerkt.*
 
 ---
 
