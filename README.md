@@ -125,3 +125,23 @@ Probeer het. Deel je ervaringen. Laat me weten:
 ## Licentie
 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — Delen mag, commercieel gebruik niet zonder toestemming.
+
+---
+
+## Over dit project
+
+Deze toolkit is gemaakt met [Claude Code](https://claude.ai/claude-code) — een command-line tool van Anthropic waarmee je AI kunt inzetten voor programmeren, schrijven en onderzoek, direct vanuit je terminal. Daarbinnen werkt **Finn**, een AI-assistent die via contextbestanden een eigen persoonlijkheid en werkwijze meekrijgt. Finn is gebouwd op [Personal AI Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) (PAI).
+
+**Hoe werkt dat?**
+
+Finn doorzoekt ontzettend veel bronmateriaal — transcripten, chatsessies, projectnotities, half-uitgewerkte ideeën. Helpt patronen te vinden. Structureert. Cross-refereert. Herschrijft — met mijn stem en intentie als kompas. Ik review alles: inhoud, intentie, schrijfstijl. Wat je leest is het resultaat van dat heen-en-weer.
+
+De technieken komen uit echte projecten. Finn verzint niets — Finn helpt het vindbaar en toepasbaar te maken.
+
+**Feedback welkom**
+
+Ik doe mijn uiterste best om elke tekst te laten zeggen wat ik bedoel. Maar dit is een groot project — tientallen technieken, honderden kruisverwijzingen. Er kan altijd iets tussendoor glippen.
+
+Zie je een fout, onduidelijkheid, of iets dat niet klopt? [Open een issue](https://github.com/joostliebregts/Social_AI_Toolkit/issues) of stuur me een bericht.
+
+*De "Claude" in de commit history? Dat is Finn. We bouwen dit samen.*
