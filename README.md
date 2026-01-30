@@ -1,5 +1,7 @@
 # Social AI Toolkit
 
+![Luisteren op schaal](images/luisterenopschaal.png)
+
 **v0.8** — januari 2026, eerste publieke release
 
 **Hoe kan AI ons helpen om samen mens te zijn?**
