@@ -1,4 +1,6 @@
-![[taalalseigenaarschapmechanisme.png]]# Taal als eigenaarschap
+![Taal als eigenaarschap mechanisme](../images/taalalseigenaarschapmechanisme.png)
+
+# Taal als eigenaarschap
 
 > *Het verschil tussen "communicatieproblemen" en "je praat tegen een muur" is niet semantisch — het eerste ondermijnt eigenaarschap, het tweede creëert het.*
 
@@ -44,7 +46,9 @@ De transitie is zichtbaar: van shock ("AI begrijpt ons?!") naar herkenning ("dit
 Niemand zou dezelfde reactie hebben gehad op een synthese die hun woorden had vertaald naar beleidstaal. Het verschil zit niet in de structuur. Het verschil zit in de taal.
 
 ---
-![[taal-behouden-mechanisme-letterlijk.png]]
+
+![Mechanisme: letterlijk citeren](../images/taal-behouden-mechanisme-letterlijk.png)
+
 ## Het mechanisme: herkenning creëert eigenaarschap
 
 Waarom werkt dit? Het mechanisme is simpel maar fundamenteel:

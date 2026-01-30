@@ -173,7 +173,7 @@ Het kernprincipe blijft hetzelfde: opbreken, analyseren, synthetiseren.
 
 ---
 
-← *[Terug naar fase 2: verdieping](fase-2-verdieping.md)* | *[Terug naar het begin](../README.md)*
+← *[Terug naar fase 2: verdieping](fase-2-verdieping.md)* | *[Terug naar het begin](README.md)*
 
 ---
 
