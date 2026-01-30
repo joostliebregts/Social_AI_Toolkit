@@ -3,7 +3,7 @@
 > *Live output genereren die betrokkenen direct kunnen reviewen.*
 
 **Fase:** [Fase 2: Verdieping](../fase-2-verdieping.md)
-**Bouwt voort op:** [Brondocument-stijl klonen](brondocument-stijl.md), nu in real-time
+**Bouwt voort op:** [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md), nu in real-time
 
 ---
 
@@ -159,7 +159,7 @@ Na alle rondes: tot finaal document.
 
 De prompts zijn opgebouwd rond drie principes:
 
-1. **Stijl in de prompt.** Elke prompt bevat stijlrichtlijnen uit een referentiedocument. Zo schrijft AI niet generiek, maar in de taal en structuur die de organisatie verwacht. (Zie [Brondocument-stijl klonen](brondocument-stijl.md) voor hoe je die stijl definieert.)
+1. **Stijl in de prompt.** Elke prompt bevat stijlrichtlijnen uit een referentiedocument. Zo schrijft AI niet generiek, maar in de taal en structuur die de organisatie verwacht. (Zie [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md) voor hoe je die stijl definieert.)
 
 2. **Transparantie over ontbrekende informatie.** De instructie "markeer waar informatie ontbreekt" voorkomt dat AI gaat verzinnen. Je krijgt eerlijke output met duidelijke gaten die je kunt opvullen.
 
@@ -202,7 +202,7 @@ Einde sessie: "Kijk, jullie document!" Maar niemand herkent zich omdat er geen t
 **Stijl vergeten**
 AI schrijft generiek. Het document past niet bij organisatie-standaarden.
 
-*Mijn aanpak:* Stijlrichtlijnen in elke prompt. [Zie [Brondocument-stijl klonen](brondocument-stijl.md)]
+*Mijn aanpak:* Stijlrichtlijnen in elke prompt. [Zie [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md)]
 
 **De ziel verliezen**
 Het document is technisch correct maar mist de energie van het gesprek.
@@ -242,8 +242,8 @@ De vorm is anders. Maar de intentie (mensen eigenaar maken van een plan) blijft.
 
 ## Gerelateerde technieken
 
-- De stijl-aanpak (hoe zorg je dat output in het juiste format komt?) staat in [Brondocument-stijl klonen](brondocument-stijl.md)
-- Waarom het behouden van hun exacte woorden zo belangrijk is, lees je in [Taal als eigenaarschap](taal-behouden.md)
+- De stijl-aanpak (hoe zorg je dat output in het juiste format komt?) staat in [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md)
+- Waarom het behouden van hun exacte woorden zo belangrijk is, lees je in [Taal als eigenaarschap](../fase-1/taal-behouden.md)
 - Voor real-time interventies tijdens de sessie (niet alleen documentatie, maar ook reflectie), zie [Live reflectie met AI](echo-knop.md)
 
 ---

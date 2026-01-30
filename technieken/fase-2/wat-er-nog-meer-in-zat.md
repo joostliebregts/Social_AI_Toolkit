@@ -4,9 +4,9 @@
 
 **Fase:** [Fase 2: Verdieping](../fase-2-verdieping.md)
 
-**Vorige stap:** [Transcriptie als fundament](transcriptie.md): je hebt tekst
+**Vorige stap:** [Transcriptie als fundament](../fase-1/transcriptie.md): je hebt tekst
 **Dit:** Samen graven naar wat erin zit
-**Volgende stap:** [Haakjes vinden](haakjes-vinden.md) (Fase 3): verbindingen systematisch zichtbaar maken
+**Volgende stap:** Haakjes vinden *(Fase 3 — komt nog)* (Fase 3): verbindingen systematisch zichtbaar maken
 
 ---
 
@@ -112,7 +112,7 @@ Voor bovenbouwouders:
 
 Twee ouders die allebei worstelen, zich allebei alleen voelen, nu een haakje hebben om elkaar te vinden.
 
-*Wil je dit systematischer aanpakken, over meerdere gesprekken? De volledige techniek staat in [Haakjes vinden](haakjes-vinden.md) (Fase 3).*
+*Wil je dit systematischer aanpakken, over meerdere gesprekken? De volledige techniek staat in Haakjes vinden *(Fase 3 — komt nog)* (Fase 3).*
 
 ### 3. Krachtige quotes identificeren
 
@@ -303,7 +303,7 @@ Transcriptie maakt het mogelijk om terug te gaan. AI maakt het mogelijk om samen
 - [Iteratie](iteratie.md): hoe het iteratie-gesprek werkt dat in dit verhaal centraal staat
 
 **Verder bouwen:**
-- [Haakjes vinden](haakjes-vinden.md) (Fase 3): de volledige techniek voor systematisch verbindingen vinden over meerdere gesprekken
+- Haakjes vinden *(Fase 3 — komt nog)* (Fase 3): de volledige techniek voor systematisch verbindingen vinden over meerdere gesprekken
 
 ---
 

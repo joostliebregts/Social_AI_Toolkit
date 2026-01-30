@@ -20,7 +20,7 @@ Dit is de fase van verdieping: niet meer vastleggen wat er is, maar ontdekken wa
 
 ## Twaalf rondes
 
-Dit verhaal ken je misschien al van [brondocument-stijl klonen](technieken/brondocument-stijl.md). Daar ging het over de techniek: hoe je stijlkenmerken in je prompt verwerkt. Hier gaat het over iets anders: het proces zelf. Hoe ziet iteratie met AI er eigenlijk uit?
+Dit verhaal ken je misschien al van [brondocument-stijl klonen](technieken/fase-1/brondocument-stijl.md). Daar ging het over de techniek: hoe je stijlkenmerken in je prompt verwerkt. Hier gaat het over iets anders: het proces zelf. Hoe ziet iteratie met AI er eigenlijk uit?
 
 Een transformatieplan voor een mentaal gezondheidsnetwerk. Dertig betrokkenen hadden input gegeven. Nu moest dat omgezet worden naar een document dat de zorgverzekeraar zou accepteren.
 
@@ -63,7 +63,7 @@ Dit is ook een vorm van democratisering: het herkennen van groepsdynamiek en ond
 
 Wat ik zelf merk: ik zie nu dingen die ik eerder miste. Het geeft me meer vertrouwen om patronen te benoemen — omdat ik onderbouwing heb. En misschien het waardevolst: ik leer nieuwe patronen herkennen, en manieren om daar een volgende keer mee om te gaan.
 
-→ *[Ga dieper: Intuïtie zwart op wit](technieken/intuitie-zwart-op-wit.md)*
+→ *[Ga dieper: Intuïtie zwart op wit](technieken/fase-2/intuitie-zwart-op-wit.md)*
 
 #### Samen graven naar wat erin zit
 
@@ -71,7 +71,7 @@ Je hebt een sessie gehad. Het gesprek was waardevol, maar je weet: er zit meer i
 
 AI kan helpen door samen te graven: structuur zoeken, haakjes voor verbinding vinden, krachtige quotes identificeren. Het transcript is ruwe olie: grondstof voor verdieping. En het mooie is: dit hoeft geen solo-werk te zijn. Je kunt samen met AI een prompt bouwen — AI stelt vragen, jij geeft richting, en de analyse wordt steeds scherper.
 
-→ *[Ga dieper: Wat er nog meer in zat](technieken/wat-er-nog-meer-in-zat.md)*
+→ *[Ga dieper: Wat er nog meer in zat](technieken/fase-2/wat-er-nog-meer-in-zat.md)*
 
 *Maar hoe werk je dan samen met AI om dit te doen? Dat vraagt een cruciale vaardigheid.*
 
@@ -87,7 +87,7 @@ Het verhaal van de twaalf rondes hierboven is daar een voorbeeld van. Elke ronde
 
 En als je tóch veel hebt moeten aanpassen? Dan is dat waardevolle informatie. Je aanpassingen laten zien wat er ontbrak in je oorspronkelijke prompt. Geef je aangepaste versie terug aan AI met de vraag: "Wat had ik anders moeten vragen om dit resultaat direct te krijgen?" Zo wordt elke iteratie een les voor de volgende keer.
 
-→ *[Ga dieper: Iteratie](technieken/iteratie.md)*
+→ *[Ga dieper: Iteratie](technieken/fase-2/iteratie.md)*
 
 *Je hebt nu gezien hoe iteratie werkt. Maar de beste verdieping begint eigenlijk eerder. Hoe zorg je dat er überhaupt iets waardevols in het transcript zit?*
 
@@ -99,13 +99,13 @@ Voordat je nadenkt over wat AI met de output doet, is er een belangrijkere vraag
 
 De kwaliteit van AI-output hangt af van de kwaliteit van menselijke input. Dat begint bij de vragen die je stelt — vooraf bij het ontwerpen van je sessie, en in het moment als de groep vastloopt. Dit is het mensenwerk dat voorafgaat aan elke AI-prompt.
 
-→ *[Ga dieper: Prompt de mensen eerst](technieken/prompt-mensen-eerst.md)*
+→ *[Ga dieper: Prompt de mensen eerst](technieken/fase-2/prompt-mensen-eerst.md)*
 
 Een concrete sub-techniek die hieruit voortkomt: vragen herkaderen. "Wat vind je van de samenwerking?" levert abstracte antwoorden. "Kun je een moment beschrijven waarop de samenwerking goed voelde?" levert concrete verhalen — en richt de energie op waar mensen meer van willen.
 
 Dit is bij uitstek een menselijke vaardigheid: ter plekke aanvoelen dat een andere vraag nodig is, en die dan stellen. AI kan je wel helpen om deze vaardigheid te ontwikkelen — bijvoorbeeld door achteraf te vragen: "De groep liep vast bij deze vraag. Wat had ik anders kunnen vragen?" Zo leer je technieken die je de volgende keer kunt toepassen.
 
-→ *[Ga dieper: Vragen herkaderen](technieken/vragen-herkaderen.md)*
+→ *[Ga dieper: Vragen herkaderen](technieken/fase-2/vragen-herkaderen.md)*
 
 *En als je dit goed doet — de mensen goed bevraagd, het proces goed ontworpen — dan wordt iets anders mogelijk.*
 
@@ -119,7 +119,7 @@ In tools zoals Dembrane heet dit de "echo-knop": één druk, en AI leest het tra
 
 Dit is waar alles samenkomt: je hebt geleerd hoe je verdieping uit transcripten haalt, hoe je met AI itereert, hoe je de input ontwerpt. Nu kun je dat toepassen terwijl het gesprek nog bezig is.
 
-→ *[Ga dieper: Live reflectie met AI](technieken/echo-knop.md)*
+→ *[Ga dieper: Live reflectie met AI](technieken/fase-2/echo-knop.md)*
 
 #### Van gesprek naar live document
 
@@ -129,7 +129,7 @@ Bij strategische sessies of workshops waar een plan moet komen, kun je AI gebrui
 
 Dit vraagt wel een co-facilitator die de techniek doet, terwijl jij bij de groep blijft. En het vraagt tussentijdse validatie — nooit presenteren alsof AI de waarheid heeft vastgelegd.
 
-→ *[Ga dieper: Van gesprek naar plan](technieken/gesprek-naar-plan.md)*
+→ *[Ga dieper: Van gesprek naar plan](technieken/fase-2/gesprek-naar-plan.md)*
 
 ---
 
@@ -176,13 +176,13 @@ AI vindt altijd iets. De vraag is: is het een echt patroon of toevallige overlap
 Wil je direct aan de slag? Kies de techniek die het beste past bij waar je nu staat:
 
 **Je hebt een sessie gehad en wilt er meer uithalen**
-→ [Intuïtie zwart op wit](technieken/intuitie-zwart-op-wit.md) — patronen die je voelde vastleggen en bespreken
+→ [Intuïtie zwart op wit](technieken/fase-2/intuitie-zwart-op-wit.md) — patronen die je voelde vastleggen en bespreken
 
 **Je wilt oefenen met iteratief samenwerken met AI**
-→ [Iteratie](technieken/iteratie.md) — feedback geven in rondes in plaats van zelf aanpassen
+→ [Iteratie](technieken/fase-2/iteratie.md) — feedback geven in rondes in plaats van zelf aanpassen
 
 **Je bereidt een sessie voor en wilt betere input krijgen**
-→ [Prompt de mensen eerst](technieken/prompt-mensen-eerst.md) — de vragen ontwerpen die rijke antwoorden opleveren
+→ [Prompt de mensen eerst](technieken/fase-2/prompt-mensen-eerst.md) — de vragen ontwerpen die rijke antwoorden opleveren
 
 ---
 
@@ -190,13 +190,13 @@ Wil je direct aan de slag? Kies de techniek die het beste past bij waar je nu st
 
 | Techniek | Wat het doet |
 |----------|--------------|
-| [Live reflectie met AI](technieken/echo-knop.md) | Real-time reflectie teruggeven aan de groep |
-| [Van gesprek naar plan](technieken/gesprek-naar-plan.md) | Live concept-document genereren tijdens sessie |
-| [Intuïtie zwart op wit](technieken/intuitie-zwart-op-wit.md) | Patronen die je voelt vastleggen en bespreekbaar maken |
-| [Wat er nog meer in zat](technieken/wat-er-nog-meer-in-zat.md) | Samen graven naar verdieping in je transcript |
-| [Iteratie](technieken/iteratie.md) | Samenwerken met AI in rondes |
-| [Prompt de mensen eerst](technieken/prompt-mensen-eerst.md) | De input-ervaring ontwerpen vóór de AI-prompt |
-| ↳ [Vragen herkaderen](technieken/vragen-herkaderen.md) | In-sessie: abstracte vragen in een ander licht plaatsen |
+| [Live reflectie met AI](technieken/fase-2/echo-knop.md) | Real-time reflectie teruggeven aan de groep |
+| [Van gesprek naar plan](technieken/fase-2/gesprek-naar-plan.md) | Live concept-document genereren tijdens sessie |
+| [Intuïtie zwart op wit](technieken/fase-2/intuitie-zwart-op-wit.md) | Patronen die je voelt vastleggen en bespreekbaar maken |
+| [Wat er nog meer in zat](technieken/fase-2/wat-er-nog-meer-in-zat.md) | Samen graven naar verdieping in je transcript |
+| [Iteratie](technieken/fase-2/iteratie.md) | Samenwerken met AI in rondes |
+| [Prompt de mensen eerst](technieken/fase-2/prompt-mensen-eerst.md) | De input-ervaring ontwerpen vóór de AI-prompt |
+| ↳ [Vragen herkaderen](technieken/fase-2/vragen-herkaderen.md) | In-sessie: abstracte vragen in een ander licht plaatsen |
 
 ---
 

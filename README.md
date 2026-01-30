@@ -66,19 +66,19 @@ Wat voorheen alleen kon met kleine groepen (echt luisteren, iedereen horen, coll
 
 ### Fase 1 — Vastleggen
 
-- [Transcriptie als fundament](technieken/transcriptie.md)
-- [Taal als eigenaarschap](technieken/taal-behouden.md)
-- [Brondocument-stijl klonen](technieken/brondocument-stijl.md)
+- [Transcriptie als fundament](technieken/fase-1/transcriptie.md)
+- [Taal als eigenaarschap](technieken/fase-1/taal-behouden.md)
+- [Brondocument-stijl klonen](technieken/fase-1/brondocument-stijl.md)
 
 ### Fase 2 — Verdiepen
 
-- [Intuïtie zwart op wit](technieken/intuitie-zwart-op-wit.md)
-- [Wat er nog meer in zat](technieken/wat-er-nog-meer-in-zat.md)
-- [Iteratie als dialoog](technieken/iteratie.md)
-- [Prompt de mensen eerst](technieken/prompt-mensen-eerst.md)
-- [Vragen herkaderen](technieken/vragen-herkaderen.md)
-- [Live reflectie met AI](technieken/echo-knop.md)
-- [Van gesprek naar plan](technieken/gesprek-naar-plan.md)
+- [Intuïtie zwart op wit](technieken/fase-2/intuitie-zwart-op-wit.md)
+- [Wat er nog meer in zat](technieken/fase-2/wat-er-nog-meer-in-zat.md)
+- [Iteratie als dialoog](technieken/fase-2/iteratie.md)
+- [Prompt de mensen eerst](technieken/fase-2/prompt-mensen-eerst.md)
+- [Vragen herkaderen](technieken/fase-2/vragen-herkaderen.md)
+- [Live reflectie met AI](technieken/fase-2/echo-knop.md)
+- [Van gesprek naar plan](technieken/fase-2/gesprek-naar-plan.md)
 
 *Deze technieken krijgen nog een verbeterslag.*
 

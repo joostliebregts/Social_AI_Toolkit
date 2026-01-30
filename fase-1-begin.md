@@ -46,7 +46,7 @@ De drempel is bijna nul geworden. Een uur audio kost een paar minuten en weinig 
 
 Maar de vraag is niet hoe je tekst krijgt. De vraag is wat je ermee doet. AI kan het hele gesprek teruglezen en dingen vinden die je miste — niet omdat je niet oplette, maar omdat je mens bent. Structuur herkennen: wat is er besloten, wie doet wat, welke vragen bleven open?
 
-→ *[Ga dieper: Transcriptie als fundament](technieken/transcriptie.md)*
+→ *[Ga dieper: Transcriptie als fundament](technieken/fase-1/transcriptie.md)*
 
 *Nu heb je tekst. De vraag wordt: hoe gebruik je wat erin zit?*
 
@@ -62,7 +62,7 @@ Wanneer mensen hun eigen woorden terugzien, ontstaat eigenaarschap. Niet omdat d
 
 Dit is het derde principe uit de [zes principes](hoe.md#3-eigenaarschap-door-taal): hun woorden letterlijk bewaren is geen detail, het is het mechanisme.
 
-→ *[Ga dieper: Taal als eigenaarschap](technieken/taal-behouden.md)*
+→ *[Ga dieper: Taal als eigenaarschap](technieken/fase-1/taal-behouden.md)*
 
 ---
 
@@ -74,7 +74,7 @@ Er is een goedgekeurd document. De vraag: hoe schrijf je nieuwe content in dezel
 
 AI kan de stijlkenmerken van een brondocument analyseren en toepassen op nieuwe informatie. Structuur, toon, terminologie; systematisch overgenomen. De vorm mag veranderen, zolang het eigenaarschap intact blijft.
 
-→ *[Ga dieper: Brondocument-stijl klonen](technieken/brondocument-stijl.md)*
+→ *[Ga dieper: Brondocument-stijl klonen](technieken/fase-1/brondocument-stijl.md)*
 
 ---
 
@@ -117,7 +117,7 @@ Je hoeft geen superheld te zijn. Je mag dingen missen: daar is het transcript vo
 
 ## Aan de slag
 
-Wil je direct beginnen? De techniek [Transcriptie als fundament](technieken/transcriptie.md) legt de basis, van opnemen tot je eerste analyse.
+Wil je direct beginnen? De techniek [Transcriptie als fundament](technieken/fase-1/transcriptie.md) legt de basis, van opnemen tot je eerste analyse.
 
 ---
 
@@ -125,9 +125,9 @@ Wil je direct beginnen? De techniek [Transcriptie als fundament](technieken/tran
 
 | Techniek | Wat het doet | Wanneer gebruiken |
 |----------|--------------|-------------------|
-| [Transcriptie als fundament](technieken/transcriptie.md) | Vastleggen, structuur herkennen, doorzoekbaar maken | Bij elk gesprek dat rijk genoeg is om te bewaren |
-| [Taal als eigenaarschap](technieken/taal-behouden.md) | Eigenaarschap creëren door letterlijk citeren | Bij syntheses en terugkoppelingen naar deelnemers |
-| [Brondocument-stijl klonen](technieken/brondocument-stijl.md) | Nieuwe documenten in bestaande stijl | Wanneer je moet aansluiten bij organisatie-standaarden |
+| [Transcriptie als fundament](technieken/fase-1/transcriptie.md) | Vastleggen, structuur herkennen, doorzoekbaar maken | Bij elk gesprek dat rijk genoeg is om te bewaren |
+| [Taal als eigenaarschap](technieken/fase-1/taal-behouden.md) | Eigenaarschap creëren door letterlijk citeren | Bij syntheses en terugkoppelingen naar deelnemers |
+| [Brondocument-stijl klonen](technieken/fase-1/brondocument-stijl.md) | Nieuwe documenten in bestaande stijl | Wanneer je moet aansluiten bij organisatie-standaarden |
 
 ---
 

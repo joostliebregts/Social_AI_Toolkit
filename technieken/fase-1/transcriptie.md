@@ -92,7 +92,7 @@ Je hoeft niet het hele transcript te corrigeren. Focus op wat je gaat gebruiken.
 Dit is waar het echte werk begint. De vraag is niet "wat kan ik met dit transcript?" maar "wat wil ik bereiken?"
 
 - Wil je de groep hun eigen woorden terugspiegelen? → [Taal als eigenaarschap](taal-behouden.md)
-- Wil je patronen zichtbaar maken? → [Intuïtie zwart op wit](intuitie-zwart-op-wit.md) (Fase 2)
+- Wil je patronen zichtbaar maken? → [Intuïtie zwart op wit](../fase-2/intuitie-zwart-op-wit.md) (Fase 2)
 - Wil je actiepunten? → Zie de Kernbesluiten prompt hieronder
 - Weet je het nog niet? → Archiveer het transcript, kom er later op terug
 
@@ -301,15 +301,15 @@ Hierboven las je vier manieren om transcriptie te gebruiken. Maar er zijn techni
 
 **Samen graven naar wat erin zit**
 Een transcript bevat meer dan je in het moment kon bevatten. Stel je voor: je gaat samen met AI op zoek naar structuur, haakjes voor verbinding, krachtige quotes.
-→ *[Wat er nog meer in zat](wat-er-nog-meer-in-zat.md)* (Fase 2)
+→ *[Wat er nog meer in zat](../fase-2/wat-er-nog-meer-in-zat.md)* (Fase 2)
 
 **Patronen zien over meerdere gesprekken**
 Eén transcript is een momentopname. Vijf transcripten over drie maanden laten ontwikkeling zien: hoe taal verschuift, welke thema's terugkomen, waar doorbraken ontstaan of juist uitblijven.
-→ *[Patronen over tijd](patronen-over-tijd.md)* (Fase 3)
+→ *Patronen over tijd* (Fase 3 — komt nog)
 
 **Onverwachte verbindingen vinden**
 Twee mensen die dezelfde worsteling delen zonder het van elkaar te weten. Twee ouders (van verschillende kinderen) bleken allebei te worstelen met speelafspraakjes die alleen maar om gamen draaien. AI destilleerde het haakje: "Sta jij ook alleen in dat Minecraft-gesprek?" Niet een samenvatting. Een brug.
-→ *[Haakjes vinden](haakjes-vinden.md)* (Fase 3)
+→ *Haakjes vinden* (Fase 3 — komt nog)
 
 ---
 
@@ -387,7 +387,7 @@ De kracht van transcriptie ligt niet in de technologie. Die is nu bijna gratis. 
 
 - [Taal behouden](taal-behouden.md): Hoe je ervoor zorgt dat de woorden van deelnemers intact blijven in AI-output
 - [Brondocument-stijl klonen](brondocument-stijl.md): Als je transcript naar een formeel document moet dat stakeholders accepteren
-- [Live reflectie met AI](echo-knop.md): Live transcriptie gebruiken voor directe interventies
+- [Live reflectie met AI](../fase-2/echo-knop.md): Live transcriptie gebruiken voor directe interventies
 
 ---
 

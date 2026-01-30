@@ -311,7 +311,7 @@ Dit is backwards design in actie. Niet beginnen bij de tools, maar bij het doel.
 
 ## Gerelateerde technieken
 
-- [Transcriptie als fundament](transcriptie.md): de output van goede vragen vastleggen
+- [Transcriptie als fundament](../fase-1/transcriptie.md): de output van goede vragen vastleggen
 - [Iteratie](iteratie.md): de vragen zelf ontwikkelen via dialoog met AI
 - [Live reflectie met AI](echo-knop.md): real-time vragen stellen op basis van wat gezegd is
 

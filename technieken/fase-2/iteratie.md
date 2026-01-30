@@ -371,7 +371,7 @@ Dit is hetzelfde mechanisme als bij mensen. Dialoog creëert helderheid. Het fei
 
 - [Live reflectie met AI](echo-knop.md): real-time toepassing van iteratie
 - [Prompt de mensen eerst](prompt-mensen-eerst.md): de vraag voor de prompt-vraag
-- [Brondocument-stijl klonen](brondocument-stijl.md): het 12-rondes verhaal in detail
+- [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md): het 12-rondes verhaal in detail
 
 ---
 

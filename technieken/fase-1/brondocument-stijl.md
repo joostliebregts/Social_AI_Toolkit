@@ -40,7 +40,7 @@ De correctie was simpel maar cruciaal: neem de stijlrichtlijnen letterlijk op in
 - Perspectief: Rekening houdend met "inwoner", "naaste", "professional"
 - Terminologie: IZA, GALA, MGN, POH-GGZ, positieve gezondheid, herstelgericht
 
-Dit was een van meerdere correcties in een proces van twaalf rondes. De prompt evolueerde door feedback en dialoog: je geeft feedback, AI past aan, je reageert weer. Dat heen en weer is geen bijzaak, het is het proces. Meer over hoe die samenwerking werkt vind je in [Iteratie als dialoog](iteratie.md).
+Dit was een van meerdere correcties in een proces van twaalf rondes. De prompt evolueerde door feedback en dialoog: je geeft feedback, AI past aan, je reageert weer. Dat heen en weer is geen bijzaak, het is het proces. Meer over hoe die samenwerking werkt vind je in [Iteratie als dialoog](../fase-2/iteratie.md).
 
 ---
 
@@ -138,7 +138,7 @@ De eerste prompt is zelden de beste. Test met een representatief transcript en g
 - "Dit mist de collaboratieve framing"
 - "De terminologie klopt niet"
 
-Laat AI de prompt evolueren. Zie [Iteratie als dialoog](iteratie.md) voor hoe dit proces werkt.
+Laat AI de prompt evolueren. Zie [Iteratie als dialoog](../fase-2/iteratie.md) voor hoe dit proces werkt.
 
 ---
 
@@ -377,7 +377,7 @@ Er is een spanning tussen de officiële stijl en de authentieke stem van de deel
 
 - [Transcriptie als fundament](transcriptie.md): waar de grondstof vandaan komt
 - [Taal als eigenaarschap](taal-behouden.md): de taal binnen de stijl
-- [Iteratie als dialoog](iteratie.md): het volledige 12-rondes verhaal
+- [Iteratie als dialoog](../fase-2/iteratie.md): het volledige 12-rondes verhaal
 
 ---
 

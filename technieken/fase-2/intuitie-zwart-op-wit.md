@@ -241,7 +241,7 @@ Dit is wat AI kan: niet nieuwe waarheid creëren, maar bestaande waarheid benoem
 - [Wat er nog meer in zat](wat-er-nog-meer-in-zat.md) — samen met AI graven naar structuur, haakjes en krachtige quotes (dit is de reactieve variant: je voelt nog niet precies wat je zoekt)
 
 **Verder bouwen:**
-- [Patronen over tijd](patronen-over-tijd.md) (Fase 3) — intuïties over langere trajecten bevestigen
+- Patronen over tijd *(Fase 3 — komt nog)* (Fase 3) — intuïties over langere trajecten bevestigen
 
 ---
 

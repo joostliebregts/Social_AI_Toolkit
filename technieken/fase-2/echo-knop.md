@@ -267,7 +267,7 @@ Maar (en dit is cruciaal) de facilitator moet de vraag eigendom maken. Niet: "AI
 
 ## Gerelateerde technieken
 
-- [Transcriptie als fundament](transcriptie.md): waar de grondstof vandaan komt
+- [Transcriptie als fundament](../fase-1/transcriptie.md): waar de grondstof vandaan komt
 - [Iteratie](iteratie.md): hoe je de echo-prompts zelf ontwikkelt
 - [Intuitie zwart op wit](intuitie-zwart-op-wit.md): patronen zichtbaar maken die je al voelde
 
