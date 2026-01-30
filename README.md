@@ -31,16 +31,6 @@ Wat voorheen alleen kon met kleine groepen (echt luisteren, iedereen horen, coll
 
 ---
 
-## De drie fasen
-
-| Fase | Metafoor | Kernvraag | Status |
-|------|----------|-----------|--------|
-| **[1. Begin](fase-1-begin.md)** | *Ruwe olie* | Wat werd er gezegd? | ✅ Klaar |
-| **[2. Verdieping](fase-2-verdieping.md)** | *Vergrootglas* | Wat betekent het? | 🔧 Wordt verrijkt |
-| **[3. Schaal](fase-3-schaal.md)** | *Spiegel en brug* | Wat verandert er over tijd? | 🔄 Herstructurering |
-
----
-
 ## De reis door deze toolkit
 
 ### Waarom en hoe
@@ -60,6 +50,16 @@ Wat voorheen alleen kon met kleine groepen (echt luisteren, iedereen horen, coll
 
 ---
 
+## De drie fasen
+
+| Fase | Metafoor | Kernvraag | Status |
+|------|----------|-----------|--------|
+| **[1. Begin](fase-1-begin.md)** | *Ruwe olie* | Wat werd er gezegd? | ✅ Klaar |
+| **[2. Verdieping](fase-2-verdieping.md)** | *Vergrootglas* | Wat betekent het? | 🔧 Wordt verrijkt |
+| **[3. Schaal](fase-3-schaal.md)** | *Spiegel en brug* | Wat verandert er over tijd? | 🔄 Herstructurering |
+
+---
+
 ## Technieken per fase
 
 ### Fase 1 — Vastleggen
@@ -70,13 +70,13 @@ Wat voorheen alleen kon met kleine groepen (echt luisteren, iedereen horen, coll
 
 ### Fase 2 — Verdiepen
 
-- [Live reflectie met AI](technieken/echo-knop.md)
-- [Van gesprek naar plan](technieken/gesprek-naar-plan.md)
 - [Intuïtie zwart op wit](technieken/intuitie-zwart-op-wit.md)
 - [Wat er nog meer in zat](technieken/wat-er-nog-meer-in-zat.md)
 - [Iteratie als dialoog](technieken/iteratie.md)
 - [Prompt de mensen eerst](technieken/prompt-mensen-eerst.md)
 - [Vragen herkaderen](technieken/vragen-herkaderen.md)
+- [Live reflectie met AI](technieken/echo-knop.md)
+- [Van gesprek naar plan](technieken/gesprek-naar-plan.md)
 
 *Deze technieken krijgen nog een verbeterslag.*
 
