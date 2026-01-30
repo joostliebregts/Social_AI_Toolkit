@@ -97,6 +97,22 @@ Wat ik doe: [jmfl.nl/skills](https://jmfl.nl/skills)
 
 ---
 
+## Met dank aan
+
+Met dank aan de mensen met wie ik heb mogen experimenteren en leren.
+
+[Floor de Ruiter](https://flyingelephants.nl/who/floor-de-ruiter/) van [Flying Elephants](https://flyingelephants.nl/), auteur van meerdere boeken over [bottom-up verandering](https://bottom-upchange.nl/). Met Floor ben ik nu drie jaar op avontuur rondom verandering in het systeem van onderaf. De principes in deze toolkit zijn daar grotendeels op gebaseerd. Samen met Floor en [Lars Doyer](https://flyingelephants.nl/who/lars-doyer/) heb ik kunnen leren en experimenteren op verschillende plekken.
+
+Rianne Runhaar van Go Innovate, met wie ik in Doesburg samenwerk aan de gemeenschapspilot waar we met de gemeenschap onderzoeken hoe we gezondheidszorg kunnen verbeteren. Rianne was ook betrokken bij het Mentaal Gezondheidsnetwerk Centraal Gelderland.
+
+De mensen van [B.improve](https://www.bee-improve.nl/), met wie ik een mooi traject heb mogen doen voor het Mentaal Gezondheidsnetwerk Amsterdam.
+
+[Jorim en Evelien van Dembrane](https://www.dembrane.com/), met wie ik regelmatig spar over AI gebruiken voor sociale en co-creatieve processen.
+
+En anderen met wie ik mooie trajecten heb mogen doen die we hier niet publiekelijk kunnen delen — jullie weten wie jullie zijn.
+
+---
+
 ## Status
 
 Dit is v0.8: de eerste publieke release.
