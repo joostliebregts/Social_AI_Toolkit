@@ -4,7 +4,7 @@
 
 **v0.8** — januari 2026, eerste publieke release
 
-**Hoe kan AI ons helpen om samenwerking te versterken**
+**Hoe kan AI ons helpen om samenwerking te versterken?**
 
 Niet efficiëntie, niet automatisering, maar een andere vraag: over participatie op schaal.
 
