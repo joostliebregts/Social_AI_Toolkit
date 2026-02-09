@@ -2,7 +2,7 @@
 
 ![Social AI Toolkit](images/socialaitoolkit.png)
 
-**v0.8** — januari 2026, eerste publieke release
+**v0.9** — februari 2026
 
 **Hoe kan AI ons helpen om samenwerking te versterken?**
 
@@ -57,7 +57,7 @@ Wat voorheen alleen kon met kleine groepen (echt luisteren, iedereen horen, coll
 | Fase | Metafoor | Kernvraag | Status |
 |------|----------|-----------|--------|
 | **[1. Begin](fase-1-begin.md)** | *Ruwe olie* | Wat werd er gezegd? | ✅ Klaar |
-| **[2. Verdieping](fase-2-verdieping.md)** | *Vergrootglas* | Wat betekent het? | 🔧 Wordt verrijkt |
+| **[2. Verdieping](fase-2-verdieping.md)** | *Vergrootglas* | Wat betekent het? | ✅ Klaar |
 | **[3. Schaal](fase-3-schaal.md)** | *Spiegel en brug* | Wat verandert er over tijd? | 🔄 Herstructurering |
 
 ---
@@ -79,8 +79,6 @@ Wat voorheen alleen kon met kleine groepen (echt luisteren, iedereen horen, coll
 - [Vragen herkaderen](technieken/fase-2/vragen-herkaderen.md)
 - [Live reflectie met AI](technieken/fase-2/echo-knop.md)
 - [Van gesprek naar plan](technieken/fase-2/gesprek-naar-plan.md)
-
-*Deze technieken krijgen nog een verbeterslag.*
 
 ---
 
@@ -117,11 +115,11 @@ En anderen met wie ik mooie trajecten heb mogen doen die we hier niet publiekeli
 
 ## Status
 
-Dit is v0.8: de eerste publieke release.
+Dit is v0.9.
 
-**Wat klaar is:** De visie, de principes, fase 1 met drie technieken, fase 2 met zeven technieken (nog in verfijning), en fase 3 als conceptuele introductie.
+**Wat klaar is:** De visie, de principes, fase 1 met drie technieken, fase 2 met zeven volledig verrijkte technieken, en fase 3 als conceptuele introductie.
 
-**Wat nog komt:** Fase 2 technieken worden nog verrijkt. Fase 3 krijgt concrete technieken zodra de herstructurering klaar is.
+**Wat nog komt:** Fase 3 krijgt concrete technieken zodra de herstructurering klaar is. Extra technieken (transcript naar podcast, chat naar profiel) volgen.
 
 Waarom nu publiek? Omdat het klaar genoeg is om te delen, en te waardevol om alleen voor mezelf te houden. En omdat ik feedback wil: wat werkt voor jou? Wat mist er? Waar ben je nieuwsgierig naar?
 
