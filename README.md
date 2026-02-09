@@ -140,7 +140,7 @@ Probeer het. Deel je ervaringen. Laat me weten:
 
 Deze toolkit is gratis en dat blijft zo. Maar als je het waardevol vindt, helpt een kleine bijdrage me om te blijven experimenteren en delen.
 
-<a href="https://buymeacoffee.com/joostliebregts"><img src="images/bmc-button.png" alt="Buy Me A Coffee" width="200"></a>
+<a href="https://buymeacoffee.com/joostliebregts"><img src="images/bmc-button.png" alt="Buy Me A Coffee" width="300"></a>
 
 ---
 
