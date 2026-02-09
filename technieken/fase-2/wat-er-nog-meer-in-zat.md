@@ -1,22 +1,18 @@
-![Wat er nog meer in zat](../../images/vergrootglas_waternogmeerinzat.png)
-
 # Wat er nog meer in zat
 
 > *Samen met AI verdieping zoeken in je transcript.*
-
-> 🚧 **Work in progress** — Deze pagina wordt nog bijgeschaafd. Inhoud kan veranderen.
 
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 
 **Vorige stap:** [Transcriptie als fundament](../fase-1/transcriptie.md): je hebt tekst
 **Dit:** Samen graven naar wat erin zit
-**Volgende stap:** Haakjes vinden *(Fase 3 — komt nog)* (Fase 3): verbindingen systematisch zichtbaar maken
+**Volgende stap:** [Haakjes vinden](haakjes-vinden.md) (Fase 3): verbindingen systematisch zichtbaar maken
 
 ---
 
 ## Wanneer is dit relevant?
 
-**Situatie:** Je hebt een sessie gehad. Het gesprek was waardevol. Maar je weet: er zit meer in dan wat je direct kunt benoemen.
+**Situatie:** Je hebt een sessie gehad, misschien een van de [verdiepingssessies uit Fase 2](../../fase-2-verdieping.md). Het gesprek was waardevol. Maar je weet: er zit meer in dan wat je direct kunt benoemen.
 
 **De neiging:** Vertrouwen op wat je onthield. Of een snelle samenvatting maken en door naar het volgende.
 
@@ -70,115 +66,43 @@ Dit zat in het transcript. Door samen te graven kwam het naar boven, klaar om me
 
 ---
 
-## Drie manieren om te graven
-
-### 1. Structuur zoeken
-
-Het gesprek had een rijkdom die je live niet kon ordenen. Nu kun je AI vragen om patronen te vinden.
-
-**Hoe dit werkt:**
-Je vraagt AI niet om een samenvatting, maar om ordening. "Welke thema's komen terug? Hoe verhouden ze zich tot elkaar? Wat is de rode draad?"
-
-**Prompt-fragment:**
-> "Analyseer dit transcript op structuur. Welke thema's komen terug? Hoe verhouden ze zich tot elkaar? Geef een overzicht, geen samenvatting."
-
-**Wat AI vond in het smartphonevrij-gesprek:**
-
-De "heatmaps" per schoolfase: een structuur die intuïtief aanwezig was, maar nu zwart op wit stond:
-
-| Fase | De sfeer | Wat er speelt |
-|------|----------|---------------|
-| Kleuters & Onderbouw | "Het Paradijs" | Onwetendheid, voorzichtigheid: "Ben ik die zeikerd als ik er nu al over begin?" |
-| Middenbouw | "De Schemerzone" | Verwarring, eerste druk: "Iedereen heeft er een, zegt mijn kind." |
-| Bovenbouw | "De Realiteit" | Angst voor uitsluiting: "We zijn eigenlijk al te laat." |
-
-Het resultaat is geen kortere versie van het gesprek; het is een kaart van wat er in zit.
-
-*Heb je al een gevoel over wat die structuur zou kunnen zijn? Dan is [Intuïtie zwart op wit](intuitie-zwart-op-wit.md) misschien een betere ingang.*
-
-### 2. Haakjes vinden
-
-Momenten in het gesprek die mensen kunnen verbinden, als je ze weet te vinden.
-
-**Prompt-fragment:**
-> "Zoek in dit transcript naar momenten die mensen kunnen verbinden. Welke uitspraken of ervaringen zouden als 'haakje' kunnen dienen voor een gesprek tussen mensen die elkaar nog niet kennen?"
-
-**Wat AI vond, concrete gespreksopeners per doelgroep:**
-
-Voor kleuterouders:
-> "Nu hebben we nog de tijd om het samen te regelen, straks hoeven we die strijd niet te voeren."
-
-Voor middenbouwouders:
-> "Sta jij ook alleen in dat Minecraft-gesprek? Laten we samen optrekken."
-
-Voor bovenbouwouders:
-> "Wat zou jij anders doen met de kennis van nu?"
-
-Twee ouders die allebei worstelen, zich allebei alleen voelen, nu een haakje hebben om elkaar te vinden.
-
-*Wil je dit systematischer aanpakken, over meerdere gesprekken? De volledige techniek staat in Haakjes vinden *(Fase 3 — komt nog)* (Fase 3).*
-
-### 3. Krachtige quotes identificeren
-
-Uitspraken die de kern raken, maar die in de stroom van het gesprek kunnen verdwijnen.
-
-**Prompt-fragment:**
-> "Identificeer de meest krachtige quotes uit dit transcript. Zoek uitspraken die de kern raken, emotioneel resoneren, of een spanning blootleggen. Geef de letterlijke woorden, geen parafrases."
-
-**Wat AI vond, quotes die de kern raakten:**
-
-De spiegel van eigen gedrag:
-> "Ik ben echt vreselijk met mijn smartphone. Hoe kan ik het verbieden als ik er zelf ook op zit?"
-
-De fietshelm-paradox:
-> "Je kind gaat voor het eerst met de fiets naar school, helm op. Komt thuis en zegt: 'De hele klas heeft geen helm. Doe ik ook niet meer, anders hoor ik er niet bij.'"
-
-Deze quotes waren niet gemist, maar ook niet direct als kern herkend. Totdat AI ze naar boven haalde.
-
----
-
 ## De prompt-aanpak
 
-Hieronder de prompts die we daadwerkelijk gebruikten in het Maarten-gesprek.
+Hieronder de prompts die we daadwerkelijk gebruikten in het verhaal hierboven.
 
 ### Stap 1: Vraag AI om te helpen een prompt te bouwen
 
 In plaats van direct een analyse-prompt te schrijven, vroeg ik AI om mee te denken:
 
 ```
-Dit is een transcript van mijn gesprek met Maarten over een
-ouderbijeenkomst die hij organiseerde. Hij wil er meer uithalen.
+Zojuist had ik het met Maarten over hun traject over smartphonevrij
+opgroeien. Wat ik je heb toegevoegd is context over hoe Maarten
+die meeting heeft voorbereid — zijn wensen en intenties — en het
+transcript van de meeting zelf.
 
-Help me om een goede analyse-prompt te bouwen. Stel me eerst
-een paar gerichte vragen zodat we de juiste richting kiezen.
+Waar we naar op zoek zijn is een prompt waarmee we het transcript
+kunnen analyseren. Om Maarten te helpen in zijn missie.
+
+Voordat we die prompt opstellen zou ik het fijn vinden als je ons
+nog een aantal vragen kunt stellen om de prompt te verscherpen.
+Stel ons drie vragen, steeds met twee opties.
+
+En nog een heel belangrijk element: we spreken altijd in de taal
+van de deelnemers, gericht op herkenbaarheid. En we blijven weg
+bij individuele namen.
 ```
 
-*Bron: Zo begon ons iteratie-gesprek.*
+*Bron: De openingsprompt waarmee we het iteratie-gesprek begonnen.*
 
-### Stap 2: AI stelt richtingsvragen
+### Stap 2: Maarten geeft richting
 
-AI kwam terug met drie vragen, elk met twee opties:
+AI stelde drie richtingsvragen (zie het verhaal hierboven). Maartens keuzes bepaalden de prompt:
 
-**Vraag 1: De focus van de 'Map'**
-> Waar moet de analyse de meeste nadruk op leggen?
-> - **Optie A:** De Emotionele Leefwereld (heatmap van gevoelens/angsten per fase)
-> - **Optie B:** De Actie-Bereidheid (wie staat waar in de verandercurve)
+- Emotionele leefwereld én actiebereidheid (niet of/of maar en/en)
+- Vanuit het positieve (niet vanuit schuld)
+- Gesprekswaaier (niet campagnemonitor)
 
-Maarten: *"Ik wil allebei. De actiebereidheid vloeit voort uit de emotionele leefwereld."*
-
-**Vraag 2: De taal van de frictie**
-> Waar moet de prompt op inzoomen?
-> - **Optie A:** De 'Interne Ouder' strijd (eigen schermverslaving, schuldgevoel)
-> - **Optie B:** De wens om goed ouder te zijn (positieve motivatie)
-
-Maarten: *"Vanuit het positieve. Mensen stimuleren veel meer vanuit wat ze willen dan vanuit schuld."*
-
-**Vraag 3: Het doel van de output**
-> Wat is de primaire functie?
-> - **Optie A:** Een 'Gesprekswaaier': concrete haakjes voor verbinding
-> - **Optie B:** Een 'Campagne Monitor': gaten en kansen voor groei
-
-Maarten: *"100% gesprekswaaier. Verbinding maken is het allerbelangrijkste. Ik wil de haakjes hebben, maar ik bepaal zelf hoe ik ze deel."*
+Drie keer corrigeerde en nuanceerde hij. De prompt werd niet door AI bepaald; Maarten stuurde bij op basis van de voorstellen van AI.
 
 ### Stap 3: De uiteindelijke prompt
 
@@ -222,6 +146,70 @@ Focus op de gemene deler, niet op overtuigen.
 
 *Bron: De prompt die we samen met AI bouwden na het iteratie-gesprek.*
 
+**Waarom dit werkt:**
+- "Systemisch strateeg" — positioneert AI als analytisch denker, niet als samenvatter
+- "Letterlijke bewoordingen" — beschermt de taal van deelnemers tegen AI-interpretatie
+- "Empathisch, gericht op de wens goed ouder te zijn" — Maartens toon-correctie, ingebouwd in de prompt
+- "Concrete haakjes, geen letterlijke scripts" — output die Maarten zelf kan inzetten op zijn manier
+
+---
+
+## Wat dit opleverde
+
+De prompt leverde drie typen resultaten op. Hier laat ik per deel zien wat er boven kwam.
+
+### De heatmaps (deel 1)
+
+Het gesprek had een rijkdom die je live niet kon ordenen. Deel 1 van de prompt vroeg AI om structuur te zoeken: niet een samenvatting, maar ordening. Welke thema's komen terug? Hoe verhouden ze zich tot elkaar?
+
+Wat AI vond: "heatmaps" per schoolfase. Een structuur die intuïtief aanwezig was, maar nu zwart op wit stond:
+
+| Fase | De sfeer | Wat er speelt |
+|------|----------|---------------|
+| Kleuters & Onderbouw | "Het Paradijs" | Onwetendheid, voorzichtigheid: "Ben ik die zeikerd als ik er nu al over begin?" |
+| Middenbouw | "De Schemerzone" | Verwarring, eerste druk: "Iedereen heeft er een, zegt mijn kind." |
+| Bovenbouw | "De Realiteit" | Angst voor uitsluiting: "We zijn eigenlijk al te laat." |
+
+Het resultaat is geen kortere versie van het gesprek; het is een kaart van wat er in zit.
+
+### De interne strijd (deel 2)
+
+Deel 2 zoomde in op de spanning die door het hele gesprek liep: ouders die worstelen met hun eigen telefoongebruik terwijl ze hun kinderen willen beschermen. De prompt vroeg expliciet om dit niet als hypocrisie te framen, maar als een gedeelde uitdaging.
+
+Wat AI vond: kernthema's waarin ouders worstelen met hun voorbeeldrol. De eerlijkheid zat al in het transcript:
+
+> "Ik ben echt vreselijk met mijn smartphone. Hoe kan ik het verbieden als ik er zelf ook op zit?"
+
+Dit is de spiegel die niemand hardop benoemt, maar die iedereen herkent. Door deze spanning expliciet op tafel te leggen — als uitdaging, niet als aanklacht — werd het bespreekbaar.
+
+### De gesprekswaaier (deel 3)
+
+Deel 3 vroeg om concrete haakjes: momenten in het gesprek die mensen kunnen verbinden, als je ze weet te vinden.
+
+Wat AI vond, concrete gespreksopeners per doelgroep:
+
+Voor kleuterouders:
+> "Nu hebben we nog de tijd om het samen te regelen, straks hoeven we die strijd niet te voeren."
+
+Voor middenbouwouders:
+> "Sta jij ook alleen in dat Minecraft-gesprek? Laten we samen optrekken."
+
+Voor bovenbouwouders:
+> "Wat zou jij anders doen met de kennis van nu?"
+
+Twee ouders die allebei worstelen, zich allebei alleen voelen, nu een haakje hebben om elkaar te vinden.
+
+*Wil je dit systematischer aanpakken, over meerdere gesprekken? De volledige techniek staat in [Haakjes vinden](haakjes-vinden.md) (Fase 3).*
+
+### Krachtige quotes
+
+Dit was geen apart deel in de prompt. Maar de randvoorwaarde "gebruik de letterlijke bewoordingen van deelnemers" zorgde ervoor dat AI de krachtigste uitspraken bewaarde in plaats van ze te parafraseren. Dat zie je al bij deel 2: de spiegel-quote over eigen telefoongebruik was bijvangst van een goede afkadering. Soms levert een randvoorwaarde meer op dan een expliciete opdracht.
+
+De fietshelm-paradox:
+> "Je kind gaat voor het eerst met de fiets naar school, helm op. Komt thuis en zegt: 'De hele klas heeft geen helm. Doe ik ook niet meer, anders hoor ik er niet bij.'"
+
+Deze quote was niet gemist, maar ook niet direct als kern herkend. Totdat AI ze naar boven haalde.
+
 ---
 
 ## De iteratie-les
@@ -235,7 +223,7 @@ Maarten gaf niet alleen antwoorden op de AI vragen; hij corrigeerde en nuanceerd
 
 De prompt was het resultaat van samenwerking. Niet één perfecte vraag, maar een dialoog die steeds scherper werd.
 
-Het hele iteratie-proces (met feedback-formules en de twaalf-rondes les) staat in [Iteratie als dialoog](iteratie.md).
+Deze pagina laat zien hoe dat proces er in de praktijk uitziet. De techniek zelf (de feedback-formules, de samenwerkingsvormen, de twaalf-rondes les) staat in [Iteratie als dialoog](iteratie.md).
 
 ---
 
@@ -280,21 +268,15 @@ De neiging is om te analyseren zonder te weten wat je ermee wilt. Wat helpt: voo
 
 ## Filosofische verdieping
 
-### Transcript als samenwerkingspartner
+### Meer dan je kunt bevatten
 
 Een transcript is geen verslag van wat er gebeurde. Het is ruwe olie: grondstof voor verdieping.
 
-De vraag is: "Wat zit er allemaal in dat ik nog niet heb benoemd?"
+Elk gesprek bevat meer dan de deelnemers direct kunnen verwerken. Dat is geen tekortkoming; dat is de aard van rijke interactie. Als facilitator of gespreksleider moet je in het moment zijn: luisteren, doorvragen, de energie lezen. Je kunt niet tegelijk alles wat gezegd wordt analyseren en ordenen. Dat hoeft ook niet, want het transcript vangt het op.
 
-Dit is samenwerking. Jij brengt het mensenwerk: het gesprek, de energie, de verbinding. AI helpt om er meer uit te halen dan je in het moment kon bevatten.
+Transcriptie maakt het mogelijk om terug te gaan. AI maakt het mogelijk om samen te graven. Jij brengt het mensenwerk: het gesprek, de energie, de verbinding. AI helpt om er meer uit te halen dan je in het moment kon bevatten. De combinatie opent wat er al was, maar nog niet benoemd.
 
-### Meer dan je kunt bevatten
-
-Elk gesprek bevat meer dan de deelnemers direct kunnen verwerken. Dat is geen tekortkoming; dat is de aard van rijke interactie.
-
-Als facilitator of gespreksleider moet je in het moment zijn: luisteren, doorvragen, de energie lezen. Je kunt niet tegelijk alles wat gezegd wordt analyseren en ordenen. Dat hoeft ook niet, want het transcript vangt het op.
-
-Transcriptie maakt het mogelijk om terug te gaan. AI maakt het mogelijk om samen te graven. De combinatie opent wat er al was, maar nog niet benoemd. Niet omdat je iets miste, maar omdat er simpelweg meer in zat dan je in het moment kon bevatten.
+De vraag is niet "wat heb ik gemist?" maar "wat zit er allemaal in dat ik nog niet heb benoemd?"
 
 ---
 
@@ -307,7 +289,7 @@ Transcriptie maakt het mogelijk om terug te gaan. AI maakt het mogelijk om samen
 - [Iteratie](iteratie.md): hoe het iteratie-gesprek werkt dat in dit verhaal centraal staat
 
 **Verder bouwen:**
-- Haakjes vinden *(Fase 3 — komt nog)* (Fase 3): de volledige techniek voor systematisch verbindingen vinden over meerdere gesprekken
+- [Haakjes vinden](haakjes-vinden.md) (Fase 3): de volledige techniek voor systematisch verbindingen vinden over meerdere gesprekken
 
 ---
 

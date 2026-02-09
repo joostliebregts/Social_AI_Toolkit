@@ -2,8 +2,6 @@
 
 > *Wanneer de groep vastloopt, kan een andere vraag de opening zijn.*
 
-> 🚧 **Work in progress** — Deze pagina wordt nog bijgeschaafd. Inhoud kan veranderen.
-
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** [Prompt de mensen eerst](prompt-mensen-eerst.md), nu specifiek voor het in-sessie herkaderen van vragen
 
@@ -86,9 +84,9 @@ Hetzelfde geldt hier: "Wat vind je van de samenwerking?" levert analyse. "Beschr
 
 ## Uit de praktijk: de echo-knop als herkadering
 
-*Zoals je eerder las bij [Live reflectie met AI](echo-knop.md), een ander perspectief op hetzelfde moment.*
+*Dezelfde sessie als bij [Live reflectie met AI](echo-knop.md), hier vanuit het perspectief van herkadering.*
 
-In een GGZ-sessie over hoe zorg anders kan: na drie kwartier cirkelde het gesprek, kwam er een stilte. De facilitator zei: "Ik heb hem nog niet." Jeroen stelde voor: "Zullen we eens kijken wat de AI-echo ons geeft?"
+In een sessie binnen een mentaal gezondheidsnetwerk, over hoe zorg anders kan: na drie kwartier cirkelde het gesprek, kwam er een stilte. De facilitator zei: "Ik heb hem nog niet." Jeroen stelde voor: "Zullen we eens kijken wat de AI-echo ons geeft?"
 
 AI had meegeluisterd en stelde een vraag:
 
@@ -97,7 +95,7 @@ AI had meegeluisterd en stelde een vraag:
 Dit was herkadering in actie. De groep was bezig met de grote vraag "Hoe doorbreken we dit systeem?" AI verschoof naar "Wat kun je morgen doen?"
 
 **Wat er gebeurde:**
-De reacties: "Dit is wel mooi." "Dat is de welbekende, hoe gaan we morgen starten met iets kleins?" "Mooi gedaan!" Het ging niet om de samenvatting; het ging om de verschuiving. Van machteloosheid naar actie. Van systeem naar persoon. Van abstract naar concreet.
+De reacties: "Dit is wel mooi." "Dat is de welbekende, hoe gaan we morgen starten met iets kleins?" Het ging niet om de samenvatting; het ging om de verschuiving. Van machteloosheid naar actie. Van systeem naar persoon. Van abstract naar concreet.
 
 **Wat ik hiervan meeneem:**
 Soms is de beste herkadering niet iets wat je zelf bedenkt, maar iets wat AI suggereert op basis van wat er gezegd is. Jeroen herkende het moment en drukte op de knop. AI leverde de vraag. De groep kwam in beweging.
@@ -130,7 +128,11 @@ Help me reflecteren:
 - Hoe herken ik dit patroon de volgende keer eerder?
 ```
 
-Zo bouw je een repertoire op van vragen die je de volgende keer kunt inzetten.
+**Waarom dit werkt:**
+- "Ik had vandaag een sessie" — plaatst AI als reflectiepartner, niet als expert
+- "Dit is wat er gebeurde" — dwingt je om concreet te beschrijven wat je deed, niet abstract
+- "Welke herkader-strategie had hier gepast?" — koppelt terug naar de drie strategieën op deze pagina
+- "Hoe herken ik dit patroon eerder?" — je bouwt een repertoire op voor de volgende keer
 
 *Dit is een suggestie: pas aan op jouw specifieke situatie.*
 
@@ -167,6 +169,16 @@ De vraag is ongemakkelijk, dus ik stel een makkelijkere vraag. Maar het ongemak 
 
 ---
 
+## Veilige uitgangspunten
+
+- [ ] Eerst geluisterd of de groep gehoord wil worden?
+- [ ] Gecheck of het een vraagprobleem is, niet een energieprobleem?
+- [ ] De herkadering als suggestie gebracht, niet als correctie?
+- [ ] Ruimte gelaten voor de groep om de nieuwe richting af te wijzen?
+- [ ] Niet herkaderd vanuit eigen ongemak?
+
+---
+
 ## Filosofische verdieping
 
 ### De vraag achter de vraag
@@ -193,7 +205,7 @@ Dit start nog steeds vanuit het probleem, maar verschuift de focus naar de oplos
 
 ---
 
-<- [Terug naar Fase 2: Verdieping](../../fase-2-verdieping.md) | [<- Prompt de mensen eerst](prompt-mensen-eerst.md) | [Naar Fase 3: Schaal ->](../../fase-3-schaal.md)
+[Vorige: Prompt de mensen eerst](prompt-mensen-eerst.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Fase 3 →](../../fase-3-schaal.md)
 
 ---
 

@@ -2,8 +2,6 @@
 
 > *Niet sleutelen aan output, maar feedback geven. AI leert wat je bedoelt.*
 
-> 🚧 **Work in progress** — Deze pagina wordt nog bijgeschaafd. Inhoud kan veranderen.
-
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** De eerste AI-output die niet helemaal klopt
 
@@ -25,10 +23,10 @@
 
 Itereren heeft verschillende vormen. Spring naar wat je zoekt:
 
-- [Het verhaal: twaalf rondes](#het-verhaal-twaalf-rondes) - hoe een prompt evolueert door correcties
-- [De shift: van sleutelen naar sturen](#de-shift-van-sleutelen-naar-sturen) - het fundamentele verschil
+- [Het verhaal: twaalf rondes](#het-verhaal-twaalf-rondes) - waarom de beste prompts niet in ronde 1 ontstaan
+- [De shift: van sleutelen naar sturen](#de-shift-van-sleutelen-naar-sturen) - het verschil tussen solo-werk en samenwerken met AI
 - [Iteratie vooraf: laat AI jou vragen stellen](#iteratie-vooraf-laat-ai-jou-de-vragen-stellen) - scherp krijgen wat je wilt vóórdat er output komt
-- [De gereedschapskist](#de-gereedschapskist) - feedbackformules, feedback-loop, prompt-test-cyclus, cross-model kritiek
+- [De gereedschapskist](#de-gereedschapskist) - concrete methodes voor feedback geven, prompts verbeteren, en AI's elkaars werk laten reviewen
 
 ---
 
@@ -53,11 +51,14 @@ Dit werd geen eenmalige prompt. Het werd twaalf rondes.
 **Ronde 11:** Ik verduidelijk de context-window situatie.
 **Ronde 12:** Prompts zijn klaar.
 
-Vier concrete correcties die het verschil maakten:
+Vier concrete correcties die het verschil maakten. De rode draad: je denkt dat AI weet wat je weet. AI weet enorm veel — maar niet jouw specifieke context: de documenten die jij hebt, de afspraken die je maakte, de stijl die je zoekt. Wat je niet expliciet meegeeft, bestaat niet voor AI.
+
 - "De AI heeft geen toegang tot het voorbeeldplan, dus neem de schrijfstijl mee IN de prompt"
 - "Maak de prompts universeel: de AI kan zelf het thema detecteren uit het transcript"
 - "Prompt 2 moet vooral vragen genereren voor de volgende groep"
 - "De AI heeft toegang tot volledige transcripten, niet fragmenten"
+
+Dit inzicht — dat je AI expliciet moet vertellen wat het moet weten — komt ook terug bij [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md), waar het de kern van de techniek is.
 
 Toen ik hierop terugkeek, zag ik een patroon: een prompt ontstaat niet in ronde 1. De prompt evolueert door de correcties.
 
@@ -75,16 +76,30 @@ Toen ik hierop terugkeek, zag ik een patroon: een prompt ontstaat niet in ronde 
 Het verschil is subtiel maar fundamenteel. Sleutelen is solo-werk. Itereren is samenwerken.
 
 **Hoe sleutelen eruit ziet:**
-Je krijgt een samenvatting van AI. De toon is te formeel. Je opent het document en begint zinnen te herschrijven. "Stakeholders" wordt "betrokkenen". "Geïmplementeerd" wordt "ingevoerd". Na twintig minuten is het klaar. AI heeft niks geleerd. Jij hebt het werk gedaan.
+
+> Je krijgt een samenvatting van AI. De toon is te formeel.
+>
+> Je opent het document en begint zinnen te herschrijven. "Stakeholders" wordt "betrokkenen". "Geïmplementeerd" wordt "ingevoerd".
+>
+> Na twintig minuten is het klaar. AI heeft niks geleerd. Jij hebt het werk gedaan.
 
 **Hoe itereren eruit ziet:**
-Je krijgt dezelfde samenvatting. De toon is te formeel. Je typt: "Dit voelt als een beleidsdocument. Ik zoek de toon van een gesprek tussen collega's die elkaar al lang kennen en transparant zijn over hun behoeften. Gebruik gewone woorden, geen jargon. Probeer opnieuw." Dertig seconden later heb je een nieuwe versie. Die is beter, maar nog niet helemaal. Je typt: "Beter. Maar de eerste alinea is nog te afstandelijk. Maak het persoonlijker." Weer dertig seconden. Nu klopt het.
+
+> Je krijgt dezelfde samenvatting. De toon is te formeel.
+>
+> **Ronde 1:** "Dit voelt als een beleidsdocument. Ik zoek de toon van een gesprek tussen collega's die elkaar al lang kennen en transparant zijn over hun behoeften. Gebruik gewone woorden, geen jargon. Probeer opnieuw."
+> *Dertig seconden later: nieuwe versie. Beter, maar nog niet helemaal.*
+>
+> **Ronde 2:** "Beter. Maar de eerste alinea is nog te afstandelijk. Maak het persoonlijker."
+> *Weer dertig seconden. Nu klopt het.*
 
 **Waarom dit beter werkt:**
-- AI leert jouw specifieke behoeften binnen het lopende gesprek. Let op: start je een nieuw gesprek, dan is de context window weer leeg en begin je opnieuw. Daarom loont het om binnen één sessie te blijven itereren.
-- Je formuleert scherper wat je wilt, voor jezelf en voor AI
+- AI leert jouw behoeften binnen het lopende gesprek
+- Je formuleert scherper wat je wilt — voor jezelf en voor AI
 - Het eindresultaat combineert AI's capaciteit met jouw richting
-- De volgende keer kun je al in je eerste prompt zeggen: "toon van een gesprek tussen collega's die elkaar lang kennen, transparant over behoeften, geen jargon"
+- De volgende keer kun je al zeggen: "toon van een gesprek tussen collega's die elkaar lang kennen, transparant over behoeften, geen jargon"
+
+*Let op: start je een nieuw gesprek, dan is de context window weer leeg en begin je opnieuw. Daarom loont het om binnen één sessie te blijven itereren.*
 
 ### Dictatie als versneller
 
@@ -100,33 +115,11 @@ Je hoeft niet te formuleren terwijl je typt. Je spreekt gewoon uit wat je denkt:
 
 ## Iteratie vooraf: laat AI jou de vragen stellen
 
-Tot nu toe ging het over iteratie op output: je krijgt iets van AI, je geeft feedback, AI past aan. Maar er is nog een andere vorm: iteratie *vooraf*. Daar laat je AI jou eerst helpen om scherp te krijgen wat je wilt, vóórdat er output komt. Het heen en weer werken met AI is een vaardigheid op zich. Voor het volledige verhaal van hoe dit eruit zag in de praktijk, zie [Wat er nog meer in zat](wat-er-nog-meer-in-zat.md).
+Tot nu toe ging het over iteratie op output: je krijgt iets van AI, je geeft feedback, AI past aan. Maar er is nog een andere vorm: iteratie *vooraf*. Daar laat je AI jou eerst helpen om scherp te krijgen wat je wilt, vóórdat er output komt. Het heen en weer werken met AI is een vaardigheid op zich.
 
-Het smartphonevrij project. Ik wilde samen met Maarten een ouderavond-transcript analyseren om "haakjes" te vinden voor verbinding. Maar wat voor haakjes precies? Maarten en ik wisten het zelf nog niet scherp.
+De techniek: vraag AI om jou vragen te stellen met steeds twee opties. Dat dwingt je om positie te kiezen. En de nuances die je toevoegt bij je keuze — "ik wil allebei", "maar dan vanuit het positieve", "ik bepaal zelf hoe ik ze deel" — maken de prompt scherper dan hij zonder dialoog was geweest.
 
-In plaats van direct output te genereren, stelde AI drie vragen met elk twee opties:
-
-**Vraag 1: De focus van de 'Map'**
-> - Optie A: De Emotionele Leefwereld (heatmap van gevoelens per fase)
-> - Optie B: De Actie-Bereidheid (wie staat waar in de verandercurve)
-
-**Antwoord:** "Ik wil het allebei. De actiebereidheid vloeit voort uit de emotionele leefwereld."
-
-**Vraag 2: De taal van de frictie**
-> - Optie A: De 'Interne Ouder' strijd (eigen schermverslaving, "ben ik een zeikerd?")
-> - Optie B: De 'Sociale Arena' strijd (schoolplein-oordeel, groepsdruk)
-
-**Antwoord:** "Het is A. Maar hier staat de frictie vanuit het negatieve geformuleerd. Jij vliegt het gelijk vanuit de positieve kant aan. Mensen stimuleren veel meer vanuit het positieve."
-
-**Vraag 3: Het doel van de munitie**
-> - Optie A: Een 'Gesprekswaaier': concrete haakjes voor verbinding
-> - Optie B: Een 'Campagne Monitor': gaten en kansen voor groei
-
-**Antwoord:** "100% gesprekswaaier. Verbinding maken is het allerbelangrijkste. Ik wil de haakjes hebben van de AI en dan wil ik zelf beslissen hoe ik die deel."
-
-Door keuzes te presenteren dwong AI expliciete richting af. De nuances die toegevoegd werden ("allebei", "vanuit het positieve", "ik bepaal zelf") maakten de prompt scherper dan hij zonder dialoog was geweest.
-
-**Bron:** Gesprek dat ik voerde met AI over gemeenschapsanalyse (Smartphonevrij project)
+Voor het volledige verhaal van hoe dit eruit zag in de praktijk — drie vragen, drie keer bijsturen, een prompt die precies deed wat Maarten nodig had — zie [Wat er nog meer in zat](wat-er-nog-meer-in-zat.md).
 
 ### De prompt waarmee je AI jou vragen laat stellen
 
@@ -158,7 +151,7 @@ De kracht zit in "presenteer keuzes (A vs B)". Dat dwingt je om positie te kieze
 
 ## De gereedschapskist
 
-De twee verhalen hierboven (twaalf rondes en smartphonevrij opvoeden) tonen iteratie in actie. Maar wat als je concreet wilt weten *hoe* je feedback geeft? Of hoe je leert van je eigen aanpassingen? Hier zijn de methodes die ik gebruik.
+Het twaalf-rondes verhaal hierboven toont iteratie op output. Iteratie vooraf laat zien hoe je richting geeft vóórdat er output komt. Maar wat als je concreet wilt weten *hoe* je feedback geeft? Of hoe je leert van je eigen aanpassingen? Hier zijn de methodes die ik gebruik.
 
 ### Feedback-formules
 
@@ -217,9 +210,9 @@ Dit lijkt extra werk, maar het is een investering. Elke iteratie maakt je prompt
 - Er is een nieuw AI-model en je wilt checken of je prompts nog goed werken
 - Je wilt systematisch verbeteren in plaats van ad hoc
 
-Bijvoorbeeld: je hebt een prompt die prima werkte met GPT-4, maar nu is er een nieuw model. Werkt je prompt nog? Of je hebt tien transcripten van vorige sessies en wilt testen of je nieuwe analyse-prompt de juiste dingen eruit haalt.
+Bijvoorbeeld: je hebt een prompt die prima werkte met Gemini 2.5, maar nu is er een nieuw model. Werkt je prompt nog? Of je hebt tien transcripten van vorige sessies en wilt testen of je nieuwe analyse-prompt de juiste dingen eruit haalt.
 
-Een krachtigere variant: test je prompt op echte data en laat AI het eigen werk evalueren.
+De aanpak: test je prompt op echte data en laat AI het eigen werk evalueren.
 
 De stappen:
 1. **Maak de prompt samen met AI**: bijvoorbeeld een prompt voor transcript-analyse
@@ -259,7 +252,7 @@ Dit is een tijdsintensieve techniek voor werk dat je echt tot in de puntjes wilt
 - Complexe analyses waar je meerdere perspectieven wilt
 - Als check of één AI je misleidt
 
-### Stap 1: Vraag beide AI's om samenvatting
+#### Stap 1: Vraag beide AI's om samenvatting
 
 Aan beide AI's (apart):
 
@@ -276,7 +269,7 @@ Maak een samenvatting van:
 Wees kritisch en eerlijk over beperkingen.
 ```
 
-### Stap 2: Laat ze elkaar reviewen
+#### Stap 2: Laat ze elkaar reviewen
 
 Voer samenvatting A aan Model B:
 
@@ -295,7 +288,7 @@ Review deze samenvatting:
 
 Doe hetzelfde andersom.
 
-### Stap 3: Integreer
+#### Stap 3: Integreer
 
 ```
 Ik heb nu twee analyses en wederzijdse kritiek.
@@ -377,9 +370,7 @@ Dit is hetzelfde mechanisme als bij mensen. Dialoog creëert helderheid. Het fei
 
 ---
 
-← [Terug naar Fase 2: Verdieping](../../fase-2-verdieping.md)
-
-← [Wat er nog meer in zat](wat-er-nog-meer-in-zat.md) | [Prompt de mensen eerst](prompt-mensen-eerst.md) →
+← [Vorige: Wat er nog meer in zat](wat-er-nog-meer-in-zat.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Prompt de mensen eerst](prompt-mensen-eerst.md) →
 
 ---
 

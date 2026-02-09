@@ -2,8 +2,6 @@
 
 > *De kwaliteit van AI-output hangt af van de kwaliteit van de menselijke input.*
 
-> 🚧 **Work in progress** — Deze pagina wordt nog bijgeschaafd. Inhoud kan veranderen.
-
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** De vraag die voorafgaat aan de AI-prompt
 
@@ -11,7 +9,7 @@
 
 ## Waarom deze pagina in de toolkit
 
-Door de hele toolkit lopen principes over eigenaarschap en sociaal werken. Er zijn technieken over hoe AI kan helpen bij transcriptie, analyse, patroonherkenning. Maar die technieken werken alleen als de input goed is. En die input komt van mensen.
+Je zou verwachten dat een toolkit over AI draait om de juiste prompts. Maar de technieken uit de vorige pagina's (transcriptie, analyse, patroonherkenning) werken alleen als de input goed is. En die input komt van mensen.
 
 ---
 
@@ -50,7 +48,7 @@ Maar hoe ontwerp je vragen die die puzzelstukjes opleveren?
 
 Ik denk graag aan workshops als een 'deconstructed burger': je begint bij wat je op het bord wilt hebben, en werkt terug naar de ingrediënten.
 
-**Waarom dit werkt (de €50-test):**
+**Waarom dit werkt:**
 
 Vanuit mijn ontwerpachtergrond leerde ik het volgende bij het testen van prototypes: als je mensen vraagt "Zou je dit kopen?" of "Wat zou je hiervoor betalen?", krijg je een hypothetisch antwoord. Ze denken na over wat ze zouden moeten vinden.
 
@@ -69,7 +67,6 @@ In welke volgorde vraag je de puzzelstukjes uit? Begin met ervaring, eindig met 
 
 **Stap 4: Formuleer de vragen**
 Hoe krijg je elk puzzelstukje uit mensen? Niet één grote vraag, maar losse vragen die elk iets specifieks opleveren.
-
 ![Backwards design visualisatie](../../images/prompt-mensen-eerst-backwards-design.png)
 
 **Voorbeeld:**
@@ -83,15 +80,15 @@ Hoe krijg je elk puzzelstukje uit mensen? Niet één grote vraag, maar losse vra
 
 Pas daarna denk je aan AI. De prompt wordt simpeler omdat de input rijker is.
 
-Dit klinkt misschien abstract. Laat me een voorbeeld geven waar dit heel concreet werkte.
+In een co-creatieve sessie met 30 mensen zag ik dit heel concreet werken.
 
 ---
 
 ## Uit de praktijk
 
-### GGZ Transformatieplan: Backwards design in actie
+### Transformatieplan mentaal gezondheidsnetwerk: backwards design in actie
 
-In een GGZ-transformatieproject moesten stakeholders een visie formuleren voor een mentaal gezondheidsnetwerk. Drie thema's (Sociale Kaart, Overlegtafel, Verkennend Gesprek) werden parallel uitgewerkt door verschillende groepen.
+In het transformatieproject voor een mentaal gezondheidsnetwerk moesten betrokkenen een visie formuleren. Drie thema's (Sociale Kaart, Overlegtafel, Verkennend Gesprek) werden parallel uitgewerkt door verschillende groepen.
 
 Dit voorbeeld toont hoe goed sessie-ontwerp vóórdat je met AI aan de slag gaat het verschil maakt. De facilitators Rianne en Jojanneke hadden de sessie voorbereid met zorgvuldig ontworpen vragen. Zij hadden de puzzelstukjes al bedacht. Mijn rol was om met AI op te halen wat zij hadden geoogst: eigenlijk alleen maar terug te spiegelen wat er al in patronen zat.
 
@@ -187,7 +184,7 @@ Wat me in dit voorbeeld ook opviel: de volgorde van de vragen maakte verschil. Z
 
 ## De volgorde van kadering
 
-Dit is een patroon dat ik vaker terugzie: hoe je de vragen kadert, bepaalt wat voor antwoorden je krijgt.
+Je zag het net in het voorbeeld hierboven: de volgorde maakte het verschil. Dat is een patroon dat ik vaker terugzie.
 
 **Beginnen bij problemen:**
 > "Wat zijn de uitdagingen in de samenwerking?"
@@ -240,7 +237,7 @@ En als je hulp nodig hebt bij het ontwerpen van die vragen? Dan kun je AI inzett
 
 ## De workshop-voorbereiding
 
-Dit is hoe je AI gebruikt om de menselijke vragen te ontwerpen:
+Dit is hoe je AI kan gebruiken om de deelnemers-vragen te ontwerpen:
 
 ```
 Ik bereid een workshop voor over [ONDERWERP].
@@ -266,6 +263,14 @@ Let op:
 ```
 
 *Dit is een suggestie: pas aan op jouw specifieke situatie.*
+
+Er zit iets moois in: je gebruikt hier AI om scherper te worden in de vragen die je aan mensen stelt. Niet om die vragen te vervangen, maar om je eigen denken te testen.
+
+**Waarom dit werkt:**
+- "Concrete ervaringen oproepen, geen meningen" — voorkomt dat je abstracte vragen ontwerpt die abstracte antwoorden opleveren
+- "Elk een ander puzzelstukje" — dwingt je om vooraf na te denken over welke ingrediënten je nodig hebt
+- "Van emotie naar analyse" — zorgt dat de volgorde klopt
+- "Vermijd 'Wat vind je van...'" — blokkeert de standaardvraag die meningen oplevert
 
 ---
 
@@ -293,21 +298,17 @@ Concreet:
 
 ## Filosofische verdieping
 
-### Facilitatie > Prompting
+### Facilitatie boven prompting
 
 Dit principe gaat dieper dan techniek. Het gaat eigenlijk over de vraag: waar ontstaat waarde?
 
 De neiging is om AI als de waarde-bron te zien. "AI analyseert", "AI vindt patronen", "AI genereert inzichten". Maar AI werkt met wat je het geeft.
 
-De echte waarde-creatie zit in de menselijke ervaring. In wat mensen delen, hoe ze het delen, welke verhalen naar boven komen. AI kan dat versterken, organiseren, verbinden, maar het kan het niet creeren.
+De echte waarde-creatie zit in de menselijke ervaring. In wat mensen delen, hoe ze het delen, welke verhalen naar boven komen. AI kan dat versterken, organiseren, verbinden, maar het kan het niet creëren.
 
 Daarom: prompt de mensen eerst.
 
-### Het meta-inzicht
-
-> "Soms moet je nog even zelf als een computer nadenken. Wat heb ik nodig om hier te komen? Welke basisblokjes heb ik daarvoor nodig?"
-
-Dit is backwards design in actie. Niet beginnen bij de tools, maar bij het doel. Niet beginnen bij AI, maar bij mensen.
+**Het meta-inzicht:** soms moet je ook even als een computer nadenken. Wat heb ik nodig om hier te komen? Welke basisblokjes heb ik daarvoor nodig? Dat is vanuit het doel terug ontwerpen. Niet beginnen bij de tools, maar bij het doel. Niet beginnen bij AI, maar bij mensen.
 
 ---
 
@@ -316,10 +317,11 @@ Dit is backwards design in actie. Niet beginnen bij de tools, maar bij het doel.
 - [Transcriptie als fundament](../fase-1/transcriptie.md): de output van goede vragen vastleggen
 - [Iteratie](iteratie.md): de vragen zelf ontwikkelen via dialoog met AI
 - [Live reflectie met AI](echo-knop.md): real-time vragen stellen op basis van wat gezegd is
+- [Vragen herkaderen](vragen-herkaderen.md): in de sessie zelf vragen in een ander licht plaatsen
 
 ---
 
-← [Terug naar Fase 2: Verdieping](../../fase-2-verdieping.md)
+← [Vorige: Iteratie](iteratie.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Vragen herkaderen](vragen-herkaderen.md) →
 
 ---
 

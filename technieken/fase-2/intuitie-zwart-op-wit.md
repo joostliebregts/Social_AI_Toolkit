@@ -2,8 +2,6 @@
 
 > *AI maakt zichtbaar wat je al voelde maar nog niet kon benoemen.*
 
-> 🚧 **Work in progress** — Deze pagina wordt nog bijgeschaafd. Inhoud kan veranderen.
-
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** Transcripten als grondstof voor patroonherkenning
 
@@ -11,9 +9,9 @@
 
 ## Wanneer is dit relevant?
 
-**Situatie:** Je hebt een gesprek gefaciliteerd. Je voelt dat er iets in zit: een patroon, een spanning, een ontwikkeling. Maar je kunt het niet precies benoemen.
+**Situatie:** Je hebt een gesprek gefaciliteerd. Je voelt dat er iets in zit (een [terugkerend thema, een spanning die niet wordt uitgesproken](../../fase-2-verdieping.md), een dynamiek die je aanvoelt) maar je kunt het niet precies benoemen.
 
-**De neiging:** Vertrouwen op je gevoel. Of het gevoel wegstoppen omdat je het niet kunt onderbouwen.
+**De neiging:** Je gevoel meenemen, maar zonder de woorden om het concreet te maken. Je weet dat er iets speelt; je kunt het alleen niet aanwijzen.
 
 **Het principe:** AI kan het transcript scannen op patronen die je intuïtief aanvoelt maar niet expliciet kunt maken. Het is een vergrootglas, geen vervanging voor je waarneming.
 
@@ -84,6 +82,11 @@ Per fase:
 
 *Bron: Smartphonevrij gemeenschapsanalyse prompt*
 
+**Waarom dit werkt:**
+- "Letterlijke bewoordingen van de deelnemers" beschermt tegen AI-interpretatie: het zijn hún woorden, niet jouw samenvatting
+- "Kijk voorbij de klacht naar de onderliggende waarde" is de kern van intuïtie zwart op wit: niet wat mensen zeggen, maar wat daaronder zit
+- "Per fase" geeft structuur aan een gevoel dat je al had ("de gesprekken over kleuters waren anders") maar nu benoemen kunt
+
 ---
 
 ## Wat dit anders maakt dan analyse
@@ -96,7 +99,7 @@ Je wist niet dat er een patroon was. AI toont het. Je denkt: "Oh, dat had ik nie
 **AI maakt zichtbaar wat je voelde:**
 Je wist dat er iets was. AI geeft het woorden. Je denkt: "Ja, dat is het precies."
 
-Het tweede is krachtiger. Niet omdat het verrassend is, maar omdat het bevestigt en verdiept. Je intuïtie krijgt een fundament.
+Het verschil zit niet in de verrassing, maar in de herkenning. Je wist het al; nu kun je het ook laten zien. Je intuïtie krijgt een fundament.
 
 ---
 
@@ -135,6 +138,12 @@ Per gevonden patroon:
 ```
 
 *Dit is een startpunt: pas aan op jouw specifieke situatie en voeg context toe over wat je zoekt.*
+
+**Waarom dit werkt:**
+- "Baseer strikt op wat er staat, niet op interpretatie" voorkomt dat AI je confirmation bias voedt
+- "Bij twijfel: 'mogelijk' in plaats van stellige bewering" houdt ruimte voor de groep om zelf te toetsen
+- "Gebruik hun woorden, niet jouw samenvattingen" behoudt eigenaarschap: mensen herkennen zichzelf
+- "Zoek niet naar wat ik wil vinden" maakt je eigen vooringenomenheid expliciet in de prompt
 
 ---
 
@@ -195,7 +204,7 @@ AI vindt altijd iets. Niet alles wat het vindt is een echt patroon.
 **Patronen als feiten presenteren**
 Het verschil tussen "het lijkt alsof" en "uit analyse blijkt" is klein in woorden, groot in effect.
 
-*Mijn ervaring:* Wanneer ik te stellig ben over wat AI vindt (en in het algemeen), merk ik dat mensen zich terugtrekken. Taal van mogelijkheid — "mogelijk onderbelicht", "een patroon dat naar voren komt" — geeft hen ruimte om zelf te toetsen of het klopt.
+*Mijn ervaring:* Wanneer ik te stellig ben over wat AI vindt (of in het algemeen te stellig ben), merk ik dat mensen zich terugtrekken of dichtslaan. De taal van mogelijkheid ("mogelijk onderbelicht", "een patroon dat naar voren komt") geeft mensen ruimte om zelf te toetsen of het klopt.
 
 ---
 
@@ -225,13 +234,13 @@ Dit is waar de vergrootglas-metafoor voor mij klopt. AI vergroot wat er al is. H
 
 Ik zie daardoor nu dingen die ik eerder miste. Het geeft me meer vertrouwen om patronen te benoemen, omdat ik onderbouwing heb. En misschien het meest waardevol: ik leer nieuwe patronen herkennen, en manieren om daar een volgende keer mee om te gaan.
 
-Dat is ook een vorm van democratisering. Het herkennen van groepsdynamiek was voorheen voorbehouden aan facilitators met jarenlange ervaring. AI maakt die vaardigheid toegankelijker, niet door de ervaring te vervangen, maar door de vertaalslag te ondersteunen.
+Dat is ook een vorm van democratisering. De frustratie die ik voelde in die regiegroep, de drie fases die de ouders herkenden: dat soort patronen herkennen was voorheen voorbehouden aan facilitators met jarenlange ervaring. AI maakt die vertaalslag toegankelijker, niet door de ervaring te vervangen, maar door het gevoel om te zetten in woorden.
 
 ### De waarde van woorden
 
 Er is iets bijzonders aan het zwart-op-wit zien wat je voelt. Het is niet alleen communicatie naar anderen; het is ook helderheid voor jezelf.
 
-De "drie fases" (Paradijs, Schemerzone, Realiteit) waren er al. Ze hadden alleen nog geen naam. Door de naam te geven, werden ze bespreekbaar, deelbaar, bruikbaar. En "groen" en "blauw" in die regiegroep? Dat gaf me een manier om over de dynamiek te praten zonder iemand de schuld te geven.
+De "drie fases" (Paradijs, Schemerzone, Realiteit) waren er al. Ze hadden alleen nog geen naam. Door de naam te geven, werden ze bespreekbaar, deelbaar, bruikbaar. En "groen" en "blauw" in die regiegroep? Dat gaf mij een manier om over de dynamiek te praten zonder iemand de schuld te geven.
 
 Dit is wat AI kan: niet nieuwe waarheid creëren, maar bestaande waarheid benoemen.
 
@@ -243,7 +252,7 @@ Dit is wat AI kan: niet nieuwe waarheid creëren, maar bestaande waarheid benoem
 - [Wat er nog meer in zat](wat-er-nog-meer-in-zat.md) — samen met AI graven naar structuur, haakjes en krachtige quotes (dit is de reactieve variant: je voelt nog niet precies wat je zoekt)
 
 **Verder bouwen:**
-- Patronen over tijd *(Fase 3 — komt nog)* (Fase 3) — intuïties over langere trajecten bevestigen
+- [Patronen over tijd](patronen-over-tijd.md) (Fase 3) — intuïties over langere trajecten bevestigen
 
 ---
 

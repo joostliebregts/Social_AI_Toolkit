@@ -8,11 +8,29 @@ Het werkte omdat het op het juiste *moment* kwam. De groep zat vast, de energie 
 
 Wij zijn sociale wezens. We willen ertoe doen, gehoord worden, samen iets bouwen. Dat gevoel waarmee je uit een samenwerking komt, is iets wat alleen mensen voor elkaar kunnen creëren. Maar AI kan ons wel helpen om dat gevoel te versterken.
 
-Volgens mij is dat waar het om draait. Niet alleen wat AI kan, maar wanneer en hoe je het inzet. Er zijn een paar principes die mij helpen om die keuze te maken.
+Volgens mij begint het daar. Bij de mens.
 
 ---
 
-## De zes principes
+## Het begint bij de mens
+
+Dat klinkt misschien vanzelfsprekend. Maar wat ik merk in de praktijk: het gaat vaak anders. Iemand bedenkt een plan, presenteert het, en vraagt of het klopt. De intentie is goed. Maar het eigenaarschap zit bij de bedenker, niet bij de groep. Wie iets niet zelf heeft gezegd, herkent zich er minder in.
+
+In deze toolkit komt het steeds terug, op allerlei manieren. Als je een sessie voorbereidt: wat willen we bereiken, en welke ervaring ontwerp je daarvoor? Als je AI inzet: wat geef je het? De woorden van de mensen zelf, niet jouw samenvatting. Als je terugkoppelt aan de groep: herkennen mensen zichzelf in wat er staat? En als je twijfelt over het juiste moment: wat heeft deze groep nu nodig?
+
+Zelfs als je alleen met AI werkt, begint het bij jou. Waar ben je nieuwsgierig naar? Waar zou je hulp bij kunnen gebruiken? Wat voelde je in die sessie, en hoe maak je dat zichtbaar?
+
+Al die vragen beginnen bij de mens. Niet bij de tool, niet bij het systeem, niet bij de prompt.
+
+Op de [vorige pagina](waarom.md) ging het over hoe AI kan versterken wat mensen al inbrengen. Dat is de andere kant van hetzelfde principe: alles wat AI kan doen, kan het alleen met wat mensen meebrengen. En alles wat mensen samen maken, dragen ze alleen als ze zichzelf erin herkennen.
+
+We zullen het met z'n allen moeten doen. AI kan ons daarin helpen, versterken, opschalen. Maar het begint bij ons.
+
+Die grondhouding vertaalt zich in zes werkprincipes.
+
+---
+
+## De zes werkprincipes
 
 Elke keer dat ik AI inzet in een sessie, voel ik hetzelfde. Er zijn dingen die AI kan die ik niet kan (razendsnel patronen herkennen, eindeloos geduldig samenvatten). En er zijn dingen die ik moet doen die AI niet kan (mensen de ruimte bieden om zichzelf te zijn, lichaamstaal lezen, bepalen welke richting we ingaan). Die keuze maak ik steeds opnieuw, en ik merk ook dat het verandert naarmate AI intelligenter wordt. 
 
