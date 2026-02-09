@@ -92,7 +92,8 @@ Deze toolkit komt voort uit zestien maanden experimenteren met AI in echte parti
 
 Meer over mijn perspectief: [jmfl.nl/why](https://jmfl.nl/why)
 Wat ik doe: [jmfl.nl/skills](https://jmfl.nl/skills)
-Dit werk steunen: [Buy Me A Coffee](https://buymeacoffee.com/joostliebregts)
+
+Wil je dit werk steunen? → [Buy Me A Coffee](https://buymeacoffee.com/joostliebregts)
 
 ---
 
@@ -137,7 +138,9 @@ Probeer het. Deel je ervaringen. Laat me weten:
 → [GitHub Issues](https://github.com/joostliebregts/Social_AI_Toolkit/issues)
 → [Contact via jmfl.nl](https://jmfl.nl)
 
-[![Buy Me A Coffee](images/bmc-button.png)](https://buymeacoffee.com/joostliebregts)
+Deze toolkit is gratis en dat blijft zo. Maar als je het waardevol vindt, helpt een kleine bijdrage me om te blijven experimenteren en delen.
+
+<a href="https://buymeacoffee.com/joostliebregts"><img src="images/bmc-button.png" alt="Buy Me A Coffee" width="200"></a>
 
 ---
 
