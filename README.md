@@ -136,7 +136,8 @@ Probeer het. Deel je ervaringen. Laat me weten:
 
 → [GitHub Issues](https://github.com/joostliebregts/Social_AI_Toolkit/issues)
 → [Contact via jmfl.nl](https://jmfl.nl)
-→ [Buy Me A Coffee](https://buymeacoffee.com/joostliebregts)
+
+[![Buy Me A Coffee](images/bmc-button.png)](https://buymeacoffee.com/joostliebregts)
 
 ---
 
