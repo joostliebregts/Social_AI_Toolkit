@@ -113,12 +113,12 @@ Eerst het ideaalbeeld (emotie, droom), dan de cruciale onderdelen (wat doet erto
 Omdat de input zo goed gestructureerd was, kon de prompt precies volgen wat de facilitators hadden ontworpen:
 
 ```prompt
-Rol: Je bent een AI-assistent die helpt bij het live documenteren
+**Rol:** Je bent een AI-assistent die helpt bij het live documenteren
 van een transformatieplan-sessie. Jouw taak nu is om de kern van
 de gevoerde visie-discussie samen te vatten voor directe feedback
 aan de groep.
 
-Context:
+**Context:**
 - Sessie Deel: Einde van Ronde 1 - Discussie over 5-jaarsperspectief
   (vraag 1 draaiboek).
 - Input: Het volledige transcript van de zojuist afgeronde
@@ -126,7 +126,7 @@ Context:
 - Doel Output: Terugkoppeling aan de deelnemers aan de tafel
   ter validatie ("Klopt dit beeld?").
 
-Vereiste Schrijfstijl (Pas deze consistent toe):
+**Vereiste Schrijfstijl (Pas deze consistent toe):**
 - Taal: Formeel, zakelijk Nederlands.
 - Toon: Collaboratief ("we", "samen", "gezamenlijk"), actiegericht,
   pragmatisch, oplossingsgericht.
@@ -138,7 +138,7 @@ Vereiste Schrijfstijl (Pas deze consistent toe):
 - Structuur: Gebruik heldere zinnen, opsommingen (bullet points)
   waar nodig.
 
-Instructies:
+**Instructies:**
 1. Analyseer het volledige input-transcript.
 2. Identificeer het primaire thema dat in dit transcript wordt
    besproken. Kies uit: 'Sociale Kaart', 'Overlegtafel/transfertafel',
@@ -156,20 +156,27 @@ Instructies:
 6. Controleer op eventueel genoemde KPI's of meetbare resultaten
    en neem deze op in de samenvatting of de lijst.
 
-Input Transcript: [Hier het volledige transcript]
+**Input Transcript:** [Hier het volledige transcript]
 
-Output Format:
-Geïdentificeerd Thema: [Sociale Kaart / Overlegtafel / Verkennend Gesprek]
+**Output Format:**
+**Geïdentificeerd Thema:** [Sociale Kaart / Overlegtafel / Verkennend Gesprek]
 
-Concept Visie [Thema] (ter validatie):
+**Concept Visie [Thema] (ter validatie):**
 [Narratieve samenvatting in de vereiste schrijfstijl]
 
-Cruciale Onderdelen Visie:
+**Cruciale Onderdelen Visie:**
 - [Cruciaal onderdeel 1]
 - [Cruciaal onderdeel 2]
 - [Cruciaal onderdeel 3]
 - ...
 ```
+
+**Waarom deze structuur werkt:**
+- **Rol** positioneert AI als live-documentatie assistent: "de kern samenvatten voor directe feedback" stuurt naar beknopte terugkoppeling, niet naar uitgebreide analyse
+- **Context** geeft de exacte situatie: "Einde van Ronde 1" en "60-minuten discussie aan deze tafel" voorkomt dat AI buiten scope gaat
+- **Vereiste Schrijfstijl** beschermt de toon: "collaboratief" en GGZ-terminologie zorgen dat de output past bij het document dat de zorgverzekeraar verwacht
+- **Instructies** sturen het denkproces: eerst thema identificeren, dan samenvatten, dan cruciale onderdelen extraheren — die volgorde voorkomt dat AI alles tegelijk probeert
+- **Output Format** dwingt bruikbare structuur af: "Geïdentificeerd Thema" + "Concept Visie" + "Cruciale Onderdelen" levert direct materiaal voor terugkoppeling aan de groep
 
 Wat ik hiervan meeneem: de rijkheid zat in de input, niet in de prompt. Omdat Rianne en Jojanneke de menselijke ervaring zo goed hadden ontworpen, hoefde AI alleen maar te bundelen wat er al was.
 

@@ -145,7 +145,11 @@ Na mijn antwoorden: stel follow-up vragen op basis van
 wat ik heb gekozen.
 ```
 
-De kracht zit in "presenteer keuzes (A vs B)". Dat dwingt je om positie te kiezen, en de nuances die je toevoegt bij je keuze zijn precies waar de waarde zit.
+**Waarom deze structuur werkt:**
+- **"Huidige stand van zaken"** dwingt je om context expliciet te maken: doel, doelgroep en worstelingen geven AI genoeg om gerichte vragen te stellen
+- **"Stel me 3-5 scherpe vragen"** keert de rollen om: AI bevraagt jou in plaats van andersom, waardoor je eigen blinde vlekken zichtbaar worden
+- **"Presenteer keuzes (A vs B)"** is de kern: binaire opties dwingen je om positie te kiezen, en de nuances die je toevoegt bij je keuze zijn precies waar de waarde zit
+- **"Follow-up vragen op basis van wat ik heb gekozen"** maakt het een dialoog: elke ronde wordt scherper dan de vorige
 
 ---
 
@@ -200,6 +204,11 @@ Geef concrete suggesties voor prompt-verbeteringen.
 ```
 
 *Dit is een suggestie: pas aan op jouw specifieke situatie.*
+
+**Waarom deze structuur werkt:**
+- **"Dit was de originele output"** en **"Dit is wat ik ervan heb gemaakt"** plaatsen beide versies naast elkaar: AI kan de delta analyseren in plaats van te raden wat je bedoelde
+- **"Waarom denk je dat ik dat veranderde?"** vraagt AI om jouw impliciete voorkeuren te benoemen: de redenen achter je aanpassingen worden expliciet
+- **"Hoe moet ik de prompt aanpassen"** vertaalt het inzicht naar actie: je krijgt niet alleen begrip maar ook concrete prompt-verbeteringen
 
 Dit lijkt extra werk, maar het is een investering. Elke iteratie maakt je prompts scherper.
 

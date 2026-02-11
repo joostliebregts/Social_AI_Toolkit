@@ -82,10 +82,11 @@ Per fase:
 
 *Bron: Smartphonevrij gemeenschapsanalyse prompt*
 
-**Waarom dit werkt:**
-- "Letterlijke bewoordingen van de deelnemers" beschermt tegen AI-interpretatie: het zijn hún woorden, niet jouw samenvatting
-- "Kijk voorbij de klacht naar de onderliggende waarde" is de kern van intuïtie zwart op wit: niet wat mensen zeggen, maar wat daaronder zit
-- "Per fase" geeft structuur aan een gevoel dat je al had ("de gesprekken over kleuters waren anders") maar nu benoemen kunt
+**Waarom deze structuur werkt:**
+- **Context & Rol** positioneert AI als strateeg en gemeenschapsbouwer: dat stuurt naar patronen herkennen, niet naar samenvatten
+- **Opdracht** splitst de analyse in twee lagen: "emotionele leefwereld in kaart" per schoolfase geeft structuur aan wat je al aanvoelde
+- **Randvoorwaarden** beschermen de authenticiteit: "letterlijke bewoordingen" voorkomt AI-interpretatie, "kijk voorbij de klacht" stuurt naar wat er onder de oppervlakte zit
+- **Output** dwingt ordening per fase af: angsten, energie en citaten per schoolfase maken het gevoel ("de gesprekken over kleuters waren anders") concreet en deelbaar
 
 ---
 
@@ -139,11 +140,12 @@ Per gevonden patroon:
 
 *Dit is een startpunt: pas aan op jouw specifieke situatie en voeg context toe over wat je zoekt.*
 
-**Waarom dit werkt:**
-- "Baseer strikt op wat er staat, niet op interpretatie" voorkomt dat AI je confirmation bias voedt
-- "Bij twijfel: 'mogelijk' in plaats van stellige bewering" houdt ruimte voor de groep om zelf te toetsen
-- "Gebruik hun woorden, niet jouw samenvattingen" behoudt eigenaarschap: mensen herkennen zichzelf
-- "Zoek niet naar wat ik wil vinden" maakt je eigen vooringenomenheid expliciet in de prompt
+**Waarom deze structuur werkt:**
+- **Rol** definieert de expertise: "patroon-analist" stuurt AI naar het zichtbaar maken van impliciete dynamiek, niet naar oplossingen
+- **Context** maakt de intuïtie expliciet: "ik heb een intuïtie dat er iets verschuift" geeft AI richting zonder te sturen naar een conclusie
+- **Opdracht** structureert het zoekproces: vier specifieke invalshoeken (toon, thema's, waardensystemen, kantelmomenten) voorkomen dat AI oppervlakkig scant
+- **Randvoorwaarden** beschermen tegen confirmation bias: "baseer strikt op wat er staat" en "zoek niet naar wat ik wil vinden" dwingen eerlijkheid af
+- **Output** dwingt bruikbare structuur af: "herkenbare naam in de taal van de groep" en "wat er verschuift" maken patronen bespreekbaar
 
 ---
 

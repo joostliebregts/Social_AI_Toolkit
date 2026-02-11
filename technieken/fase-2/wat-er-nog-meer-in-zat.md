@@ -146,11 +146,11 @@ Focus op de gemene deler, niet op overtuigen.
 
 *Bron: De prompt die we samen met AI bouwden na het iteratie-gesprek.*
 
-**Waarom dit werkt:**
-- "Systemisch strateeg" — positioneert AI als analytisch denker, niet als samenvatter
-- "Letterlijke bewoordingen" — beschermt de taal van deelnemers tegen AI-interpretatie
-- "Empathisch, gericht op de wens goed ouder te zijn" — Maartens toon-correctie, ingebouwd in de prompt
-- "Concrete haakjes, geen letterlijke scripts" — output die Maarten zelf kan inzetten op zijn manier
+**Waarom deze structuur werkt:**
+- **Context & Rol** positioneert AI als analytisch denker: "systemisch strateeg" stuurt naar patronen en verbindingen, niet naar samenvatten
+- **Opdracht** splitst de analyse in twee complementaire delen: een strategisch overzicht ("De Giant Map") en een praktische toolkit ("De Gesprekswaaier") — analyse én actie in één
+- **Randvoorwaarden** beschermen de authenticiteit: "letterlijke bewoordingen" voorkomt AI-interpretatie, "empathisch, gericht op de wens goed ouder te zijn" is Maartens toon-correctie ingebouwd in de prompt
+- **Output** levert drie bruikbare lagen: heatmaps (emotie per schoolfase), interne strijd (de spiegel), gesprekswaaier (concrete haakjes) — van inzicht naar actie
 
 ---
 

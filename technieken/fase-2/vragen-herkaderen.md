@@ -128,11 +128,11 @@ Help me reflecteren:
 - Hoe herken ik dit patroon de volgende keer eerder?
 ```
 
-**Waarom dit werkt:**
-- "Ik had vandaag een sessie" — plaatst AI als reflectiepartner, niet als expert
-- "Dit is wat er gebeurde" — dwingt je om concreet te beschrijven wat je deed, niet abstract
-- "Welke herkader-strategie had hier gepast?" — koppelt terug naar de drie strategieën op deze pagina
-- "Hoe herken ik dit patroon eerder?" — je bouwt een repertoire op voor de volgende keer
+**Waarom deze structuur werkt:**
+- **"Ik had vandaag een sessie"** plaatst AI als reflectiepartner, niet als expert
+- **"Dit is wat er gebeurde"** dwingt je om concreet te beschrijven wat je deed, niet abstract
+- **"Welke herkader-strategie had hier gepast?"** koppelt terug naar de drie strategieën op deze pagina
+- **"Hoe herken ik dit patroon eerder?"** helpt je een repertoire opbouwen voor de volgende keer
 
 *Dit is een suggestie: pas aan op jouw specifieke situatie.*
 
