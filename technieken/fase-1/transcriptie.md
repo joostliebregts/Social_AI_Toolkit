@@ -114,7 +114,7 @@ Transcriptie is je vangnet. Niet als vervanging voor aandacht, maar als backup v
 
 De prompt hieronder is uitgebreider dan je misschien verwacht voor "vastleggen wat je niet kon horen". Dat is bewust. Dit is de daadwerkelijke prompt die Maarten en ik gebruikten na de ouderavond over smartphonevrij opgroeien. Hij laat zien hoe je in één keer van transcript naar bruikbare inzichten gaat: niet alleen wat er gezegd is, maar ook hoe je het kunt gebruiken in vervolgesprekken.
 
-```
+```prompt
 # CONTEXT & ROL
 
 Je fungeert als een systemisch strateeg en gemeenschapsbouwer die [De Initiatiefnemer] ondersteunt. Hij heeft een lokale werkgroep opgericht op de basisschool van zijn kinderen met als doel: het smartphonegebruik bij kinderen uitstellen en de norm veranderen (streven naar >25% smartphonevrij in de klas om groepsdruk te verlagen).
@@ -211,7 +211,7 @@ AI genereerde een prompt met structuur (in het kort, terugblik, beslissingen, ac
 
 **Kernbesluiten Capture:**
 
-```
+```prompt
 **Rol**: Je bent een nauwkeurige notulist die expliciet genomen besluiten
 vastlegt zonder interpretatie.
 

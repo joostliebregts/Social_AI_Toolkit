@@ -74,7 +74,7 @@ Hieronder de prompts die we daadwerkelijk gebruikten in het verhaal hierboven.
 
 In plaats van direct een analyse-prompt te schrijven, vroeg ik AI om mee te denken:
 
-```
+```prompt
 Zojuist had ik het met Maarten over hun traject over smartphonevrij
 opgroeien. Wat ik je heb toegevoegd is context over hoe Maarten
 die meeting heeft voorbereid — zijn wensen en intenties — en het
@@ -108,7 +108,7 @@ Drie keer corrigeerde en nuanceerde hij. De prompt werd niet door AI bepaald; Ma
 
 Op basis van Maartens antwoorden bouwde AI deze prompt:
 
-```
+```prompt
 # CONTEXT & ROL
 Je fungeert als een systemisch strateeg die [De Initiatiefnemer]
 ondersteunt. Hij heeft een lokale werkgroep opgericht met als doel:

@@ -71,7 +71,7 @@ Voordat je een prompt kunt schrijven, moet je begrijpen wat de kenmerken zijn va
 
 **De analyse-prompt:**
 
-```
+```prompt
 Analyseer dit document en identificeer:
 
 1. Structuur: Welke secties komen terug? In welke volgorde?
@@ -117,7 +117,7 @@ Neem de stijlkenmerken letterlijk op in elke prompt die output moet genereren.
 
 **Voorbeeld: stijlrichtlijnen embedded**
 
-```
+```prompt
 Formuleer in de volgende schrijfstijl:
 - Taal: Formeel, zakelijk Nederlands
 - Toon: Collaboratief ("we", "samen"), actiegericht, pragmatisch
@@ -159,7 +159,7 @@ Dit is ook een voorproefje op [Fase 3: Schaal](../../fase-3-schaal.md), waar je 
 - Terminologie uit het brondocument (IZA, GALA, MGN)
 - Doel van de output expliciet genoemd
 
-```
+```prompt
 **Prompt voor Dembrane (Tussentijdse Visie Terugkoppeling - Universeel)**
 
 **Rol:** Je bent een AI-assistent die helpt bij het live documenteren van een transformatieplan-sessie. Jouw taak nu is om de kern van de zojuist gevoerde visie-discussie samen te vatten voor directe feedback aan de groep.
@@ -211,7 +211,7 @@ Dit is ook een voorproefje op [Fase 3: Schaal](../../fase-3-schaal.md), waar je 
 - Tagging-systeem voor latere synthese
 - Output gericht op doorgeven naar volgende ronde
 
-```
+```prompt
 **Prompt voor Dembrane (Continue Verwerking & Vragen - Universeel)**
 
 **Rol:** Je bent een AI-analist en redacteur die live gesprekken volgt voor een transformatieplan GGZ. Jouw taken zijn het extraheren van kernpunten en het identificeren van vragen voor verdere discussie.
@@ -264,7 +264,7 @@ Dit is ook een voorproefje op [Fase 3: Schaal](../../fase-3-schaal.md), waar je 
 - Structuur van brondocument overgenomen
 - Ruimte voor "ontbrekende informatie"
 
-```
+```prompt
 **Prompt voor Dembrane (Eind-Synthese Deelplan per Thema - Universele Template)**
 
 **Rol:** Je bent de hoofdredacteur die de input van de gehele workshop consolideert tot een concept-deelplan voor het transformatieplan [Naam Nieuwe Regio].

@@ -110,7 +110,7 @@ Herkaderen is een menselijke vaardigheid die je ter plekke toepast. AI kan je he
 
 Dit is waar een transcript zo waardevol wordt: je kunt het gebruiken voor je eigen leerdoeleinden. Niet alleen om te analyseren wat de groep zei, maar om te reflecteren op je eigen facilitatie.
 
-```
+```prompt
 Ik had vandaag een sessie. Op een gegeven moment liep het gesprek vast.
 
 Dit is wat er gebeurde:

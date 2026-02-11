@@ -105,10 +105,7 @@ G3 feedback op v3   ──► prompt ──► concept v4 ✓ (finale)
 
 Steeds dezelfde prompt. Steeds meer input. Het document groeit mee.
 
-<details>
-<summary>Bekijk de volledige prompt (deze is zeer lang)</summary>
-
-```
+```prompt
 **Rol:** Je bent een analytisch redacteur en strategisch ontwikkelaar. Je destilleert eerst de kerninzichten uit de aangeleverde discussie(s). Vervolgens synthetiseer je deze volledig tot een uitgebreid, gedetailleerd, toekomstgericht, en transparant concept (of herzien concept) deelplan voor het Mentaal Gezondheidsnetwerk [regio], waarbij de geïdentificeerde kernwaarden als een rode draad door de tekst zijn verweven.
 
 **Context:**
@@ -234,9 +231,6 @@ Overwogen Alternatieven en Mogelijke Blinde Vlekken
 - De zorg over [onderwerp C] is geadresseerd door [wijziging W].
 (3-5 bullet points)
 ```
-
-
-</details>
 
 **Deze prompt aanpassen voor jouw context.** De thema's, terminologie en documentstructuur hierboven zijn specifiek voor het mentaal gezondheidsnetwerk. Je kunt de prompt aanpassen door:
 - De **Rol** te wijzigen naar jouw document-type (projectplan, beleidsnotitie, strategisch kader)

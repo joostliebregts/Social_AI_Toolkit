@@ -125,7 +125,7 @@ Voor het volledige verhaal van hoe dit eruit zag in de praktijk — drie vragen,
 
 Dit gedrag (AI die jou vragen stelt met A/B opties) moet je expliciet triggeren. Hier is de prompt die dat doet:
 
-```
+```prompt
 Ik werk aan [PROJECT/DOEL].
 
 Huidige stand van zaken:
@@ -183,7 +183,7 @@ Wanneer AI output niet klopt, geef specifieke feedback. Spreek het uit alsof je 
 
 Stel je voor: je hebt AI output flink aangepast. Je hebt zinnen herschreven, structuur veranderd, toon aangepast. In plaats van dat werk te "verliezen", kun je het terugvoeren naar AI zodat je prompt de volgende keer beter werkt.
 
-```
+```prompt
 Dit was de originele output:
 [plak AI output]
 
@@ -220,7 +220,7 @@ De stappen:
 3. **Verzamel de output**: wat kwam eruit?
 4. **Voer terug naar de AI die de prompt maakte:**
 
-```
+```prompt
 Ik heb de prompt die we samen maakten getest op een echt transcript.
 
 Dit is de output die eruit kwam:
@@ -256,7 +256,7 @@ Dit is een tijdsintensieve techniek voor werk dat je echt tot in de puntjes wilt
 
 Aan beide AI's (apart):
 
-```
+```prompt
 We hebben samen gewerkt aan [PROJECT/VRAAG].
 
 Maak een samenvatting van:
@@ -273,7 +273,7 @@ Wees kritisch en eerlijk over beperkingen.
 
 Voer samenvatting A aan Model B:
 
-```
+```prompt
 Een andere AI heeft deze samenvatting gemaakt van werk
 aan dezelfde vraag:
 
@@ -290,7 +290,7 @@ Doe hetzelfde andersom.
 
 #### Stap 3: Integreer
 
-```
+```prompt
 Ik heb nu twee analyses en wederzijdse kritiek.
 
 Analyse A: [SAMENVATTING A]

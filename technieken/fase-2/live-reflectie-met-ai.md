@@ -86,7 +86,7 @@ Echo werkt op synthese en serendipity niveau. Het verbindt én vraagt door.
 
 Dit is de werkende echo-prompt uit de Doesburg bestuurders-workshop.
 
-```
+```prompt
 **Rol:** Je bent een ervaren groepsdynamiek-expert die signalen van
 vermeden onderwerpen, onuitgesproken spanningen en verschillende
 perspectieven detecteert in dialogen.

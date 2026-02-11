@@ -103,7 +103,7 @@ Door taalbehoud expliciet te maken in de prompt. Niet als bijzaak, maar als kern
 
 Dit is een prompt die we gebruikten voor een bestuurders-workshop in een kleine gemeente. Let op hoe de randvoorwaarden voor taalbehoud specifiek en concreet zijn:
 
-```
+```prompt
 **Rol**: Je bent een strategisch redacteur met expertise in visievorming
 die individuele toekomstbeelden omzet in één krachtige, gezamenlijk
 gedragen visie.
@@ -184,7 +184,7 @@ Dit is de analyse-aanpak die we gebruikten bij een sleutelfigurensessie in Doesb
 **Wanneer:** Na een sessie met gestructureerde rondes (bijv. droombeeld → uitdagingen → eigen mogelijkheden).
 
 **Prompt:**
-```
+```prompt
 **Context**: Je analyseert het transcript van [één tafel/sessie/breakout]
 over [onderwerp]. De sessie had [aantal] rondes: [ronde-namen].
 
@@ -272,7 +272,7 @@ Kijk naar het output format:
 Dit is taalbehoud in actie. Niet "sommigen vinden X, anderen vinden Y" — maar letterlijke quotes die laten zien hoe verschillende mensen het framen. Deelnemers herkennen zichzelf. En dat is precies waar eigenaarschap begint.
 
 **De prompt:**
-```
+```prompt
 **Rol**: Je bent een ervaren groepsdynamiek-expert die signalen van
 vermeden onderwerpen, onuitgesproken spanningen en verschillende
 perspectieven detecteert in dialogen.

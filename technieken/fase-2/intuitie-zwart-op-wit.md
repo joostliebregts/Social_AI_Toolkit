@@ -57,7 +57,7 @@ Het gevoel was er. AI maakte het zichtbaar.
 
 **De prompt die dit opleverde:**
 
-```
+```prompt
 # CONTEXT & ROL
 Je fungeert als een systemisch strateeg en gemeenschapsbouwer.
 Je hebt toegang tot het transcript van een ouderbijeenkomst (~14 deelnemers).
@@ -107,7 +107,7 @@ Het verschil zit niet in de verrassing, maar in de herkenning. Je wist het al; n
 
 Een prompt om patronen expliciet te maken die je intuïtief aanvoelt:
 
-```
+```prompt
 # ROL
 Je bent een patroon-analist die helpt om impliciete groepsdynamiek
 zichtbaar te maken.
