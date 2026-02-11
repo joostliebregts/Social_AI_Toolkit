@@ -1,6 +1,4 @@
-![Taal als eigenaarschap mechanisme](../../images/taalalseigenaarschapmechanisme.png)
-
-# Taal als eigenaarschap
+![[taalalseigenaarschapmechanisme.png]]# Taal als eigenaarschap
 
 > *Het verschil tussen "communicatieproblemen" en "je praat tegen een muur" is niet semantisch — het eerste ondermijnt eigenaarschap, het tweede creëert het.*
 
@@ -46,9 +44,7 @@ De transitie is zichtbaar: van shock ("AI begrijpt ons?!") naar herkenning ("dit
 Niemand zou dezelfde reactie hebben gehad op een synthese die hun woorden had vertaald naar beleidstaal. Het verschil zit niet in de structuur. Het verschil zit in de taal.
 
 ---
-
-![Mechanisme: letterlijk citeren](../../images/taal-behouden-mechanisme-letterlijk.png)
-
+![[taal-behouden-mechanisme-letterlijk.png]]
 ## Het mechanisme: herkenning creëert eigenaarschap
 
 Waarom werkt dit? Het mechanisme is simpel maar fundamenteel:
@@ -169,9 +165,9 @@ Op de transcriptiepagina zag je de [volledige prompt voor de smartphonevrij-oude
 > **Vorm:** Geef concrete haakjes en inzichten, geen letterlijke scripts die [De Initiatiefnemer] moet voorlezen. Hij wil zijn eigen authenticiteit bewaken.
 
 **Waarom dit werkt:**
-- "Letterlijke bewoordingen" is explicieter dan "gebruik hun taal" — het voorkomt dat AI gaat parafraseren
-- "Geen scripts" beschermt de authenticiteit van de facilitator — AI levert bouwstenen, geen kant-en-klare tekst
-- "Maximale herkenbaarheid" benoemt het doel, niet alleen de methode
+- **"Letterlijke bewoordingen"** is explicieter dan "gebruik hun taal" — het voorkomt dat AI gaat parafraseren
+- **"Geen scripts"** beschermt de authenticiteit van de facilitator — AI levert bouwstenen, geen kant-en-klare tekst
+- **"Maximale herkenbaarheid"** benoemt het doel, niet alleen de methode
 
 **Wanneer:** Bij groepen waar je verbinding wilt faciliteren, niet alleen informatie wilt vastleggen.
 
@@ -246,12 +242,12 @@ Niet clusteren — behoud als losse parels met context.
 ```
 
 **Waarom deze structuur werkt:**
-- De eigenaarschaps-schaal (0.0-1.0) geeft AI een concreet kader om taal te scoren
-- "Formuleer als vragen" voorkomt dat AI conclusies trekt die de groep niet heeft getrokken
-- "Losse parels" beschermt outliers tegen de drang om alles te clusteren
-- Don'ts zijn expliciet omdat AI de neiging heeft om frustraties glad te strijken
+- **Eigenaarschaps-schaal** geeft AI een concreet kader (0.0-1.0) om taal te scoren
+- **"Formuleer als vragen"** voorkomt dat AI conclusies trekt die de groep niet heeft getrokken
+- **"Losse parels"** beschermt outliers tegen de drang om alles te clusteren
+- **Don'ts** zijn expliciet omdat AI de neiging heeft om frustraties glad te strijken
 
-*Wil je meerdere sessies vergelijken? Analyseer eerst elke sessie apart met deze prompt, leg de analyses naast elkaar, en zoek patronen. Die stap vind je in Patronen over tijd *(Fase 3 — komt nog)* (Fase 3).*
+*Wil je meerdere sessies vergelijken? Analyseer eerst elke sessie apart met deze prompt, leg de analyses naast elkaar, en zoek patronen. Die stap vind je in [Patronen over tijd](../fase-3/patronen-over-tijd.md) (Fase 3).*
 
 ---
 
@@ -306,10 +302,10 @@ belichten — niet om te oordelen, maar om uitnodigende vragen te stellen.
 De keuze om hier op in te gaan blijft bij jullie.
 ```
 
-**Waarom dit werkt (taalbehoud-lens):**
-- "Verschillende framingen" met letterlijke quotes zorgt dat mensen zichzelf herkennen
-- "Baseer strikt op transcript" voorkomt dat AI gaat interpreteren
-- "Bij twijfel: mogelijk onderbelicht" beschermt tegen te stellige beweringen over wat mensen "eigenlijk" bedoelden
+**Waarom dit werkt:**
+- **"Verschillende framingen"** met letterlijke quotes zorgt dat mensen zichzelf herkennen
+- **"Baseer strikt op transcript"** voorkomt dat AI gaat interpreteren
+- **"Bij twijfel: mogelijk onderbelicht"** beschermt tegen te stellige beweringen over wat mensen "eigenlijk" bedoelden
 
 *Voor de volledige techniek — wanneer inzetten, hoe voorbereiden, de workflow — zie [Live reflectie met AI](../fase-2/live-reflectie-met-ai.md).*
 
@@ -370,6 +366,13 @@ Maar (en dit is cruciaal) snelheid zonder taalbehoud heeft weinig zin. Een snell
 - [Transcriptie als fundament](transcriptie.md): waar dit allemaal mee begint
 - [Brondocument-stijl klonen](brondocument-stijl.md): wanneer je ook structuur en toon moet overnemen
 - [Live reflectie met AI](../fase-2/live-reflectie-met-ai.md): real-time toepassing van taalbehoud
+
+---
+
+**Navigatie:**
+- [Terug naar Fase 1: Begin](../../fase-1-begin.md)
+- [Vorige: Transcriptie](transcriptie.md)
+- [Volgende: Brondocumentstijl](brondocument-stijl.md)
 
 ---
 

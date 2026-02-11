@@ -94,10 +94,10 @@ The difference is subtle but fundamental. Tinkering is solo work. Iterating is c
 > *Another thirty seconds. Now it lands.*
 
 **Why this structure works:**
-- AI learns your needs within the ongoing conversation
-- You articulate more sharply what you want, for yourself and for AI
-- The end result combines AI's capacity with your direction
-- Next time, you can already say: "tone of a conversation between colleagues who've known each other a long time, transparent about needs, no jargon"
+- **Learning context** AI learns your needs within the ongoing conversation
+- **Sharper articulation** you articulate more sharply what you want, for yourself and for AI
+- **Combined capacity** the end result combines AI's capacity with your direction
+- **Next iteration** next time, you can already say: "tone of a conversation between colleagues who've known each other a long time, transparent about needs, no jargon"
 
 *Note: start a new conversation, and the context window is empty again. You start from scratch. That's why it pays to keep iterating within a single session.*
 
@@ -243,9 +243,9 @@ This is different from the feedback loop above. There, you adjust the output and
 This is a time-intensive technique for work you really want to polish: having two AIs review each other's work. I used this for workshop design: ChatGPT and Gemini reviewed each other's output until they converged at 98/100.
 
 **Why this structure works:**
-- Different models have different biases and strengths
-- Critique from a "peer AI" helps identify blind spots
-- Convergence shows robustness of the result
+- **Model diversity** different models have different biases and strengths
+- **Peer critique** critique from a "peer AI" helps identify blind spots
+- **Convergence** shows robustness of the result
 
 **When to consider:**
 - Work where you're really looking for depth (strategic plans, workshop designs)

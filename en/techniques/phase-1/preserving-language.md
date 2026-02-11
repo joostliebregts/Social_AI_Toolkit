@@ -247,10 +247,10 @@ Niet clusteren — behoud als losse parels met context.
 ```
 
 **Why this structure works:**
-- The ownership scale (0.0-1.0) gives AI a concrete framework to score language
-- "Formulate as questions" prevents AI from drawing conclusions the group hasn't drawn
-- "Loose pearls" protects outliers against the urge to cluster everything
-- Don'ts are explicit because AI tends to smooth over frustrations
+- **Ownership scale** gives AI a concrete framework (0.0-1.0) to score language
+- **"Formulate as questions"** prevents AI from drawing conclusions the group hasn't drawn
+- **"Loose pearls"** protects outliers against the urge to cluster everything
+- **Don'ts** are explicit because AI tends to smooth over frustrations
 
 *Want to compare multiple sessions? Analyze each session separately with this prompt first, lay the analyses side by side, and look for patterns. You'll find that step in Patterns over time *(Phase 3, coming soon)* (Phase 3).*
 

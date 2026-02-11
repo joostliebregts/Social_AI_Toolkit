@@ -128,11 +128,11 @@ Help me reflecteren:
 - Hoe herken ik dit patroon de volgende keer eerder?
 ```
 
-**Waarom deze structuur werkt:**
+**Waarom dit werkt:**
 - **"Ik had vandaag een sessie"** plaatst AI als reflectiepartner, niet als expert
 - **"Dit is wat er gebeurde"** dwingt je om concreet te beschrijven wat je deed, niet abstract
-- **"Welke herkader-strategie had hier gepast?"** koppelt terug naar de drie strategieën op deze pagina
-- **"Hoe herken ik dit patroon eerder?"** helpt je een repertoire opbouwen voor de volgende keer
+- **"Welke herkader-strategie"** koppelt terug naar de drie strategieën op deze pagina
+- **"Hoe herken ik dit patroon"** je bouwt een repertoire op voor de volgende keer
 
 *Dit is een suggestie: pas aan op jouw specifieke situatie.*
 
@@ -202,6 +202,10 @@ Dit start nog steeds vanuit het probleem, maar verschuift de focus naar de oplos
 - [Prompt de mensen eerst](prompt-mensen-eerst.md): de vragen vooraf ontwerpen (waar deze techniek uit voortkomt)
 - [Live reflectie met AI](live-reflectie-met-ai.md): AI-gegenereerde vragen in real-time
 - [Iteratie](iteratie.md): je vragen verfijnen door feedback
+
+---
+
+[Vorige: Prompt de mensen eerst](prompt-mensen-eerst.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Fase 3 →](../../fase-3-schaal.md)
 
 ---
 

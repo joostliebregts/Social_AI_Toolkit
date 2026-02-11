@@ -93,11 +93,11 @@ Het verschil is subtiel maar fundamenteel. Sleutelen is solo-werk. Itereren is s
 > **Ronde 2:** "Beter. Maar de eerste alinea is nog te afstandelijk. Maak het persoonlijker."
 > *Weer dertig seconden. Nu klopt het.*
 
-**Waarom dit beter werkt:**
-- AI leert jouw behoeften binnen het lopende gesprek
-- Je formuleert scherper wat je wilt — voor jezelf en voor AI
-- Het eindresultaat combineert AI's capaciteit met jouw richting
-- De volgende keer kun je al zeggen: "toon van een gesprek tussen collega's die elkaar lang kennen, transparant over behoeften, geen jargon"
+**Waarom dit werkt:**
+- **Lerende context** AI leert jouw behoeften binnen het lopende gesprek
+- **Scherper formuleren** je formuleert scherper wat je wilt — voor jezelf en voor AI
+- **Gecombineerde capaciteit** het eindresultaat combineert AI's capaciteit met jouw richting
+- **Volgende iteratie** de volgende keer kun je al zeggen: "toon van een gesprek tussen collega's die elkaar lang kennen, transparant over behoeften, geen jargon"
 
 *Let op: start je een nieuw gesprek, dan is de context window weer leeg en begin je opnieuw. Daarom loont het om binnen één sessie te blijven itereren.*
 
@@ -145,11 +145,7 @@ Na mijn antwoorden: stel follow-up vragen op basis van
 wat ik heb gekozen.
 ```
 
-**Waarom deze structuur werkt:**
-- **"Huidige stand van zaken"** dwingt je om context expliciet te maken: doel, doelgroep en worstelingen geven AI genoeg om gerichte vragen te stellen
-- **"Stel me 3-5 scherpe vragen"** keert de rollen om: AI bevraagt jou in plaats van andersom, waardoor je eigen blinde vlekken zichtbaar worden
-- **"Presenteer keuzes (A vs B)"** is de kern: binaire opties dwingen je om positie te kiezen, en de nuances die je toevoegt bij je keuze zijn precies waar de waarde zit
-- **"Follow-up vragen op basis van wat ik heb gekozen"** maakt het een dialoog: elke ronde wordt scherper dan de vorige
+De kracht zit in "presenteer keuzes (A vs B)". Dat dwingt je om positie te kiezen, en de nuances die je toevoegt bij je keuze zijn precies waar de waarde zit.
 
 ---
 
@@ -203,11 +199,6 @@ Analyseer de verschillen:
 Geef concrete suggesties voor prompt-verbeteringen.
 ```
 
-**Waarom deze structuur werkt:**
-- **"Dit was de originele output"** en **"Dit is wat ik ervan heb gemaakt"** plaatsen beide versies naast elkaar: AI kan de delta analyseren in plaats van te raden wat je bedoelde
-- **"Waarom denk je dat ik dat veranderde?"** vraagt AI om jouw impliciete voorkeuren te benoemen: de redenen achter je aanpassingen worden expliciet
-- **"Hoe moet ik de prompt aanpassen"** vertaalt het inzicht naar actie: je krijgt niet alleen begrip maar ook concrete prompt-verbeteringen
-
 *Dit is een suggestie: pas aan op jouw specifieke situatie.*
 
 Dit lijkt extra werk, maar het is een investering. Elke iteratie maakt je prompts scherper.
@@ -252,9 +243,9 @@ Dit is anders dan de feedback-loop hierboven. Daar pas jij de output aan en laat
 Dit is een tijdsintensieve techniek voor werk dat je echt tot in de puntjes wilt uitwerken: twee AI's elkaars werk laten reviewen. Ik gebruikte dit voor workshop-ontwerp: ChatGPT en Gemini reviewden elkaars output tot ze convergeerden naar 98/100.
 
 **Waarom dit werkt:**
-- Verschillende modellen hebben verschillende biases en sterke punten
-- Kritiek van "peer-AI" helpt blinde vlekken identificeren
-- Convergentie toont robuustheid van resultaat
+- **Modeldiversiteit** verschillende modellen hebben verschillende biases en sterke punten
+- **Peer-kritiek** kritiek van "peer-AI" helpt blinde vlekken identificeren
+- **Convergentie** toont robuustheid van resultaat
 
 **Wanneer te overwegen:**
 - Werk waar je echt diepgang in zoekt (strategische plannen, workshop ontwerpen)
@@ -376,6 +367,10 @@ Dit is hetzelfde mechanisme als bij mensen. Dialoog creëert helderheid. Het fei
 - [Live reflectie met AI](live-reflectie-met-ai.md): real-time toepassing van iteratie
 - [Prompt de mensen eerst](prompt-mensen-eerst.md): de vraag voor de prompt-vraag
 - [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md): het 12-rondes verhaal in detail
+
+---
+
+← [Vorige: Wat er nog meer in zat](wat-er-nog-meer-in-zat.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Prompt de mensen eerst](prompt-mensen-eerst.md) →
 
 ---
 

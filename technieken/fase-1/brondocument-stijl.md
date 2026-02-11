@@ -309,7 +309,7 @@ Dit is ook een voorproefje op [Fase 3: Schaal](../../fase-3-schaal.md), waar je 
 
 *Dit is de prompt die ik destijds gebruikte bij transformatieplan-sessies.*
 
-**Waarom deze structuur werkt:**
+## Waarom deze structuur werkt
 
 Elke prompt hierboven volgt dezelfde structuur die de techniek van brondocument-stijl klonen toepast:
 
