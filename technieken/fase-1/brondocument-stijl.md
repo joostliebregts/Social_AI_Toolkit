@@ -3,7 +3,7 @@
 > *"We weten dat dit document is goedgekeurd door de zorgverzekeraar. Eigenlijk wil ik dat de nieuwe documenten in dezelfde schrijfstijl komen."*
 
 **Fase:** [Fase 1: Begin](../../fase-1-begin.md)
-**Bouwt voort op:** Transcriptie als grondstof voor nieuwe documenten
+**Bouwt voort op:** [Transcriptie als fundament](transcriptie.md) en [Taal als eigenaarschap](taal-behouden.md), nu met stijl van een bestaand document
 
 ---
 

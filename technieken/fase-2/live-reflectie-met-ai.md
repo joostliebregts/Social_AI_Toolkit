@@ -3,7 +3,7 @@
 > *Op precies het juiste moment stelt AI de vraag die de groep verder helpt.*
 
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
-**Bouwt voort op:** Transcriptie als grondstof, nu gebruikt voor real-time interventie
+**Bouwt voort op:** [Transcriptie als fundament](../fase-1/transcriptie.md), nu in real-time als interventie-instrument
 
 ---
 

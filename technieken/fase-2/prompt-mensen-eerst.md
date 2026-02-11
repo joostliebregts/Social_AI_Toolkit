@@ -3,7 +3,7 @@
 > *De kwaliteit van AI-output hangt af van de kwaliteit van de menselijke input.*
 
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
-**Bouwt voort op:** De vraag die voorafgaat aan de AI-prompt
+**Bouwt voort op:** [Transcriptie als fundament](../fase-1/transcriptie.md), met focus op het ontwerpen van de input-ervaring
 
 ---
 
@@ -67,8 +67,7 @@ In welke volgorde vraag je de puzzelstukjes uit? Begin met ervaring, eindig met 
 
 **Stap 4: Formuleer de vragen**
 Hoe krijg je elk puzzelstukje uit mensen? Niet één grote vraag, maar losse vragen die elk iets specifieks opleveren.
-![Backwards design visualisatie](../../images/prompt-mensen-eerst-backwards-design.png)
-
+![[prompt-mensen-eerst-backwards-design.png]]
 **Voorbeeld:**
 - **Doel:** Prioriteiten bepalen op basis van echte ervaring
 - **Puzzelstukjes:** Impact-inschatting + moeite-inschatting + waarde voor anderen
@@ -112,13 +111,16 @@ Eerst het ideaalbeeld (emotie, droom), dan de cruciale onderdelen (wat doet erto
 **De AI-prompt:**
 Omdat de input zo goed gestructureerd was, kon de prompt precies volgen wat de facilitators hadden ontworpen:
 
+<details>
+<summary><strong>Bekijk de volledige prompt</strong></summary>
+
 ```prompt
-**Rol:** Je bent een AI-assistent die helpt bij het live documenteren
+Rol: Je bent een AI-assistent die helpt bij het live documenteren
 van een transformatieplan-sessie. Jouw taak nu is om de kern van
 de gevoerde visie-discussie samen te vatten voor directe feedback
 aan de groep.
 
-**Context:**
+Context:
 - Sessie Deel: Einde van Ronde 1 - Discussie over 5-jaarsperspectief
   (vraag 1 draaiboek).
 - Input: Het volledige transcript van de zojuist afgeronde
@@ -126,7 +128,7 @@ aan de groep.
 - Doel Output: Terugkoppeling aan de deelnemers aan de tafel
   ter validatie ("Klopt dit beeld?").
 
-**Vereiste Schrijfstijl (Pas deze consistent toe):**
+Vereiste Schrijfstijl (Pas deze consistent toe):
 - Taal: Formeel, zakelijk Nederlands.
 - Toon: Collaboratief ("we", "samen", "gezamenlijk"), actiegericht,
   pragmatisch, oplossingsgericht.
@@ -138,7 +140,7 @@ aan de groep.
 - Structuur: Gebruik heldere zinnen, opsommingen (bullet points)
   waar nodig.
 
-**Instructies:**
+Instructies:
 1. Analyseer het volledige input-transcript.
 2. Identificeer het primaire thema dat in dit transcript wordt
    besproken. Kies uit: 'Sociale Kaart', 'Overlegtafel/transfertafel',
@@ -156,27 +158,22 @@ aan de groep.
 6. Controleer op eventueel genoemde KPI's of meetbare resultaten
    en neem deze op in de samenvatting of de lijst.
 
-**Input Transcript:** [Hier het volledige transcript]
+Input Transcript: [Hier het volledige transcript]
 
-**Output Format:**
-**Geïdentificeerd Thema:** [Sociale Kaart / Overlegtafel / Verkennend Gesprek]
+Output Format:
+Geïdentificeerd Thema: [Sociale Kaart / Overlegtafel / Verkennend Gesprek]
 
-**Concept Visie [Thema] (ter validatie):**
+Concept Visie [Thema] (ter validatie):
 [Narratieve samenvatting in de vereiste schrijfstijl]
 
-**Cruciale Onderdelen Visie:**
+Cruciale Onderdelen Visie:
 - [Cruciaal onderdeel 1]
 - [Cruciaal onderdeel 2]
 - [Cruciaal onderdeel 3]
 - ...
 ```
 
-**Waarom deze structuur werkt:**
-- **Rol** positioneert AI als live-documentatie assistent: "de kern samenvatten voor directe feedback" stuurt naar beknopte terugkoppeling, niet naar uitgebreide analyse
-- **Context** geeft de exacte situatie: "Einde van Ronde 1" en "60-minuten discussie aan deze tafel" voorkomt dat AI buiten scope gaat
-- **Vereiste Schrijfstijl** beschermt de toon: "collaboratief" en GGZ-terminologie zorgen dat de output past bij het document dat de zorgverzekeraar verwacht
-- **Instructies** sturen het denkproces: eerst thema identificeren, dan samenvatten, dan cruciale onderdelen extraheren — die volgorde voorkomt dat AI alles tegelijk probeert
-- **Output Format** dwingt bruikbare structuur af: "Geïdentificeerd Thema" + "Concept Visie" + "Cruciale Onderdelen" levert direct materiaal voor terugkoppeling aan de groep
+</details>
 
 Wat ik hiervan meeneem: de rijkheid zat in de input, niet in de prompt. Omdat Rianne en Jojanneke de menselijke ervaring zo goed hadden ontworpen, hoefde AI alleen maar te bundelen wat er al was.
 
@@ -320,6 +317,10 @@ Daarom: prompt de mensen eerst.
 - [Iteratie](iteratie.md): de vragen zelf ontwikkelen via dialoog met AI
 - [Live reflectie met AI](live-reflectie-met-ai.md): real-time vragen stellen op basis van wat gezegd is
 - [Vragen herkaderen](vragen-herkaderen.md): in de sessie zelf vragen in een ander licht plaatsen
+
+---
+
+← [Vorige: Iteratie](iteratie.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Vragen herkaderen](vragen-herkaderen.md) →
 
 ---
 

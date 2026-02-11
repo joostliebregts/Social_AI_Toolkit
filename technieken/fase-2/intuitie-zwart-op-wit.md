@@ -3,7 +3,7 @@
 > *AI maakt zichtbaar wat je al voelde maar nog niet kon benoemen.*
 
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
-**Bouwt voort op:** Transcripten als grondstof voor patroonherkenning
+**Bouwt voort op:** [Transcriptie als fundament](../fase-1/transcriptie.md), als grondstof voor patroonherkenning
 
 ---
 

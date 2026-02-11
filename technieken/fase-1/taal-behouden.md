@@ -3,7 +3,7 @@
 > *Het verschil tussen "communicatieproblemen" en "je praat tegen een muur" is niet semantisch — het eerste ondermijnt eigenaarschap, het tweede creëert het.*
 
 **Fase:** [Fase 1: Begin](../../fase-1-begin.md)
-**Bouwt voort op:** Het fietshelm-verhaal: waar Maarten's eigen woorden de kern blootlegden
+**Bouwt voort op:** [Transcriptie als fundament](transcriptie.md), met focus op het behouden van originele taal
 
 ---
 

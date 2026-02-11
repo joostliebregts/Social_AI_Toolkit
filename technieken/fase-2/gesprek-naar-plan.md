@@ -3,7 +3,7 @@
 > *Live output genereren die betrokkenen direct kunnen beoordelen.*
 
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
-**Bouwt voort op:** [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md), nu in real-time
+**Bouwt voort op:** [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md), nu als live documentatie tijdens sessies
 
 ---
 
@@ -104,6 +104,9 @@ G3 feedback op v3   ──► prompt ──► concept v4 ✓ (finale)
 ```
 
 Steeds dezelfde prompt. Steeds meer input. Het document groeit mee.
+
+<details>
+<summary>Bekijk de volledige prompt (deze is zeer lang)</summary>
 
 ```prompt
 **Rol:** Je bent een analytisch redacteur en strategisch ontwikkelaar. Je destilleert eerst de kerninzichten uit de aangeleverde discussie(s). Vervolgens synthetiseer je deze volledig tot een uitgebreid, gedetailleerd, toekomstgericht, en transparant concept (of herzien concept) deelplan voor het Mentaal Gezondheidsnetwerk [regio], waarbij de geïdentificeerde kernwaarden als een rode draad door de tekst zijn verweven.
@@ -232,6 +235,9 @@ Overwogen Alternatieven en Mogelijke Blinde Vlekken
 (3-5 bullet points)
 ```
 
+
+</details>
+
 **Waarom deze structuur werkt:**
 - **"Baseer output strikt op expliciete informatie"** — voorkomt dat AI gaat verzinnen. Je krijgt eerlijke output met duidelijke gaten die je kunt opvullen.
 - **"Verwijs expliciet naar hoe feedback is verwerkt"** — transparantie over wat er met de input is gedaan. Mensen zien dat hun bijdrage ertoe doet.
@@ -327,6 +333,10 @@ De vorm is anders. Maar de intentie (mensen eigenaar maken van een plan) blijft.
 - De stijl-aanpak (hoe zorg je dat output in het juiste format komt?) staat in [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md)
 - Waarom het behouden van hun exacte woorden zo belangrijk is, lees je in [Taal als eigenaarschap](../fase-1/taal-behouden.md)
 - Voor real-time interventies tijdens de sessie (niet alleen documentatie, maar ook reflectie), zie [Live reflectie met AI](live-reflectie-met-ai.md)
+
+---
+
+← [Vorige: Live reflectie](live-reflectie-met-ai.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Intuïtie zwart op wit →](intuitie-zwart-op-wit.md)
 
 ---
 
