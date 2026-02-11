@@ -229,13 +229,13 @@ Doesburg, Social AI Toolkit, Dembrane. These are proper names.
 
 ### Never translate these elements
 
-1. **Prompts inside code blocks** -- These are already written to work with any LLM and are often in English or should remain in Dutch as working prompts.
-2. **Image filenames and paths** -- `images/echo-button.png` stays unchanged.
-3. **Person names** -- Rianne Runhaar, Jojanneke Diemers, Jeroen, Maarten.
-4. **Project names** -- Doesburg, Social AI Toolkit, Dembrane.
-5. **Tool names** -- MacWhisper, Claude, ChatGPT, Notion AI, Google Doc.
-6. **Code blocks** -- Keep content inside ``` blocks unchanged.
-7. **Frontmatter keys** -- If files have YAML frontmatter, translate values but not keys.
+1. **Prompts inside code blocks** — These are already written to work with any LLM and are often in English or should remain in Dutch as working prompts.
+2. **Image filenames and paths** — `images/echo-button.png` stays unchanged.
+3. **Person names** — Rianne Runhaar, Jojanneke Diemers, Jeroen, Maarten.
+4. **Project names** — Doesburg, Social AI Toolkit, Dembrane.
+5. **Tool names** — MacWhisper, Claude, ChatGPT, Notion AI, Google Doc.
+6. **Code blocks** — Keep content inside ``` blocks unchanged.
+7. **Frontmatter keys** — If files have YAML frontmatter, translate values but not keys.
 
 ---
 
@@ -256,9 +256,9 @@ Keep anonymous. No names. Refer to them generically: "the facilitators", "the se
 
 ### Who CAN be named
 
-- **Rianne Runhaar** -- yes, by name (GGZ Centraal Gelderland)
-- **Jojanneke Diemers** -- yes, by name (GGZ Centraal Gelderland)
-- Other names that appear in published NL content -- preserve as-is
+- **Rianne Runhaar** — yes, by name (GGZ Centraal Gelderland)
+- **Jojanneke Diemers** — yes, by name (GGZ Centraal Gelderland)
+- Other names that appear in published NL content — preserve as-is
 
 ### Credit attribution
 
@@ -272,19 +272,19 @@ Preserve Joost's careful credit attribution. When he says others did the design 
 
 ### Structure (must match exactly)
 
-- **Header levels** -- Keep identical. `##` stays `##`.
-- **Horizontal rules** -- Keep `---` in same positions.
-- **Blockquotes** -- Keep `>` formatting.
-- **Code blocks** -- Keep ``` blocks unchanged (see section D).
-- **Tables** -- Translate content, preserve structure.
-- **Lists** -- Translate content, preserve bullet/number style.
-- **Bold/italic** -- Preserve emphasis on equivalent words.
-- **Checkbox lists** -- `- [ ]` stays `- [ ]`, translate the text.
+- **Header levels** — Keep identical. `##` stays `##`.
+- **Horizontal rules** — Keep `---` in same positions.
+- **Blockquotes** — Keep `>` formatting.
+- **Code blocks** — Keep ``` blocks unchanged (see section D).
+- **Tables** — Translate content, preserve structure.
+- **Lists** — Translate content, preserve bullet/number style.
+- **Bold/italic** — Preserve emphasis on equivalent words.
+- **Checkbox lists** — `- [ ]` stays `- [ ]`, translate the text.
 
 ### Images
 
-- **Paths** -- Keep unchanged: `images/filename.png`
-- **Alt text** -- Translate to English
+- **Paths** — Keep unchanged: `images/filename.png`
+- **Alt text** — Translate to English
 - **Example:** `![Echo-knop in actie](images/echo-button.png)` becomes `![Echo button in action](images/echo-button.png)`
 
 ### Internal links
@@ -322,7 +322,7 @@ All internal NL links must be remapped to their EN equivalents.
 | `veilig-werken.md` | `en/safe-practices.md` |
 | `extra.md` | `en/extra.md` |
 
-### Technique pages -- Phase 1
+### Technique pages — Phase 1
 
 | NL path | EN path |
 |---------|---------|
@@ -330,7 +330,7 @@ All internal NL links must be remapped to their EN equivalents.
 | `technieken/fase-1/taal-behouden.md` | `en/techniques/phase-1/preserving-language.md` |
 | `technieken/fase-1/brondocument-stijl.md` | `en/techniques/phase-1/source-document-style.md` |
 
-### Technique pages -- Phase 2
+### Technique pages — Phase 2
 
 | NL path | EN path |
 |---------|---------|
@@ -342,7 +342,7 @@ All internal NL links must be remapped to their EN equivalents.
 | `technieken/fase-2/vragen-herkaderen.md` | `en/techniques/phase-2/reframing-questions.md` |
 | `technieken/fase-2/wat-er-nog-meer-in-zat.md` | `en/techniques/phase-2/what-else-was-in-there.md` |
 
-### Technique pages -- Phase 3
+### Technique pages — Phase 3
 
 | NL path | EN path |
 |---------|---------|
@@ -353,7 +353,7 @@ All internal NL links must be remapped to their EN equivalents.
 | `technieken/fase-3/groepsdynamiek-mri.md` | `en/techniques/phase-3/group-dynamics-mri.md` |
 | `technieken/fase-3/minderheidsperspectieven.md` | `en/techniques/phase-3/minority-perspectives.md` |
 
-### Technique pages -- Extra
+### Technique pages — Extra
 
 | NL path | EN path |
 |---------|---------|
@@ -428,7 +428,7 @@ These examples show how to translate actual sentences from the toolkit. Study th
 > Het punt is niet dat AI geen plan kan maken — dat kan het prima. Het punt is dat eigenaarschap ontstaat als we iets van onszelf erin stoppen.
 
 **Good English:**
-> The point isn't that AI can't make a plan -- it absolutely can. The point is that ownership emerges when we put something of ourselves into it.
+> The point isn't that AI can't make a plan — it absolutely can. The point is that ownership emerges when we put something of ourselves into it.
 
 **Bad English:**
 > While AI demonstrates plan-creation capabilities, the critical factor is human ownership through personal investment.

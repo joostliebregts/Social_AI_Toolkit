@@ -25,7 +25,7 @@
 
 ## The story: 1 day to 1 minute
 
-We applied this principle for the transformation plan of the mental healthcare network in Centraal Gelderland. It worked -- which is why we then also applied it in Amsterdam.
+We applied this principle for the transformation plan of the mental healthcare network in Centraal Gelderland. It worked — which is why we then also applied it in Amsterdam.
 
 An example from Gelderland. Thirty participants give input for a transformation plan for the mental healthcare network. The old process:
 
@@ -40,7 +40,7 @@ The question: what if AI could generate that draft document directly from the co
 The answer became a live workflow:
 - Transcription runs alongside the (original) facilitated session where sticky notes are used.
 - During short breaks, AI generates draft sections
-- People see their words reflected back, structured -- and recognize them immediately
+- People see their words reflected back, structured — and recognize them immediately
 
 From a day's work to minutes of processing. Without replacing the value of sticky notes or facilitation.
 
@@ -73,7 +73,7 @@ In practice, this looks like:
 4. **Group 2** receives v2, responds and adds to it
 5. AI processes into **draft v3**
 6. **Group 3** receives v3, gives final input
-7. The document has received input and feedback from everyone -- everyone has been able to contribute
+7. The document has received input and feedback from everyone — everyone has been able to contribute
 
 This is the "rolling" variant: each group builds on the improved version from the previous group. AI maintains the thread. This is a preview: in [Phase 3](../../phase-3-scale.md), more variants are covered, such as merging parallel breakouts into a single synthesis.
 
@@ -248,10 +248,10 @@ A quick approach: give AI this prompt together with an example of an existing do
 
 ### Why this prompt works
 
-- **"Base output strictly on explicit information"** -- prevents AI from making things up. You get honest output with clear gaps that you can fill in.
-- **"Refer explicitly to how feedback was processed"** -- transparency about what was done with the input. People see that their contribution matters.
-- **"Core values as thread"** -- the document gets coherence from the values the group itself identified.
-- **The two-part structure (echo + sub-plan)** -- first showing what AI heard, then the document. That sequence gives the group grip: first recognition, then structure.
+- **"Base output strictly on explicit information"** — prevents AI from making things up. You get honest output with clear gaps that you can fill in.
+- **"Refer explicitly to how feedback was processed"** — transparency about what was done with the input. People see that their contribution matters.
+- **"Core values as thread"** — the document gets coherence from the values the group itself identified.
+- **The two-part structure (echo + sub-plan)** — first showing what AI heard, then the document. That sequence gives the group grip: first recognition, then structure.
 - **Style in the prompt.** The prompt contains style guidelines so AI doesn't write generically, but in the language and structure the organization expects. (See [Source document style cloning](../phase-1/source-document-style.md) for how to define that style.)
 
 ---

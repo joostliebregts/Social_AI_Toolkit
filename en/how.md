@@ -1,12 +1,12 @@
 # How people and AI collaborate
 
-That echo button from the story before -- why did it work?
+That echo button from the story before — why did it work?
 
 The AI did something impressive: summarize half an hour of conversation and formulate exactly the right question. That's remarkable. But it didn't work just because of that.
 
 It worked because it came at the right *moment*. The group was stuck, the energy was dropping, and right then a question arrived that helped them move forward. The AI could ask the question, but the facilitator had to feel when.
 
-We are social beings. We want to matter, to be heard, to build something together. That feeling you walk away with after a collaboration -- that's something only people can create for each other. But AI can help us strengthen that feeling.
+We are social beings. We want to matter, to be heard, to build something together. That feeling you walk away with after a collaboration — that's something only people can create for each other. But AI can help us strengthen that feeling.
 
 The way I see it, it starts there. With the person.
 
@@ -67,7 +67,7 @@ In a session about healthcare innovation, AI had created a beautiful synthesis o
 
 My answer: "It absolutely can, but you are the soul of all this. The fact that you're talking about it is what makes you likely to support it."
 
-The point isn't that AI can't make a plan -- it absolutely can. The point is that ownership emerges when we put something of ourselves into it. When you say it, it's yours. When AI says it, it's AI's.
+The point isn't that AI can't make a plan — it absolutely can. The point is that ownership emerges when we put something of ourselves into it. When you say it, it's yours. When AI says it, it's AI's.
 
 *Does the dialogue stay central, or are we taking a shortcut to solutions?*
 
@@ -128,8 +128,8 @@ How do you get people to speak from their lived experience, not from abstract op
 The way I see it, it starts with a sense of safety. People only truly share when they feel seen. And it depends on the question you ask. Stories connect: lived experience can't be disputed. But a rational summary? You can argue about that.
 
 Compare:
-- "How do you think collaboration in your team is going?" -- you get opinions, abstractions
-- "Can you describe a moment when you collaborated well with a colleague?" -- you get stories, experiences
+- "How do you think collaboration in your team is going?" — you get opinions, abstractions
+- "Can you describe a moment when you collaborated well with a colleague?" — you get stories, experiences
 
 Pay attention to the precise words too. "How *can* we..." suggests you already know something can work. "How *might* we..." opens up possibilities we don't know will work. That difference shapes what people think is an acceptable answer.
 

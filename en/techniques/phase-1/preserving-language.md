@@ -2,7 +2,7 @@
 
 # Language as ownership
 
-> *The difference between "communication issues" and "you're talking to a wall" isn't semantic -- the first undermines ownership, the second creates it.*
+> *The difference between "communication issues" and "you're talking to a wall" isn't semantic — the first undermines ownership, the second creates it.*
 
 **Phase:** [Phase 1: Start](../../phase-1-start.md)
 **Builds on:** The bicycle helmet story: where Maarten's own words revealed the core
@@ -13,7 +13,7 @@
 
 **Situation:** You have a transcript. You want to turn it into a synthesis, summary, or reflection. The group needs to recognize themselves in the result.
 
-**The tendency:** To "clean up" everything into professional language. Translate frustrations into "challenges." Rewrite messy sentences into clean bullet points. The result sounds better -- but nobody recognizes themselves anymore.
+**The tendency:** To "clean up" everything into professional language. Translate frustrations into "challenges." Rewrite messy sentences into clean bullet points. The result sounds better — but nobody recognizes themselves anymore.
 
 **The principle:** When people hear or see their own exact words back in AI output, they recognize themselves. That recognition triggers ownership. Without recognition, no ownership. Without ownership, no commitment.
 
@@ -23,7 +23,7 @@
 
 ## The story: "This is literally what we said"
 
-On the [previous page](transcription.md) you learned how to capture conversations as text. But what do you do when that text needs to go back to someone -- as a synthesis, summary, or reflection?
+On the [previous page](transcription.md) you learned how to capture conversations as text. But what do you do when that text needs to go back to someone — as a synthesis, summary, or reflection?
 
 This is where the tension comes in: the tendency to "clean up" everything into professional language. And the risk that nobody recognizes themselves anymore.
 
@@ -33,13 +33,13 @@ The session is transcribed live with Dembrane. While the discussion is still ong
 
 When it's shown, the reaction stands out.
 
-> "Wait... this is -- yes, this is literally what we said. And now it's in a draft. Wow, impressive."
+> "Wait... this is — yes, this is literally what we said. And now it's in a draft. Wow, impressive."
 
 The participants look at the screen and see their own words reflected back. Not summarized. Not interpreted. Their exact phrasings, structured in a format the health insurer recognizes.
 
 Later in the session, facilitator Jeroen uses the echo button. There's a tense discussion about priorities. AI summarizes the conversation and poses a question.
 
-> "Wow, wow. It really captures it well. This is literally -- yes, this really is the question we need to ask."
+> "Wow, wow. It really captures it well. This is literally — yes, this really is the question we need to ask."
 
 The transition is visible: from shock ("AI understands us?!") to recognition ("this is literally what we said") to ownership ("this is the question we need to ask").
 
@@ -170,8 +170,8 @@ On the transcription page you saw the [full prompt for the smartphone-free paren
 > **Form:** Provide concrete hooks and insights, not literal scripts that [The Initiator] has to read aloud. He wants to protect his own authenticity.
 
 **Why this works:**
-- "Verbatim words" is more explicit than "use their language" -- it prevents AI from paraphrasing
-- "No scripts" protects the facilitator's authenticity -- AI delivers building blocks, not ready-made text
+- "Verbatim words" is more explicit than "use their language" — it prevents AI from paraphrasing
+- "No scripts" protects the facilitator's authenticity — AI delivers building blocks, not ready-made text
 - "Maximum recognizability" names the goal, not just the method
 
 **When:** With groups where you want to facilitate connection, not just capture information.
@@ -252,7 +252,7 @@ Niet clusteren — behoud als losse parels met context.
 - "Loose pearls" protects outliers against the urge to cluster everything
 - Don'ts are explicit because AI tends to smooth over frustrations
 
-*Want to compare multiple sessions? Analyze each session separately with this prompt first, lay the analyses side by side, and look for patterns. You'll find that step in Patterns over time *(Phase 3 -- coming soon)* (Phase 3).*
+*Want to compare multiple sessions? Analyze each session separately with this prompt first, lay the analyses side by side, and look for patterns. You'll find that step in Patterns over time *(Phase 3 — coming soon)* (Phase 3).*
 
 ---
 
@@ -270,7 +270,7 @@ Look at the output format:
 > - "Quote about how this is seen"
 > - "Quote that adds different nuance"
 
-This is language preservation in action. Not "some think X, others think Y" -- but verbatim quotes that show how different people frame things. Participants recognize themselves. And that's exactly where ownership begins.
+This is language preservation in action. Not "some think X, others think Y" — but verbatim quotes that show how different people frame things. Participants recognize themselves. And that's exactly where ownership begins.
 
 **The prompt:**
 ```
@@ -312,7 +312,7 @@ De keuze om hier op in te gaan blijft bij jullie.
 - "Base strictly on transcript" prevents AI from interpreting
 - "When in doubt: possibly underexposed" protects against overly assertive claims about what people "actually" meant
 
-*For the full technique -- when to deploy, how to prepare, the workflow -- see [Live reflection with AI](../phase-2/live-reflection-with-ai.md).*
+*For the full technique — when to deploy, how to prepare, the workflow — see [Live reflection with AI](../phase-2/live-reflection-with-ai.md).*
 
 ---
 

@@ -23,10 +23,10 @@
 
 Iteration takes different forms. Jump to what you're looking for:
 
-- [The story: twelve rounds](#the-story-twelve-rounds) -- why the best prompts don't emerge in round 1
-- [The shift: from tinkering to steering](#the-shift-from-tinkering-to-steering) -- the difference between solo work and collaborating with AI
-- [Iteration upfront: let AI ask you the questions](#iteration-upfront-let-ai-ask-you-the-questions) -- getting clear on what you want before any output comes
-- [The toolbox](#the-toolbox) -- concrete methods for giving feedback, improving prompts, and having AIs review each other's work
+- [The story: twelve rounds](#the-story-twelve-rounds) — why the best prompts don't emerge in round 1
+- [The shift: from tinkering to steering](#the-shift-from-tinkering-to-steering) — the difference between solo work and collaborating with AI
+- [Iteration upfront: let AI ask you the questions](#iteration-upfront-let-ai-ask-you-the-questions) — getting clear on what you want before any output comes
+- [The toolbox](#the-toolbox) — concrete methods for giving feedback, improving prompts, and having AIs review each other's work
 
 ---
 
@@ -51,14 +51,14 @@ This didn't become a one-off prompt. It became twelve rounds.
 **Round 11:** I clarify the context window situation.
 **Round 12:** Prompts are ready.
 
-Four concrete corrections that made the difference. The common thread: you assume AI knows what you know. AI knows an enormous amount -- but not your specific context: the documents you have, the agreements you made, the style you're after. What you don't explicitly provide, doesn't exist for AI.
+Four concrete corrections that made the difference. The common thread: you assume AI knows what you know. AI knows an enormous amount — but not your specific context: the documents you have, the agreements you made, the style you're after. What you don't explicitly provide, doesn't exist for AI.
 
 - "The AI doesn't have access to the example plan, so include the writing style IN the prompt"
 - "Make the prompts universal: AI can detect the theme from the transcript itself"
 - "Prompt 2 should mainly generate questions for the next group"
 - "The AI has access to full transcripts, not fragments"
 
-This insight -- that you need to explicitly tell AI what it needs to know -- also comes back in [Source document style cloning](../phase-1/source-document-style.md), where it's the core of the technique.
+This insight — that you need to explicitly tell AI what it needs to know — also comes back in [Source document style cloning](../phase-1/source-document-style.md), where it's the core of the technique.
 
 When I looked back at this, I saw a pattern: a prompt doesn't emerge in round 1. The prompt evolves through the corrections.
 
@@ -95,11 +95,11 @@ The difference is subtle but fundamental. Tinkering is solo work. Iterating is c
 
 **Why this works better:**
 - AI learns your needs within the ongoing conversation
-- You articulate more sharply what you want -- for yourself and for AI
+- You articulate more sharply what you want — for yourself and for AI
 - The end result combines AI's capacity with your direction
 - Next time, you can already say: "tone of a conversation between colleagues who've known each other a long time, transparent about needs, no jargon"
 
-*Note: start a new conversation, and the context window is empty again -- you start from scratch. That's why it pays to keep iterating within a single session.*
+*Note: start a new conversation, and the context window is empty again — you start from scratch. That's why it pays to keep iterating within a single session.*
 
 ### Dictation as accelerator
 
@@ -107,7 +107,7 @@ The barrier to giving feedback is typing. If you have to type out every correcti
 
 The workflow: AI gives output -> you speak your reaction -> within a second it's there as text
 
-You don't have to formulate while typing. You just say what you think: "No, this is too formal. I'm looking for more of a kitchen table conversation tone." That's faster than typing, and it feels more natural -- more like a conversation.
+You don't have to formulate while typing. You just say what you think: "No, this is too formal. I'm looking for more of a kitchen table conversation tone." That's faster than typing, and it feels more natural — more like a conversation.
 
 *See [Transcription](transcription.md#dictation-as-accelerator) for tools and setup.*
 
@@ -117,9 +117,9 @@ You don't have to formulate while typing. You just say what you think: "No, this
 
 So far, this has been about iteration on output: you get something from AI, you give feedback, AI adjusts. But there's another form: iteration *upfront*. There, you let AI first help you get clear on what you want, before any output comes. The back and forth with AI is a skill in itself.
 
-The technique: ask AI to ask you questions with two options each time. That forces you to choose a position. And the nuances you add to your choice -- "I want both", "but from the positive angle", "I decide myself how I share them" -- make the prompt sharper than it would have been without the dialogue.
+The technique: ask AI to ask you questions with two options each time. That forces you to choose a position. And the nuances you add to your choice — "I want both", "but from the positive angle", "I decide myself how I share them" — make the prompt sharper than it would have been without the dialogue.
 
-For the full story of how this played out in practice -- three questions, three adjustments, a prompt that did exactly what Maarten needed -- see [What else was in there](what-else-was-in-there.md).
+For the full story of how this played out in practice — three questions, three adjustments, a prompt that did exactly what Maarten needed — see [What else was in there](what-else-was-in-there.md).
 
 ### The prompt that makes AI ask you questions
 
@@ -159,19 +159,19 @@ When AI output doesn't land, give specific feedback. Say it as if you're dictati
 
 **For tone:**
 > "Make it warmer, as if you're telling it to a colleague."
-> "This feels like consultant speak -- can you use the participants' words?"
+> "This feels like consultant speak — can you use the participants' words?"
 
 **For structure:**
-> "Too long -- can you use fewer bullets and more narrative?"
-> "The order isn't right -- can you start with X instead of Y?"
+> "Too long — can you use fewer bullets and more narrative?"
+> "The order isn't right — can you start with X instead of Y?"
 
 **For content:**
-> "This misses the nuance about X -- can you add this, this, and this please?"
-> "This is 70% of what I'm looking for. What's missing is X -- can you try again?"
+> "This misses the nuance about X — can you add this, this, and this please?"
+> "This is 70% of what I'm looking for. What's missing is X — can you try again?"
 
 **For framing:**
-> "This is framed too negatively -- can you frame it from what people want?"
-> "This sounds like AI knows it for sure -- can you use 'possibly' and 'it seems like'?"
+> "This is framed too negatively — can you frame it from what people want?"
+> "This sounds like AI knows it for sure — can you use 'possibly' and 'it seems like'?"
 
 **When you don't know what you want:**
 > "This isn't what I'm looking for in terms of tone and structure, but I don't entirely know what I do want. Can you ask me questions to figure out what options there are and which works better for me?"
@@ -356,7 +356,7 @@ The value wasn't in the first attempt. The value was in the process of discoveri
 
 ### Dialogue creates commitment
 
-There's a deeper layer. When you give AI feedback, you articulate what you want. That articulation makes your intention explicit -- for yourself, not just for AI.
+There's a deeper layer. When you give AI feedback, you articulate what you want. That articulation makes your intention explicit — for yourself, not just for AI.
 
 This is the same mechanism as with people. Dialogue creates clarity. The fact that you have to explain what you mean forces you to know what you mean.
 

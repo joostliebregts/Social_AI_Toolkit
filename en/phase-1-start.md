@@ -12,7 +12,7 @@ The principles give direction. Here it becomes concrete: a collection of what be
 
 You've had a conversation. A workshop, an interview, a session with people discussing something important.
 
-Until now, that was fine. You had your notes, your shared memories. But the exact words -- those you didn't have.
+Until now, that was fine. You had your notes, your shared memories. But the exact words — those you didn't have.
 
 Something has changed. We can now make transcripts. Fast, cheap, good enough. And that raises a question: what can you actually do with that, in a social setting?
 
@@ -44,7 +44,7 @@ Transcription is raw material. Foundation for all kinds of things: capturing col
 
 The barrier has dropped to almost zero. An hour of audio costs a few minutes and little money, or even free if you do it locally. And it's not just about conversations with others. With dictation, you also capture your own thoughts: you speak, stop, and within seconds everything is there as text.
 
-But the question isn't how you get text. The question is what you do with it. AI can reread the entire conversation and find things you missed -- not because you weren't paying attention, but because you're human. Recognizing structure: what was decided, who does what, which questions remained open?
+But the question isn't how you get text. The question is what you do with it. AI can reread the entire conversation and find things you missed — not because you weren't paying attention, but because you're human. Recognizing structure: what was decided, who does what, which questions remained open?
 
 > *[Go deeper: Transcription as foundation](techniques/phase-1/transcription.md)*
 
@@ -58,7 +58,7 @@ This is one of the reasons why transcription is so valuable.
 
 The difference between "you're talking to a wall" and "communication issues" seems small. But the first is what someone said: raw, emotional, recognizable. The second is consultant-speak. And that difference determines whether people recognize themselves in the output.
 
-When people see their own words reflected back, ownership emerges. Not because the synthesis is perfect, but because it's recognizable. "Yes, that's what we said" -- that's the moment where participation turns into commitment.
+When people see their own words reflected back, ownership emerges. Not because the synthesis is perfect, but because it's recognizable. "Yes, that's what we said" — that's the moment where participation turns into commitment.
 
 This is the third principle from the [six principles](how.md#3-ownership-through-language): preserving their words verbatim isn't a detail, it's the mechanism.
 
@@ -80,13 +80,13 @@ AI can analyze the style characteristics of a source document and apply them to 
 
 ## What stays human?
 
-This is the question that runs through this entire toolkit. As AI becomes more intelligent, what we do shifts -- but doesn't disappear. In the [six principles](how.md) this kept coming back: what can AI do, and what stays ours?
+This is the question that runs through this entire toolkit. As AI becomes more intelligent, what we do shifts — but doesn't disappear. In the [six principles](how.md) this kept coming back: what can AI do, and what stays ours?
 
 With transcription, the answer is clear.
 
 Transcription is raw material, not an end product. AI can record what was said, but we determine what matters. Which quotes do we share? Which patterns do we emphasize? How do we move the conversation forward?
 
-And perhaps more importantly: the safety in the room, sensing when someone needs space, reading faces. That stays human work. AI can analyze, but feeling the moment -- it can't do that.
+And perhaps more importantly: the safety in the room, sensing when someone needs space, reading faces. That stays human work. AI can analyze, but feeling the moment — it can't do that.
 
 | AI can... | Human must... |
 |-----------|--------------|

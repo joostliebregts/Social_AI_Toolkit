@@ -9,7 +9,7 @@
 
 ## When is this relevant?
 
-**Situation:** You've facilitated a conversation. You feel there's something in it -- a [recurring theme, an unspoken tension](../../phase-2-deepening.md), a dynamic you sense -- but you can't quite put it into words.
+**Situation:** You've facilitated a conversation. You feel there's something in it — a [recurring theme, an unspoken tension](../../phase-2-deepening.md), a dynamic you sense — but you can't quite put it into words.
 
 **The tendency:** To carry your feeling with you, but without the words to make it concrete. You know something's going on; you just can't point to it.
 
@@ -21,7 +21,7 @@
 
 ## The story: the pattern I didn't see
 
-We were facilitating a steering group in a bottom-up change process. This group had already accomplished so much: they hadn't just identified problems and come up with solutions, they had also designed and run sessions themselves. They had gathered input from dozens of people across the organization. They had successes: in multiple meetings it had become clear -- *these are the patterns we all need to address, this is what matters according to the people we've spoken with*.
+We were facilitating a steering group in a bottom-up change process. This group had already accomplished so much: they hadn't just identified problems and come up with solutions, they had also designed and run sessions themselves. They had gathered input from dozens of people across the organization. They had successes: in multiple meetings it had become clear — *these are the patterns we all need to address, this is what matters according to the people we've spoken with*.
 
 And yet there we were, in the same conversation again: everything that could go wrong, all the obstacles, all the reasons to delay the decision.
 
@@ -33,7 +33,7 @@ What came back gave words to what I had felt: two value systems were dominant. *
 
 Not unwillingness. Not resistance. Care.
 
-I hadn't realized that in the moment. All I felt was my own frustration. Only when I saw it in writing did I understand what was going on -- and what I could have done differently: name the pattern *before* I started bottling it up.
+I hadn't realized that in the moment. All I felt was my own frustration. Only when I saw it in writing did I understand what was going on — and what I could have done differently: name the pattern *before* I started bottling it up.
 
 ---
 
@@ -51,7 +51,7 @@ AI analyzed the transcript and identified three phases:
 | **Middle primary** | "The Twilight Zone" | Confusion & First Pressure |
 | **Late primary** | "Reality" | Fear of Exclusion & Regret |
 
-These were patterns that could be intuitively felt -- now they were in writing. With names, with quotes, with a structure.
+These were patterns that could be intuitively felt — now they were in writing. With names, with quotes, with a structure.
 
 The feeling was there. AI made it visible.
 
@@ -224,7 +224,7 @@ The difference between "it seems like" and "analysis shows" is small in words, l
 
 What I keep noticing: intuition is tricky. You feel something's going on, but you can't point to it. It's in your body, not in your head. You know it, but you can't say it.
 
-The way I see it, it depends on your experience how well you can translate that feeling into words. An experienced facilitator feels tension and can immediately name it: "I notice we keep veering away from this topic." I didn't have those words in that one steering group session. I felt the frustration, but I couldn't name what was going on -- until I analyzed the transcript and AI helped me see it.
+The way I see it, it depends on your experience how well you can translate that feeling into words. An experienced facilitator feels tension and can immediately name it: "I notice we keep veering away from this topic." I didn't have those words in that one steering group session. I felt the frustration, but I couldn't name what was going on — until I analyzed the transcript and AI helped me see it.
 
 Here's what's interesting: the intuition was already there. AI didn't create it. What AI did was make the translation: from something invisible to something I could name and discuss.
 
@@ -234,7 +234,7 @@ This is where the magnifying glass metaphor works for me. AI magnifies what's al
 
 Because of this, I now see things I used to miss. It gives me more confidence to name patterns, because I have evidence. And perhaps most valuable: I learn to recognize new patterns, and ways to deal with them next time.
 
-That's also a form of democratization. The frustration I felt in that steering group, the three phases the parents recognized -- recognizing those kinds of patterns used to be reserved for facilitators with years of experience. AI makes that translation more accessible, not by replacing the experience, but by turning the feeling into words.
+That's also a form of democratization. The frustration I felt in that steering group, the three phases the parents recognized — recognizing those kinds of patterns used to be reserved for facilitators with years of experience. AI makes that translation more accessible, not by replacing the experience, but by turning the feeling into words.
 
 ### The value of words
 
@@ -249,10 +249,10 @@ This is what AI can do: not create new truth, but name existing truth.
 ## Related techniques
 
 **Other entry points to deepening:**
-- [What else was in there](what-else-was-in-there.md) -- digging together with AI for structure, hooks, and powerful quotes (this is the reactive variant: you don't yet feel exactly what you're looking for)
+- [What else was in there](what-else-was-in-there.md) — digging together with AI for structure, hooks, and powerful quotes (this is the reactive variant: you don't yet feel exactly what you're looking for)
 
 **Building further:**
-- [Patterns over time](../phase-3/patterns-over-time.md) (Phase 3) -- confirming intuitions over longer processes
+- [Patterns over time](../phase-3/patterns-over-time.md) (Phase 3) — confirming intuitions over longer processes
 
 ---
 

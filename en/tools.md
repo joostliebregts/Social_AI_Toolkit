@@ -6,7 +6,7 @@
 
 ---
 
-The tool matters less than what you do with it. But it helps to know what's out there -- and what makes each one different.
+The tool matters less than what you do with it. But it helps to know what's out there — and what makes each one different.
 
 ---
 
@@ -31,10 +31,10 @@ The tool matters less than what you do with it. But it helps to know what's out 
 ### MacWhisper
 
 **What is it?**
-A Mac app that turns speech into text -- entirely on your own computer, without anything going to the cloud. Developed by Jordi Bruin, based on OpenAI's Whisper technology.
+A Mac app that turns speech into text — entirely on your own computer, without anything going to the cloud. Developed by Jordi Bruin, based on OpenAI's Whisper technology.
 
 **Why I use it:**
-Dictation is the number one reason. It changes the entire workflow: dictate → AI → dictate → AI. The threshold for capturing thoughts drops to almost zero. Giving feedback to AI, speaking observations after a session, thinking out loud -- it all goes faster than typing.
+Dictation is the number one reason. It changes the entire workflow: dictate → AI → dictate → AI. The threshold for capturing thoughts drops to almost zero. Giving feedback to AI, speaking observations after a session, thinking out loud — it all goes faster than typing.
 
 **Bonus: privacy-first**
 Everything happens locally on your Mac. No audio to servers, no text to the cloud. Useful for sensitive conversations.
@@ -54,7 +54,7 @@ It's like having three advisors. The same question, but different style, differe
 ### Claude (Anthropic)
 
 **What is it?**
-An AI assistant from Anthropic, founded by former OpenAI researchers. Anthropic distinguishes itself through a strong focus on AI safety -- they have a team that looks at the long-term impact of AI on humanity.
+An AI assistant from Anthropic, founded by former OpenAI researchers. Anthropic distinguishes itself through a strong focus on AI safety — they have a team that looks at the long-term impact of AI on humanity.
 
 **How it feels:**
 What I notice: thoughtful. Sometimes you get two sentences when that's enough. Less "here's everything I know," more to-the-point.
@@ -71,7 +71,7 @@ What I notice: thoughtful. Sometimes you get two sentences when that's enough. L
 The AI assistant from OpenAI, the company that kicked off the generative AI wave with GPT-3. ChatGPT was the first to be used on a massive scale and is still the best known.
 
 **How it feels:**
-Extensive. The way I see it, ChatGPT's helpfulness lies in its richness and volume -- answers are often long and detailed. Becoming increasingly commercial.
+Extensive. The way I see it, ChatGPT's helpfulness lies in its richness and volume — answers are often long and detailed. Becoming increasingly commercial.
 
 **When to use:**
 - Sparring and quick analysis
@@ -81,10 +81,10 @@ Extensive. The way I see it, ChatGPT's helpfulness lies in its richness and volu
 ### Gemini (Google)
 
 **What is it?**
-Google's AI assistant, based on their own language models. Distinguishes itself through an enormous context window (1 million tokens) -- you can feed it entire books.
+Google's AI assistant, based on their own language models. Distinguishes itself through an enormous context window (1 million tokens) — you can feed it entire books.
 
 **How it feels:**
-What strikes me: Gemini filters noise. With the same prompt, its answer was 4x shorter than Claude and ChatGPT -- but still good. It seems like Gemini itself chooses what really matters. Emotionally intelligent.
+What strikes me: Gemini filters noise. With the same prompt, its answer was 4x shorter than Claude and ChatGPT — but still good. It seems like Gemini itself chooses what really matters. Emotionally intelligent.
 
 **When to use:**
 - Analyzing very large documents
@@ -98,10 +98,10 @@ What strikes me: Gemini filters noise. With the same prompt, its answer was 4x s
 ### T3 Chat
 
 **What is it?**
-A "multi-model interface" -- one chat app that gives you access to Claude, ChatGPT, Gemini, and other models simultaneously. Made by developer Theo Browne. Instead of three separate subscriptions and three separate tabs, you have everything in one window.
+A "multi-model interface" — one chat app that gives you access to Claude, ChatGPT, Gemini, and other models simultaneously. Made by developer Theo Browne. Instead of three separate subscriptions and three separate tabs, you have everything in one window.
 
 **Why I use it:**
-Speed -- no switching between tabs and logins. And price/value -- cheaper than separate subscriptions ($8/month for access to models that would cost $60+ separately). It makes it easy to try and compare different models.
+Speed — no switching between tabs and logins. And price/value — cheaper than separate subscriptions ($8/month for access to models that would cost $60+ separately). It makes it easy to try and compare different models.
 
 **When to use:**
 - You want to compare outputs from different models
@@ -110,14 +110,14 @@ Speed -- no switching between tabs and logins. And price/value -- cheaper than s
 ### Claude Code + Finn
 
 **What is it?**
-Claude Code is Anthropic's "agentic coding tool" -- AI that doesn't just answer, but actually executes tasks. It runs in your terminal or development environment, reads your entire project, and can independently edit files, write code, and execute workflows.
+Claude Code is Anthropic's "agentic coding tool" — AI that doesn't just answer, but actually executes tasks. It runs in your terminal or development environment, reads your entire project, and can independently edit files, write code, and execute workflows.
 
-"Agentic" means: the AI takes initiative. You give an instruction ("analyze these five transcripts and create a synthesis"), and Claude Code carries it out -- reads the files, creates analyses, writes output, asks for feedback, adjusts. That's fundamentally different from a chat where you always have to figure out the next step yourself.
+"Agentic" means: the AI takes initiative. You give an instruction ("analyze these five transcripts and create a synthesis"), and Claude Code carries it out — reads the files, creates analyses, writes output, asks for feedback, adjusts. That's fundamentally different from a chat where you always have to figure out the next step yourself.
 
 **How I use it:**
-By loading my personal context files, Claude Code gets a personality -- Finn. Tuned to my preferences, with skills I've developed: writing style check, prompt generation through interviews, best practices from a year and a half of work.
+By loading my personal context files, Claude Code gets a personality — Finn. Tuned to my preferences, with skills I've developed: writing style check, prompt generation through interviews, best practices from a year and a half of work.
 
-A concrete example: when analyzing multiple parallel table conversations, Claude Code can independently analyze each transcript separately, place the analyses side by side, identify patterns, and create a synthesis -- all in one instruction.
+A concrete example: when analyzing multiple parallel table conversations, Claude Code can independently analyze each transcript separately, place the analyses side by side, identify patterns, and create a synthesis — all in one instruction.
 
 **When to use:**
 - Toolkit development: writing and iterating on content
@@ -134,7 +134,7 @@ A concrete example: when analyzing multiple parallel table conversations, Claude
 **What is it?**
 A platform from Eindhoven that uses AI for group conversations. You can transcribe live, analyze directly, and give the group real-time feedback. According to the makers: "Helping communities grow smarter as they grow larger."
 
-The core: ECHO, their tool that captures conversations, analyzes them, and generates insights -- using the exact words of participants, so they recognize themselves in the output.
+The core: ECHO, their tool that captures conversations, analyzes them, and generates insights — using the exact words of participants, so they recognize themselves in the output.
 
 **How I use it:**
 "Dictation but for groups." Semi-live: breakout → conversation → reflect back via projector → group responds → back to AI. A new collaboration tool that didn't exist before.
@@ -148,15 +148,15 @@ Using AI in the conversation with a human touch. You introduce it as a person.
 - Groups without an experienced facilitator who still want structure
 
 **What makes it different:**
-"10 seconds. One question. The conversation that was stuck started moving." The timing makes the difference -- feedback in the moment lands differently than a report after the fact.
+"10 seconds. One question. The conversation that was stuck started moving." The timing makes the difference — feedback in the moment lands differently than a report after the fact.
 
 ### Notion AI
 
 **What is it?**
-Notion is an "all-in-one workspace" -- an app that combines notes, documents, databases, and project management. Notion AI adds artificial intelligence to that: summarizing, writing, asking questions of your documents.
+Notion is an "all-in-one workspace" — an app that combines notes, documents, databases, and project management. Notion AI adds artificial intelligence to that: summarizing, writing, asking questions of your documents.
 
 **How I use it:**
-Notion is my work environment -- a lot of my context already lives there. Now with powerful AI models (Claude Opus 4.5, Gemini 3 Pro) that can work with all that context.
+Notion is my work environment — a lot of my context already lives there. Now with powerful AI models (Claude Opus 4.5, Gemini 3 Pro) that can work with all that context.
 
 **What it does:**
 - Integrated meetings tool with live transcription (digital and in-person)
@@ -164,12 +164,12 @@ Notion is my work environment -- a lot of my context already lives there. Now wi
 - Everything in one place: recordings, transcripts, notes, documents
 
 **Why it's interesting:**
-Notion AI is something to keep an eye on. It's becoming increasingly powerful -- precisely because so much context already lives there.
+Notion AI is something to keep an eye on. It's becoming increasingly powerful — precisely because so much context already lives there.
 
 ### NotebookLM
 
 **What is it?**
-Google's "virtual research assistant" -- you upload sources (PDFs, docs, websites), and NotebookLM helps you understand them. The special thing: the AI only answers based on your sources, not based on the entire internet.
+Google's "virtual research assistant" — you upload sources (PDFs, docs, websites), and NotebookLM helps you understand them. The special thing: the AI only answers based on your sources, not based on the entire internet.
 
 The best-known feature is "Audio Overview": NotebookLM creates a podcast from your documents. Two AI hosts discuss the key themes in an accessible conversation. By now also: video presentations, infographics, and slide decks.
 
