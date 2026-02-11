@@ -256,8 +256,4 @@ Dit is wat AI kan: niet nieuwe waarheid creëren, maar bestaande waarheid benoem
 
 ---
 
-<- [Vorige: Van gesprek naar plan](gesprek-naar-plan.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Wat er nog meer in zat ->](wat-er-nog-meer-in-zat.md)
-
----
-
 *"AI maakt zichtbaar wat intuïtief aan te voelen was, maar nog niet zwart op wit stond."*

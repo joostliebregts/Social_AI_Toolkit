@@ -373,11 +373,4 @@ Maar (en dit is cruciaal) snelheid zonder taalbehoud heeft weinig zin. Een snell
 
 ---
 
-**Navigatie:**
-- [Terug naar Fase 1: Begin](../../fase-1-begin.md)
-- [Vorige: Transcriptie](transcriptie.md)
-- [Volgende: Brondocumentstijl](brondocument-stijl.md)
-
----
-
 *De woorden van deelnemers zijn niet alleen informatie, ze zijn eigenaarschap.*

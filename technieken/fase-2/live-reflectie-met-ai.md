@@ -273,8 +273,4 @@ Maar (en dit is cruciaal) de facilitator moet de vraag eigendom maken. Niet: "AI
 
 ---
 
-← [Terug naar Fase 2: Verdieping](../../fase-2-verdieping.md) | [← Vorige: Vragen herkaderen](vragen-herkaderen.md) | [Volgende: Van gesprek naar plan →](gesprek-naar-plan.md)
-
----
-
 *"10 seconden kan 45 minuten dialoog transformeren. Niet door de perfecte vraag, maar door de vraag op het perfecte moment."*

@@ -337,8 +337,4 @@ De vorm is anders. Maar de intentie (mensen eigenaar maken van een plan) blijft.
 
 ---
 
-← [Vorige: Live reflectie](live-reflectie-met-ai.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Intuïtie zwart op wit →](intuitie-zwart-op-wit.md)
-
----
-
 *"Van een dag werk naar minuten verwerking: niet voor efficiëntie, maar voor eigenaarschap."*

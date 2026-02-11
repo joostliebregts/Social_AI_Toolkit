@@ -293,8 +293,4 @@ De vraag is niet "wat heb ik gemist?" maar "wat zit er allemaal in dat ik nog ni
 
 ---
 
-← [Vorige: Intuïtie zwart op wit](intuitie-zwart-op-wit.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Iteratie als dialoog](iteratie.md) →
-
----
-
 *"Het gesprek was waardevol. Er zit meer in dan je live kon bevatten. Laten we samen graven."*

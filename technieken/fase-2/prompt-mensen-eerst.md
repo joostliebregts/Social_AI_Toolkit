@@ -321,8 +321,4 @@ Daarom: prompt de mensen eerst.
 
 ---
 
-← [Vorige: Iteratie](iteratie.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Vragen herkaderen](vragen-herkaderen.md) →
-
----
-
 *"De facilitatie-vraag komt voor de prompt-vraag. Ontwerp eerst de ervaring die goede input genereert. Pas dan denk je aan AI."*

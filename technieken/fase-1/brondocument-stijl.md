@@ -379,6 +379,4 @@ Er is een spanning tussen de officiële stijl en de authentieke stem van de deel
 - [Taal als eigenaarschap](taal-behouden.md): de taal binnen de stijl
 - [Iteratie als dialoog](../fase-2/iteratie.md): het volledige 12-rondes verhaal
 
----
 
-<- [Terug naar Fase 1: Begin](../../fase-1-begin.md) | [<- Taal als eigenaarschap](taal-behouden.md) | [Fase 2: Verdieping ->](../../fase-2-verdieping.md)

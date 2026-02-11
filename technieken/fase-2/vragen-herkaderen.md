@@ -205,8 +205,4 @@ Dit start nog steeds vanuit het probleem, maar verschuift de focus naar de oplos
 
 ---
 
-[Vorige: Prompt de mensen eerst](prompt-mensen-eerst.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Fase 3 →](../../fase-3-schaal.md)
-
----
-
 *"Soms zit de blokkade niet in het antwoord, maar in de vraag."*

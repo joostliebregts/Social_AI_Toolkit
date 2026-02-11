@@ -389,7 +389,4 @@ De kracht van transcriptie ligt niet in de technologie. Die is nu bijna gratis. 
 - [Brondocument-stijl klonen](brondocument-stijl.md): Als je transcript naar een formeel document moet dat stakeholders accepteren
 - [Live reflectie met AI](../fase-2/live-reflectie-met-ai.md): Live transcriptie gebruiken voor directe interventies
 
----
-
-<- [Terug naar Fase 1: Begin](../../fase-1-begin.md) | [Volgende: Taal als eigenaarschap ->](taal-behouden.md)
 

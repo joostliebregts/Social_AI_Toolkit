@@ -370,8 +370,4 @@ Dit is hetzelfde mechanisme als bij mensen. Dialoog creëert helderheid. Het fei
 
 ---
 
-← [Vorige: Wat er nog meer in zat](wat-er-nog-meer-in-zat.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Prompt de mensen eerst](prompt-mensen-eerst.md) →
-
----
-
 *"Een prompt ontstaat niet, hij evolueert. De waarde zit in de opstapeling van verfijningen: elke correctie maakt de volgende beter."*
