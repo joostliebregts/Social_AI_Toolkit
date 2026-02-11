@@ -130,8 +130,6 @@ Deze echo is een hulpmiddel om mogelijke blinde vlekken te belichten,
 niet om te oordelen. De keuze om hier op in te gaan blijft bij jullie.
 ```
 
-**Source:** Prompt I use for live group reflection (Doesburg leadership workshop)
-
 **Why this structure works:**
 - **Role** defines expertise: "group dynamics expert" steers toward detecting what isn't being said
 - **Context** makes it specific: "last 10-15 minutes" prevents AI from trying to capture everything
@@ -139,6 +137,8 @@ niet om te oordelen. De keuze om hier op in te gaan blijft bij jullie.
 - **Critical Constraints** are the hard boundaries: "maximum 2 echo questions" prevents overwhelm
 - **Instructions** steer the search process: the sequence (first analyze, then detect, then choose) provides focus
 - **Output Format** structures the output: "One powerful question" forces selection
+
+**Source:** Prompt I use for live group reflection (Doesburg leadership workshop)
 
 ---
 

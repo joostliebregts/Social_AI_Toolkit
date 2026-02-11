@@ -238,6 +238,13 @@ Overwogen Alternatieven en Mogelijke Blinde Vlekken
 
 </details>
 
+**Why this structure works:**
+- **Strict basis** "Base output strictly on explicit information" prevents AI from making things up. You get honest output with clear gaps that you can fill in.
+- **Transparent feedback** "Refer explicitly to how feedback was processed" creates transparency about what was done with the input. People see that their contribution matters.
+- **Core values as thread** gives the document coherence from the values the group itself identified.
+- **Two-part structure** (echo + sub-plan) means first showing what AI heard, then the document. That sequence gives the group grip: first recognition, then structure.
+- **Style in the prompt** The prompt contains style guidelines so AI doesn't write generically, but in the language and structure the organization expects. (See [Source document style cloning](../phase-1/source-document-style.md) for how to define that style.)
+
 **Adapting this prompt for your context.** The themes, terminology, and document structure above are specific to the mental healthcare network. You can adapt the prompt by:
 - Changing the **Role** to your document type (project plan, policy brief, strategic framework)
 - Replacing the **Theme list** with the topics relevant to your session
@@ -245,14 +252,6 @@ Overwogen Alternatieven en Mogelijke Blinde Vlekken
 - Modeling the **Structure** (step 8) after the format your organization expects
 
 A quick approach: give AI this prompt together with an example of an existing document from your organization, and ask: "Adapt this prompt so the output matches this format."
-
-### Why this prompt works
-
-- **"Base output strictly on explicit information"** prevents AI from making things up. You get honest output with clear gaps that you can fill in.
-- **"Refer explicitly to how feedback was processed"** creates transparency about what was done with the input. People see that their contribution matters.
-- **"Core values as thread"** gives the document coherence from the values the group itself identified.
-- **The two-part structure (echo + sub-plan)** means first showing what AI heard, then the document. That sequence gives the group grip: first recognition, then structure.
-- **Style in the prompt.** The prompt contains style guidelines so AI doesn't write generically, but in the language and structure the organization expects. (See [Source document style cloning](../phase-1/source-document-style.md) for how to define that style.)
 
 ---
 

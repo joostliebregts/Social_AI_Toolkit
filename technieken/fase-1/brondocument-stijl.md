@@ -309,19 +309,14 @@ Dit is ook een voorproefje op [Fase 3: Schaal](../../fase-3-schaal.md), waar je 
 
 *Dit is de prompt die ik destijds gebruikte bij transformatieplan-sessies.*
 
----
-
-## Waarom deze prompts werken
+**Waarom deze structuur werkt:**
 
 Elke prompt hierboven volgt dezelfde structuur die de techniek van brondocument-stijl klonen toepast:
 
-1. **Stijlrichtlijnen zitten in de prompt:** Elke prompt bevat expliciet de taal, toon, terminologie en structuur. AI hoeft niet te raden.
-
-2. **De aanpak gefaseerd:** Niet alles tegelijk. Tussentijdse terugkoppeling, continue verwerking, eind-synthese: drie losse prompts voor drie losse doelen.
-
-3. **Context meegegeven:** Elke prompt vertelt AI wat het doel is ("terugkoppeling ter validatie", "consolidatie tot concept-deelplan") en welke input het krijgt.
-
-4. **Terminologie overgenomen:** De prompts gebruiken dezelfde termen als het brondocument (IZA, GALA, MGN, etc.) in plaats van generieke alternatieven.
+- **Stijlrichtlijnen zitten in de prompt** — elke prompt bevat expliciet de taal, toon, terminologie en structuur. AI hoeft niet te raden.
+- **De aanpak gefaseerd** — niet alles tegelijk. Tussentijdse terugkoppeling, continue verwerking, eind-synthese: drie losse prompts voor drie losse doelen.
+- **Context meegegeven** — elke prompt vertelt AI wat het doel is ("terugkoppeling ter validatie", "consolidatie tot concept-deelplan") en welke input het krijgt.
+- **Terminologie overgenomen** — de prompts gebruiken dezelfde termen als het brondocument (IZA, GALA, MGN, etc.) in plaats van generieke alternatieven.
 
 Dit maakt de prompts reproduceerbaar. Als je de stijlrichtlijnen aanpast naar jouw brondocument, kun je dezelfde structuur gebruiken voor andere trajecten.
 
@@ -379,4 +374,6 @@ Er is een spanning tussen de officiële stijl en de authentieke stem van de deel
 - [Taal als eigenaarschap](taal-behouden.md): de taal binnen de stijl
 - [Iteratie als dialoog](../fase-2/iteratie.md): het volledige 12-rondes verhaal
 
+---
 
+<- [Terug naar Fase 1: Begin](../../fase-1-begin.md) | [<- Taal als eigenaarschap](taal-behouden.md) | [Fase 2: Verdieping ->](../../fase-2-verdieping.md)

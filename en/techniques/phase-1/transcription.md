@@ -177,7 +177,10 @@ Vertaal bovenstaande inzichten naar concrete 'haakjes' die [De Initiatiefnemer] 
 ```
 
 **Why this structure works:**
-The role ("systemic strategist and community builder") steers AI's perspective: looking for connection, not delivering critique. The safeguards protect authenticity: using verbatim language, no real names, empathetic tone. The two heatmaps force AI to analyze both the emotions (concerns) and the energy (readiness to act). And the conversation fan translates insights into something usable: concrete hooks for real conversations.
+- **Role** "systemic strategist and community builder" steers AI's perspective: looking for connection, not delivering critique
+- **Safeguards** protect authenticity: using verbatim language, no real names, empathetic tone
+- **Two heatmaps** force AI to analyze both the emotions (concerns) and the energy (readiness to act)
+- **Conversation fan** translates insights into something usable: concrete hooks for real conversations
 
 ### 2. Language as ownership
 
@@ -244,7 +247,9 @@ genomen tijdens deze sessie.
 ```
 
 **Why this structure works:**
-The role ("precise note-taker") keeps AI focused on what was literally decided. The safeguards prevent implicit conclusions. The output format is surprisingly powerful: AI follows it quite precisely.
+- **Role** "precise note-taker" keeps AI focused on what was literally decided
+- **Safeguards** prevent implicit conclusions
+- **Output format** is surprisingly powerful: AI follows it quite precisely
 
 ### 4. Dictation: capturing your own stream of thought
 

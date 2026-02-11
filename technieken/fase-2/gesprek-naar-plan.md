@@ -232,6 +232,13 @@ Overwogen Alternatieven en Mogelijke Blinde Vlekken
 (3-5 bullet points)
 ```
 
+**Waarom deze structuur werkt:**
+- **"Baseer output strikt op expliciete informatie"** — voorkomt dat AI gaat verzinnen. Je krijgt eerlijke output met duidelijke gaten die je kunt opvullen.
+- **"Verwijs expliciet naar hoe feedback is verwerkt"** — transparantie over wat er met de input is gedaan. Mensen zien dat hun bijdrage ertoe doet.
+- **"Kernwaarden als rode draad"** — het document krijgt samenhang vanuit de waarden die de groep zelf heeft benoemd.
+- **De tweeledigheid (echo + deelplan)** — eerst laten zien wat AI heeft gehoord, dan het document. Die volgorde geeft de groep grip: eerst herkenning, dan structuur.
+- **Stijl in de prompt.** De prompt bevat stijlrichtlijnen zodat AI niet generiek schrijft, maar in de taal en structuur die de organisatie verwacht. (Zie [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md) voor hoe je die stijl definieert.)
+
 **Deze prompt aanpassen voor jouw context.** De thema's, terminologie en documentstructuur hierboven zijn specifiek voor het mentaal gezondheidsnetwerk. Je kunt de prompt aanpassen door:
 - De **Rol** te wijzigen naar jouw document-type (projectplan, beleidsnotitie, strategisch kader)
 - De **Thema-lijst** te vervangen door de onderwerpen die in jouw sessie spelen
@@ -239,14 +246,6 @@ Overwogen Alternatieven en Mogelijke Blinde Vlekken
 - De **Structuur** (stap 8) te modelleren naar het format dat jouw organisatie verwacht
 
 Een snelle manier: geef AI deze prompt samen met een voorbeeld van een bestaand document uit jouw organisatie, en vraag: "Pas deze prompt aan zodat de output past bij dit format."
-
-### Waarom deze prompt werkt
-
-- **"Baseer output strikt op expliciete informatie"** — voorkomt dat AI gaat verzinnen. Je krijgt eerlijke output met duidelijke gaten die je kunt opvullen.
-- **"Verwijs expliciet naar hoe feedback is verwerkt"** — transparantie over wat er met de input is gedaan. Mensen zien dat hun bijdrage ertoe doet.
-- **"Kernwaarden als rode draad"** — het document krijgt samenhang vanuit de waarden die de groep zelf heeft benoemd.
-- **De tweeledigheid (echo + deelplan)** — eerst laten zien wat AI heeft gehoord, dan het document. Die volgorde geeft de groep grip: eerst herkenning, dan structuur.
-- **Stijl in de prompt.** De prompt bevat stijlrichtlijnen zodat AI niet generiek schrijft, maar in de taal en structuur die de organisatie verwacht. (Zie [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md) voor hoe je die stijl definieert.)
 
 ---
 

@@ -311,17 +311,14 @@ This is also a preview of [Phase 3: Scale](../../phase-3-scale.md), where you're
 
 ---
 
-## Why these prompts work
+**Why this structure works:**
 
 Every prompt above follows the same structure that applies the technique of cloning source document style:
 
-1. **Style guidelines are in the prompt:** Every prompt explicitly contains the language, tone, terminology, and structure. AI doesn't have to guess.
-
-2. **The approach is phased:** Not everything at once. Interim reflection, continuous processing, final synthesis: three separate prompts for three separate goals.
-
-3. **Context is provided:** Every prompt tells AI what the goal is ("reflection for validation", "consolidation into draft sub-plan") and what input it receives.
-
-4. **Terminology is adopted:** The prompts use the same terms as the source document (IZA, GALA, MGN, etc.) instead of generic alternatives.
+- **Style guidelines in the prompt** Every prompt explicitly contains the language, tone, terminology, and structure. AI doesn't have to guess.
+- **Phased approach** Not everything at once. Interim reflection, continuous processing, final synthesis: three separate prompts for three separate goals.
+- **Context provided** Every prompt tells AI what the goal is ("reflection for validation", "consolidation into draft sub-plan") and what input it receives.
+- **Terminology adopted** The prompts use the same terms as the source document (IZA, GALA, MGN, etc.) instead of generic alternatives.
 
 This makes the prompts reproducible. If you adapt the style guidelines to your source document, you can use the same structure for other processes.
 

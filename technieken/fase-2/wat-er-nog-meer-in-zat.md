@@ -6,7 +6,7 @@
 
 **Vorige stap:** [Transcriptie als fundament](../fase-1/transcriptie.md): je hebt tekst
 **Dit:** Samen graven naar wat erin zit
-**Volgende stap:** [Haakjes vinden](haakjes-vinden.md) (Fase 3): verbindingen systematisch zichtbaar maken
+**Volgende stap:** [Haakjes vinden](../fase-3/haakjes-vinden.md) (Fase 3): verbindingen systematisch zichtbaar maken
 
 ---
 
@@ -144,13 +144,13 @@ Concrete 'haakjes' per doelgroep voor informele gesprekken.
 Focus op de gemene deler, niet op overtuigen.
 ```
 
-*Bron: De prompt die we samen met AI bouwden na het iteratie-gesprek.*
-
 **Waarom deze structuur werkt:**
-- **Context & Rol** positioneert AI als analytisch denker: "systemisch strateeg" stuurt naar patronen en verbindingen, niet naar samenvatten
-- **Opdracht** splitst de analyse in twee complementaire delen: een strategisch overzicht ("De Giant Map") en een praktische toolkit ("De Gesprekswaaier") — analyse én actie in één
-- **Randvoorwaarden** beschermen de authenticiteit: "letterlijke bewoordingen" voorkomt AI-interpretatie, "empathisch, gericht op de wens goed ouder te zijn" is Maartens toon-correctie ingebouwd in de prompt
-- **Output** levert drie bruikbare lagen: heatmaps (emotie per schoolfase), interne strijd (de spiegel), gesprekswaaier (concrete haakjes) — van inzicht naar actie
+- "Systemisch strateeg" — positioneert AI als analytisch denker, niet als samenvatter
+- "Letterlijke bewoordingen" — beschermt de taal van deelnemers tegen AI-interpretatie
+- "Empathisch, gericht op de wens goed ouder te zijn" — Maartens toon-correctie, ingebouwd in de prompt
+- "Concrete haakjes, geen letterlijke scripts" — output die Maarten zelf kan inzetten op zijn manier
+
+**Bron:** De prompt die we samen met AI bouwden na het iteratie-gesprek.
 
 ---
 
@@ -199,7 +199,7 @@ Voor bovenbouwouders:
 
 Twee ouders die allebei worstelen, zich allebei alleen voelen, nu een haakje hebben om elkaar te vinden.
 
-*Wil je dit systematischer aanpakken, over meerdere gesprekken? De volledige techniek staat in [Haakjes vinden](haakjes-vinden.md) (Fase 3).*
+*Wil je dit systematischer aanpakken, over meerdere gesprekken? De volledige techniek staat in [Haakjes vinden](../fase-3/haakjes-vinden.md) (Fase 3).*
 
 ### Krachtige quotes
 
@@ -289,7 +289,11 @@ De vraag is niet "wat heb ik gemist?" maar "wat zit er allemaal in dat ik nog ni
 - [Iteratie](iteratie.md): hoe het iteratie-gesprek werkt dat in dit verhaal centraal staat
 
 **Verder bouwen:**
-- [Haakjes vinden](haakjes-vinden.md) (Fase 3): de volledige techniek voor systematisch verbindingen vinden over meerdere gesprekken
+- [Haakjes vinden](../fase-3/haakjes-vinden.md) (Fase 3): de volledige techniek voor systematisch verbindingen vinden over meerdere gesprekken
+
+---
+
+← [Vorige: Intuïtie zwart op wit](intuitie-zwart-op-wit.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Iteratie als dialoog](iteratie.md) →
 
 ---
 

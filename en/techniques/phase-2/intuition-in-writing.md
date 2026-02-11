@@ -80,12 +80,12 @@ Per fase:
 - Citaten die het patroon illustreren
 ```
 
-*Source: Smartphone-free community analysis prompt*
+**Why this structure works:**
+- **Literal words** "Use the participants' literal words" protects against AI interpretation: these are *their* words, not your summary
+- **Underlying value** "Look beyond the complaint to the underlying value" is the core of intuition in writing: not what people say, but what's underneath
+- **Per phase** gives structure to a feeling you already had ("the conversations about toddlers were different") but can now name
 
-**Why this works:**
-- "Use the participants' literal words" protects against AI interpretation: these are *their* words, not your summary
-- "Look beyond the complaint to the underlying value" is the core of intuition in writing: not what people say, but what's underneath
-- "Per phase" gives structure to a feeling you already had ("the conversations about toddlers were different") but can now name
+*Source: Smartphone-free community analysis prompt*
 
 ---
 
@@ -137,13 +137,13 @@ Per gevonden patroon:
 - "Mogelijk relevant": wat dit zou kunnen betekenen
 ```
 
-*This is a starting point: adapt to your specific situation and add context about what you're looking for.*
+**Why this structure works:**
+- **Strict basis** "Base strictly on what's there, not on interpretation" prevents AI from feeding your confirmation bias
+- **Hedged language** "When in doubt: 'possibly' instead of definitive claims" leaves room for the group to test for themselves
+- **Their words** "Use their words, not your summaries" preserves ownership: people recognize themselves
+- **Preconceptions explicit** "Don't look for what I want to find" makes your own preconceptions explicit in the prompt
 
-**Why this works:**
-- "Base strictly on what's there, not on interpretation" prevents AI from feeding your confirmation bias
-- "When in doubt: 'possibly' instead of definitive claims" leaves room for the group to test for themselves
-- "Use their words, not your summaries" preserves ownership: people recognize themselves
-- "Don't look for what I want to find" makes your own preconceptions explicit in the prompt
+*This is a starting point: adapt to your specific situation and add context about what you're looking for.*
 
 ---
 

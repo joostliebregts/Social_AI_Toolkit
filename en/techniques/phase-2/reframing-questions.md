@@ -52,7 +52,8 @@ Probing deeper works when people have something but haven't quite articulated it
 **The question, reframed:**
 > "We've heard a lot about what isn't working. Let's flip it for a moment: if everything would succeed, what's your ideal picture? What would it look like?"
 
-**Why this works:** By placing the question in a different light (from problem to aspiration) you open up the future. Problem-focus keeps people in the present or the past.
+**Why this structure works:**
+- **Future orientation** by placing the question in a different light (from problem to aspiration) you open up the future. Problem-focus keeps people in the present or the past.
 
 ### 2. From abstract to concrete
 
@@ -61,7 +62,8 @@ Probing deeper works when people have something but haven't quite articulated it
 **The question, reframed:**
 > "Communication, you're saying. Can someone describe a moment when the communication did work? What happened then?"
 
-**Why this works:** By placing the question in a different light (from problem to positive example) you get a story about what people want more of. That provides direction for improvement. Abstractions are immovable. Concrete moments you can explore.
+**Why this structure works:**
+- **Story over abstraction** by placing the question in a different light (from problem to positive example) you get a story about what people want more of. That provides direction for improvement. Abstractions are immovable. Concrete moments you can explore.
 
 **The 50 euro test:**
 
@@ -78,7 +80,8 @@ The same applies here: "What do you think about the collaboration?" yields analy
 **The question, reframed:**
 > "If we leave the system aside for a moment, what could you personally do? Where do you have influence?"
 
-**Why this works:** By placing the question in a different light (from system to person) you activate ownership. System-talk is safe but passive. Personal action is scary but activating.
+**Why this structure works:**
+- **Ownership activation** by placing the question in a different light (from system to person) you activate ownership. System-talk is safe but passive. Personal action is scary but activating.
 
 ---
 
@@ -128,11 +131,11 @@ Help me reflecteren:
 - Hoe herken ik dit patroon de volgende keer eerder?
 ```
 
-**Why this works:**
-- "I had a session today": positions AI as reflection partner, not as expert
-- "This is what happened": forces you to describe concretely what you did, not abstractly
-- "Which reframing strategy would have fit here?": ties back to the three strategies on this page
-- "How do I recognize this pattern earlier?": you're building a repertoire for next time
+**Why this structure works:**
+- **Reflection partner** "I had a session today" positions AI as reflection partner, not as expert
+- **Concrete description** "This is what happened" forces you to describe concretely what you did, not abstractly
+- **Strategy link** "Which reframing strategy would have fit here?" ties back to the three strategies on this page
+- **Pattern recognition** "How do I recognize this pattern earlier?" you're building a repertoire for next time
 
 *This is a suggestion: adapt it to your specific situation.*
 

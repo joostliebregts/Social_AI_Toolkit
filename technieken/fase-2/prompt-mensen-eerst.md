@@ -264,15 +264,15 @@ Let op:
 - Focus op geleefde ervaring, niet op abstracte reflectie
 ```
 
+**Waarom deze structuur werkt:**
+- **"Concrete ervaringen oproepen, geen meningen"** — voorkomt dat je abstracte vragen ontwerpt die abstracte antwoorden opleveren
+- **"Elk een ander puzzelstukje"** — dwingt je om vooraf na te denken over welke ingrediënten je nodig hebt
+- **"Van emotie naar analyse"** — zorgt dat de volgorde klopt
+- **"Vermijd 'Wat vind je van...'"** — blokkeert de standaardvraag die meningen oplevert
+
 *Dit is een suggestie: pas aan op jouw specifieke situatie.*
 
 Er zit iets moois in: je gebruikt hier AI om scherper te worden in de vragen die je aan mensen stelt. Niet om die vragen te vervangen, maar om je eigen denken te testen.
-
-**Waarom dit werkt:**
-- "Concrete ervaringen oproepen, geen meningen" — voorkomt dat je abstracte vragen ontwerpt die abstracte antwoorden opleveren
-- "Elk een ander puzzelstukje" — dwingt je om vooraf na te denken over welke ingrediënten je nodig hebt
-- "Van emotie naar analyse" — zorgt dat de volgorde klopt
-- "Vermijd 'Wat vind je van...'" — blokkeert de standaardvraag die meningen oplevert
 
 ---
 

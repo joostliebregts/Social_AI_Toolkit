@@ -80,13 +80,12 @@ Per fase:
 - Citaten die het patroon illustreren
 ```
 
-*Bron: Smartphonevrij gemeenschapsanalyse prompt*
-
 **Waarom deze structuur werkt:**
-- **Context & Rol** positioneert AI als strateeg en gemeenschapsbouwer: dat stuurt naar patronen herkennen, niet naar samenvatten
-- **Opdracht** splitst de analyse in twee lagen: "emotionele leefwereld in kaart" per schoolfase geeft structuur aan wat je al aanvoelde
-- **Randvoorwaarden** beschermen de authenticiteit: "letterlijke bewoordingen" voorkomt AI-interpretatie, "kijk voorbij de klacht" stuurt naar wat er onder de oppervlakte zit
-- **Output** dwingt ordening per fase af: angsten, energie en citaten per schoolfase maken het gevoel ("de gesprekken over kleuters waren anders") concreet en deelbaar
+- "Letterlijke bewoordingen van de deelnemers" beschermt tegen AI-interpretatie: het zijn hún woorden, niet jouw samenvatting
+- "Kijk voorbij de klacht naar de onderliggende waarde" is de kern van intuïtie zwart op wit: niet wat mensen zeggen, maar wat daaronder zit
+- "Per fase" geeft structuur aan een gevoel dat je al had ("de gesprekken over kleuters waren anders") maar nu benoemen kunt
+
+**Bron:** Smartphonevrij gemeenschapsanalyse prompt
 
 ---
 
@@ -138,14 +137,13 @@ Per gevonden patroon:
 - "Mogelijk relevant": wat dit zou kunnen betekenen
 ```
 
-*Dit is een startpunt: pas aan op jouw specifieke situatie en voeg context toe over wat je zoekt.*
-
 **Waarom deze structuur werkt:**
-- **Rol** definieert de expertise: "patroon-analist" stuurt AI naar het zichtbaar maken van impliciete dynamiek, niet naar oplossingen
-- **Context** maakt de intuïtie expliciet: "ik heb een intuïtie dat er iets verschuift" geeft AI richting zonder te sturen naar een conclusie
-- **Opdracht** structureert het zoekproces: vier specifieke invalshoeken (toon, thema's, waardensystemen, kantelmomenten) voorkomen dat AI oppervlakkig scant
-- **Randvoorwaarden** beschermen tegen confirmation bias: "baseer strikt op wat er staat" en "zoek niet naar wat ik wil vinden" dwingen eerlijkheid af
-- **Output** dwingt bruikbare structuur af: "herkenbare naam in de taal van de groep" en "wat er verschuift" maken patronen bespreekbaar
+- "Baseer strikt op wat er staat, niet op interpretatie" voorkomt dat AI je confirmation bias voedt
+- "Bij twijfel: 'mogelijk' in plaats van stellige bewering" houdt ruimte voor de groep om zelf te toetsen
+- "Gebruik hun woorden, niet jouw samenvattingen" behoudt eigenaarschap: mensen herkennen zichzelf
+- "Zoek niet naar wat ik wil vinden" maakt je eigen vooringenomenheid expliciet in de prompt
+
+*Dit is een startpunt: pas aan op jouw specifieke situatie en voeg context toe over wat je zoekt.*
 
 ---
 
@@ -254,7 +252,11 @@ Dit is wat AI kan: niet nieuwe waarheid creëren, maar bestaande waarheid benoem
 - [Wat er nog meer in zat](wat-er-nog-meer-in-zat.md) — samen met AI graven naar structuur, haakjes en krachtige quotes (dit is de reactieve variant: je voelt nog niet precies wat je zoekt)
 
 **Verder bouwen:**
-- [Patronen over tijd](patronen-over-tijd.md) (Fase 3) — intuïties over langere trajecten bevestigen
+- [Patronen over tijd](../fase-3/patronen-over-tijd.md) (Fase 3) — intuïties over langere trajecten bevestigen
+
+---
+
+<- [Vorige: Van gesprek naar plan](gesprek-naar-plan.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Wat er nog meer in zat ->](wat-er-nog-meer-in-zat.md)
 
 ---
 

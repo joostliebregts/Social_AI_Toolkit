@@ -169,10 +169,10 @@ On the transcription page you saw the [full prompt for the smartphone-free paren
 
 > **Form:** Provide concrete hooks and insights, not literal scripts that [The Initiator] has to read aloud. He wants to protect his own authenticity.
 
-**Why this works:**
-- "Verbatim words" is more explicit than "use their language": it prevents AI from paraphrasing
-- "No scripts" protects the facilitator's authenticity: AI delivers building blocks, not ready-made text
-- "Maximum recognizability" names the goal, not just the method
+**Why this structure works:**
+- **Verbatim words** is more explicit than "use their language": it prevents AI from paraphrasing
+- **No scripts** protects the facilitator's authenticity: AI delivers building blocks, not ready-made text
+- **Maximum recognizability** names the goal, not just the method
 
 **When:** With groups where you want to facilitate connection, not just capture information.
 
@@ -307,10 +307,10 @@ belichten — niet om te oordelen, maar om uitnodigende vragen te stellen.
 De keuze om hier op in te gaan blijft bij jullie.
 ```
 
-**Why this works (language preservation lens):**
-- "Different framings" with verbatim quotes ensures people recognize themselves
-- "Base strictly on transcript" prevents AI from interpreting
-- "When in doubt: possibly underexposed" protects against overly assertive claims about what people "actually" meant
+**Why this structure works:**
+- **Different framings** with verbatim quotes ensures people recognize themselves
+- **Strict basis** "Base strictly on transcript" prevents AI from interpreting
+- **Hedged language** "When in doubt: possibly underexposed" protects against overly assertive claims about what people "actually" meant
 
 *For the full technique (when to deploy, how to prepare, the workflow) see [Live reflection with AI](../phase-2/live-reflection-with-ai.md).*
 

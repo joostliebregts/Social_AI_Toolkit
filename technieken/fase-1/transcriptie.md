@@ -177,7 +177,10 @@ Vertaal bovenstaande inzichten naar concrete 'haakjes' die [De Initiatiefnemer] 
 ```
 
 **Waarom deze structuur werkt:**
-De rol ("systemisch strateeg en gemeenschapsbouwer") stuurt AI's perspectief: verbinding zoeken, niet kritiek leveren. De randvoorwaarden beschermen de authenticiteit: letterlijke bewoordingen gebruiken, geen echte namen, empathische toon. De twee heatmaps dwingen AI om zowel de emoties (zorgen) als de energie (actiebereidheid) te analyseren. En de gesprekswaaier vertaalt inzichten naar iets bruikbaars: concrete haakjes voor echte gesprekken.
+- **Rol** stuurt perspectief: "systemisch strateeg en gemeenschapsbouwer" richt AI op verbinding zoeken, niet kritiek leveren
+- **Randvoorwaarden** beschermen authenticiteit: letterlijke bewoordingen gebruiken, geen echte namen, empathische toon
+- **Twee heatmaps** dwingen AI om zowel de emoties (zorgen) als de energie (actiebereidheid) te analyseren
+- **Gesprekswaaier** vertaalt inzichten naar iets bruikbaars: concrete haakjes voor echte gesprekken
 
 ### 2. Taal als eigenaarschap
 
@@ -244,7 +247,9 @@ genomen tijdens deze sessie.
 ```
 
 **Waarom deze structuur werkt:**
-De rol ("nauwkeurige notulist") houdt AI bij wat letterlijk besloten is. De randvoorwaarden voorkomen impliciete conclusies. Het output format is verrassend krachtig: AI volgt dit vrij precies.
+- **Rol** houdt AI bij wat letterlijk besloten is: "nauwkeurige notulist" stuurt naar vastleggen, niet interpreteren
+- **Randvoorwaarden** voorkomen impliciete conclusies: alleen expliciet genomen besluiten, bij twijfel "nog te bevestigen"
+- **Output format** is verrassend krachtig: AI volgt de structuur (proces, inhoud, vervolg) vrij precies
 
 ### 4. Dictatie: je eigen gedachtenstroom vastleggen
 

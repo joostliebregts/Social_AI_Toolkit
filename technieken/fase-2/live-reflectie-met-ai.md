@@ -84,7 +84,7 @@ Echo werkt op synthese en serendipity niveau. Het verbindt én vraagt door.
 
 ## De prompt
 
-Dit is de werkende echo-prompt uit de Doesburg bestuurders-workshop.
+Dit is de werkende echo-prompt uit een bestuurders-workshop.
 
 ```prompt
 **Rol:** Je bent een ervaren groepsdynamiek-expert die signalen van
@@ -130,8 +130,6 @@ Deze echo is een hulpmiddel om mogelijke blinde vlekken te belichten,
 niet om te oordelen. De keuze om hier op in te gaan blijft bij jullie.
 ```
 
-**Bron:** Prompt die ik gebruik bij live groepsreflectie (Doesburg bestuurders-workshop)
-
 **Waarom deze structuur werkt:**
 - **Rol** definieert expertise: "groepsdynamiek-expert" stuurt naar detectie van wat niet gezegd wordt
 - **Context** maakt specifiek: "laatste 10-15 minuten" voorkomt dat AI alles probeert te vangen
@@ -139,6 +137,8 @@ niet om te oordelen. De keuze om hier op in te gaan blijft bij jullie.
 - **Cruciale Begrenzingen** zijn de harde grenzen: "maximaal 2 echo-vragen" voorkomt overweldiging
 - **Instructies** sturen het zoekproces: de volgorde (eerst analyseren, dan detecteren, dan kiezen) geeft focus
 - **Output Format** structureert de output: "Eén krachtige vraag" dwingt selectie af
+
+**Bron:** Prompt die ik gebruik bij live groepsreflectie (bestuurders-workshop)
 
 ---
 
@@ -270,6 +270,10 @@ Maar (en dit is cruciaal) de facilitator moet de vraag eigendom maken. Niet: "AI
 - [Transcriptie als fundament](../fase-1/transcriptie.md): waar de grondstof vandaan komt
 - [Iteratie](iteratie.md): hoe je de echo-prompts zelf ontwikkelt
 - [Intuitie zwart op wit](intuitie-zwart-op-wit.md): patronen zichtbaar maken die je al voelde
+
+---
+
+← [Terug naar Fase 2: Verdieping](../../fase-2-verdieping.md) | [← Vorige: Vragen herkaderen](vragen-herkaderen.md) | [Volgende: Van gesprek naar plan →](gesprek-naar-plan.md)
 
 ---
 

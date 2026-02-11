@@ -203,12 +203,12 @@ Analyseer de verschillen:
 Geef concrete suggesties voor prompt-verbeteringen.
 ```
 
-*Dit is een suggestie: pas aan op jouw specifieke situatie.*
-
 **Waarom deze structuur werkt:**
 - **"Dit was de originele output"** en **"Dit is wat ik ervan heb gemaakt"** plaatsen beide versies naast elkaar: AI kan de delta analyseren in plaats van te raden wat je bedoelde
 - **"Waarom denk je dat ik dat veranderde?"** vraagt AI om jouw impliciete voorkeuren te benoemen: de redenen achter je aanpassingen worden expliciet
 - **"Hoe moet ik de prompt aanpassen"** vertaalt het inzicht naar actie: je krijgt niet alleen begrip maar ook concrete prompt-verbeteringen
+
+*Dit is een suggestie: pas aan op jouw specifieke situatie.*
 
 Dit lijkt extra werk, maar het is een investering. Elke iteratie maakt je prompts scherper.
 
