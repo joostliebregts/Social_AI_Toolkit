@@ -119,7 +119,7 @@ In tools zoals Dembrane heet dit de "echo-knop": één druk, en AI leest het tra
 
 Dit is waar alles samenkomt: je hebt geleerd hoe je verdieping uit transcripten haalt, hoe je met AI itereert, hoe je de input ontwerpt. Nu kun je dat toepassen terwijl het gesprek nog bezig is.
 
-→ *[Ga dieper: Live reflectie met AI](technieken/fase-2/echo-knop.md)*
+→ *[Ga dieper: Live reflectie met AI](technieken/fase-2/live-reflectie-met-ai.md)*
 
 #### Van gesprek naar live document
 
@@ -190,7 +190,7 @@ Wil je direct aan de slag? Kies de techniek die het beste past bij waar je nu st
 
 | Techniek | Wat het doet |
 |----------|--------------|
-| [Live reflectie met AI](technieken/fase-2/echo-knop.md) | Real-time reflectie teruggeven aan de groep |
+| [Live reflectie met AI](technieken/fase-2/live-reflectie-met-ai.md) | Real-time reflectie teruggeven aan de groep |
 | [Van gesprek naar plan](technieken/fase-2/gesprek-naar-plan.md) | Live concept-document genereren tijdens sessie |
 | [Intuïtie zwart op wit](technieken/fase-2/intuitie-zwart-op-wit.md) | Patronen die je voelt vastleggen en bespreekbaar maken |
 | [Wat er nog meer in zat](technieken/fase-2/wat-er-nog-meer-in-zat.md) | Samen graven naar verdieping in je transcript |

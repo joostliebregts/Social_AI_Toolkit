@@ -334,7 +334,7 @@ All internal NL links must be remapped to their EN equivalents.
 
 | NL path | EN path |
 |---------|---------|
-| `technieken/fase-2/echo-knop.md` | `en/techniques/phase-2/live-reflection-with-ai.md` |
+| `technieken/fase-2/live-reflectie-met-ai.md` | `en/techniques/phase-2/live-reflection-with-ai.md` |
 | `technieken/fase-2/gesprek-naar-plan.md` | `en/techniques/phase-2/conversation-to-plan.md` |
 | `technieken/fase-2/intuitie-zwart-op-wit.md` | `en/techniques/phase-2/intuition-in-writing.md` |
 | `technieken/fase-2/iteratie.md` | `en/techniques/phase-2/iteration.md` |
@@ -435,7 +435,7 @@ These examples show how to translate actual sentences from the toolkit. Study th
 
 ---
 
-### From echo-knop.md
+### From live-reflectie-met-ai.md
 
 **Dutch:**
 > De echo-knop is geen samenvatting. Het is een (mini-)interventie.

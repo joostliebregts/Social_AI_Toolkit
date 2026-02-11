@@ -84,7 +84,7 @@ Hetzelfde geldt hier: "Wat vind je van de samenwerking?" levert analyse. "Beschr
 
 ## Uit de praktijk: de echo-knop als herkadering
 
-*Dezelfde sessie als bij [Live reflectie met AI](echo-knop.md), hier vanuit het perspectief van herkadering.*
+*Dezelfde sessie als bij [Live reflectie met AI](live-reflectie-met-ai.md), hier vanuit het perspectief van herkadering.*
 
 In een sessie binnen een mentaal gezondheidsnetwerk, over hoe zorg anders kan: na drie kwartier cirkelde het gesprek, kwam er een stilte. De facilitator zei: "Ik heb hem nog niet." Jeroen stelde voor: "Zullen we eens kijken wat de AI-echo ons geeft?"
 
@@ -100,7 +100,7 @@ De reacties: "Dit is wel mooi." "Dat is de welbekende, hoe gaan we morgen starte
 **Wat ik hiervan meeneem:**
 Soms is de beste herkadering niet iets wat je zelf bedenkt, maar iets wat AI suggereert op basis van wat er gezegd is. Jeroen herkende het moment en drukte op de knop. AI leverde de vraag. De groep kwam in beweging.
 
-*Zie ook: [Live reflectie met AI](echo-knop.md) voor de technische kant van de echo-knop.*
+*Zie ook: [Live reflectie met AI](live-reflectie-met-ai.md) voor de technische kant van de echo-knop.*
 
 ---
 
@@ -200,7 +200,7 @@ Dit start nog steeds vanuit het probleem, maar verschuift de focus naar de oplos
 ## Gerelateerde technieken
 
 - [Prompt de mensen eerst](prompt-mensen-eerst.md): de vragen vooraf ontwerpen (waar deze techniek uit voortkomt)
-- [Live reflectie met AI](echo-knop.md): AI-gegenereerde vragen in real-time
+- [Live reflectie met AI](live-reflectie-met-ai.md): AI-gegenereerde vragen in real-time
 - [Iteratie](iteratie.md): je vragen verfijnen door feedback
 
 ---

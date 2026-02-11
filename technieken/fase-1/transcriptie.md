@@ -387,7 +387,7 @@ De kracht van transcriptie ligt niet in de technologie. Die is nu bijna gratis. 
 
 - [Taal behouden](taal-behouden.md): Hoe je ervoor zorgt dat de woorden van deelnemers intact blijven in AI-output
 - [Brondocument-stijl klonen](brondocument-stijl.md): Als je transcript naar een formeel document moet dat stakeholders accepteren
-- [Live reflectie met AI](../fase-2/echo-knop.md): Live transcriptie gebruiken voor directe interventies
+- [Live reflectie met AI](../fase-2/live-reflectie-met-ai.md): Live transcriptie gebruiken voor directe interventies
 
 ---
 

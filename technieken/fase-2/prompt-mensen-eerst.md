@@ -316,7 +316,7 @@ Daarom: prompt de mensen eerst.
 
 - [Transcriptie als fundament](../fase-1/transcriptie.md): de output van goede vragen vastleggen
 - [Iteratie](iteratie.md): de vragen zelf ontwikkelen via dialoog met AI
-- [Live reflectie met AI](echo-knop.md): real-time vragen stellen op basis van wat gezegd is
+- [Live reflectie met AI](live-reflectie-met-ai.md): real-time vragen stellen op basis van wat gezegd is
 - [Vragen herkaderen](vragen-herkaderen.md): in de sessie zelf vragen in een ander licht plaatsen
 
 ---

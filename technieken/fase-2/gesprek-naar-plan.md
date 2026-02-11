@@ -17,7 +17,7 @@
 
 **De vraag:** Wat als mensen hun input direct terugzien als concept-document?
 
-**Het verschil met [Live reflectie](echo-knop.md):** Daar gebruik je AI voor reflectievragen *tijdens* het gesprek, om wendingen te creëren. Hier gebruik je AI om *documentatie* te genereren uit het gesprek. Beide kunnen in dezelfde sessie: de echo-knop voor wendingen, en deze techniek voor output.
+**Het verschil met [Live reflectie](live-reflectie-met-ai.md):** Daar gebruik je AI voor reflectievragen *tijdens* het gesprek, om wendingen te creëren. Hier gebruik je AI om *documentatie* te genereren uit het gesprek. Beide kunnen in dezelfde sessie: de echo-knop voor wendingen, en deze techniek voor output.
 
 **Dit is een semi-live werkmethodiek.** Niet real-time zoals de echo-knop (direct in het gesprek), maar tussen de blokken door: in pauzes of deelsessies. Je hebt even 1-2 minuten nodig om een prompt te lanceren en de output te bekijken voordat je die aan de groep toont.
 
@@ -333,11 +333,11 @@ De vorm is anders. Maar de intentie (mensen eigenaar maken van een plan) blijft.
 
 - De stijl-aanpak (hoe zorg je dat output in het juiste format komt?) staat in [Brondocument-stijl klonen](../fase-1/brondocument-stijl.md)
 - Waarom het behouden van hun exacte woorden zo belangrijk is, lees je in [Taal als eigenaarschap](../fase-1/taal-behouden.md)
-- Voor real-time interventies tijdens de sessie (niet alleen documentatie, maar ook reflectie), zie [Live reflectie met AI](echo-knop.md)
+- Voor real-time interventies tijdens de sessie (niet alleen documentatie, maar ook reflectie), zie [Live reflectie met AI](live-reflectie-met-ai.md)
 
 ---
 
-← [Vorige: Live reflectie](echo-knop.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Intuïtie zwart op wit →](intuitie-zwart-op-wit.md)
+← [Vorige: Live reflectie](live-reflectie-met-ai.md) | [Terug naar Fase 2](../../fase-2-verdieping.md) | [Volgende: Intuïtie zwart op wit →](intuitie-zwart-op-wit.md)
 
 ---
 

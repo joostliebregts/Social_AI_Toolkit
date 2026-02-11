@@ -259,7 +259,7 @@ Niet clusteren — behoud als losse parels met context.
 
 Tot nu toe ging het over analyse achteraf. Maar taalbehoud werkt ook live, midden in een sessie.
 
-De echo-prompt hieronder is een lichtere variant van de [volledige live reflectie-techniek](../fase-2/echo-knop.md). Daar leer je wanneer je hem inzet, hoe je hem voorbereidt, en hoe de workflow werkt. Hier focus ik op één aspect: hoe de prompt taalbehoud afdwingt.
+De echo-prompt hieronder is een lichtere variant van de [volledige live reflectie-techniek](../fase-2/live-reflectie-met-ai.md). Daar leer je wanneer je hem inzet, hoe je hem voorbereidt, en hoe de workflow werkt. Hier focus ik op één aspect: hoe de prompt taalbehoud afdwingt.
 
 **Het taalbehoud-element:**
 
@@ -311,7 +311,7 @@ De keuze om hier op in te gaan blijft bij jullie.
 - "Baseer strikt op transcript" voorkomt dat AI gaat interpreteren
 - "Bij twijfel: mogelijk onderbelicht" beschermt tegen te stellige beweringen over wat mensen "eigenlijk" bedoelden
 
-*Voor de volledige techniek — wanneer inzetten, hoe voorbereiden, de workflow — zie [Live reflectie met AI](../fase-2/echo-knop.md).*
+*Voor de volledige techniek — wanneer inzetten, hoe voorbereiden, de workflow — zie [Live reflectie met AI](../fase-2/live-reflectie-met-ai.md).*
 
 ---
 
@@ -369,7 +369,7 @@ Maar (en dit is cruciaal) snelheid zonder taalbehoud heeft weinig zin. Een snell
 
 - [Transcriptie als fundament](transcriptie.md): waar dit allemaal mee begint
 - [Brondocument-stijl klonen](brondocument-stijl.md): wanneer je ook structuur en toon moet overnemen
-- [Live reflectie met AI](../fase-2/echo-knop.md): real-time toepassing van taalbehoud
+- [Live reflectie met AI](../fase-2/live-reflectie-met-ai.md): real-time toepassing van taalbehoud
 
 ---
 

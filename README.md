@@ -77,7 +77,7 @@ Wat voorheen alleen kon met kleine groepen (echt luisteren, iedereen horen, coll
 - [Iteratie als dialoog](technieken/fase-2/iteratie.md)
 - [Prompt de mensen eerst](technieken/fase-2/prompt-mensen-eerst.md)
 - [Vragen herkaderen](technieken/fase-2/vragen-herkaderen.md)
-- [Live reflectie met AI](technieken/fase-2/echo-knop.md)
+- [Live reflectie met AI](technieken/fase-2/live-reflectie-met-ai.md)
 - [Van gesprek naar plan](technieken/fase-2/gesprek-naar-plan.md)
 
 ---
