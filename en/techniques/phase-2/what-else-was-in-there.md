@@ -147,10 +147,10 @@ Focus op de gemene deler, niet op overtuigen.
 *Source: The prompt we built together with AI after the iteration conversation.*
 
 **Why this works:**
-- "Systemic strategist" — positions AI as an analytical thinker, not a summarizer
-- "Literal words" — protects participant language from AI interpretation
-- "Empathetic, focused on the desire to be a good parent" — Maarten's tone correction, built into the prompt
-- "Concrete hooks, not literal scripts" — output that Maarten can deploy himself, his way
+- "Systemic strategist": positions AI as an analytical thinker, not a summarizer
+- "Literal words": protects participant language from AI interpretation
+- "Empathetic, focused on the desire to be a good parent": Maarten's tone correction, built into the prompt
+- "Concrete hooks, not literal scripts": output that Maarten can deploy himself, his way
 
 ---
 
@@ -180,13 +180,13 @@ What AI found: core themes where parents struggle with their role model function
 
 > "I'm truly terrible with my smartphone. How can I forbid it when I'm on it myself?"
 
-This is the mirror nobody names out loud, but everyone recognizes. By making this tension explicit — as a challenge, not an accusation — it became something people could talk about.
+This is the mirror nobody names out loud, but everyone recognizes. By making this tension explicit (as a challenge, not an accusation) it became something people could talk about.
 
 ### The conversation fan (section 3)
 
 Section 3 asked for concrete hooks: moments in the conversation that can connect people, if you know where to find them.
 
-What AI found — concrete conversation openers per target group:
+What AI found: concrete conversation openers per target group:
 
 For parents of toddlers:
 > "Right now we still have time to arrange this together. Later we won't have to fight that battle."
@@ -252,7 +252,7 @@ You note what surfaced as input for your next session. Which themes deserve more
 **Summarizing versus enriching**
 Having AI summarize a transcript gives you a shorter transcript. Not enrichment.
 
-*My approach:* I ask for structure, hooks, key moments — not for compression. The question isn't "make this shorter" but "what's in there that I haven't named yet?"
+*My approach:* I ask for structure, hooks, key moments, not for compression. The question isn't "make this shorter" but "what's in there that I haven't named yet?"
 
 **Not entering into dialogue**
 The temptation is to accept the first analysis without questions or corrections.

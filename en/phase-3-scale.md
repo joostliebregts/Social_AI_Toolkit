@@ -2,9 +2,9 @@
 
 # Phase 3: scale
 
-> *Mirror and bridge* — From one conversation to collective wisdom that accumulates over time.
+> *Mirror and bridge:* From one conversation to collective wisdom that accumulates over time.
 
-> Work in progress — This page is still being refined. Content may change.
+> Work in progress. This page is still being refined. Content may change.
 
 ---
 
@@ -34,7 +34,7 @@ I thought: is this real, or is AI making this up?
 
 Then, in the fourth session, the participant said something striking: "I was skeptical, but now I'm really starting to see it."
 
-That was exactly what the analysis had already shown. Not literally — the participant didn't say "I feel ownership" — but figuratively. The shift was real.
+That was exactly what the analysis had already shown. Not literally (the participant didn't say "I feel ownership") but figuratively. The shift was real.
 
 This is what analyses over time can do: make change visible that would otherwise stay invisible.
 
@@ -46,13 +46,13 @@ This is what analyses over time can do: make change visible that would otherwise
 
 Scale means: no longer one analysis, but multiple. The process is always the same: first break apart into separate analyses, then synthesize into a whole.
 
-This sounds simple, but it changes how you work. Instead of asking AI one big question about all your material, you break it into smaller pieces — and only then do you bring the insights together.
+This sounds simple, but it changes how you work. Instead of asking AI one big question about all your material, you break it into smaller pieces, and only then do you bring the insights together.
 
 ### Four variants of scale
 
 There are different ways to work with multiple sessions. Each variant has its own rhythm.
 
-**1. Over time** — same group, multiple sessions
+**1. Over time:** same group, multiple sessions
 
 ```
 Session 1 ──► Session 2 ──► Session 3 ──► Session 4
@@ -67,7 +67,7 @@ Session 1 ──► Session 2 ──► Session 3 ──► Session 4
 
 This is the Doesburg model: one group you follow over months. You see development, growth, stagnation. The story at the top of this page is an example.
 
-**2. Parallel** — simultaneous but separate (breakouts, key figures)
+**2. Parallel:** simultaneous but separate (breakouts, key figures)
 
 ```
       Breakout A ──► Analysis A ──┐
@@ -79,7 +79,7 @@ This is the Doesburg model: one group you follow over months. You see developmen
 
 Three groups talking at the same time. Each group gets its own analysis. Then you bring the insights together: where do the concerns overlap? Where do they differ?
 
-**3. Sequential** — different groups, same theme
+**3. Sequential:** different groups, same theme
 
 ```
 Group 1 ──► Group 2 ──► Group 3
@@ -94,7 +94,7 @@ Group 1 ──► Group 2 ──► Group 3
 
 Different groups talking independently about the same theme. You look for patterns: what keeps coming back? What is unique to one group?
 
-**4. Rolling forward** — building on each other (output becomes input)
+**4. Rolling forward:** building on each other (output becomes input)
 
 ```
 Group 1 ──► Analysis ──► Output 1
@@ -110,9 +110,9 @@ This is the transformation plan model: the output from group 1 becomes input for
 
 ### What this makes possible
 
-- **Making patterns over time visible** — what changes, what stays? Where's the growth, where's the stagnation?
-- **Seeing ownership grow** — does the language shift from "they should" to "we will"? Are people taking more initiative?
-- **Creating connections between people** — finding hooks where connection can emerge, shared struggles that people don't know about each other
+- **Making patterns over time visible:** what changes, what stays? Where's the growth, where's the stagnation?
+- **Seeing ownership grow:** does the language shift from "they should" to "we will"? Are people taking more initiative?
+- **Creating connections between people:** finding hooks where connection can emerge, shared struggles that people don't know about each other
 
 ---
 
@@ -149,19 +149,19 @@ Scale makes things visible that previously stayed in the room. Some insights are
 
 Somewhere in this phase, a different question starts to emerge.
 
-You've seen what AI can do for one session. Then for multiple sessions over time. Then for an entire trajectory within a team or organization — patterns becoming visible, ownership growing, dynamics you can now name.
+You've seen what AI can do for one session. Then for multiple sessions over time. Then for an entire trajectory within a team or organization: patterns becoming visible, ownership growing, dynamics you can now name.
 
 And then:
 
 > What could this do for a neighborhood? A community? An entire sector wrestling with the same challenges?
 
-What if we — with consent, with ethical oversight — would use AI to make collective patterns visible? To let wisdom accumulate instead of evaporating after every session, every workshop, every project?
+What if we (with consent, with ethical oversight) would use AI to make collective patterns visible? To let wisdom accumulate instead of evaporating after every session, every workshop, every project?
 
-I sometimes call this the "Social GitHub" dream. Developers share code on GitHub — not just their solutions, but also how they built those solutions. What if communities could do the same? Not just "this worked for us", but also "this is how we approached it, these were our struggles, this is what we learned along the way."
+I sometimes call this the "Social GitHub" dream. Developers share code on GitHub, not just their solutions, but also how they built those solutions. What if communities could do the same? Not just "this worked for us", but also "this is how we approached it, these were our struggles, this is what we learned along the way."
 
-That way, you could learn from each other at scale. A neighborhood in Doesburg, a small Dutch town, that discovers something about how to build ownership around playgrounds — that knowledge could be accessible for a neighborhood in Groningen wrestling with the same thing. Not as abstract theory, but as concrete experience: their words, their process, their lessons.
+That way, you could learn from each other at scale. A neighborhood in Doesburg, a small Dutch town, that discovers something about how to build ownership around playgrounds; that knowledge could be accessible for a neighborhood in Groningen wrestling with the same thing. Not as abstract theory, but as concrete experience: their words, their process, their lessons.
 
-That's still a vision. But every vision starts with small steps — and those steps are what this toolkit tries to describe.
+That's still a vision. But every vision starts with small steps, and those steps are what this toolkit tries to describe.
 
 ---
 
@@ -181,4 +181,4 @@ The core principle stays the same: break apart, analyze, synthesize.
 
 ---
 
-*This is work in progress. Phase 3 builds on experiments with scaling up — sometimes successful, sometimes not. The vision is big, the practice is modest. Techniques for this phase are still being developed.*
+*This is work in progress. Phase 3 builds on experiments with scaling up, sometimes successful, sometimes not. The vision is big, the practice is modest. Techniques for this phase are still being developed.*

@@ -106,7 +106,7 @@ Sometimes the best reframing isn't something you come up with yourself, but some
 
 ## AI as learning partner
 
-Reframing is a human skill that you apply in the moment. AI can help you develop that skill — not by coming up with the questions for you, but by reflecting with you afterwards.
+Reframing is a human skill that you apply in the moment. AI can help you develop that skill, not by coming up with the questions for you, but by reflecting with you afterwards.
 
 This is where a transcript becomes so valuable: you can use it for your own learning. Not just to analyze what the group said, but to reflect on your own facilitation.
 
@@ -129,10 +129,10 @@ Help me reflecteren:
 ```
 
 **Why this works:**
-- "I had a session today" — positions AI as reflection partner, not as expert
-- "This is what happened" — forces you to describe concretely what you did, not abstractly
-- "Which reframing strategy would have fit here?" — ties back to the three strategies on this page
-- "How do I recognize this pattern earlier?" — you're building a repertoire for next time
+- "I had a session today": positions AI as reflection partner, not as expert
+- "This is what happened": forces you to describe concretely what you did, not abstractly
+- "Which reframing strategy would have fit here?": ties back to the three strategies on this page
+- "How do I recognize this pattern earlier?": you're building a repertoire for next time
 
 *This is a suggestion: adapt it to your specific situation.*
 

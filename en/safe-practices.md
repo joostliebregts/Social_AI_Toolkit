@@ -2,7 +2,7 @@
 
 > *Privacy, boundaries, and responsible use.*
 
-> 🚧 **Work in progress** — This page is still being refined. Content may change.
+> 🚧 **Work in progress:** This page is still being refined. Content may change.
 
 ---
 

@@ -305,11 +305,11 @@ A transcript contains more than you could take in during the moment. Imagine: yo
 
 **Seeing patterns across multiple conversations**
 One transcript is a snapshot. Five transcripts over three months show development: how language shifts, which themes recur, where breakthroughs happen or don't.
-→ *Patterns over time* (Phase 3 — coming soon)
+→ *Patterns over time* (Phase 3, coming soon)
 
 **Finding unexpected connections**
 Two people who share the same struggle without knowing it about each other. Two parents (of different children) both turned out to be struggling with playdates that revolve entirely around gaming. AI distilled the hook: "Are you also standing alone in that Minecraft conversation?" Not a summary. A bridge.
-→ *Finding hooks* (Phase 3 — coming soon)
+→ *Finding hooks* (Phase 3, coming soon)
 
 ---
 

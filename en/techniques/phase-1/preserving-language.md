@@ -23,7 +23,7 @@
 
 ## The story: "This is literally what we said"
 
-On the [previous page](transcription.md) you learned how to capture conversations as text. But what do you do when that text needs to go back to someone — as a synthesis, summary, or reflection?
+On the [previous page](transcription.md) you learned how to capture conversations as text. But what do you do when that text needs to go back to someone: as a synthesis, summary, or reflection?
 
 This is where the tension comes in: the tendency to "clean up" everything into professional language. And the risk that nobody recognizes themselves anymore.
 
@@ -170,8 +170,8 @@ On the transcription page you saw the [full prompt for the smartphone-free paren
 > **Form:** Provide concrete hooks and insights, not literal scripts that [The Initiator] has to read aloud. He wants to protect his own authenticity.
 
 **Why this works:**
-- "Verbatim words" is more explicit than "use their language" — it prevents AI from paraphrasing
-- "No scripts" protects the facilitator's authenticity — AI delivers building blocks, not ready-made text
+- "Verbatim words" is more explicit than "use their language": it prevents AI from paraphrasing
+- "No scripts" protects the facilitator's authenticity: AI delivers building blocks, not ready-made text
 - "Maximum recognizability" names the goal, not just the method
 
 **When:** With groups where you want to facilitate connection, not just capture information.
@@ -252,7 +252,7 @@ Niet clusteren — behoud als losse parels met context.
 - "Loose pearls" protects outliers against the urge to cluster everything
 - Don'ts are explicit because AI tends to smooth over frustrations
 
-*Want to compare multiple sessions? Analyze each session separately with this prompt first, lay the analyses side by side, and look for patterns. You'll find that step in Patterns over time *(Phase 3 — coming soon)* (Phase 3).*
+*Want to compare multiple sessions? Analyze each session separately with this prompt first, lay the analyses side by side, and look for patterns. You'll find that step in Patterns over time *(Phase 3, coming soon)* (Phase 3).*
 
 ---
 
@@ -312,7 +312,7 @@ De keuze om hier op in te gaan blijft bij jullie.
 - "Base strictly on transcript" prevents AI from interpreting
 - "When in doubt: possibly underexposed" protects against overly assertive claims about what people "actually" meant
 
-*For the full technique — when to deploy, how to prepare, the workflow — see [Live reflection with AI](../phase-2/live-reflection-with-ai.md).*
+*For the full technique (when to deploy, how to prepare, the workflow) see [Live reflection with AI](../phase-2/live-reflection-with-ai.md).*
 
 ---
 

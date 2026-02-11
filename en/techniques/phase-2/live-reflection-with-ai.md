@@ -11,11 +11,11 @@
 
 **Situation:** You're facilitating a conversation. The energy drops, people repeat themselves, the conversation goes in circles. Or: there's palpable tension that nobody names.
 
-**My tendency:** I'm getting better at trusting my intuition and naming things explicitly. At the same time, I still doubt sometimes — and hope someone else will name it.
+**My tendency:** I'm getting better at trusting my intuition and naming things explicitly. At the same time, I still doubt sometimes, and hope someone else will name it.
 
 **What helps here:** When you're not sure, or when you know what's behind the echo button, you have a co-facilitator who can work with the entire transcript. As a human you have limited storage in your brain, no matter how attentively you listen. The echo button looks at the conversation from a different perspective and can help you that way.
 
-**The question:** What would happen if at that moment you had an extra set of eyes — a co-facilitator who had heard the entire conversation?
+**The question:** What would happen if at that moment you had an extra set of eyes: a co-facilitator who had heard the entire conversation?
 
 ---
 
@@ -54,7 +54,7 @@ The difference is in speed and context:
 - **Live:** Seconds. Works on the last few minutes. Suitable for intervention in the moment.
 - **Semi-live:** 1-2 minutes, depending on your workflow. Works on longer segments. Suitable for interim synthesis and reflection.
 
-Both require preparation: your prompts need to be ready. The difference is when you deploy them and how many steps are in between — from running the prompt to showing something on screen to the group:
+Both require preparation: your prompts need to be ready. The difference is when you deploy them and how many steps are in between: from running the prompt to showing something on screen to the group.
 
 run prompt, copy output, paste in document, show to group
 
@@ -200,7 +200,7 @@ When the echo is ready, the facilitator reads it in their own words, not verbati
 **Timing of intervention**
 Too early feels like interruption. Too late and the energy is already gone.
 
-*My approach:* I wait until I feel that the group is stuck somewhere. Or until I'm unsure myself and don't know how to proceed — then the echo is a helping hand.
+*My approach:* I wait until I feel that the group is stuck somewhere. Or until I'm unsure myself and don't know how to proceed, then the echo is a helping hand.
 
 **AI language versus own voice**
 What AI generates is a suggestion, not a script. Reading it verbatim can come across as mechanical — but if the preparation was thorough, that's also fine.

@@ -92,13 +92,13 @@ That's what this toolkit is about.
 
 ## The first steps
 
-It starts with capturing what people say. A transcript. That's the foundation, because then AI can work with it — not with its own knowledge but with the knowledge of the people themselves as raw material.
+It starts with capturing what people say. A transcript. That's the foundation, because then AI can work with it; not with its own knowledge but with the knowledge of the people themselves as raw material.
 
 And then deepening. Seeing patterns. Confirming intuitions. Bridging the gap.
 
 And then scale. From a session to processes over time. From a group to communities. From local wisdom to shared patterns.
 
-That echo button from the story — why did it actually work? That's the question where the next part begins.
+That echo button from the story: why did it actually work? That's the question where the next part begins.
 
 > [How people and AI collaborate](how.md)
 
