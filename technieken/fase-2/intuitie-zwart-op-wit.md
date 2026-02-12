@@ -208,7 +208,7 @@ Het verschil tussen "het lijkt alsof" en "uit analyse blijkt" is klein in woorde
 
 ---
 
-## Veilige defaults
+## Veilige uitgangspunten
 
 - [ ] Analyse op groepsniveau, niet op individuen?
 - [ ] AI-observaties geframed als mogelijkheden, niet als feiten?

@@ -333,7 +333,7 @@ De neiging is om te zeggen wat er mis is zonder te zeggen wat ik wel zoek.
 
 ---
 
-## Veilige defaults
+## Veilige uitgangspunten
 
 *Voor privacy-afwegingen bij het delen van transcripten, lees [Veilig werken met AI](../../veilig-werken.md).*
 

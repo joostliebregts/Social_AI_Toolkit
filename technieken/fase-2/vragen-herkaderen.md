@@ -128,7 +128,7 @@ Help me reflecteren:
 - Hoe herken ik dit patroon de volgende keer eerder?
 ```
 
-**Waarom dit werkt:**
+**Waarom deze structuur werkt:**
 - **"Ik had vandaag een sessie"** plaatst AI als reflectiepartner, niet als expert
 - **"Dit is wat er gebeurde"** dwingt je om concreet te beschrijven wat je deed, niet abstract
 - **"Welke herkader-strategie"** koppelt terug naar de drie strategieën op deze pagina

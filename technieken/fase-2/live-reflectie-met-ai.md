@@ -219,7 +219,7 @@ De echo is een tool, geen oplossing. Als ik alleen maar op knoppen druk, mis ik 
 
 ---
 
-## Veilige defaults
+## Veilige uitgangspunten
 
 *Voor privacy-afwegingen bij live transcriptie, lees [Veilig werken met AI](../../veilig-werken.md).*
 

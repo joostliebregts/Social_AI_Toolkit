@@ -348,7 +348,7 @@ Er is een spanning tussen de officiële stijl en de authentieke stem van de deel
 
 ---
 
-## Veilige defaults
+## Veilige uitgangspunten
 
 - [ ] Structuur van brondocument geanalyseerd?
 - [ ] Stijlrichtlijnen expliciet in de prompt?

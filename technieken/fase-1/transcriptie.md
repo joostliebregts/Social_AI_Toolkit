@@ -310,11 +310,11 @@ Een transcript bevat meer dan je in het moment kon bevatten. Stel je voor: je ga
 
 **Patronen zien over meerdere gesprekken**
 Eén transcript is een momentopname. Vijf transcripten over drie maanden laten ontwikkeling zien: hoe taal verschuift, welke thema's terugkomen, waar doorbraken ontstaan of juist uitblijven.
-→ *Patronen over tijd* (Fase 3 — komt nog)
+→ *[Patronen over tijd](../fase-3/patronen-over-tijd.md)* (Fase 3)
 
 **Onverwachte verbindingen vinden**
 Twee mensen die dezelfde worsteling delen zonder het van elkaar te weten. Twee ouders (van verschillende kinderen) bleken allebei te worstelen met speelafspraakjes die alleen maar om gamen draaien. AI destilleerde het haakje: "Sta jij ook alleen in dat Minecraft-gesprek?" Niet een samenvatting. Een brug.
-→ *Haakjes vinden* (Fase 3 — komt nog)
+→ *[Haakjes vinden](../fase-3/haakjes-vinden.md)* (Fase 3)
 
 ---
 
@@ -337,7 +337,7 @@ De tools zijn zo makkelijk. Upload, klik, klaar. Maar niet elk gesprek hoort in 
 
 ---
 
-## Veilige defaults
+## Veilige uitgangspunten
 
 Bij elke techniek in deze toolkit geef ik een checklist van dingen om te checken voordat je begint. Niet als bureaucratie, maar als snelle scan: heb ik aan de belangrijkste dingen gedacht?
 
@@ -394,4 +394,7 @@ De kracht van transcriptie ligt niet in de technologie. Die is nu bijna gratis. 
 - [Brondocument-stijl klonen](brondocument-stijl.md): Als je transcript naar een formeel document moet dat stakeholders accepteren
 - [Live reflectie met AI](../fase-2/live-reflectie-met-ai.md): Live transcriptie gebruiken voor directe interventies
 
+---
+
+<- [Terug naar Fase 1: Begin](../../fase-1-begin.md) | [Volgende: Taal als eigenaarschap ->](taal-behouden.md)
 

@@ -286,7 +286,7 @@ Concreet:
 
 ---
 
-## Veilige defaults
+## Veilige uitgangspunten
 
 - [ ] Vraag ik om ervaringen, niet om meningen?
 - [ ] Heb ik de puzzelstukjes geïdentificeerd?

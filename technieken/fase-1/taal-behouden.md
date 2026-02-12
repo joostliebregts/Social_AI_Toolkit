@@ -164,7 +164,7 @@ Op de transcriptiepagina zag je de [volledige prompt voor de smartphonevrij-oude
 
 > **Vorm:** Geef concrete haakjes en inzichten, geen letterlijke scripts die [De Initiatiefnemer] moet voorlezen. Hij wil zijn eigen authenticiteit bewaken.
 
-**Waarom dit werkt:**
+**Waarom deze structuur werkt:**
 - **"Letterlijke bewoordingen"** is explicieter dan "gebruik hun taal" — het voorkomt dat AI gaat parafraseren
 - **"Geen scripts"** beschermt de authenticiteit van de facilitator — AI levert bouwstenen, geen kant-en-klare tekst
 - **"Maximale herkenbaarheid"** benoemt het doel, niet alleen de methode
@@ -302,7 +302,7 @@ belichten — niet om te oordelen, maar om uitnodigende vragen te stellen.
 De keuze om hier op in te gaan blijft bij jullie.
 ```
 
-**Waarom dit werkt:**
+**Waarom deze structuur werkt:**
 - **"Verschillende framingen"** met letterlijke quotes zorgt dat mensen zichzelf herkennen
 - **"Baseer strikt op transcript"** voorkomt dat AI gaat interpreteren
 - **"Bij twijfel: mogelijk onderbelicht"** beschermt tegen te stellige beweringen over wat mensen "eigenlijk" bedoelden
@@ -335,7 +335,7 @@ Als AI patronen herkent of vragen stelt, kan interpretatie versmelten met eigena
 
 ---
 
-## Veilige defaults
+## Veilige uitgangspunten
 
 *Voor privacy-afwegingen bij gevoelige gesprekken, lees [Veilig werken met AI](../../veilig-werken.md).*
 
