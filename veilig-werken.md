@@ -2,8 +2,6 @@
 
 > *Privacy, grenzen en verantwoord gebruik.*
 
-> 🚧 **Work in progress** — Deze pagina wordt nog bijgeschaafd. Inhoud kan veranderen.
-
 ---
 
 ## De basisprincipes
@@ -54,7 +52,7 @@ Bij elke prompt voor gevoelige gesprekken, gebruik deze randvoorwaarden:
 
 ### Strikt op transcript
 
-```
+```prompt
 Baseer je strikt op wat er staat, geen verzinsels.
 ```
 
@@ -62,7 +60,7 @@ Dit voorkomt dat AI informatie toevoegt die er niet is.
 
 ### Bij twijfel benoemen
 
-```
+```prompt
 Bij twijfel: formuleer als "mogelijk" of "het lijkt alsof"
 in plaats van stellige beweringen.
 ```
@@ -71,7 +69,7 @@ Dit voorkomt dat AI zekerheid simuleert die er niet is.
 
 ### Taal behouden
 
-```
+```prompt
 Gebruik de exacte woorden en formuleringen van deelnemers.
 Geen parafrase naar professionele taal.
 ```
@@ -80,7 +78,7 @@ Dit voorkomt dat eigenaarschap verdwijnt door vertaling.
 
 ### AI markeren
 
-```
+```prompt
 Maak expliciet onderscheid tussen wat deelnemers zeiden
 en wat AI observeert.
 ```

@@ -1,4 +1,6 @@
-![[taalalseigenaarschapmechanisme.png]]# Taal als eigenaarschap
+![[taalalseigenaarschapmechanisme.png]]
+
+# Taal als eigenaarschap
 
 > *Het verschil tussen "communicatieproblemen" en "je praat tegen een muur" is niet semantisch — het eerste ondermijnt eigenaarschap, het tweede creëert het.*
 
@@ -44,7 +46,9 @@ De transitie is zichtbaar: van shock ("AI begrijpt ons?!") naar herkenning ("dit
 Niemand zou dezelfde reactie hebben gehad op een synthese die hun woorden had vertaald naar beleidstaal. Het verschil zit niet in de structuur. Het verschil zit in de taal.
 
 ---
-![[taal-behouden-mechanisme-letterlijk.png]]
+
+![Herkenning creëert eigenaarschap](../../images/taal-behouden-mechanisme-letterlijk.png)
+
 ## Het mechanisme: herkenning creëert eigenaarschap
 
 Waarom werkt dit? Het mechanisme is simpel maar fundamenteel:
@@ -160,9 +164,13 @@ De basisaanpak hierboven werkt voor veel situaties. Maar de context varieert: so
 
 Op de transcriptiepagina zag je de [volledige prompt voor de smartphonevrij-ouderbijeenkomst](transcriptie.md#1-vastleggen-wat-je-niet-kon-horen). Hier licht ik twee randvoorwaarden uit die taalbehoud afdwingen:
 
-> **Taal:** Gebruik de *letterlijke bewoordingen* van de deelnemers waar mogelijk voor maximale herkenbaarheid.
+```prompt
+**Taal:** Gebruik de *letterlijke bewoordingen* van de deelnemers waar mogelijk voor maximale herkenbaarheid.
+```
 
-> **Vorm:** Geef concrete haakjes en inzichten, geen letterlijke scripts die [De Initiatiefnemer] moet voorlezen. Hij wil zijn eigen authenticiteit bewaken.
+```prompt
+**Vorm:** Geef concrete haakjes en inzichten, geen letterlijke scripts die [De Initiatiefnemer] moet voorlezen. Hij wil zijn eigen authenticiteit bewaken.
+```
 
 **Waarom deze structuur werkt:**
 - **"Letterlijke bewoordingen"** is explicieter dan "gebruik hun taal" — het voorkomt dat AI gaat parafraseren
@@ -369,11 +377,8 @@ Maar (en dit is cruciaal) snelheid zonder taalbehoud heeft weinig zin. Een snell
 
 ---
 
-**Navigatie:**
-- [Terug naar Fase 1: Begin](../../fase-1-begin.md)
-- [Vorige: Transcriptie](transcriptie.md)
-- [Volgende: Brondocumentstijl](brondocument-stijl.md)
+← [Vorige: Transcriptie](transcriptie.md) | [Terug naar Fase 1: Begin](../../fase-1-begin.md) | [Volgende: Brondocument-stijl →](brondocument-stijl.md)
 
 ---
 
-*De woorden van deelnemers zijn niet alleen informatie, ze zijn eigenaarschap.*
+*"De woorden van deelnemers zijn niet alleen informatie, ze zijn eigenaarschap."*
