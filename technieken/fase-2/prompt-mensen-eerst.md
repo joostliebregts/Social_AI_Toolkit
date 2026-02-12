@@ -112,7 +112,6 @@ Eerst het ideaalbeeld (emotie, droom), dan de cruciale onderdelen (wat doet erto
 **De AI-prompt:**
 Omdat de input zo goed gestructureerd was, kon de prompt precies volgen wat de facilitators hadden ontworpen:
 
-<details>
 <summary><strong>Bekijk de volledige prompt</strong></summary>
 
 ```prompt
@@ -173,8 +172,6 @@ Cruciale Onderdelen Visie:
 - [Cruciaal onderdeel 3]
 - ...
 ```
-
-</details>
 
 Wat ik hiervan meeneem: de rijkheid zat in de input, niet in de prompt. Omdat Rianne en Jojanneke de menselijke ervaring zo goed hadden ontworpen, hoefde AI alleen maar te bundelen wat er al was.
 
