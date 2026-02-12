@@ -112,7 +112,7 @@ Eerst het ideaalbeeld (emotie, droom), dan de cruciale onderdelen (wat doet erto
 **De AI-prompt:**
 Omdat de input zo goed gestructureerd was, kon de prompt precies volgen wat de facilitators hadden ontworpen:
 
-<strong>Bekijk de volledige prompt</strong>
+**Bekijk de volledige prompt**
 
 ```prompt
 Rol: Je bent een AI-assistent die helpt bij het live documenteren
