@@ -36,7 +36,7 @@ Elke keer dat ik AI inzet in een sessie, voel ik hetzelfde. Er zijn dingen die A
 
 Na een tijdje begon ik patronen te zien. Die patronen heb ik in zes principes gevat. Hieronder leg ik ze uit. In de drie fases die volgen in deze toolkit, of je nu begint met je eerste transcriptie of maanden aan gesprekken analyseert, dezelfde principes weven erdoorheen.
 
-| De spanning             | AI kan...                  | Mens moet...             |
+| De principes            | AI kan...                  | Mens moet...             |
 | ----------------------- | -------------------------- | ------------------------ |
 | Ritueel vs intentie     | Rituelen efficiënter maken | Intentie bewaken         |
 | Jouw woorden, jouw plan | Analyseren en samenvatten  | Verwoorden en beslissen  |
