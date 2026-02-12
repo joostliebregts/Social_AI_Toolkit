@@ -19,17 +19,6 @@
 
 ---
 
-## Op deze pagina
-
-Itereren heeft verschillende vormen. Spring naar wat je zoekt:
-
-- [Het verhaal: twaalf rondes](#het-verhaal-twaalf-rondes) - waarom de beste prompts niet in ronde 1 ontstaan
-- [De shift: van sleutelen naar sturen](#de-shift-van-sleutelen-naar-sturen) - het verschil tussen solo-werk en samenwerken met AI
-- [Iteratie vooraf: laat AI jou vragen stellen](#iteratie-vooraf-laat-ai-jou-de-vragen-stellen) - scherp krijgen wat je wilt vóórdat er output komt
-- [De gereedschapskist](#de-gereedschapskist) - concrete methodes voor feedback geven, prompts verbeteren, en AI's elkaars werk laten reviewen
-
----
-
 ## Het verhaal: twaalf rondes
 
 Een transformatieplan voor een mentaal gezondheidsnetwerk. Dertig stakeholders hadden input gegeven. Nu moest dat omgezet worden naar een document dat de zorgverzekeraar zou accepteren.

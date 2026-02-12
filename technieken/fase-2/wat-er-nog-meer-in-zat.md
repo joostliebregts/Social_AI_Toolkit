@@ -5,10 +5,6 @@
 **Fase:** [Fase 2: Verdieping](../../fase-2-verdieping.md)
 **Bouwt voort op:** [Transcriptie als fundament](../fase-1/transcriptie.md), samen graven naar wat erin zit
 
-**Vorige stap:** [Transcriptie als fundament](../fase-1/transcriptie.md): je hebt tekst
-**Dit:** Samen graven naar wat erin zit
-**Volgende stap:** [Haakjes vinden](../fase-3/haakjes-vinden.md) (Fase 3): verbindingen systematisch zichtbaar maken
-
 ---
 
 ## Wanneer is dit relevant?

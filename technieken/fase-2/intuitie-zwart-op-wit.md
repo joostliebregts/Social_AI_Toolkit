@@ -156,8 +156,9 @@ Per gevonden patroon:
 **Aanpak:** Geef AI het transcript zonder te zeggen wat je zoekt. Kijk of het terugkomt.
 
 **In je prompt:**
-> Analyseer dit transcript op dynamiek-patronen. Let specifiek op momenten waar de energie verschoof, onderwerpen die vermeden werden, en verschil tussen wat gezegd en wat bedoeld lijkt.
-
+```prompt
+Analyseer dit transcript op dynamiek-patronen. Let specifiek op momenten waar de energie verschoof, onderwerpen die vermeden werden, en verschil tussen wat gezegd en wat bedoeld lijkt.
+```
 **Bijvoorbeeld:** Na een teambespreking voel je dat er spanning zit rond een bepaald onderwerp. Je vraagt AI om "dynamiek-patronen" te analyseren (niet rond personen, maar rond thema's). AI identificeert dat het gesprek drie keer wegdraaide van budgetdiscussies, telkens na een kritische opmerking.
 
 ### 2. Woorden vinden voor het onbenoemde
@@ -167,7 +168,9 @@ Per gevonden patroon:
 **Aanpak:** Vraag AI om het gesprek te analyseren op spanning, energie, verschuivingen. Kijk welke taal AI gebruikt.
 
 **In je prompt:**
-> Ik heb het gevoel dat er iets verschuift in dit gesprek maar ik kan het niet benoemen. Analyseer op verschuivingen in toon, energie, en thema's. Geef elk patroon een naam in de taal van de groep.
+```prompt
+Ik heb het gevoel dat er iets verschuift in dit gesprek maar ik kan het niet benoemen. Analyseer op verschuivingen in toon, energie, en thema's. Geef elk patroon een naam in de taal van de groep.
+```
 
 **Voorbeeld:** De "drie fases" (Paradijs, Schemerzone, Realiteit) waren niet mijn woorden. AI genereerde namen die het gevoel vingen.
 
@@ -178,8 +181,9 @@ Per gevonden patroon:
 **Aanpak:** Laat AI patronen identificeren met citaten. Gebruik die als onderbouwing.
 
 **In je prompt:**
-> Identificeer patronen in dit transcript. Per patroon: een herkenbare naam, 2-3 citaten die het illustreren, en wat er verschuift.
-
+```prompt
+Identificeer patronen in dit transcript. Per patroon: een herkenbare naam, 2-3 citaten die het illustreren, en wat er verschuift.
+```
 **Voorbeeld:** "Ik merkte dat de energie zakte bij dit onderwerp" wordt "Uit het transcript: op drie momenten verschoof het gesprek weg van [onderwerp], telkens na deze types opmerkingen..."
 
 ---

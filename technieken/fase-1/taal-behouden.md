@@ -79,7 +79,6 @@ Niet alle taal is gelijk. Hoe specifieker, hoe sterker de herkenning:
 | **3. Generieke termen uit hun domein** | "groepsdruk bij kinderen"                                                         | Herkenbaar maar afstandelijker                        |
 | **4. Abstracte concepten**             | "sociale uitdagingen"                                                             | Nauwelijks herkenning                                 |
 | **5. Consultantentaal**                | "stakeholder alignment rond jeugdgedragsnormen"                                   | Niemand herkent zich meer                             |
-
 Het doel is niveau 1-2. Vermijd 4-5 altijd. Niveau 3 alleen als dat de taal is die zij zelf gebruiken.
 
 ---

@@ -18,7 +18,7 @@ Dit is de fase van verdieping: niet meer vastleggen wat er is, maar ontdekken wa
 
 ---
 
-## Twaalf rondes
+## Het verhaal: Twaalf rondes
 
 Dit verhaal ken je misschien al van [brondocument-stijl klonen](technieken/fase-1/brondocument-stijl.md). Daar ging het over de techniek: hoe je stijlkenmerken in je prompt verwerkt. Hier gaat het over iets anders: het proces zelf. Hoe ziet iteratie met AI er eigenlijk uit?
 

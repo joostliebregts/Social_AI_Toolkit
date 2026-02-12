@@ -71,7 +71,6 @@ Kies een tool die past bij je situatie:
 | **Dembrane**                 | Real-time transcriptie tijdens de sessie, directe synthese mogelijk                                 |
 | **Notion AI**                | Je werkt al in Notion, wilt alles op één plek, werkt zowel in het Engels als Nederlands             |
 | **Google Meet transcriptie** | Je werkt al in Google ecosystem, basis is genoeg (let op: vooralsnog geen Nederlandse transcriptie) |
-
 *Zie de [tools-pagina](../../tools.md) voor meer details over deze en andere tools.*
 
 Voor de meeste facilitators (met een Mac) is MacWhisper een goede start: het werkt lokaal (privacy), heeft een gratis versie waarmee je al veel kan, de pro versie is 'betaal één keer', levert goede Nederlandse transcripties, en heeft ingebouwde dictatie.
@@ -85,8 +84,9 @@ Transcripties zijn niet perfect. Check altijd op:
 
 Je hoeft niet het hele transcript te corrigeren. Focus op wat je gaat gebruiken. En zodra je met het transcript gaat werken, geef de AI het transcript met correctie-context erbij. Bijvoorbeeld:
 
-> "Dit transcript bevat vaktermen en namen die mogelijk verkeerd zijn getranscribeerd: 'POH-GGZ' (niet 'P.O. Achates'), 'Rianne' (niet 'Rijanne'), 'GALA' (niet 'gala')."
-
+```prompt 
+Dit transcript bevat vaktermen en namen die mogelijk verkeerd zijn getranscribeerd: 'POH-GGZ' (niet 'P.O. Achates'), 'Rianne' (niet 'Rijanne'), 'GALA' (niet 'gala').
+```
 ### Stap 4: Gebruiken met intentie
 
 Dit is waar het echte werk begint. De vraag is niet "wat kan ik met dit transcript?" maar "wat wil ik bereiken?"
@@ -208,8 +208,9 @@ Dit is misschien het meest voor de hand liggende gebruik van transcriptie. Veel 
 
 Tegenwoordig kun je AI ook de prompt laten schrijven. Geef het transcript en je wensen, en vraag om een passende prompt. Na een meeting vroeg ik AI:
 
-> "Als de meeting voorbij is, wat is dan de goede prompt om de best passende samenvatting en notulen te hebben, voor zowel aanwezigen als afwezigen (Anna en Lisa)?"
-
+```prompt
+Als de meeting voorbij is, wat is dan de goede prompt om de best passende samenvatting en notulen te hebben, voor zowel aanwezigen als afwezigen (Anna en Lisa)?
+```
 AI genereerde een prompt met structuur (in het kort, terugblik, beslissingen, actiepunten, voor afwezigen) en de instructie om het taalgebruik van de deelnemers te behouden. Dit is een interessant patroon: AI helpt de prompt maken op basis van context.
 
 **Kernbesluiten Capture:**
