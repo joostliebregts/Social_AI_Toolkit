@@ -30,6 +30,7 @@ Je zou verwachten dat een toolkit over AI draait om de juiste prompts. Maar de t
 Twee vragen, zelfde doel: een beeld krijgen van hoe samenwerking beter kan:
 
 **Vraag A:** "Hoe zou de samenwerking er idealiter uitzien?"
+
 **Vraag B:** "Kun je een moment beschrijven waarop de samenwerking goed voelde? Wat gebeurde er toen?"
 
 Vraag A levert abstracte antwoorden. Theorie. Meningen over hoe het zou moeten.
