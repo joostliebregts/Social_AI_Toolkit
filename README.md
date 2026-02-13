@@ -1,8 +1,10 @@
-# Social AI Toolkit
+# Social AI Veldgids
 
-![Social AI Toolkit](images/socialaitoolkit.png)
+![Social AI Veldgids](images/socialaitoolkit.png)
 
-**v0.9** — februari 2026
+**v1.0** — februari 2026
+
+> 📖 **[Lees de Veldgids online → jmfl.nl/social-ai](https://jmfl.nl/social-ai/)**
 
 **Hoe kan AI ons helpen om samenwerking te versterken?**
 
@@ -117,11 +119,11 @@ En anderen met wie ik mooie trajecten heb mogen doen die we hier niet publiekeli
 
 ## Status
 
-Dit is v0.9.
+Dit is v1.0.
 
-**Wat klaar is:** De visie, de principes, fase 1 met drie technieken, fase 2 met zeven volledig verrijkte technieken, en fase 3 als conceptuele introductie.
+**Wat er in zit:** De visie, de 6 principes, fase 1 met drie technieken, fase 2 met zeven volledig verrijkte technieken, fase 3 als conceptuele introductie, Engelse vertalingen van alle technieken, en een [visuele online versie](https://jmfl.nl/social-ai/).
 
-**Wat nog komt:** Fase 3 krijgt concrete technieken zodra de herstructurering klaar is. Extra technieken (transcript naar podcast, chat naar profiel) volgen.
+**Wat nog komt:** Fase 3 krijgt concrete technieken. Extra technieken (transcript naar podcast, chat naar profiel) volgen.
 
 Waarom nu publiek? Omdat het klaar genoeg is om te delen, en te waardevol om alleen voor mezelf te houden. En omdat ik feedback wil: wat werkt voor jou? Wat mist er? Waar ben je nieuwsgierig naar?
 
