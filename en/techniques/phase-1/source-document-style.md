@@ -3,7 +3,7 @@
 > *"We know this document was approved by the health insurer. What I actually want is for the new documents to come in the same writing style."*
 
 **Phase:** [Phase 1: Start](../../phase-1-start.md)
-**Builds on:** Transcription as raw material for new documents
+**Builds on:** [Transcription](transcription.md)
 
 ---
 
@@ -71,7 +71,7 @@ Before you can write a prompt, you need to understand what the characteristics a
 
 **The analysis prompt:**
 
-```
+```prompt
 Analyseer dit document en identificeer:
 
 1. Structuur: Welke secties komen terug? In welke volgorde?
@@ -117,7 +117,7 @@ Include the style characteristics literally in every prompt that needs to genera
 
 **Example: style guidelines embedded**
 
-```
+```prompt
 Formuleer in de volgende schrijfstijl:
 - Taal: Formeel, zakelijk Nederlands
 - Toon: Collaboratief ("we", "samen"), actiegericht, pragmatisch
@@ -159,7 +159,7 @@ This is also a preview of [Phase 3: Scale](../../phase-3-scale.md), where you're
 - Terminology from the source document (IZA, GALA, MGN)
 - Purpose of the output explicitly stated
 
-```
+```prompt
 **Prompt voor Dembrane (Tussentijdse Visie Terugkoppeling - Universeel)**
 
 **Rol:** Je bent een AI-assistent die helpt bij het live documenteren van een transformatieplan-sessie. Jouw taak nu is om de kern van de zojuist gevoerde visie-discussie samen te vatten voor directe feedback aan de groep.
@@ -211,7 +211,7 @@ This is also a preview of [Phase 3: Scale](../../phase-3-scale.md), where you're
 - Tagging system for later synthesis
 - Output aimed at passing forward to the next round
 
-```
+```prompt
 **Prompt voor Dembrane (Continue Verwerking & Vragen - Universeel)**
 
 **Rol:** Je bent een AI-analist en redacteur die live gesprekken volgt voor een transformatieplan GGZ. Jouw taken zijn het extraheren van kernpunten en het identificeren van vragen voor verdere discussie.
@@ -264,7 +264,7 @@ This is also a preview of [Phase 3: Scale](../../phase-3-scale.md), where you're
 - Structure adopted from the source document
 - Room for "missing information"
 
-```
+```prompt
 **Prompt voor Dembrane (Eind-Synthese Deelplan per Thema - Universele Template)**
 
 **Rol:** Je bent de hoofdredacteur die de input van de gehele workshop consolideert tot een concept-deelplan voor het transformatieplan [Naam Nieuwe Regio].
@@ -350,7 +350,7 @@ There's a tension between the official style and the authentic voice of the part
 
 ---
 
-## Safe defaults
+## Safety checklist
 
 - [ ] Source document structure analyzed?
 - [ ] Style guidelines explicit in the prompt?
@@ -378,4 +378,8 @@ There's a tension between the official style and the authentic voice of the part
 
 ---
 
-[Back to Phase 1: Start](../../phase-1-start.md) | [Previous: Language as ownership](preserving-language.md) | [Next: Phase 2: Deepening](../../phase-2-deepening.md)
+← [Previous: Language as ownership](preserving-language.md) | [Back to Phase 1](../../phase-1-start.md) | [Next: Phase 2: Deepening →](../../phase-2-deepening.md)
+
+---
+
+*"You can't say 'write like the example' if AI doesn't have that example. The style must be in the prompt."*

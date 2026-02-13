@@ -105,8 +105,7 @@ G3 feedback op v3   ──► prompt ──► concept v4 ✓ (finale)
 
 Steeds dezelfde prompt. Steeds meer input. Het document groeit mee.
 
-<details>
-<summary>Bekijk de volledige prompt (deze is zeer lang)</summary>
+**Bekijk de volledige prompt (deze is zeer lang)**
 
 ```prompt
 **Rol:** Je bent een analytisch redacteur en strategisch ontwikkelaar. Je destilleert eerst de kerninzichten uit de aangeleverde discussie(s). Vervolgens synthetiseer je deze volledig tot een uitgebreid, gedetailleerd, toekomstgericht, en transparant concept (of herzien concept) deelplan voor het Mentaal Gezondheidsnetwerk [regio], waarbij de geïdentificeerde kernwaarden als een rode draad door de tekst zijn verweven.
@@ -235,9 +234,6 @@ Overwogen Alternatieven en Mogelijke Blinde Vlekken
 (3-5 bullet points)
 ```
 
-
-</details>
-
 **Waarom deze structuur werkt:**
 - **"Baseer output strikt op expliciete informatie"** — voorkomt dat AI gaat verzinnen. Je krijgt eerlijke output met duidelijke gaten die je kunt opvullen.
 - **"Verwijs expliciet naar hoe feedback is verwerkt"** — transparantie over wat er met de input is gedaan. Mensen zien dat hun bijdrage ertoe doet.
@@ -259,17 +255,11 @@ Een snelle manier: geef AI deze prompt samen met een voorbeeld van een bestaand 
 
 Dit vraagt twee mensen:
 
-**Facilitator:**
-- Blijft bij de groep
-- Leidt de discussie
-- Toont AI-output aan groep
-- Begeleidt validatie
-
-**Co-facilitator:**
-- Monitort transcriptie
-- Selecteert segmenten
-- Lanceert prompts
-- Doet snelle iteraties
+| | Facilitator | Co-facilitator |
+|---|------------|----------------|
+| **Voor de sessie** | Sessie-ontwerp, vragen voorbereiden | Techniek klaarzetten, opname regelen |
+| **Tijdens** | Gesprek leiden, AI-output tonen, validatie begeleiden | Transcriptie monitoren, segmenten selecteren, prompts lanceren |
+| **Na afloop** | Review output met groep | Verwerking en consolidatie |
 
 Nooit: facilitator achter een laptop terwijl de groep wacht.
 

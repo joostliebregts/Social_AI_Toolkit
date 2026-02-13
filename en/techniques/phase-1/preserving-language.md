@@ -5,7 +5,7 @@
 > *The difference between "communication issues" and "you're talking to a wall" isn't semantic — the first undermines ownership, the second creates it.*
 
 **Phase:** [Phase 1: Start](../../phase-1-start.md)
-**Builds on:** The bicycle helmet story: where Maarten's own words revealed the core
+**Builds on:** [Source document style cloning](source-document-style.md)
 
 ---
 
@@ -104,7 +104,7 @@ By making language preservation explicit in the prompt. Not as a side note, but 
 
 This is a prompt we used for a leadership workshop in a small municipality. Notice how the constraints for language preservation are specific and concrete:
 
-```
+```prompt
 **Rol**: Je bent een strategisch redacteur met expertise in visievorming
 die individuele toekomstbeelden omzet in één krachtige, gezamenlijk
 gedragen visie.
@@ -165,9 +165,13 @@ The basic approach above works for many situations. But the context varies: some
 
 On the transcription page you saw the [full prompt for the smartphone-free parent evening](transcription.md#1-vastleggen-wat-je-niet-kon-horen). Here I highlight two constraints that enforce language preservation:
 
-> **Language:** Use participants' *verbatim words* wherever possible for maximum recognizability.
+```prompt
+**Language:** Use participants' *verbatim words* wherever possible for maximum recognizability.
+```
 
-> **Form:** Provide concrete hooks and insights, not literal scripts that [The Initiator] has to read aloud. He wants to protect his own authenticity.
+```prompt
+**Form:** Provide concrete hooks and insights, not literal scripts that [The Initiator] has to read aloud. He wants to protect his own authenticity.
+```
 
 **Why this structure works:**
 - **Verbatim words** is more explicit than "use their language": it prevents AI from paraphrasing
@@ -185,7 +189,7 @@ This is the analysis approach we used at a session with key figures in Doesburg,
 **When:** After a session with structured rounds (e.g., dream scenario, challenges, own possibilities).
 
 **Prompt:**
-```
+```prompt
 **Context**: Je analyseert het transcript van [één tafel/sessie/breakout]
 over [onderwerp]. De sessie had [aantal] rondes: [ronde-namen].
 
@@ -273,7 +277,7 @@ Look at the output format:
 This is language preservation in action. Not "some think X, others think Y" — but verbatim quotes that show how different people frame things. Participants recognize themselves. And that's exactly where ownership begins.
 
 **The prompt:**
-```
+```prompt
 **Rol**: Je bent een ervaren groepsdynamiek-expert die signalen van
 vermeden onderwerpen, onuitgesproken spanningen en verschillende
 perspectieven detecteert in dialogen.
@@ -340,7 +344,7 @@ When AI recognizes patterns or poses questions, interpretation can merge with ow
 
 ---
 
-## Safe defaults
+## Safety checklist
 
 *For privacy considerations with sensitive conversations, read [Safe practices with AI](../../safe-practices.md).*
 
@@ -374,11 +378,8 @@ But (and this is crucial) speed without language preservation is barely useful. 
 
 ---
 
-**Navigation:**
-- [Back to Phase 1: Start](../../phase-1-start.md)
-- [Previous: Transcription](transcription.md)
-- [Next: Source document style](source-document-style.md)
+← [Previous: Transcription](transcription.md) | [Back to Phase 1: Start](../../phase-1-start.md) | [Next: Source document style →](source-document-style.md)
 
 ---
 
-*Participants' words aren't just information, they are ownership.*
+*"Participants' words aren't just information, they are ownership."*

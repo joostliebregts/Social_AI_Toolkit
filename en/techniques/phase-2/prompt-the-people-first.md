@@ -3,7 +3,7 @@
 > *The quality of AI output depends on the quality of human input.*
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
-**Builds on:** The question that precedes the AI prompt
+**Builds on:** [Reframing questions](reframing-questions.md)
 
 ---
 
@@ -30,6 +30,7 @@ You'd expect a toolkit about AI to be all about the right prompts. But the techn
 Two questions, same goal: getting a picture of how collaboration could improve:
 
 **Question A:** "What would the ideal collaboration look like?"
+
 **Question B:** "Can you describe a moment when the collaboration felt right? What happened then?"
 
 Question A yields abstract answers. Theory. Opinions about how things should be.
@@ -112,10 +113,9 @@ First the ideal picture (emotion, dream), then the crucial elements (what matter
 **The AI prompt:**
 Because the input was so well structured, the prompt could precisely follow what the facilitators had designed:
 
-<details>
-<summary><strong>View the full prompt</strong></summary>
+**View the full prompt**
 
-```
+```prompt
 Rol: Je bent een AI-assistent die helpt bij het live documenteren
 van een transformatieplan-sessie. Jouw taak nu is om de kern van
 de gevoerde visie-discussie samen te vatten voor directe feedback
@@ -173,8 +173,6 @@ Cruciale Onderdelen Visie:
 - [Cruciaal onderdeel 3]
 - ...
 ```
-
-</details>
 
 What I take from this: the richness was in the input, not in the prompt. Because Rianne and Jojanneke had designed the human experience so well, AI only needed to bundle what was already there.
 
@@ -239,7 +237,7 @@ And if you need help designing those questions? Then you can use AI.
 
 This is how you can use AI to design the participant questions:
 
-```
+```prompt
 Ik bereid een workshop voor over [ONDERWERP].
 
 Mijn doel is: [WAT IK WIL BEREIKEN]
@@ -287,7 +285,7 @@ Concretely:
 
 ---
 
-## Safe defaults
+## Safety checklist
 
 - [ ] Am I asking for experiences, not opinions?
 - [ ] Have I identified the puzzle pieces?

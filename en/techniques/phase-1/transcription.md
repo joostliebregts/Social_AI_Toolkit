@@ -3,7 +3,7 @@
 > *Everything starts with text. Transcription makes the fleeting tangible.*
 
 **Phase:** [Phase 1: Start](../../phase-1-start.md)
-**This is the foundation:** without text, no deepening
+**Builds on:** This is the foundation technique
 
 ---
 
@@ -114,7 +114,7 @@ Transcription is your safety net. Not as a replacement for attention, but as bac
 
 The prompt below is more extensive than you might expect for "capturing what you couldn't hear." That's deliberate. This is the actual prompt that Maarten and I used after the parent-teacher evening about smartphone-free parenting. It shows how you go from transcript to usable insights in one step: not just what was said, but also how you can use it in follow-up conversations.
 
-```
+```prompt
 # CONTEXT & ROL
 
 Je fungeert als een systemisch strateeg en gemeenschapsbouwer die [De Initiatiefnemer] ondersteunt. Hij heeft een lokale werkgroep opgericht op de basisschool van zijn kinderen met als doel: het smartphonegebruik bij kinderen uitstellen en de norm veranderen (streven naar >25% smartphonevrij in de klas om groepsdruk te verlagen).
@@ -214,7 +214,7 @@ AI generated a prompt with structure (in brief, recap, decisions, action items, 
 
 **Key Decisions Capture:**
 
-```
+```prompt
 **Rol**: Je bent een nauwkeurige notulist die expliciet genomen besluiten
 vastlegt zonder interpretatie.
 
@@ -337,7 +337,7 @@ The tools are so easy. Upload, click, done. But not every conversation belongs i
 
 ---
 
-## Safe defaults
+## Safety checklist
 
 With every technique in this toolkit I give a checklist of things to check before you begin. Not as bureaucracy, but as a quick scan: have I thought of the important things?
 
@@ -396,4 +396,8 @@ The power of transcription doesn't lie in the technology. That's almost free now
 
 ---
 
-← [Back to Phase 1: Start](../../phase-1-start.md) | [Next: Preserving language →](preserving-language.md)
+← [Previous: Phase 1: Start](../../phase-1-start.md) | [Back to Phase 1](../../phase-1-start.md) | [Next: Preserving language →](preserving-language.md)
+
+---
+
+*"The power of transcription doesn't lie in the technology. The power lies in what you do with it: giving people their own words back."*

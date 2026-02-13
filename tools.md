@@ -148,6 +148,8 @@ AI in het gesprek gebruiken met een menselijk randje. Je introduceert het als me
 **Wat het anders maakt:**
 "10 seconden. Één vraag. Het gesprek dat vastzat, kwam in beweging." De timing maakt het verschil — feedback in het moment raakt anders dan een rapport achteraf.
 
+---
+
 ### Notion AI
 
 **Wat is het?**
@@ -163,6 +165,8 @@ Notion is mijn werkomgeving — daar staat veel van mijn context al. Tegenwoordi
 
 **Waarom het interessant is:**
 Notion AI is iets om in de gaten te houden. Het wordt steeds krachtiger — precies omdat daar al zoveel context staat.
+
+---
 
 ### NotebookLM
 
@@ -217,7 +221,5 @@ Maak een bewuste keuze per gesprek:
 | Twijfel? | Lokaal |
 
 *Voor een diepere duik in privacy-keuzes per tool, lees [Veilig werken met AI](veilig-werken.md).*
-
----
 
 *"De tool maakt minder uit dan wat je ermee doet. Begin met wat werkt voor jouw situatie."*

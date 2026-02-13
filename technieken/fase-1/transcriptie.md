@@ -115,64 +115,46 @@ Transcriptie is je vangnet. Niet als vervanging voor aandacht, maar als backup v
 De prompt hieronder is uitgebreider dan je misschien verwacht voor "vastleggen wat je niet kon horen". Dat is bewust. Dit is de daadwerkelijke prompt die Maarten en ik gebruikten na de ouderavond over smartphonevrij opgroeien. Hij laat zien hoe je in één keer van transcript naar bruikbare inzichten gaat: niet alleen wat er gezegd is, maar ook hoe je het kunt gebruiken in vervolgesprekken.
 
 ```prompt
-# CONTEXT & ROL
-
+**Context & Rol:**
 Je fungeert als een systemisch strateeg en gemeenschapsbouwer die [De Initiatiefnemer] ondersteunt. Hij heeft een lokale werkgroep opgericht op de basisschool van zijn kinderen met als doel: het smartphonegebruik bij kinderen uitstellen en de norm veranderen (streven naar >25% smartphonevrij in de klas om groepsdruk te verlagen).
 
 Je hebt toegang tot deze tekst:
-
 1. Het transcript van de eerste online ouderbijeenkomst (~14 deelnemers).
 
-# OPDRACHT
-
+**Opdracht:**
 Analyseer de transcripten en creëer een strategisch overzicht ("De Giant Map") en een praktische gesprekstoolkit ("De Gesprekswaaier"). Het doel is niet om mensen te overtuigen met feiten, maar om verbinding te maken op basis van gedeelde waarden en zorgen.
 
-# RANDVOORWAARDEN & STIJL
-
+**Randvoorwaarden & Stijl:**
 - **Privacy:** Gebruik GEEN echte namen. Vervang namen door [De Initiatiefnemer], [Facilitator], of [Ouder Groep X].
-
 - **Taal:** Gebruik Nederlands. Gebruik de *letterlijke bewoordingen* van de deelnemers waar mogelijk voor maximale herkenbaarheid.
-
 - **Toon:** Empathisch, niet-oordelend, constructief. Richt je op de wens om een goede ouder te zijn, niet op schuldgevoel over eigen schermgedrag.
-
 - **Vorm:** Geef concrete haakjes en inzichten, geen letterlijke scripts die [De Initiatiefnemer] moet voorlezen. Hij wil zijn eigen authenticiteit bewaken.
 
-# DE OUTPUT (in 3 delen)
+**De output (in 3 delen):**
 
-## DEEL 1: DE TWEE HEATMAPS (Het Inzicht)
-
+**Deel 1: De twee heatmaps (Het Inzicht)**
 Breng de populatie in kaart op twee manieren, ingedeeld per schoolfase (Kleuters/Onderbouw vs. Middenbouw vs. Bovenbouw/Brugklas).
 
 **A. De Emotionele Leefwereld (De Zorgen)**
-
 * Welke specifieke angsten, twijfels of juist comfortzones ervaren ouders in deze fase?
-
 * Kijk voorbij de klacht ("mijn kind wil gamen") naar de onderliggende waarde ("ik wil dat mijn kind sociaal meekomt").
 
 **B. De Actie-Bereidheid (De Energie)**
-
 * Waar zit de energie? Wie voelt urgentie (bijv. "het is 5 voor 12") en wie zit in de 'veilige haven'?
-
 * Identificeer de 'haakjes' voor urgentie per groep: wat maakt dat een kleuterouder *nu* in actie wil komen, terwijl het probleem nog ver weg lijkt?
 
-## DEEL 2: DE INTERNE STRIJD (De Verbinding)
-
+**Deel 2: De interne strijd (De Verbinding)**
 Analyseer de spanning tussen "wat we doen" (eigen telefoongebruik, gemak) en "wat we willen voor ons kind" (vrij spelen, veiligheid).
 
 * Frame dit NIET als hypocrisie of verslaving, maar als een uitdaging in modern ouderschap.
-
 * Geef 3 tot 5 kernthema's terug waarin ouders worstelen met hun eigen voorbeeldrol.
+* Gebruik hierbij citaten of parafrases die laten zien: "Je bent niet alleen, wij vinden dit ook moeilijk."
 
-* Gebruik hierbij citaten of parafrases die laten zien: "Je bent niet alleen, wij vinden dit ook moeilijk.
-  
-## DEEL 3: DE GESPREKSWAAIER (De Munitie)
-
+**Deel 3: De gesprekswaaier (De Munitie)**
 Vertaal bovenstaande inzichten naar concrete 'haakjes' die [De Initiatiefnemer] kan gebruiken in informele gesprekken (bijv. op het schoolplein, langs de lijn).
 
 * Geef per doelgroep (Onderbouw, Middenbouw, Bovenbouw) 2 à 3 openingen of observaties.
-
 * Focus op het vinden van de *gemene deler*.
-
 * Format: *"Als je een ouder uit groep [X] spreekt, is [THEMA] een sterke ingang. Je zou kunnen refereren aan [IDEE/CITAAT]."*
 ```
 
@@ -397,5 +379,7 @@ De kracht van transcriptie ligt niet in de technologie. Die is nu bijna gratis. 
 
 ---
 
-<- [Terug naar Fase 1: Begin](../../fase-1-begin.md) | [Volgende: Taal als eigenaarschap ->](taal-behouden.md)
+← [Terug naar Fase 1: Begin](../../fase-1-begin.md) | [Volgende: Taal als eigenaarschap →](taal-behouden.md)
+
+---
 

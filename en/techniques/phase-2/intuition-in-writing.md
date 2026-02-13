@@ -3,7 +3,7 @@
 > *AI makes visible what you already felt but couldn't yet name.*
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
-**Builds on:** Transcripts as raw material for pattern recognition
+**Builds on:** [Transcription](../phase-1/transcription.md)
 
 ---
 
@@ -57,7 +57,7 @@ The feeling was there. AI made it visible.
 
 **The prompt that produced this:**
 
-```
+```prompt
 # CONTEXT & ROL
 Je fungeert als een systemisch strateeg en gemeenschapsbouwer.
 Je hebt toegang tot het transcript van een ouderbijeenkomst (~14 deelnemers).
@@ -107,7 +107,7 @@ The difference isn't in the surprise, but in the recognition. You already knew; 
 
 A prompt to make patterns explicit that you intuitively sense:
 
-```
+```prompt
 # ROL
 Je bent een patroon-analist die helpt om impliciete groepsdynamiek
 zichtbaar te maken.
@@ -208,7 +208,7 @@ The difference between "it seems like" and "analysis shows" is small in words, l
 
 ---
 
-## Safe defaults
+## Safety checklist
 
 - [ ] Analysis at group level, not on individuals?
 - [ ] AI observations framed as possibilities, not as facts?

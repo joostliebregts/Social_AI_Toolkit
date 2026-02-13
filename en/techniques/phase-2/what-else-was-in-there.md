@@ -4,9 +4,7 @@
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
 
-**Previous step:** [Transcription as foundation](../phase-1/transcription.md): you have text
-**This:** Digging together into what's in there
-**Next step:** [Finding hooks](../phase-3/finding-hooks.md) (Phase 3): making connections visible systematically
+**Builds on:** [Transcription as foundation](../phase-1/transcription.md)
 
 ---
 
@@ -74,7 +72,7 @@ Below are the prompts we actually used in the story above.
 
 Instead of writing an analysis prompt directly, I asked AI to think along:
 
-```
+```prompt
 Zojuist had ik het met Maarten over hun traject over smartphonevrij
 opgroeien. Wat ik je heb toegevoegd is context over hoe Maarten
 die meeting heeft voorbereid — zijn wensen en intenties — en het
@@ -108,7 +106,7 @@ Three times he corrected and added nuance. The prompt wasn't determined by AI; M
 
 Based on Maarten's answers, AI built this prompt:
 
-```
+```prompt
 # CONTEXT & ROL
 Je fungeert als een systemisch strateeg die [De Initiatiefnemer]
 ondersteunt. Hij heeft een lokale werkgroep opgericht met als doel:
@@ -293,7 +291,7 @@ The question isn't "what did I miss?" but "what's in there that I haven't named 
 
 ---
 
-[Previous: Intuition in writing](intuition-in-writing.md) | [Back to Phase 2](../../phase-2-deepening.md) | [Next: Iteration as dialogue](iteration.md)
+← [Previous: Intuition in writing](intuition-in-writing.md) | [Back to Phase 2](../../phase-2-deepening.md) | [Next: Iteration as dialogue →](iteration.md)
 
 ---
 

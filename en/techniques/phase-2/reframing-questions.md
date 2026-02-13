@@ -3,7 +3,7 @@
 > *When the group gets stuck, a different question can be the opening.*
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
-**Builds on:** [Prompt the people first](prompt-the-people-first.md), now specifically for in-session reframing of questions
+**Builds on:** [Prompt the people first](prompt-the-people-first.md)
 
 ---
 
@@ -113,7 +113,7 @@ Reframing is a human skill that you apply in the moment. AI can help you develop
 
 This is where a transcript becomes so valuable: you can use it for your own learning. Not just to analyze what the group said, but to reflect on your own facilitation.
 
-```
+```prompt
 Ik had vandaag een sessie. Op een gegeven moment liep het gesprek vast.
 
 Dit is wat er gebeurde:
@@ -172,7 +172,7 @@ The question is uncomfortable, so I ask an easier one. But the discomfort was ac
 
 ---
 
-## Safe defaults
+## Safety checklist
 
 - [ ] First listened to whether the group wants to be heard?
 - [ ] Checked whether it's a question problem, not an energy problem?
@@ -208,7 +208,7 @@ This still starts from the problem, but shifts the focus to the solution. Instea
 
 ---
 
-[Previous: Prompt the people first](prompt-the-people-first.md) | [Back to Phase 2](../../phase-2-deepening.md) | [Next: Phase 3](../../phase-3-scale.md)
+← [Previous: Prompt the people first](prompt-the-people-first.md) | [Back to Phase 2](../../phase-2-deepening.md) | [Next: Phase 3 →](../../phase-3-scale.md)
 
 ---
 

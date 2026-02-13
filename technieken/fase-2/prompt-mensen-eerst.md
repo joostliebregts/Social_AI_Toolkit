@@ -50,7 +50,6 @@ Maar hoe ontwerp je vragen die die puzzelstukjes opleveren?
 Ik denk graag aan workshops als een 'deconstructed burger': je begint bij wat je op het bord wilt hebben, en werkt terug naar de ingrediënten.
 
 **Waarom dit werkt:**
-
 Vanuit mijn ontwerpachtergrond leerde ik het volgende bij het testen van prototypes: als je mensen vraagt "Zou je dit kopen?" of "Wat zou je hiervoor betalen?", krijg je een hypothetisch antwoord. Ze denken na over wat ze zouden moeten vinden.
 
 Maar als je datzelfde prototype als product ergens in een winkel zou leggen, en je zou observeren of ze het daadwerkelijk oppakken, bekijken, en kopen, dan zie je echt gedrag.
@@ -115,12 +114,12 @@ Omdat de input zo goed gestructureerd was, kon de prompt precies volgen wat de f
 **Bekijk de volledige prompt**
 
 ```prompt
-Rol: Je bent een AI-assistent die helpt bij het live documenteren
+**Rol:** Je bent een AI-assistent die helpt bij het live documenteren
 van een transformatieplan-sessie. Jouw taak nu is om de kern van
 de gevoerde visie-discussie samen te vatten voor directe feedback
 aan de groep.
 
-Context:
+**Context:**
 - Sessie Deel: Einde van Ronde 1 - Discussie over 5-jaarsperspectief
   (vraag 1 draaiboek).
 - Input: Het volledige transcript van de zojuist afgeronde
@@ -128,7 +127,7 @@ Context:
 - Doel Output: Terugkoppeling aan de deelnemers aan de tafel
   ter validatie ("Klopt dit beeld?").
 
-Vereiste Schrijfstijl (Pas deze consistent toe):
+**Vereiste Schrijfstijl (Pas deze consistent toe):**
 - Taal: Formeel, zakelijk Nederlands.
 - Toon: Collaboratief ("we", "samen", "gezamenlijk"), actiegericht,
   pragmatisch, oplossingsgericht.
@@ -140,7 +139,7 @@ Vereiste Schrijfstijl (Pas deze consistent toe):
 - Structuur: Gebruik heldere zinnen, opsommingen (bullet points)
   waar nodig.
 
-Instructies:
+**Instructies:**
 1. Analyseer het volledige input-transcript.
 2. Identificeer het primaire thema dat in dit transcript wordt
    besproken. Kies uit: 'Sociale Kaart', 'Overlegtafel/transfertafel',
@@ -158,9 +157,9 @@ Instructies:
 6. Controleer op eventueel genoemde KPI's of meetbare resultaten
    en neem deze op in de samenvatting of de lijst.
 
-Input Transcript: [Hier het volledige transcript]
+**Input Transcript:** [Hier het volledige transcript]
 
-Output Format:
+**Output Format:**
 Geïdentificeerd Thema: [Sociale Kaart / Overlegtafel / Verkennend Gesprek]
 
 Concept Visie [Thema] (ter validatie):
@@ -241,7 +240,7 @@ Ik bereid een workshop voor over [ONDERWERP].
 
 Mijn doel is: [WAT IK WIL BEREIKEN]
 
-De deelnemers zijn: [WIE]
+De deelnemers zijn: [WIE & EN HUN ROLLEN]
 
 Ontwerp 3-5 vragen die:
 1. Concrete ervaringen oproepen, geen meningen

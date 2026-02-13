@@ -3,7 +3,7 @@
 > *At precisely the right moment, AI asks the question that helps the group move forward.*
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
-**Builds on:** Transcription as raw material, now used for real-time intervention
+**Builds on:** [Transcription](../phase-1/transcription.md)
 
 ---
 
@@ -86,7 +86,7 @@ Echo operates at the synthesis and serendipity level. It connects and asks furth
 
 This is the working echo prompt from the Doesburg leadership workshop.
 
-```
+```prompt
 **Rol:** Je bent een ervaren groepsdynamiek-expert die signalen van
 vermeden onderwerpen, onuitgesproken spanningen en verschillende
 perspectieven detecteert in dialogen.
@@ -219,7 +219,7 @@ The echo is a tool, not a solution. If all I do is press buttons, I miss what's 
 
 ---
 
-## Safe defaults
+## Safety checklist
 
 *For privacy considerations with live transcription, read [Safe practices with AI](../../safe-practices.md).*
 
@@ -273,7 +273,7 @@ But (and this is crucial) the facilitator needs to take ownership of the questio
 
 ---
 
-[Back to Phase 2: Deepening](../../phase-2-deepening.md) | [Previous: Reframing questions](reframing-questions.md) | [Next: Conversation to plan](conversation-to-plan.md)
+← [Previous: Reframing questions](reframing-questions.md) | [Back to Phase 2](../../phase-2-deepening.md) | [Next: Conversation to plan →](conversation-to-plan.md)
 
 ---
 

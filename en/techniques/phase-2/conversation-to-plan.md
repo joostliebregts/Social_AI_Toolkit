@@ -3,7 +3,7 @@
 > *Generate live output that participants can assess on the spot.*
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
-**Builds on:** [Source document style cloning](../phase-1/source-document-style.md), now in real-time
+**Builds on:** [Source document style cloning](../phase-1/source-document-style.md)
 
 ---
 
@@ -105,10 +105,9 @@ G3 feedback on v3   ──► prompt ──► draft v4 ✓ (final)
 
 Same prompt every time. More input each time. The document grows along.
 
-<details>
-<summary>View the full prompt (this is very long)</summary>
+**View the full prompt (this is very long)**
 
-```
+```prompt
 **Rol:** Je bent een analytisch redacteur en strategisch ontwikkelaar. Je destilleert eerst de kerninzichten uit de aangeleverde discussie(s). Vervolgens synthetiseer je deze volledig tot een uitgebreid, gedetailleerd, toekomstgericht, en transparant concept (of herzien concept) deelplan voor het Mentaal Gezondheidsnetwerk [regio], waarbij de geïdentificeerde kernwaarden als een rode draad door de tekst zijn verweven.
 
 **Context:**
@@ -235,9 +234,6 @@ Overwogen Alternatieven en Mogelijke Blinde Vlekken
 (3-5 bullet points)
 ```
 
-
-</details>
-
 **Why this structure works:**
 - **Strict basis** "Base output strictly on explicit information" prevents AI from making things up. You get honest output with clear gaps that you can fill in.
 - **Transparent feedback** "Refer explicitly to how feedback was processed" creates transparency about what was done with the input. People see that their contribution matters.
@@ -299,7 +295,7 @@ The document is technically correct but misses the energy of the conversation.
 
 ---
 
-## Safe defaults
+## Safety checklist
 
 - [ ] Style guidelines included in prompts?
 - [ ] Validated with the group along the way?

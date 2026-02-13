@@ -147,26 +147,56 @@ Het twaalf-rondes verhaal hierboven toont iteratie op output. Iteratie vooraf la
 Wanneer AI output niet klopt, geef specifieke feedback. Spreek het uit alsof je het dicteert:
 
 **Voor toon:**
-> "Maak het warmer, alsof je het aan een collega vertelt."
-> "Dit voelt als consultant-taal, kun je de woorden van de deelnemers gebruiken?"
+
+```prompt
+Maak het warmer, alsof je het aan een collega vertelt.
+```
+
+```prompt
+Dit voelt als consultant-taal, kun je de woorden van de deelnemers gebruiken?
+```
 
 **Voor structuur:**
-> "Te lang, kun je minder bullets geven en meer verhaal?"
-> "De volgorde klopt niet, kun je beginnen met X in plaats van Y?"
+
+```prompt
+Te lang, kun je minder bullets geven en meer verhaal?
+```
+
+```prompt
+De volgorde klopt niet, kun je beginnen met X in plaats van Y?
+```
 
 **Voor inhoud:**
-> "Dit mist de nuance over X, kun je dit en dit en dit toevoegen alsjeblieft?"
-> "Dit is 70% wat ik zoek. Wat mist is X, kun je het opnieuw proberen?"
+
+```prompt
+Dit mist de nuance over X, kun je dit en dit en dit toevoegen alsjeblieft?
+```
+
+```prompt
+Dit is 70% wat ik zoek. Wat mist is X, kun je het opnieuw proberen?
+```
 
 **Voor framing:**
-> "Dit is te negatief geformuleerd, kun je het framen vanuit wat mensen willen?"
-> "Dit klinkt alsof AI het weet, kun je 'mogelijk' en 'het lijkt alsof' gebruiken?"
+
+```prompt
+Dit is te negatief geformuleerd, kun je het framen vanuit wat mensen willen?
+```
+
+```prompt
+Dit klinkt alsof AI het weet, kun je 'mogelijk' en 'het lijkt alsof' gebruiken?
+```
 
 **Als je niet weet wat je wilt:**
-> "Dit is niet wat ik zoek qua toon en structuur, maar ik weet niet helemaal wat ik wel wil. Kun je me vragen stellen om helder te krijgen welke opties er zijn en welke beter voor mij werkt?"
+
+```prompt
+Dit is niet wat ik zoek qua toon en structuur, maar ik weet niet helemaal wat ik wel wil. Kun je me vragen stellen om helder te krijgen welke opties er zijn en welke beter voor mij werkt?
+```
 
 **Als je tussen opties twijfelt:**
-> "Ik twijfel tussen deze twee formats. Kun je ze allebei beknopt uitwerken zodat ik het voorbeeld kan lezen en daar feedback op kan geven?"
+
+```prompt
+Ik twijfel tussen deze twee formats. Kun je ze allebei beknopt uitwerken zodat ik het voorbeeld kan lezen en daar feedback op kan geven?
+```
 
 ### De feedback-loop prompt
 
@@ -187,6 +217,11 @@ Analyseer de verschillen:
 
 Geef concrete suggesties voor prompt-verbeteringen.
 ```
+
+**Waarom deze structuur werkt:**
+- **Origineel naast revisie** dwingt AI om concreet te vergelijken, niet abstract te adviseren
+- **Drie analysevragen** structureren de reflectie van observatie naar actie
+- **Prompt-verbeteringen** als einddoel maken elke iteratie cumulatief beter
 
 *Dit is een suggestie: pas aan op jouw specifieke situatie.*
 
@@ -220,6 +255,11 @@ Vragen:
 2. Wat ontbreekt er in de output?
 3. Hoe moeten we de prompt aanpassen om dichter bij ons doel te komen?
 ```
+
+**Waarom deze structuur werkt:**
+- **Echte data als toets** voorkomt dat je prompt alleen in theorie werkt
+- **Drie evaluatievragen** dwingen reflectie op prestatie, lacunes en verbetering
+- **Cyclisch ontwerp** maakt de prompt zelf het object van iteratie
 
 5. **Verfijn de prompt**: laat AI de originele prompt aanpassen op basis van de test
 
@@ -258,6 +298,11 @@ Maak een samenvatting van:
 Wees kritisch en eerlijk over beperkingen.
 ```
 
+**Waarom deze structuur werkt:**
+- **Zelfkritiek afdwingen** via "wees kritisch" voorkomt zelfgenoegzame output
+- **Rating** dwingt de AI tot een kwantitatief oordeel over eigen werk
+- **Vijf dimensies** dekken van kernvraag tot blinde vlekken het hele spectrum
+
 #### Stap 2: Laat ze elkaar reviewen
 
 Voer samenvatting A aan Model B:
@@ -274,6 +319,11 @@ Review deze samenvatting:
 3. Welke blinde vlekken heeft deze analyse?
 4. Hoe zou je onze aanpak combineren met hun inzichten?
 ```
+
+**Waarom deze structuur werkt:**
+- **Externe review** doorbreekt de bias van één model
+- **Vier gerichte vragen** sturen de kritiek van sterke punten tot synthese
+- **Combinatie-vraag** dwingt constructieve integratie, niet alleen kritiek
 
 Doe hetzelfde andersom.
 

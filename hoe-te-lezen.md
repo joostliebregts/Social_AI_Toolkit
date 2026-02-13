@@ -16,13 +16,13 @@ Wat ik wel hoop over te brengen is een denkwijze. Niet *welke knoppen je moet in
 
 ## Waarom een momentopname
 
-AI ontwikkelt zich snel. Wat vandaag nog menselijk oordeel vraagt, kan over een jaar anders zijn. De tabel die nu zegt "AI kan patronen voorstellen, mens moet beoordelen of ze kloppen" — die verschuift.
+AI ontwikkelt zich snel. Wat vandaag nog menselijk oordeel vraagt, kan over een jaar anders zijn. De tabel die nu zegt "AI kan patronen voorstellen, mens moet beoordelen of ze kloppen" verschuift.
 
 Mijn verwachting: naarmate AI beter wordt in het absorberen van context, gaat het patronen zien die wij niet kennen. Het gaat ons dingen laten zien over hoe we samenwerken, wat we als groepen nodig hebben, waar onze blinde vlekken zitten.
 
-Dat betekent niet dat het menselijke verdwijnt. Het betekent dat we gaan leren — van AI, over onszelf. En dat vraagt openheid: niet vasthouden aan wat we denken te weten, maar nieuwsgierig blijven naar wat zichtbaar wordt.
+Dat betekent niet dat het menselijke verdwijnt. Het betekent dat we gaan leren: van AI, over onszelf. En dat vraagt openheid: niet vasthouden aan wat we denken te weten, maar nieuwsgierig blijven naar wat zichtbaar wordt.
 
-Deze guide is geschreven vanuit waar we nu staan. Over een jaar klopt een deel misschien niet meer. Dat is geen zwakte — dat is hoe het hoort te zijn.
+Deze guide is geschreven vanuit waar we nu staan. Over een jaar klopt een deel misschien niet meer. Dat is geen zwakte. Dat is hoe het hoort te zijn.
 
 ---
 
@@ -32,13 +32,13 @@ Achter de technieken zit een grotere vraag die me bezighoudt:
 
 **Hoe maken we echte participatie mogelijk op de schaal die de wereld nodig heeft?**
 
-We leven in een tijd waarin we het niet eens zijn over veel dingen — waarden, prioriteiten, hoe de wereld eruit zou moeten zien. En tegelijkertijd moeten we samen beslissingen nemen, op alle niveaus: in teams, organisaties, buurten, samenlevingen.
+We leven in een tijd waarin we het niet eens zijn over veel dingen: waarden, prioriteiten, hoe de wereld eruit zou moeten zien. En tegelijkertijd moeten we samen beslissingen nemen, op alle niveaus: in teams, organisaties, buurten, samenlevingen.
 
 De belofte van AI, zoals ik die zie, is niet dat het die beslissingen voor ons neemt. Het is dat het ons kan helpen om elkaar beter te begrijpen. Om te zien waar we eigenlijk hetzelfde bedoelen met andere woorden. Om de stemmen te horen die anders ondergesneeuwd raken. Om wijsheid te laten opstapelen in plaats van te laten vervliegen.
 
 **Wat blijft menselijk als AI meer kan?**
 
-Dat is de vraag die door deze hele guide loopt. Niet als angst, maar als kompas. Het moment dat iemand zich gehoord voelt — dat kun je niet automatiseren. Commitment ontstaat door samen te praten. De keuze wat we met inzichten doen — die blijft bij ons.
+Dat is de vraag die door deze hele guide loopt. Niet als angst, maar als kompas. Het moment dat iemand zich gehoord voelt — dat kun je niet automatiseren. Commitment ontstaat door samen te praten. De keuze wat we met inzichten doen: die blijft bij ons.
 
 AI kan versterken. Het echte werk blijft tussen mensen.
 
@@ -60,7 +60,7 @@ AI kan versterken. Het echte werk blijft tussen mensen.
 
 Ik ben Joost. Ik werk aan de kruising van technologie en menselijke samenwerking — hoe kunnen digitale tools versterken wat ons menselijk maakt, in plaats van het te vervangen?
 
-Dit is mijn perspectief, gebaseerd op mijn ervaring. Niet de waarheid — een uitnodiging om te ontdekken wat voor jou werkt.
+Dit is mijn perspectief, gebaseerd op mijn ervaring. Niet de waarheid. Een uitnodiging om te ontdekken wat voor jou werkt.
 
 ---
 

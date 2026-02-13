@@ -3,7 +3,7 @@
 > *Not tinkering with output, but giving feedback. AI learns what you mean.*
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
-**Builds on:** The first AI output that doesn't quite land
+**Builds on:** [Preserving language](../phase-1/preserving-language.md)
 
 ---
 
@@ -125,7 +125,7 @@ For the full story of how this played out in practice (three questions, three ad
 
 This behavior (AI asking you questions with A/B options) needs to be explicitly triggered. Here's the prompt that does it:
 
-```
+```prompt
 Ik werk aan [PROJECT/DOEL].
 
 Huidige stand van zaken:
@@ -183,7 +183,7 @@ When AI output doesn't land, give specific feedback. Say it as if you're dictati
 
 Imagine: you've significantly adjusted AI output. You've rewritten sentences, changed the structure, adjusted the tone. Instead of "losing" that work, you can feed it back to AI so your prompt works better next time.
 
-```
+```prompt
 Dit was de originele output:
 [plak AI output]
 
@@ -220,7 +220,7 @@ The steps:
 3. **Collect the output**: what came out?
 4. **Feed back to the AI that built the prompt:**
 
-```
+```prompt
 Ik heb de prompt die we samen maakten getest op een echt transcript.
 
 Dit is de output die eruit kwam:
@@ -256,7 +256,7 @@ This is a time-intensive technique for work you really want to polish: having tw
 
 To both AIs (separately):
 
-```
+```prompt
 We hebben samen gewerkt aan [PROJECT/VRAAG].
 
 Maak een samenvatting van:
@@ -273,7 +273,7 @@ Wees kritisch en eerlijk over beperkingen.
 
 Feed summary A to Model B:
 
-```
+```prompt
 Een andere AI heeft deze samenvatting gemaakt van werk
 aan dezelfde vraag:
 
@@ -290,7 +290,7 @@ Do the same the other way around.
 
 #### Step 3: Integrate
 
-```
+```prompt
 Ik heb nu twee analyses en wederzijdse kritiek.
 
 Analyse A: [SAMENVATTING A]
@@ -333,7 +333,7 @@ The tendency is to say what's wrong without saying what I'm looking for.
 
 ---
 
-## Safe defaults
+## Safety checklist
 
 *For privacy considerations when sharing transcripts, read [Safe practices with AI](../../safe-practices.md).*
 

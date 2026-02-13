@@ -77,8 +77,7 @@ Het verschil zit in de vraag. Een samenvatting sluit af. Een echo opent.
 | **Spiegel** | Reflecteert wat gezegd is | "Jullie noemden X, Y en Z" |
 | **Synthese** | Verbindt patronen | "Wat opvalt: iedereen noemt 'tijd' maar bedoelt iets anders" |
 | **Serendipity** | Stelt de vraag die niet gesteld werd | "Wat zou er veranderen als X niet het probleem was?" |
-
-Echo werkt op synthese en serendipity niveau. Het verbindt én vraagt door.
+Echo werkt op alle drie niveaus: het spiegelt, verbindt én vraagt door — afhankelijk van de ingestelde prompts.
 
 ---
 
@@ -273,7 +272,7 @@ Maar (en dit is cruciaal) de facilitator moet de vraag eigendom maken. Niet: "AI
 
 ---
 
-← [Terug naar Fase 2: Verdieping](../../fase-2-verdieping.md) | [← Vorige: Vragen herkaderen](vragen-herkaderen.md) | [Volgende: Van gesprek naar plan →](gesprek-naar-plan.md)
+← [Vorige: Vragen herkaderen](vragen-herkaderen.md) | [Terug naar Fase 2: Verdieping](../../fase-2-verdieping.md) | [Volgende: Van gesprek naar plan →](gesprek-naar-plan.md)
 
 ---
 
