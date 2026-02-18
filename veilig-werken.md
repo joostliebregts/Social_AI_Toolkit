@@ -61,8 +61,7 @@ Dit voorkomt dat AI informatie toevoegt die er niet is.
 ### Bij twijfel benoemen
 
 ```prompt
-Bij twijfel: formuleer als "mogelijk" of "het lijkt alsof"
-in plaats van stellige beweringen.
+Bij twijfel: formuleer als "mogelijk" of "het lijkt alsof" in plaats van stellige beweringen.
 ```
 
 Dit voorkomt dat AI zekerheid simuleert die er niet is.
@@ -79,8 +78,7 @@ Dit voorkomt dat eigenaarschap verdwijnt door vertaling.
 ### AI markeren
 
 ```prompt
-Maak expliciet onderscheid tussen wat deelnemers zeiden
-en wat AI observeert.
+Maak expliciet onderscheid tussen wat deelnemers zeiden en wat AI observeert.
 ```
 
 Dit voorkomt dat AI-interpretaties verward worden met wat er echt gezegd is.
@@ -116,7 +114,7 @@ Dit voorkomt dat AI-interpretaties verward worden met wat er echt gezegd is.
 | Tool               | Type                | Privacy-niveau                                  |
 | ------------------ | ------------------- | ----------------------------------------------- |
 | **MacWhisper**     | Lokale transcriptie | Hoog: alles blijft op je apparaat              |
-| **Dembrane**       | Cloud + real-time   | Midden: check hun privacy-beleid               |
+| **Dembrane**       | Cloud + real-time   | Hoog-midden: gebouwd voor facilitatie, gericht op privacy, Europese servers |
 | **Notion.ai**      | Cloud transcriptie  | Lager: data op externe servers                 |
 | **ChatGPT/Claude** | Cloud AI            | Lager: data kan gebruikt worden voor training* |
 | **Lokale LLM's**   | Lokale AI           | Hoog: alles blijft lokaal                      |

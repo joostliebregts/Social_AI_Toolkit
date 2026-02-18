@@ -169,6 +169,11 @@ Itereren is krachtig, maar perfectie kan verlammen. Soms is 80% goed genoeg. Na 
 **Patronen vs. ruis**
 AI vindt altijd iets. De vraag is: is het een echt patroon of toevallige overlap? Jouw ervaring in de kamer is de toets.
 
+**Introductie: experiment vs. normaal onderdeel**
+Hoe je AI introduceert bepaalt hoe mensen ermee omgaan. "Even kijken wat de AI ervan vindt" nodigt uit tot nieuwsgierigheid. "We gaan nu een experiment doen met AI" nodigt uit tot oordeel.
+
+Dat werkt door. In het begin kijken deelnemers met de vraag "klopt dit wel?" in plaats van "herken ik mezelf hierin?" Wat ik merk is dat die verschuiving vanzelf komt, maar dat je het kunt versnellen. De eerste keer: benoem expliciet dat je herkenning zoekt, geen beoordeling.
+
 ---
 
 ## Praktische start

@@ -207,9 +207,9 @@ Wat AI genereert is een suggestie, geen script. Letterlijk voorlezen kan mechani
 *Mijn aanpak:* Ik parafraseer meestal in mijn eigen woorden. Maar als ik de echo-prompt goed heb voorbereid, lees ik soms ook letterlijk voor.
 
 **Spontaan versus voorbereid**
-De vraag die "mouths falling open" veroorzaakte, kwam niet uit het niets. Er zat strategische voorbereiding achter.
+De reflectie vraag die ervoor zorgde dat de creativiteit weer op gang kwam, kwam niet uit het niets. Er zat strategische voorbereiding achter.
 
-*Mijn aanpak:* 80% van het succes zit in voorbereiding. Ik ontwerp de echo-prompt vooraf op basis van wat ik verwacht.
+*Mijn aanpak:* 80% van het succes zit in voorbereiding. Ik ontwerp de echo-prompt vooraf op basis van wat ik verwacht. Maar ik weet ook dat ik ze waarschijnlijk moet aanpassen als de sessie een andere kant opgaat. Dat vraagt dat je begrijpt wát je prompt doet, niet alleen dat hij werkt, zodat je ter plekke kunt bijsturen.
 
 **Echo als vervanging voor faciliteren**
 De echo is een tool, geen oplossing. Als ik alleen maar op knoppen druk, mis ik wat er in de kamer gebeurt.
