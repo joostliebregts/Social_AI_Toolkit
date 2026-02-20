@@ -16,7 +16,7 @@ Volgens mij begint het daar. Bij de mens.
 
 Dat klinkt misschien vanzelfsprekend. Maar wat ik merk in de praktijk: het gaat vaak anders. Iemand bedenkt een plan, presenteert het, en vraagt of het klopt. De intentie is goed. Maar het eigenaarschap zit bij de bedenker, niet bij de groep. Wie iets niet zelf heeft gezegd, herkent zich er minder in.
 
-In deze toolkit komt het steeds terug, op allerlei manieren. Als je een sessie voorbereidt: wat willen we bereiken, en welke ervaring ontwerp je daarvoor? Als je AI inzet: wat geef je het? De woorden van de mensen zelf, niet jouw samenvatting. Als je terugkoppelt aan de groep: herkennen mensen zichzelf in wat er staat? En als je twijfelt over het juiste moment: wat heeft deze groep nu nodig?
+In deze veldgids komt het steeds terug, op allerlei manieren. Als je een sessie voorbereidt: wat willen we bereiken, en welke ervaring ontwerp je daarvoor? Als je AI inzet: wat geef je het? De woorden van de mensen zelf, niet jouw samenvatting. Als je terugkoppelt aan de groep: herkennen mensen zichzelf in wat er staat? En als je twijfelt over het juiste moment: wat heeft deze groep nu nodig?
 
 Zelfs als je alleen met AI werkt, begint het bij jou. Waar ben je nieuwsgierig naar? Waar zou je hulp bij kunnen gebruiken? Wat voelde je in die sessie, en hoe maak je dat zichtbaar?
 
@@ -34,7 +34,7 @@ Die grondhouding vertaalt zich in zes werkprincipes.
 
 Elke keer dat ik AI inzet in een sessie, voel ik hetzelfde. Er zijn dingen die AI kan die ik niet kan (razendsnel patronen herkennen, eindeloos geduldig samenvatten). En er zijn dingen die ik moet doen die AI niet kan (mensen de ruimte bieden om zichzelf te zijn, lichaamstaal lezen, bepalen welke richting we ingaan). Die keuze maak ik steeds opnieuw, en ik merk ook dat het verandert naarmate AI intelligenter wordt. 
 
-Na een tijdje begon ik patronen te zien. Die patronen heb ik in zes principes gevat. Hieronder leg ik ze uit. In de drie fases die volgen in deze toolkit, of je nu begint met je eerste transcriptie of maanden aan gesprekken analyseert, dezelfde principes weven erdoorheen.
+Na een tijdje begon ik patronen te zien. Die patronen heb ik in zes principes gevat. Hieronder leg ik ze uit. In de drie fases die volgen in deze veldgids, of je nu begint met je eerste transcriptie of maanden aan gesprekken analyseert, dezelfde principes weven erdoorheen.
 
 | De principes            | AI kan...                  | Mens moet...             |
 | ----------------------- | -------------------------- | ------------------------ |

@@ -19,7 +19,7 @@ We can now make transcripts. Fast, cheap, good enough. Everything that was said,
 
 And that raises a question: what can you actually do with that, in a social setting?
 
-That's what this toolkit is about. Transcription as raw material. Foundation for all kinds of things: capturing collective wisdom, revealing patterns, checking your own intuition, growing as a facilitator by looking back at what you could have done differently.
+That's what this field guide is about. Transcription as raw material. Foundation for all kinds of things: capturing collective wisdom, revealing patterns, checking your own intuition, growing as a facilitator by looking back at what you could have done differently.
 
 **That's why this page comes first.** Not because transcription is the most spectacular technique, but because everything that follows starts with it.
 
@@ -100,7 +100,7 @@ This is where the real work begins. The question isn't "what can I do with this 
 
 ## Four ways to use transcription
 
-This is the first page in this toolkit where we actually start working with AI. Until now it was about why and how. Now it gets concrete: what do you actually do with a transcript?
+This is the first page in this field guide where we actually start working with AI. Until now it was about why and how. Now it gets concrete: what do you actually do with a transcript?
 
 There are countless possibilities. But in my work, four patterns keep coming back:
 
@@ -125,7 +125,7 @@ Je hebt toegang tot deze tekst:
 
 # OPDRACHT
 
-Analyseer de transcripten en creëer een strategisch overzicht ("De Giant Map") en een praktische gesprekstoolkit ("De Gesprekswaaier"). Het doel is niet om mensen te overtuigen met feiten, maar om verbinding te maken op basis van gedeelde waarden en zorgen.
+Analyseer de transcripten en creëer een strategisch overzicht ("De Giant Map") en een praktische gespreksgids ("De Gesprekswaaier"). Het doel is niet om mensen te overtuigen met feiten, maar om verbinding te maken op basis van gedeelde waarden en zorgen.
 
 # RANDVOORWAARDEN & STIJL
 
@@ -202,7 +202,7 @@ The first two patterns are about content: what was said, in which words. This th
 
 Sometimes you don't want enrichment or deepening, but simply an overview. What was decided? Who does what? Which questions remained open?
 
-This is perhaps the most obvious use of transcription. Many people start here: automating administration so you have space for other work. And that's fine. But in this toolkit it's in third place, because the first two patterns show what else is possible.
+This is perhaps the most obvious use of transcription. Many people start here: automating administration so you have space for other work. And that's fine. But in this field guide it's in third place, because the first two patterns show what else is possible.
 
 **AI helps write the prompt:**
 
@@ -302,7 +302,7 @@ This is not a requirement. Just start with your built-in microphone. But if you 
 
 ## Building on transcription
 
-Above you read four ways to use transcription. But there are techniques that go further: that build on transcription as a foundation. If you work through the toolkit chronologically, you'll encounter them naturally:
+Above you read four ways to use transcription. But there are techniques that go further: that build on transcription as a foundation. If you work through the field guide chronologically, you'll encounter them naturally:
 
 **Digging together into what's in there**
 A transcript contains more than you could take in during the moment. Imagine: you go searching together with AI for structure, hooks for connection, powerful quotes.
@@ -320,7 +320,7 @@ Two people who share the same struggle without knowing it about each other. Two 
 
 ## Tensions
 
-With every technique in this toolkit I describe the tensions I encounter. Not as pitfalls to avoid, but as choices you make again and again. What works depends on the situation.
+With every technique in this field guide I describe the tensions I encounter. Not as pitfalls to avoid, but as choices you make again and again. What works depends on the situation.
 
 **Capturing is not yet using**
 The threshold for transcription is so low that it almost feels obvious to record and transcribe everything. The transcript is there. That feels like progress. But without a next step, it gathers dust.
@@ -339,7 +339,7 @@ The tools are so easy. Upload, click, done. But not every conversation belongs i
 
 ## Safety checklist
 
-With every technique in this toolkit I give a checklist of things to check before you begin. Not as bureaucracy, but as a quick scan: have I thought of the important things?
+With every technique in this field guide I give a checklist of things to check before you begin. Not as bureaucracy, but as a quick scan: have I thought of the important things?
 
 *See also: [Safe practices with AI](../../safe-practices.md)*
 

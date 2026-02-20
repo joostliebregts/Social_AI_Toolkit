@@ -16,7 +16,7 @@ Want wat ik merk in workshops, in langdurige trajecten, is iets anders dan de ve
 
 Wat als je diezelfde kunstmatige intelligentie waarmee je vragen beantwoordt, toepast op samenwerking? Niet AI dat uit eigen bronnen put, maar AI dat werkt met wat mensen zeiden. Met de woorden die iemand koos, want die woorden zeggen iets over wat diegene belangrijk vindt.
 
-Dat is waar ik naartoe wil met deze toolkit.
+Dat is waar ik naartoe wil met deze veldgids.
 
 ---
 
@@ -86,7 +86,7 @@ Samenwerking op grote schaal. Dieper ontdekken wat we als mensen nodig hebben, i
 
 Dat is waar ik naartoe wil.
 
-Daar gaat deze toolkit over.
+Daar gaat deze veldgids over.
 
 ---
 
@@ -102,5 +102,5 @@ Die echo-knop uit het verhaal, waarom werkte die eigenlijk? Dat is de vraag waar
 
 > [Hoe mens en AI samenwerken](hoe.md)
 
-*Liever eerst weten hoe je deze toolkit kunt gebruiken?*
-> [Over deze toolkit](hoe-te-lezen.md)
+*Liever eerst weten hoe je deze veldgids kunt gebruiken?*
+> [Over deze veldgids](hoe-te-lezen.md)

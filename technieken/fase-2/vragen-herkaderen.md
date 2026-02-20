@@ -19,7 +19,7 @@
 
 ---
 
-## Waarom dit in de Social AI Toolkit past
+## Waarom dit in de Social AI Veldgids past
 
 Deze pagina gaat over samenwerking en welzijn: het sociale stuk van Social AI.
 

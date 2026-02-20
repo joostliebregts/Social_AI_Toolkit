@@ -19,7 +19,7 @@ The tool matters less than what you do with it. But it helps to know what's out 
 | **ChatGPT** | Extensive, broad | Quick sparring, many integrations |
 | **Gemini** | 1M context, filters noise | Large documents, cross-model check |
 | **T3 Chat** | Multi-model interface | Comparing models, price/value |
-| **Claude Code + Finn** | Agentic collaboration | Toolkit/prompt development |
+| **Claude Code + Finn** | Agentic collaboration | Field guide/prompt development |
 | **Dembrane** | Live transcription + echo | Real-time feedback in sessions |
 | **Notion AI** | AI in your workspace | Everything in one place, context |
 | **NotebookLM** | Sources → other formats | Creating podcasts, video, slides |
@@ -120,7 +120,7 @@ By loading my personal context files, Claude Code gets a personality: Finn. Tune
 A concrete example: when analyzing multiple parallel table conversations, Claude Code can independently analyze each transcript separately, place the analyses side by side, identify patterns, and create a synthesis. All in one instruction.
 
 **When to use:**
-- Toolkit development: writing and iterating on content
+- Field guide development: writing and iterating on content
 - Prompt development: building and testing prompts
 - Multi-file analysis: processing multiple transcripts simultaneously
 - When you want to collaborate on something, not just ask questions

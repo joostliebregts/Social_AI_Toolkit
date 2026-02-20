@@ -19,7 +19,7 @@ We kunnen nu transcripten maken. Snel, goedkoop, goed genoeg. Alles wat er gezeg
 
 En dat stelt een vraag: wat kun je daar eigenlijk mee, in een sociale setting?
 
-Dat is waar deze toolkit over gaat. Transcriptie als ruwe olie. Grondstof voor van alles: collectieve wijsheid vangen, patronen blootleggen, je eigen intuïtie checken, groeien als facilitator door terug te kijken naar wat je anders had kunnen doen.
+Dat is waar deze veldgids over gaat. Transcriptie als ruwe olie. Grondstof voor van alles: collectieve wijsheid vangen, patronen blootleggen, je eigen intuïtie checken, groeien als facilitator door terug te kijken naar wat je anders had kunnen doen.
 
 **Daarom staat deze pagina vooraan.** Niet omdat transcriptie de meest spectaculaire techniek is, maar omdat alles wat volgt ermee begint.
 
@@ -100,7 +100,7 @@ Dit is waar het echte werk begint. De vraag is niet "wat kan ik met dit transcri
 
 ## Vier manieren om transcriptie te gebruiken
 
-Dit is de eerste pagina in deze toolkit waar we echt met AI aan de slag gaan. Tot nu toe ging het over waarom en hoe. Nu wordt het concreet: wat doe je eigenlijk met zo'n transcript?
+Dit is de eerste pagina in deze veldgids waar we echt met AI aan de slag gaan. Tot nu toe ging het over waarom en hoe. Nu wordt het concreet: wat doe je eigenlijk met zo'n transcript?
 
 Er zijn ontelbaar veel mogelijkheden. Maar in mijn werk komen vier patronen steeds terug:
 
@@ -122,7 +122,7 @@ Je hebt toegang tot deze tekst:
 1. Het transcript van de eerste online ouderbijeenkomst (~14 deelnemers).
 
 **Opdracht:**
-Analyseer de transcripten en creëer een strategisch overzicht ("De Giant Map") en een praktische gesprekstoolkit ("De Gesprekswaaier"). Het doel is niet om mensen te overtuigen met feiten, maar om verbinding te maken op basis van gedeelde waarden en zorgen.
+Analyseer de transcripten en creëer een strategisch overzicht ("De Giant Map") en een praktische gespreksgids ("De Gesprekswaaier"). Het doel is niet om mensen te overtuigen met feiten, maar om verbinding te maken op basis van gedeelde waarden en zorgen.
 
 **Randvoorwaarden & Stijl:**
 - **Privacy:** Gebruik GEEN echte namen. Vervang namen door [De Initiatiefnemer], [Facilitator], of [Ouder Groep X].
@@ -184,7 +184,7 @@ De eerste twee patronen gaan over inhoud: wat werd er gezegd, in welke woorden. 
 
 Soms wil je geen verrijking of verdieping, maar simpelweg overzicht. Wat is er besloten? Wie doet wat? Welke vragen bleven open?
 
-Dit is misschien het meest voor de hand liggende gebruik van transcriptie. Veel mensen beginnen hier: administratie automatiseren zodat je ruimte hebt voor ander werk. En dat is prima. Maar in deze toolkit staat het op plek drie, omdat de eerste twee patronen laten zien wat er nog meer mogelijk is.
+Dit is misschien het meest voor de hand liggende gebruik van transcriptie. Veel mensen beginnen hier: administratie automatiseren zodat je ruimte hebt voor ander werk. En dat is prima. Maar in deze veldgids staat het op plek drie, omdat de eerste twee patronen laten zien wat er nog meer mogelijk is.
 
 **AI helpt de prompt maken:**
 
@@ -285,7 +285,7 @@ Dit is geen vereiste. Begin gewoon met je ingebouwde microfoon. Maar als je merk
 
 ## Bouwen op transcriptie
 
-Hierboven las je vier manieren om transcriptie te gebruiken. Maar er zijn technieken die verder gaan: die voortbouwen op transcriptie als fundament. Als je de toolkit chronologisch doorwerkt, kom je ze vanzelf tegen:
+Hierboven las je vier manieren om transcriptie te gebruiken. Maar er zijn technieken die verder gaan: die voortbouwen op transcriptie als fundament. Als je de veldgids chronologisch doorwerkt, kom je ze vanzelf tegen:
 
 **Samen graven naar wat erin zit**
 Een transcript bevat meer dan je in het moment kon bevatten. Stel je voor: je gaat samen met AI op zoek naar structuur, haakjes voor verbinding, krachtige quotes.
@@ -303,7 +303,7 @@ Twee mensen die dezelfde worsteling delen zonder het van elkaar te weten. Twee o
 
 ## Spanningen
 
-Bij elke techniek in deze toolkit beschrijf ik de spanningen die ik tegenkom. Niet als valkuilen die je moet vermijden, maar als keuzes die je steeds opnieuw maakt. Wat werkt, hangt af van de situatie.
+Bij elke techniek in deze veldgids beschrijf ik de spanningen die ik tegenkom. Niet als valkuilen die je moet vermijden, maar als keuzes die je steeds opnieuw maakt. Wat werkt, hangt af van de situatie.
 
 **Vastleggen is nog geen gebruiken**
 De drempel voor transcriptie is zo laag dat het bijna vanzelfsprekend voelt om alles op te nemen en te transcriberen. Het transcript is er. Dat voelt als vooruitgang. Maar zonder vervolgstap verzamelt het stof.
@@ -322,7 +322,7 @@ De tools zijn zo makkelijk. Upload, klik, klaar. Maar niet elk gesprek hoort in 
 
 ## Veilige uitgangspunten
 
-Bij elke techniek in deze toolkit geef ik een checklist van dingen om te checken voordat je begint. Niet als bureaucratie, maar als snelle scan: heb ik aan de belangrijkste dingen gedacht?
+Bij elke techniek in deze veldgids geef ik een checklist van dingen om te checken voordat je begint. Niet als bureaucratie, maar als snelle scan: heb ik aan de belangrijkste dingen gedacht?
 
 *Zie ook: [Veilig werken met AI](../../veilig-werken.md)*
 

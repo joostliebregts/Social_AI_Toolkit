@@ -19,7 +19,7 @@
 
 ---
 
-## Why this belongs in the Social AI Toolkit
+## Why this belongs in the Social AI Field Guide
 
 This page is about collaboration and wellbeing: the social part of Social AI.
 

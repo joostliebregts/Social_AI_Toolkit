@@ -161,7 +161,7 @@ I sometimes call this the "Social GitHub" dream. Developers share code on GitHub
 
 That way, you could learn from each other at scale. A neighborhood in Doesburg, a small Dutch town, that discovers something about how to build ownership around playgrounds; that knowledge could be accessible for a neighborhood in Groningen wrestling with the same thing. Not as abstract theory, but as concrete experience: their words, their process, their lessons.
 
-That's still a vision. But every vision starts with small steps, and those steps are what this toolkit tries to describe.
+That's still a vision. But every vision starts with small steps, and those steps are what this field guide tries to describe.
 
 ---
 

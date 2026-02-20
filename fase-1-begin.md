@@ -16,7 +16,7 @@ Tot nu toe was dat prima. Je had je aantekeningen, je gedeelde herinneringen. Ma
 
 Er is iets veranderd. We kunnen nu transcripten maken. Snel, goedkoop, goed genoeg. En dat stelt een vraag: wat kun je daar eigenlijk mee, in een sociale setting?
 
-Dat is waar deze toolkit over gaat.
+Dat is waar deze veldgids over gaat.
 
 ---
 
@@ -80,7 +80,7 @@ AI kan de stijlkenmerken van een brondocument analyseren en toepassen op nieuwe 
 
 ## Wat blijft menselijk?
 
-Dit is de vraag die door deze hele toolkit loopt. Naarmate AI intelligenter wordt, verschuift wat wij doen — maar verdwijnt niet. In de [zes principes](hoe.md) kwam dit steeds terug: wat kan AI, en wat blijft van ons?
+Dit is de vraag die door deze hele veldgids loopt. Naarmate AI intelligenter wordt, verschuift wat wij doen — maar verdwijnt niet. In de [zes principes](hoe.md) kwam dit steeds terug: wat kan AI, en wat blijft van ons?
 
 Bij transcriptie is het antwoord helder.
 

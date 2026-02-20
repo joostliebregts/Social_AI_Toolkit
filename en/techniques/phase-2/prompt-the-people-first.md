@@ -7,9 +7,9 @@
 
 ---
 
-## Why this page is in the toolkit
+## Why this page is in the field guide
 
-You'd expect a toolkit about AI to be all about the right prompts. But the techniques from the previous pages (transcription, analysis, pattern recognition) only work if the input is good. And that input comes from people.
+You'd expect a field guide about AI to be all about the right prompts. But the techniques from the previous pages (transcription, analysis, pattern recognition) only work if the input is good. And that input comes from people.
 
 ---
 

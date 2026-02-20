@@ -17,7 +17,7 @@ De tool maakt minder uit dan wat je ermee doet. Maar het helpt om te weten wat e
 | **ChatGPT** | Uitgebreid, breed | Snelle sparring, veel integraties |
 | **Gemini** | 1M context, filtert ruis | Grote documenten, cross-model check |
 | **T3 Chat** | Multi-model interface | Modellen vergelijken, prijs/waarde |
-| **Claude Code + Finn** | Agentic samenwerking | Toolkit/prompt development |
+| **Claude Code + Finn** | Agentic samenwerking | Veldgids/prompt development |
 | **Dembrane** | Live transcriptie + echo | Real-time feedback in sessies |
 | **Notion AI** | AI in je workspace | Alles op één plek, context |
 | **NotebookLM** | Bronnen → andere vormen | Podcast, video, slides maken |
@@ -118,7 +118,7 @@ Door mijn persoonlijke contextbestanden in te laden krijgt Claude Code een perso
 Een concreet voorbeeld: bij het analyseren van meerdere parallelle tafelgesprekken kan Claude Code zelfstandig elk transcript apart analyseren, de analyses naast elkaar leggen, patronen identificeren, en een synthese maken — allemaal in één opdracht.
 
 **Wanneer gebruiken:**
-- Toolkit development: schrijven en itereren op content
+- Veldgids development: schrijven en itereren op content
 - Prompt development: bouwen en testen van prompts
 - Multi-bestand analyse: meerdere transcripten tegelijk verwerken
 - Als je wilt samenwerken aan iets, niet alleen vragen stellen

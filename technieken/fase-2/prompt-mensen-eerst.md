@@ -7,9 +7,9 @@
 
 ---
 
-## Waarom deze pagina in de toolkit
+## Waarom deze pagina in de veldgids
 
-Je zou verwachten dat een toolkit over AI draait om de juiste prompts. Maar de technieken uit de vorige pagina's (transcriptie, analyse, patroonherkenning) werken alleen als de input goed is. En die input komt van mensen.
+Je zou verwachten dat een veldgids over AI draait om de juiste prompts. Maar de technieken uit de vorige pagina's (transcriptie, analyse, patroonherkenning) werken alleen als de input goed is. En die input komt van mensen.
 
 ---
 

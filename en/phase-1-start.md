@@ -16,7 +16,7 @@ Until now, that was fine. You had your notes, your shared memories. But the exac
 
 Something has changed. We can now make transcripts. Fast, cheap, good enough. And that raises a question: what can you actually do with that, in a social setting?
 
-That's what this toolkit is about.
+That's what this field guide is about.
 
 ---
 
@@ -80,7 +80,7 @@ AI can analyze the style characteristics of a source document and apply them to 
 
 ## What stays human?
 
-This is the question that runs through this entire toolkit. As AI becomes more intelligent, what we do shifts, but doesn't disappear. In the [six principles](how.md) this kept coming back: what can AI do, and what stays ours?
+This is the question that runs through this entire field guide. As AI becomes more intelligent, what we do shifts, but doesn't disappear. In the [six principles](how.md) this kept coming back: what can AI do, and what stays ours?
 
 With transcription, the answer is clear.
 

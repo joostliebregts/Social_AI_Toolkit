@@ -1,6 +1,6 @@
-# Translation Guide: Social AI Toolkit (NL to EN)
+# Translation Guide: Social AI Field Guide (NL to EN)
 
-This guide is the single source of truth for all translators working on the English edition of the Social AI Toolkit. Follow it exactly.
+This guide is the single source of truth for all translators working on the English edition of the Social AI Field Guide. Follow it exactly.
 
 ---
 
@@ -95,7 +95,7 @@ Preserve this bottom-up discovery structure. Don't front-load conclusions.
 | Nederlands | English | Notes |
 |-----------|---------|-------|
 | betrokkenen / deelnemers | participants / the people involved | NEVER "stakeholders" unless formal institutional context |
-| eigen regie | ownership / agency | prefer "ownership" in toolkit context |
+| eigen regie | ownership / agency | prefer "ownership" in field guide context |
 | eigenaarschap | ownership | central concept, keep consistent |
 | wat ons verbindt | common ground / what connects us | context-dependent |
 | herkaderen | reframing | standard term |
@@ -177,7 +177,7 @@ Preserve this bottom-up discovery structure. Don't front-load conclusions.
 | Volgens mij... | The way I see it... / I think... | soft claim, leave room |
 | Het interessante is... | Here's what's interesting... | |
 | Eigenlijk... | Actually... | adding nuance |
-| Daar gaat deze toolkit over | That's what this toolkit is about | |
+| Daar gaat deze veldgids over | That's what this field guide is about | |
 | Dat is waar ik naartoe wil | That's where I want to go | |
 | Niet door te beslissen. Niet door samen te vatten. | Not by deciding. Not by summarizing. | preserve short sentence rhythm |
 | Wij zijn sociale wezens | We are social beings | |
@@ -216,7 +216,7 @@ Dutch names are kept as-is: Rianne, Jojanneke, Jeroen, Maarten. No anglicization
 
 ### Project names stay unchanged
 
-Doesburg, Social AI Toolkit, Dembrane. These are proper names.
+Doesburg, Social AI Field Guide, Dembrane. These are proper names.
 
 ### Currency and measurements
 
@@ -232,7 +232,7 @@ Doesburg, Social AI Toolkit, Dembrane. These are proper names.
 1. **Prompts inside code blocks** — These are already written to work with any LLM and are often in English or should remain in Dutch as working prompts.
 2. **Image filenames and paths** — `images/echo-button.png` stays unchanged.
 3. **Person names** — Rianne Runhaar, Jojanneke Diemers, Jeroen, Maarten.
-4. **Project names** — Doesburg, Social AI Toolkit, Dembrane.
+4. **Project names** — Doesburg, Social AI Field Guide, Dembrane.
 5. **Tool names** — MacWhisper, Claude, ChatGPT, Notion AI, Google Doc.
 6. **Code blocks** — Keep content inside ``` blocks unchanged.
 7. **Frontmatter keys** — If files have YAML frontmatter, translate values but not keys.
@@ -374,7 +374,7 @@ All internal NL links must be remapped to their EN equivalents.
 
 ## H. Translation Examples (Real Sentences)
 
-These examples show how to translate actual sentences from the toolkit. Study them carefully.
+These examples show how to translate actual sentences from the field guide. Study them carefully.
 
 ### From waarom.md
 
@@ -466,8 +466,8 @@ Joost uses short sentences for emphasis. Fragments are intentional. Preserve the
 **Dutch:** "Niet door te beslissen. Niet door samen te vatten. Maar door terug te spiegelen."
 **English:** "Not by deciding. Not by summarizing. But by reflecting back."
 
-**Dutch:** "Dat is waar ik naartoe wil. Daar gaat deze toolkit over."
-**English:** "That's where I want to go. That's what this toolkit is about."
+**Dutch:** "Dat is waar ik naartoe wil. Daar gaat deze veldgids over."
+**English:** "That's where I want to go. That's what this field guide is about."
 
 Never merge short sentences into longer academic ones. The rhythm is the voice.
 

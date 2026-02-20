@@ -16,7 +16,7 @@ What I notice in workshops, in long-running processes, is something different fr
 
 What if you applied that same artificial intelligence you use to answer questions to collaboration? Not AI drawing from its own sources, but AI working with what people said. With the words someone chose, because those words say something about what that person finds important.
 
-That's where I want to go with this toolkit.
+That's where I want to go with this field guide.
 
 ---
 
@@ -86,7 +86,7 @@ Collaboration at scale. Discovering more deeply what we need as people, in a str
 
 That's where I want to go.
 
-That's what this toolkit is about.
+That's what this field guide is about.
 
 ---
 
@@ -102,5 +102,5 @@ That echo button from the story: why did it actually work? That's the question w
 
 > [How people and AI collaborate](how.md)
 
-*Prefer to first know how to use this toolkit?*
-> [About this toolkit](how-to-read.md)
+*Prefer to first know how to use this field guide?*
+> [About this field guide](how-to-read.md)

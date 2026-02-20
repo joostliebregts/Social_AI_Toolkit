@@ -115,7 +115,7 @@ het smartphonegebruik bij kinderen uitstellen.
 # OPDRACHT
 Analyseer het transcript en creëer:
 1. Een strategisch overzicht ("De Giant Map")
-2. Een praktische gesprekstoolkit ("De Gesprekswaaier")
+2. Een praktische gespreksgids ("De Gesprekswaaier")
 
 Het doel is niet om mensen te overtuigen met feiten, maar om
 verbinding te maken op basis van gedeelde waarden en zorgen.

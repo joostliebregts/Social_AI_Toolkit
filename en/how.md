@@ -16,7 +16,7 @@ The way I see it, it starts there. With the person.
 
 That might sound obvious. But what I notice in practice: it often goes differently. Someone comes up with a plan, presents it, and asks if it's right. The intention is good. But the ownership sits with the person who came up with it, not with the group. Anyone who didn't say it themselves recognizes themselves less in it.
 
-In this toolkit it keeps coming back, in all kinds of ways. When you're preparing a session: what do we want to achieve, and what experience do you design for that? When you use AI: what do you feed it? The words of the people themselves, not your summary. When you reflect back to the group: do people recognize themselves in what's there? And when you're unsure about the right moment: what does this group need right now?
+In this field guide it keeps coming back, in all kinds of ways. When you're preparing a session: what do we want to achieve, and what experience do you design for that? When you use AI: what do you feed it? The words of the people themselves, not your summary. When you reflect back to the group: do people recognize themselves in what's there? And when you're unsure about the right moment: what does this group need right now?
 
 Even when you're working with AI alone, it starts with you. What are you curious about? Where could you use some help? What did you feel in that session, and how do you make that visible?
 
@@ -34,9 +34,9 @@ That fundamental attitude translates into six working principles.
 
 Every time I use AI in a session, I feel the same thing. There are things AI can do that I can't (recognize patterns at lightning speed, summarize with endless patience). And there are things I need to do that AI can't (give people space to be themselves, read body language, decide which direction we go). I make that choice over and over, and I notice that it changes as AI becomes more intelligent.
 
-After a while I started seeing patterns. I captured those patterns in six principles. Below I explain them. In the three phases that follow in this toolkit, whether you're starting with your first transcription or analyzing months of conversations, the same principles weave through them.
+After a while I started seeing patterns. I captured those patterns in six principles. Below I explain them. In the three phases that follow in this field guide, whether you're starting with your first transcription or analyzing months of conversations, the same principles weave through them.
 
-| The tension              | AI can...                     | The person needs to...          |
+| The principles           | AI can...                     | The person needs to...          |
 | ------------------------ | ----------------------------- | ------------------------------- |
 | Ritual vs intent         | Make rituals more efficient   | Safeguard the intent            |
 | Your words, your plan    | Analyze and summarize         | Articulate and decide           |
