@@ -318,6 +318,22 @@ De keuze om hier op in te gaan blijft bij jullie.
 
 ---
 
+## Twee lagen, altijd gelabeld
+
+Wat ik merk is dat AI-output eigenlijk altijd uit twee lagen bestaat, en dat het verschil ertoe doet.
+
+**Laag 1: Wat deelnemers zeiden**
+> Letterlijke quotes, hun woorden, hun framing. Dit is het eigenaarschap.
+
+**Laag 2: Wat AI opmerkt (ter inspiratie)**
+> Patronen, verbanden, onverwachte observaties. Niet van hen — van de machine.
+
+Het klinkt simpel, maar zonder die scheiding gebeurt er iets vervelends: mensen herkennen zichzelf niet meer. Ze lezen een document en weten niet welke zinnen van hen zijn en welke AI erbij heeft bedacht. Dan verdwijnt precies het eigenaarschap waar deze hele techniek om draait.
+
+Volgens mij is dat ook waarom die transparantie-footer in de prompts zo belangrijk is: "Dit document is samengesteld met AI op basis van jullie gesprek." Het is niet zomaar een disclaimer. Het is de afspraak dat mensen weten wat ze lezen. Dat er niets stiekem door AI is toegevoegd zonder dat dat zichtbaar is.
+
+---
+
 ## Spanningen
 
 **"Opschonen" voor leesbaarheid**

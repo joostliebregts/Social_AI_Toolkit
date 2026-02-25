@@ -4,6 +4,22 @@
 
 ---
 
+## 25 februari 2026
+
+**Content verrijkt**
+
+- **Taal behouden** — Nieuwe sectie: "Twee lagen, altijd gelabeld" — waarom AI-output altijd gescheiden moet zijn in wat deelnemers zeiden en wat AI opmerkt
+- **Prompt de mensen eerst** — Nieuwe sectie: "Bereik mensen waar ze zijn" — kanaal-keuze als eigenaarschapskwestie, met Floor de Ruiter's bloemenkweker-voorbeeld uit Doesburg
+
+## 23 februari 2026
+
+**Prompt-rendering verbeterd**
+
+- **Tooltips bij heading-prompts** — Prompts met `#`-headings tonen nu uitleg-tooltips vanuit de "Waarom deze structuur werkt" sectie. Eerder werkten tooltips alleen bij prompts met bold labels.
+- **Compactere headings** — Heading-niveaus in prompt-blokken zijn visueel compacter en onderscheidender
+- **Markdown-rendering** — Verbeterde weergave van bold, italic en heading-markers binnen prompt-blokken
+- **Blockquotes** — Citaatregels (`>`) in prompts worden nu als quote-blokje weergegeven
+
 ## 18 februari 2026
 
 **Twee nieuwe spanningen en praktische tip**

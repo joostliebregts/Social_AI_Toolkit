@@ -292,6 +292,20 @@ Concreet:
 
 ---
 
+## Bereik mensen waar ze zijn
+
+De input-ervaring begint niet bij de workshop-vraag. Het begint bij de uitnodiging.
+
+In Doesburg leerde de regiegroep dat standaard communicatie (e-mail, websites, flyers) niet altijd werkt als je mensen wilt bereiken in hun eigen leefwereld. Je moet communiceren op de plek en wijze die past bij de doelgroep. Floor de Ruiter, procesbegeleider en expert in bottom-up werken, wist dit uit ervaring:
+
+> "Uitnodigen moet je bloemenkwekers niet doen per e-mail... Je moet een appje sturen, want dat lezen ze op de trekker."
+
+Dit is niet alleen een kanaalkeuze. Het is een breder patroon: in de moskee aanwezig zijn in plaats van een brief sturen. Teksten schrijven op groep 8 niveau, niet omdat mensen dom zijn, maar omdat het helder moet zijn. De groep is uiteindelijk ook daadwerkelijk mensen individueel gaan uitnodigen voor de sleutelfigurensessie.
+
+De les voor "prompt de mensen eerst": als je mensen benadert via een kanaal dat niet van hen is, bereik je ze niet. De vraag "hoe ontwerp ik de input-ervaring?" begint eerder dan je denkt.
+
+---
+
 ## Filosofische verdieping
 
 ### Facilitatie boven prompting
