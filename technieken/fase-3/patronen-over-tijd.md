@@ -98,11 +98,56 @@ Dat was het antwoord op mijn vraag. Ja, AI kan die menselijke verschuivingen vat
 
 De synthese leverde ook iets op wat je in één oogopslag kunt lezen. Van de zes signalen die ik per meeting volgde, zijn er drie als getal uit te drukken:
 
-| Signaal | M1 | M2 | M3 | M4 | M5 | M6 | M7 |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Eigenaarschap** | 2 | 4 | 4 | 6 | 6 | 7 | 7 |
-| **Energie** | 6 | 7 | 7 | 7 | 7 | 6 | 7 |
-| **Besluiten** | 5 | 4 | 1 | 5 | 6 | 6 | 7 |
+**Eigenaarschap** (van facilitator-geleid naar groep-gedragen)
+
+```
+10 ┤
+ 9 ┤
+ 8 ┤
+ 7 ┤                              ●─────●
+ 6 ┤                  ●─────●─────┘
+ 5 ┤
+ 4 ┤      ●─────●─────┘
+ 3 ┤
+ 2 ┤──●───┘
+ 1 ┤
+   └──────┬─────┬─────┬─────┬─────┬─────┬──
+         M1    M2    M3    M4    M5    M6   M7
+```
+
+**Energie** (collectieve energie)
+
+```
+10 ┤
+ 9 ┤
+ 8 ┤
+ 7 ┤      ●─────●─────●─────●─────┘     ●
+ 6 ┤──●───┘                        ●─────┘
+ 5 ┤
+ 4 ┤
+ 3 ┤
+ 2 ┤
+ 1 ┤
+   └──────┬─────┬─────┬─────┬─────┬─────┬──
+         M1    M2    M3    M4    M5    M6   M7
+```
+
+**Besluiten** (worden er keuzes gemaakt?)
+
+```
+10 ┤
+ 9 ┤                                          ●
+ 8 ┤
+ 7 ┤                                    ●─────┘
+ 6 ┤                        ●─────●─────┘
+ 5 ┤──●───┐           ●─────┘
+ 4 ┤      ●─────┐─────┘
+ 3 ┤
+ 2 ┤
+ 1 ┤            ●
+   └──────┬─────┬─────┬─────┬─────┬─────┬─────┬──
+         M1    M2    M3    M4    M5    M6    M7  M8
+```
 
 Drie lijnen, drie verhalen. Eigenaarschap klimt in twee sprongen en consolideert: de groep neemt stap voor stap meer initiatief over. Energie blijft opvallend stabiel, met één dip die (waarschijnlijk) niet door inhoud kwam maar doordat de meeting online was. En besluiten vertelt misschien wel het meest verrassende verhaal: een dal in de derde meeting (de check-in slokte de hele sessie op), gevolgd door een gestage versnelling naarmate de groep leerde om te overleggen en vooral ook te kiezen.
 
@@ -443,18 +488,20 @@ Het doel is niet een perfecte analyse. Het doel is de ervaring: oh, *dit* verand
 
 *Dit is voor wie nieuwsgierig is naar hoe de methode is ontwikkeld en getest. Je hoeft dit niet te lezen om patronen over tijd toe te passen.*
 
-Alles hierboven is gebaseerd op versie één van het experiment: zeven parallelle analyses, één synthese. Maar na dat eerste resultaat wilde ik weten: hoe ver kun je hiermee gaan? Kan AI op basis van eerdere analyses ook voorspellen wat er in de volgende meeting zou gebeuren? Dat testte ik met vier verschillende methodes.
+Alles hierboven is gebaseerd op versie één van het experiment: zeven parallelle analyses, één synthese. Maar na dat eerste resultaat wilde ik weten: kun je dit ook per sessie doen? Niet achteraf alles tegelijk analyseren, maar al na sessie één een voorspelling doen voor sessie twee. En dan bij sessie twee de vorige voorspelling beoordelen, bijstellen, en opnieuw voorspellen. Een spiraal van feedback en leren, waarbij elke ronde voortbouwt op de observaties van de vorige. Dat testte ik met vier methodes die steeds op elkaar voortbouwden.
 
-| Versie | Methode | Wat het opleverde |
-|--------|---------|-------------------|
-| **V1** | Zeven parallelle analyses + één synthese-AI met toegang tot alle analyses | Het resultaat hierboven: scenario, curves, facilitatiekaart. |
-| **V2** | Elke meeting apart, blinde voorspelling, gecomprimeerde handoff naar de volgende | Bewees dat het kon: 68% accuraat op een eerste poging. |
-| **V3** | V2 + scenario's met kansschattingen, marges, en leerlessen per voorspelling | Beste score: 73%. Drie structurele toevoegingen maakten het verschil. |
-| **V4** | V3 + volledige vorige analyses meegegeven aan elke AI | Lagere overall score (69%), maar betere voorspellingen op eigenaarschap. |
+Een kanttekening: de percentages hieronder zijn door AI zelf beoordeeld. De ene AI voorspelt, de andere scoort wat er werkelijk gebeurde. Het zijn geen harde cijfers. Wat wél interessant is, is wat elke stap in de spiraal oplevert aan inzichten over hoe AI met dit soort data omgaat.
 
-**Het verrassende:** V3 scoorde hoger dan V4, terwijl V4 meer informatie had. Meer data leidde tot voorzichtigheid in plaats van betere inzichten. Compressie is niet alleen informatieverlies — het is ook ruisreductie. Een AI die een gecomprimeerde samenvatting krijgt, moet zelf nadenken over wat belangrijk is. Een AI die alles krijgt, wordt voorzichtiger en beschrijvender. Dat onderbouwt het principe "eerst los, dan samen."
+| Versie | Methode | Wat het oplevert |
+|--------|---------|------------------|
+| **V1** | Zeven parallelle analyses + één synthese | Het resultaat hierboven: scenario, curves, facilitatiekaart. De rijkste aanpak, maar alleen achteraf mogelijk. |
+| **V2** | Per sessie analyseren, blinde voorspelling, gecomprimeerde handoff naar de volgende | De basis van de spiraal. Elke AI krijgt alleen een samenvatting van de vorige, niet de volledige analyse. Eerste poging: ~68%. |
+| **V3** | V2 + elke ronde beoordeelt de vorige voorspelling, stelt bij, en leert | De spiraal in actie. Door expliciet terug te kijken op wat de vorige ronde goed en fout had, werden de voorspellingen scherper (~73%). |
+| **V4** | V3 + volledige vorige analyses meegegeven in plaats van samenvattingen | Meer data, maar niet per se beter (~69%). De AI werd voorzichtiger en beschrijvender in plaats van scherper. |
 
-**De eerlijkheid:** Dit is een experiment, geen bewezen methode. De scores zijn gebaseerd op zes signalen die ik zelf heb gedefinieerd. De "werkelijke waarden" zijn zelf door AI geproduceerd: de ene AI voorspelt, de andere AI scoort wat er werkelijk gebeurde. Het model overschat de voortgang en onderschat de weerstand. Mensen zijn geen trendlijnen. Volgens mij zit de waarde niet in de scores, maar in de voorbereiding: een facilitator die voor elke meeting een briefing krijgt op basis van alle vorige sessies.
+**Wat dit laat zien:** de voorspellingen van V3 kwamen dichter bij wat er werkelijk gebeurde dan die van V4, terwijl V4 meer informatie had. Hoe dat werkt: bij elke volgende stap kreeg de AI het transcript van de meeting die in de vorige ronde was voorspeld. Zo kon die beoordelen welke scenario's zich daadwerkelijk hadden afgespeeld, en bijstellen voor de volgende voorspelling. Dat is geen harde wetenschap (de AI beoordeelt zichzelf), maar het patroon is interessant. Wanneer je een AI alles geeft, moet die zelf uitzoeken wat belangrijk is, en dat maakt de AI voorzichtiger en beschrijvender in plaats van scherper. Geef je een compacte samenvatting, dan is de ruis er al uit en kan de AI zich richten op de patronen die ertoe doen. Dat onderbouwt het principe "eerst los, dan samen." - 
+
+**De eerlijkheid:** Dit is een experiment, geen bewezen methode. De signalen heb ik zelf gedefinieerd, de scores zijn indicatief, en het model overschat de voortgang en onderschat de weerstand. Mensen zijn geen trendlijnen. De waarde zit niet in de percentages, maar in het gedachtegoed: een spiraal van feedback en leren die de analyse elke ronde rijker maakt. En praktisch: een facilitator die voor elke meeting een briefing krijgt op basis van alle vorige sessies.
 
 ---
 
