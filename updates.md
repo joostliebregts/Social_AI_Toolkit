@@ -4,12 +4,13 @@
 
 ---
 
-## 25 februari 2026
+## 27 februari 2026
 
-**Content verrijkt**
+**Fase 3 begint — eerste verdieping online**
 
-- **Taal behouden** — Nieuwe sectie: "Twee lagen, altijd gelabeld" — waarom AI-output altijd gescheiden moet zijn in wat deelnemers zeiden en wat AI opmerkt
-- **Prompt de mensen eerst** — Nieuwe sectie: "Bereik mensen waar ze zijn" — kanaal-keuze als eigenaarschapskwestie, met Floor de Ruiter's bloemenkweker-voorbeeld uit Doesburg
+- **Fase 3: Schaal** — Hoofdpagina uitgebreid met het scepticus-verhaal, de muziekmetafoor, vier organisatiepatronen, en zes lenzen. De verkorte versie is vervangen door de volledige introductie.
+- **Patronen over tijd** — Eerste fase-3-techniek gepubliceerd. Van momentopname naar ontwikkeling: het Gerda-patroon, de twee-staps methode (eerst los, dan samen), en de volledige prompts voor Transcript Analyst en Predictive Synthesizer.
+- Twee verdere verdiepingen (haakjes vinden, eigenaarschap) volgen binnenkort.
 
 ## 23 februari 2026
 
@@ -32,4 +33,4 @@
 
 **Lancering — versie 1.0**
 
-- **Social AI Veldgids live** — Het visuele platform van de veldgids ging live. Dit markeert versie 1: Fase 1 (transcriptie, taal als eigenaarschap, brondocument-stijl) en Fase 2 (live reflectie, iteratie, intuïtie zwart op wit, en meer) zijn beschikbaar. De inhoud stond daarvoor al op GitHub als [Social AI Toolkit](https://github.com/joostliebregts/Social_AI_Toolkit) (inmiddels hernoemd tot de veldgids).
+- **Social AI Veldgids live** — Het visuele platform van de veldgids ging live. Dit markeert versie 1: Fase 1 (transcriptie, taal als eigenaarschap, brondocument-stijl) en Fase 2 (live reflectie, iteratie, intuïtie zwart op wit, en meer) zijn beschikbaar. De inhoud stond daarvoor al op GitHub als [Social AI Veldgids](https://github.com/joostliebregts/Social_AI_Toolkit) (inmiddels hernoemd tot de veldgids).
