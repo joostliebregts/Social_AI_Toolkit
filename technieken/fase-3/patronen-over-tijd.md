@@ -98,25 +98,11 @@ Dat was het antwoord op mijn vraag. Ja, AI kan die menselijke verschuivingen vat
 
 De synthese leverde ook iets op wat je in één oogopslag kunt lezen. Van de zes signalen die ik per meeting volgde, zijn er drie als getal uit te drukken:
 
-```
-Eigenaarschap               Energie                  Besluiten
-(van facilitator-geleid     (collectieve energie)    (worden er keuzes
-naar groep-gedragen)                                  gemaakt?)
-
-10 ┤                        10 ┤                     10 ┤
- 9 ┤                         9 ┤                      9 ┤                ●
- 8 ┤                         8 ┤                      8 ┤
- 7 ┤          ● ●            7 ┤  ● ● ● ●      ●     7 ┤              ●
- 6 ┤      ● ●                6 ┤●            ●        6 ┤          ● ●
- 5 ┤                         5 ┤                      5 ┤●       ●
- 4 ┤  ● ●                   4 ┤                      4 ┤  ●
- 3 ┤                         3 ┤                      3 ┤
- 2 ┤●                        2 ┤                      2 ┤
- 1 ┤                         1 ┤                      1 ┤    ●
-   └──────────────            └──────────────          └──────────────
-   M1 M2 M3 M4 M5            M1 M2 M3 M4 M5          M1 M2 M3 M4 M5
-      M6 M7                      M6 M7                    M6 M7
-```
+| Signaal | M1 | M2 | M3 | M4 | M5 | M6 | M7 |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Eigenaarschap** | 2 | 4 | 4 | 6 | 6 | 7 | 7 |
+| **Energie** | 6 | 7 | 7 | 7 | 7 | 6 | 7 |
+| **Besluiten** | 5 | 4 | 1 | 5 | 6 | 6 | 7 |
 
 Drie lijnen, drie verhalen. Eigenaarschap klimt in twee sprongen en consolideert: de groep neemt stap voor stap meer initiatief over. Energie blijft opvallend stabiel, met één dip die (waarschijnlijk) niet door inhoud kwam maar doordat de meeting online was. En besluiten vertelt misschien wel het meest verrassende verhaal: een dal in de derde meeting (de check-in slokte de hele sessie op), gevolgd door een gestage versnelling naarmate de groep leerde om te overleggen en vooral ook te kiezen.
 
