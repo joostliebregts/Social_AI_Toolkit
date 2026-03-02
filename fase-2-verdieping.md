@@ -176,21 +176,6 @@ Dat werkt door. In het begin kijken deelnemers met de vraag "klopt dit wel?" in 
 
 ---
 
-## Praktische start
-
-Wil je direct aan de slag? Kies de techniek die het beste past bij waar je nu staat:
-
-**Je hebt een sessie gehad en wilt er meer uithalen**
-→ [Intuïtie zwart op wit](technieken/fase-2/intuitie-zwart-op-wit.md) — patronen die je voelde vastleggen en bespreken
-
-**Je wilt oefenen met iteratief samenwerken met AI**
-→ [Iteratie](technieken/fase-2/iteratie.md) — feedback geven in rondes in plaats van zelf aanpassen
-
-**Je bereidt een sessie voor en wilt betere input krijgen**
-→ [Prompt de mensen eerst](technieken/fase-2/prompt-mensen-eerst.md) — de vragen ontwerpen die rijke antwoorden opleveren
-
----
-
 ## Technieken in deze fase
 
 | Techniek | Wat het doet |

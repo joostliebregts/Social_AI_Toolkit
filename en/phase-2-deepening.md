@@ -176,21 +176,6 @@ That carries through. At first, participants look with the question "is this cor
 
 ---
 
-## Practical start
-
-Want to get started right away? Choose the technique that best fits where you are now:
-
-**You've had a session and want to get more out of it**
-→ [Intuition in writing](techniques/phase-2/intuition-in-writing.md) — capture and discuss patterns you sensed
-
-**You want to practice iterating collaboratively with AI**
-→ [Iteration](techniques/phase-2/iteration.md) — giving feedback in rounds instead of adjusting yourself
-
-**You're preparing a session and want to get better input**
-→ [Prompt the people first](techniques/phase-2/prompt-the-people-first.md) — designing the questions that yield rich answers
-
----
-
 ## Techniques in this phase
 
 | Technique | What it does |
