@@ -20,7 +20,7 @@ That's where I want to go with this field guide.
 
 ---
 
-## An example from practice
+## From practice
 
 A session with people from mental healthcare (GGZ, the Dutch mental health system). They're talking about transformation, about how care could be different. The facilitator is leading the conversation. A person with lived experience openly shares what he went through.
 

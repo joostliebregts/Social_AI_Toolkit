@@ -4,6 +4,12 @@
 
 ---
 
+## 2 maart 2026
+
+**Engelse vertaling beschikbaar**
+
+- **Volledige vertaling** — Alle 19 pagina's van de veldgids zijn nu beschikbaar in het Engels: Fase 1, Fase 2, Fase 3 en de hoofdpagina's. Je kunt wisselen via de taalknop onderin de sidebar.
+
 ## 27 februari 2026
 
 **Fase 3 begint — eerste verdieping online**

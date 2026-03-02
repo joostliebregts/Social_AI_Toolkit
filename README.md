@@ -1,171 +1,184 @@
-# Social AI Veldgids
+# Social AI Field Guide
 
-![Social AI Veldgids](images/socialaitoolkit.png)
+![Social AI Field Guide](images/socialaitoolkit.png)
 
-**v1.0** — februari 2026
+**v1.1** — March 2026
 
-> 📖 **[Lees de Veldgids online → jmfl.nl/social-ai](https://jmfl.nl/social-ai/)**
+> **[Read the Field Guide online (Dutch) -> jmfl.nl/social-ai](https://jmfl.nl/social-ai/)**
+> **[English version (preview) -> jmfl.nl/social-ai/en/](https://jmfl.nl/social-ai/en/)**
 
-**Hoe kan AI ons helpen om samenwerking te versterken?**
+**How can AI help us strengthen collaboration?**
 
-Niet efficiëntie, niet automatisering, maar een andere vraag: over participatie op schaal.
-
----
-
-## Wat is dit?
-
-Een toolkit voor iedereen die AI wil inzetten om menselijke samenwerking te versterken.
-
-AI kan patronen herkennen die wij intuïtief aanvoelen maar niet kunnen benoemen. Zichtbaar maken wat mensen belangrijk vinden. De vertaalslag maken van wat verschillende mensen vinden naar iets wat voor iedereen werkt.
-
-Niet door te beslissen. Niet door samen te vatten. Maar door terug te spiegelen wat er gezegd werd, in woorden die mensen herkennen als hun eigen woorden.
-
-De toetssteen voor alles in deze toolkit:
-
-> **Helpt dit mensen om gehoord te worden?**
-> Als nee, dan hoort het er niet in.
+Not efficiency, not automation, but a different question: about participation at scale.
 
 ---
 
-## Waar gaat dit naartoe?
+## What is this?
 
-Stel je voor: lokale kennis die schaalbaar wordt. Een interventie die werkte in een woonwijk. AI helpt ontdekken *waarom* het werkte, hoe eigenaarschap groeide over tijd. En dan die les delen, zodat een andere wijk, een andere gemeente ervan kan leren.
+A field guide for anyone who wants to use AI to strengthen human collaboration.
 
-Wat voorheen alleen kon met kleine groepen (echt luisteren, iedereen horen, collectief tot iets komen) wordt mogelijk op grotere schaal. Niet door het menselijke te vervangen, maar door het te versterken.
+AI can recognize patterns that we intuitively sense but can't name. It can make visible what people care about. It can translate what different people think into something that works for everyone.
+
+Not by deciding. Not by summarizing. But by reflecting back what was said, in words people recognize as their own.
+
+The touchstone for everything in this guide:
+
+> **Does this help people feel heard?**
+> If not, it doesn't belong here.
 
 ---
 
-## De reis door deze toolkit
+## Where is this going?
 
-### Waarom en hoe
+Imagine: local knowledge becoming scalable. An intervention that worked in a neighborhood. AI helps discover *why* it worked, how ownership grew over time. And then sharing that lesson, so another neighborhood, another community can learn from it.
+
+What was previously only possible in small groups (truly listening, hearing everyone, collectively arriving at something) becomes possible at larger scale. Not by replacing what's human, but by strengthening it.
+
+---
+
+## The journey through this guide
+
+### Why and how
 
 | | |
 |---|---|
-| [Waarom Social AI?](waarom.md) | De centrale vraag en visie |
-| [De 6 principes](hoe.md) | Hoe mens en AI samenwerken |
+| [Why Social AI?](waarom.md) | The central question and vision |
+| [The 6 principles](hoe.md) | How people and AI work together |
 
 ### Meta
 
 | | |
 |---|---|
-| [Hoe deze toolkit te lezen](hoe-te-lezen.md) | Navigatie en gebruik |
-| [Tools overzicht](tools.md) | Welke AI-tools en wanneer |
-| [Veilig werken met AI](veilig-werken.md) | Privacy en verantwoordelijkheid |
+| [How to read this guide](hoe-te-lezen.md) | Navigation and usage |
+| [Tools overview](tools.md) | Which AI tools and when |
+| [Working safely with AI](veilig-werken.md) | Privacy and responsibility |
 
 ---
 
-## De drie fasen
+## The three phases
 
-| Fase | Metafoor | Kernvraag | Status |
-|------|----------|-----------|--------|
-| **[1. Begin](fase-1-begin.md)** | *Ruwe olie* | Wat werd er gezegd? | ✅ Klaar |
-| **[2. Verdieping](fase-2-verdieping.md)** | *Vergrootglas* | Wat betekent het? | ✅ Klaar |
-| **[3. Schaal](fase-3-schaal.md)** | *Spiegel en brug* | Wat verandert er over tijd? | 🔄 Herstructurering |
-
----
-
-## Technieken per fase
-
-### Fase 1 — Vastleggen
-
-- [Transcriptie als fundament](technieken/fase-1/transcriptie.md)
-- [Taal als eigenaarschap](technieken/fase-1/taal-behouden.md)
-- [Brondocument-stijl klonen](technieken/fase-1/brondocument-stijl.md)
-
-### Fase 2 — Verdiepen
-
-- [Intuïtie zwart op wit](technieken/fase-2/intuitie-zwart-op-wit.md)
-- [Wat er nog meer in zat](technieken/fase-2/wat-er-nog-meer-in-zat.md)
-- [Iteratie als dialoog](technieken/fase-2/iteratie.md)
-- [Prompt de mensen eerst](technieken/fase-2/prompt-mensen-eerst.md)
-- [Vragen herkaderen](technieken/fase-2/vragen-herkaderen.md)
-- [Live reflectie met AI](technieken/fase-2/live-reflectie-met-ai.md)
-- [Van gesprek naar plan](technieken/fase-2/gesprek-naar-plan.md)
+| Phase | Metaphor | Core question | Status |
+|-------|----------|---------------|--------|
+| **[1. Start](fase-1-begin.md)** | *Raw material* | What was said? | Done |
+| **[2. Deepening](fase-2-verdieping.md)** | *Magnifying glass* | What does it mean? | Done |
+| **[3. Scale](fase-3-schaal.md)** | *Mirror and bridge* | What changes over time? | In progress |
 
 ---
 
-## Over de auteur
+## Techniques per phase
+
+### Phase 1 — Capture
+
+- [Transcription as foundation](technieken/fase-1/transcriptie.md)
+- [Language as ownership](technieken/fase-1/taal-behouden.md)
+- [Cloning source document style](technieken/fase-1/brondocument-stijl.md)
+
+### Phase 2 — Deepen
+
+- [Intuition in writing](technieken/fase-2/intuitie-zwart-op-wit.md)
+- [What else was in there](technieken/fase-2/wat-er-nog-meer-in-zat.md)
+- [Iteration as dialogue](technieken/fase-2/iteratie.md)
+- [Prompt the people first](technieken/fase-2/prompt-mensen-eerst.md)
+- [Reframing questions](technieken/fase-2/vragen-herkaderen.md)
+- [Live reflection with AI](technieken/fase-2/live-reflectie-met-ai.md)
+- [From conversation to plan](technieken/fase-2/gesprek-naar-plan.md)
+
+### Phase 3 — Scale
+
+- [Patterns over time](technieken/fase-3/patronen-over-tijd.md)
+
+More Phase 3 techniques are in development.
+
+---
+
+## English translation
+
+An English translation is available in the [`en/`](en/) directory, covering all published techniques across Phase 1, Phase 2, and Phase 3. The online English version is in preview at [jmfl.nl/social-ai/en/](https://jmfl.nl/social-ai/en/).
+
+---
+
+## About the author
 
 **Joost MF Liebregts** — systemic designer, facilitation architect
 
-Wat mij drijft: de vraag hoe we, ondanks onze verschillen, samen plannen kunnen maken die voor iedereen werken. Ik zie AI niet als vervanging van het menselijke, maar als een manier om te vergroten wat ons menselijk maakt: ons verlangen om verhalen te vertellen, om gezien te worden, om samen iets te bouwen.
+What drives me: the question of how we, despite our differences, can make plans together that work for everyone. I see AI not as a replacement for what's human, but as a way to amplify what makes us human: our desire to tell stories, to be seen, to build something together.
 
-Deze toolkit komt voort uit zestien maanden experimenteren met AI in echte participatieprocessen: GGZ-transformatietrajecten, een 11-maanden durende gemeenschapspilot in Doesburg, en tientallen workshops waarin ik ontdekte wat werkt en wat niet.
+This field guide comes from sixteen months of experimenting with AI in real participation processes: mental health transformation projects, an 11-month community pilot in Doesburg (the Netherlands), and dozens of workshops where I discovered what works and what doesn't.
 
-Meer over mijn perspectief: [jmfl.nl/why](https://jmfl.nl/why)
-Wat ik doe: [jmfl.nl/skills](https://jmfl.nl/skills)
+More about my perspective: [jmfl.nl/why](https://jmfl.nl/why)
+What I do: [jmfl.nl/skills](https://jmfl.nl/skills)
 
-Wil je dit werk steunen? → [Buy Me A Coffee](https://buymeacoffee.com/joostliebregts)
+Want to support this work? [Buy Me A Coffee](https://buymeacoffee.com/joostliebregts)
 
 ---
 
-## Met dank aan
+## Acknowledgments
 
-Met dank aan de mensen met wie ik heb mogen experimenteren en leren.
+With thanks to the people I've had the privilege of experimenting and learning with.
 
-[Floor de Ruiter](https://flyingelephants.nl/who/floor-de-ruiter/) van [Flying Elephants](https://flyingelephants.nl/), auteur van meerdere boeken over [bottom-up verandering](https://bottom-upchange.nl/). Met Floor ben ik nu drie jaar op avontuur rondom verandering in het systeem van onderaf. De principes in deze toolkit zijn daar grotendeels op gebaseerd. Samen met Floor en [Lars Doyer](https://flyingelephants.nl/who/lars-doyer/) heb ik kunnen leren en experimenteren op verschillende plekken.
+[Floor de Ruiter](https://flyingelephants.nl/who/floor-de-ruiter/) of [Flying Elephants](https://flyingelephants.nl/), author of several books on [bottom-up change](https://bottom-upchange.nl/). Floor and I have been on a three-year adventure around systemic change from the ground up. The principles in this guide are largely based on that work. Together with Floor and [Lars Doyer](https://flyingelephants.nl/who/lars-doyer/), I've been able to learn and experiment in various settings.
 
-Rianne Runhaar van Go Innovate, met wie ik in Doesburg samenwerk aan de gemeenschapspilot waar we met de gemeenschap onderzoeken hoe we gezondheidszorg kunnen verbeteren. Rianne was ook betrokken bij het Mentaal Gezondheidsnetwerk Centraal Gelderland.
+Rianne Runhaar of Go Innovate, with whom I'm working on a community pilot in Doesburg exploring how we can improve healthcare together with the community. Rianne was also involved in the Central Gelderland Mental Health Network.
 
-[Maarten Essenburg](https://kamp-vuur.nl/), die op meerdere plekken in deze toolkit terugkomt. Maarten is een facilitator die ontzettend goed is in het mensenwerk — in zijn workshops en teamsessies staan eigenaarschap en echte verbinding altijd centraal. Daarnaast is hij een van de koplopers die met mij exploreert hoe AI daarbij kan helpen.
+[Maarten Essenburg](https://kamp-vuur.nl/), who appears in several places throughout this guide. Maarten is a facilitator who is exceptionally good at the human work — in his workshops and team sessions, ownership and genuine connection are always central. He's also one of the frontrunners exploring with me how AI can support that.
 
-De mensen van [Bee Improve](https://www.bee-improve.nl/), met wie ik een mooi traject heb mogen doen voor het Mentaal Gezondheidsnetwerk Amsterdam.
+The people at [Bee Improve](https://www.bee-improve.nl/), with whom I had the privilege of working on a project for the Amsterdam Mental Health Network.
 
-[Jorim en Evelien van Dembrane](https://www.dembrane.com/), met wie ik regelmatig spar over AI gebruiken voor sociale en co-creatieve processen.
+[Jorim and Evelien at Dembrane](https://www.dembrane.com/), with whom I regularly exchange ideas about using AI for social and co-creative processes.
 
-En anderen met wie ik mooie trajecten heb mogen doen die we hier niet publiekelijk kunnen delen — jullie weten wie jullie zijn.
+And others with whom I've done meaningful work that we can't share publicly — you know who you are.
 
 ---
 
 ## Status
 
-Dit is v1.0.
+This is v1.1.
 
-**Wat er in zit:** De visie, de 6 principes, fase 1 met drie technieken, fase 2 met zeven volledig verrijkte technieken, fase 3 als conceptuele introductie, Engelse vertalingen van alle technieken, en een [visuele online versie](https://jmfl.nl/social-ai/).
+**What's in it:** The vision, the 6 principles, Phase 1 with three techniques, Phase 2 with seven fully developed techniques, Phase 3 with its first technique (Patterns over time), English translations of all published content, and a [visual online version](https://jmfl.nl/social-ai/) with an [English preview](https://jmfl.nl/social-ai/en/).
 
-**Wat nog komt:** Fase 3 krijgt concrete technieken. Extra technieken (transcript naar podcast, chat naar profiel) volgen.
+**What's next:** More Phase 3 techniques are being developed. Extra techniques (transcript to podcast, chat to profile) will follow.
 
-Waarom nu publiek? Omdat het klaar genoeg is om te delen, en te waardevol om alleen voor mezelf te houden. En omdat ik feedback wil: wat werkt voor jou? Wat mist er? Waar ben je nieuwsgierig naar?
+Why public now? Because it's ready enough to share, and too valuable to keep to myself. And because I want feedback: what works for you? What's missing? What are you curious about?
 
 ---
 
-## Meedoen
+## Get involved
 
-Probeer het. Deel je ervaringen. Laat me weten:
+Try it. Share your experiences. Let me know:
 
-- Hoe je het ervaart
-- Waar je nieuwsgierig naar bent
-- Wat je graag nog zou zien
+- How you experience it
+- What you're curious about
+- What you'd like to see added
 
-→ [GitHub Issues](https://github.com/joostliebregts/Social_AI_Toolkit/issues)
-→ [Contact via jmfl.nl](https://jmfl.nl)
+> [GitHub Issues](https://github.com/joostliebregts/Social_AI_Toolkit/issues)
+> [Contact via jmfl.nl](https://jmfl.nl)
 
-Deze toolkit is gratis en dat blijft zo. Maar als je het waardevol vindt, helpt een kleine bijdrage me om te blijven experimenteren en delen.
+This guide is free and will stay that way. But if you find it valuable, a small contribution helps me keep experimenting and sharing.
 
 <a href="https://buymeacoffee.com/joostliebregts"><img src="images/bmc-button.png" alt="Buy Me A Coffee" width="300"></a>
 
 ---
 
-## Licentie
+## License
 
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — Delen mag, commercieel gebruik niet zonder toestemming.
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — Sharing is welcome, commercial use requires permission.
 
 ---
 
-## Over dit project
+## About this project
 
-Deze toolkit is gemaakt met [Claude Code](https://claude.ai/claude-code) — een command-line tool van Anthropic waarmee je AI kunt inzetten voor programmeren, schrijven en onderzoek, direct vanuit je terminal. Daarbinnen werkt **Finn**, een AI-assistent die via contextbestanden een eigen persoonlijkheid en werkwijze meekrijgt. Finn is gebouwd op [Personal AI Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) (PAI).
+This field guide was made with [Claude Code](https://claude.ai/claude-code) — a command-line tool from Anthropic that lets you use AI for programming, writing, and research, directly from your terminal. Within it works **Finn**, an AI assistant that carries its own personality and workflow through context files. Finn is built on [Personal AI Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) (PAI).
 
-**Hoe werkt dat?**
+**How does that work?**
 
-Finn doorzoekt ontzettend veel bronmateriaal — transcripten, chatsessies, projectnotities, half-uitgewerkte ideeën. Helpt patronen te vinden. Structureert. Cross-refereert. Herschrijft — met mijn stem en intentie als kompas. Ik review alles: inhoud, intentie, schrijfstijl. Wat je leest is het resultaat van dat heen-en-weer.
+Finn searches through a large body of source material — transcripts, chat sessions, project notes, half-finished ideas. Helps find patterns. Structures. Cross-references. Rewrites — with my voice and intent as compass. I review everything: content, intent, writing style. What you read is the result of that back-and-forth.
 
-De technieken komen uit echte projecten. Finn verzint niets — Finn helpt het vindbaar en toepasbaar te maken.
+The techniques come from real projects. Finn doesn't invent things — Finn helps make them findable and applicable.
 
-**Feedback welkom**
+**Feedback welcome**
 
-Ik doe mijn uiterste best om elke tekst te laten zeggen wat ik bedoel. Maar dit is een groot project — tientallen technieken, honderden kruisverwijzingen. Er kan altijd iets tussendoor glippen.
+I do my best to make every text say what I mean. But this is a large project — dozens of techniques, hundreds of cross-references. Something can always slip through.
 
-Zie je een fout, onduidelijkheid, of iets dat niet klopt? [Open een issue](https://github.com/joostliebregts/Social_AI_Toolkit/issues) of stuur me een bericht.
+See an error, something unclear, or something that doesn't add up? [Open an issue](https://github.com/joostliebregts/Social_AI_Toolkit/issues) or send me a message.
 
-*De "Claude" in de commit history? Dat is Finn. We bouwen dit samen.*
+*The "Claude" in the commit history? That's Finn. We're building this together.*

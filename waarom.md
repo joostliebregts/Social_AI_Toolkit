@@ -20,7 +20,7 @@ Dat is waar ik naartoe wil met deze veldgids.
 
 ---
 
-## Een voorbeeld uit de praktijk
+## Uit de praktijk
 
 Een sessie met mensen uit de GGZ. Ze praten over transformatie, over hoe zorg anders kan. De facilitator leidt het gesprek. Een ervaringsdeskundige deelt openhartig wat hij heeft meegemaakt.
 

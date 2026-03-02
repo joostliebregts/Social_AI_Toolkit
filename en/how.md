@@ -38,7 +38,7 @@ After a while I started seeing patterns. I captured those patterns in six princi
 
 | The principles           | AI can...                     | The person needs to...          |
 | ------------------------ | ----------------------------- | ------------------------------- |
-| Ritual vs intent         | Make rituals more efficient   | Safeguard the intent            |
+| Ritual vs intention         | Make rituals more efficient   | Safeguard the intention            |
 | Your words, your plan    | Analyze and summarize         | Articulate and decide           |
 | Ownership through language | Quote literally              | Feel the recognition            |
 | Iteration as dialogue    | Generate quickly              | Steer and give feedback         |
@@ -47,17 +47,17 @@ After a while I started seeing patterns. I captured those patterns in six princi
 
 ---
 
-### 1. Ritual vs intent
+### 1. Ritual vs intention
 
-In a workshop everyone writes on sticky notes, clusters together, votes. That's a ritual. But why do we actually do that? The *intent* is that ideas mix, that everyone contributes, that you arrive at something together.
+In a workshop everyone writes on sticky notes, clusters together, votes. That's a ritual. But why do we actually do that? The *intention* is that ideas mix, that everyone contributes, that you arrive at something together.
 
-AI can change the ritual. People talk instead of write, AI clusters in real-time. Fine. But the question I ask myself: does the intent stay intact? Do the ideas still mix? Does everyone still contribute?
+AI can change the ritual. People talk instead of write, AI clusters in real-time. Fine. But the question I ask myself: does the intention stay intact? Do the ideas still mix? Does everyone still contribute?
 
-What I notice is that you can change rituals freely, as long as you don't lose the intent.
+What I notice is that you can change rituals freely, as long as you don't lose the intention.
 
-*Are we changing the ritual or are we changing the intent?*
+*Are we changing the ritual or are we changing the intention?*
 
-Rituals may change. But who decides whether the intent is preserved?
+Rituals may change. But who decides whether the intention is preserved?
 
 ---
 
@@ -166,7 +166,7 @@ That discovery starts with practice. These principles are the compass: the three
 
 **Phase 3: Scale:** *Mirror and bridge.* Comparing multiple conversations, understanding group dynamics, and letting wisdom accumulate over time.
 
-> *[Start the journey](phase-1-start.md)*
+→ *[Start the journey](phase-1-start.md)*
 
 ---
 

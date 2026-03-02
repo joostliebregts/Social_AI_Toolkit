@@ -314,12 +314,12 @@ There's a reason this works. When people see their words reflected back immediat
 
 This is different from a report a week later. The speed isn't for efficiency; the speed is for ownership.
 
-### The ritual changes, the intent stays
+### The ritual changes, the intention stays
 
 The old ritual: sticky notes, clustering, a day's work, draft, review, final.
 The new ritual: speak, immediate output, validate, refine.
 
-The form is different. But the intent (making people owners of a plan) stays the same. In fact: because of the speed, the ownership is more direct.
+The form is different. But the intention (making people owners of a plan) stays the same. In fact: because of the speed, the ownership is more direct.
 
 ---
 

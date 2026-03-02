@@ -27,7 +27,7 @@ What you read on this page is a mix of lived experience and experiment. I'll ind
 
 ---
 
-## The Gerda pattern
+## The story: the Gerda pattern
 
 In the Doesburg process we work with a steering group: professionals, residents and entrepreneurs who together want to strengthen the social fabric of their municipality. I analyzed each meeting separately, with the same methodology and the same questions. Only then did I lay the analyses side by side.
 
@@ -97,7 +97,6 @@ That was the answer to my question. Yes, AI can capture those human shifts. Not 
 ### The data beneath the story
 
 The synthesis also produced something you can read at a glance. Of the six signals I tracked per meeting, three can be expressed as numbers:
-![[Pasted image 20260228100927.png]]
 
 ```
                  M1  M2  M3  M4  M5  M6  M7

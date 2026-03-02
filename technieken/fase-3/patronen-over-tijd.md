@@ -27,7 +27,7 @@ Wat je op deze pagina leest is een mengeling van doorleefde ervaring en experime
 
 ---
 
-## Het Gerda-patroon
+## Het verhaal: het Gerda-patroon
 
 In het Doesburg-traject werken we met een regiegroep: professionals, inwoners en ondernemers die samen de sociale basis van hun gemeente willen versterken. Ik analyseerde elke meeting apart, met dezelfde methodiek en dezelfde vragen. Pas daarna legde ik de analyses naast elkaar.
 
