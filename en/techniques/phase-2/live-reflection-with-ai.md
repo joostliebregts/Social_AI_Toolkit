@@ -3,7 +3,7 @@
 > *At precisely the right moment, AI asks the question that helps the group move forward.*
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
-**Builds on:** [Transcription](../phase-1/transcription.md)
+**Builds on:** [Transcription as foundation](../phase-1/transcription.md), now in real-time as an intervention instrument
 
 ---
 
@@ -15,7 +15,7 @@
 
 **What helps here:** When you're not sure, or when you know what's behind the echo button, you have a co-facilitator who can work with the entire transcript. As a human you have limited storage in your brain, no matter how attentively you listen. The echo button looks at the conversation from a different perspective and can help you that way.
 
-**The question:** What would happen if at that moment you had an extra set of eyes: a co-facilitator who had heard the entire conversation?
+**The question:** What would happen if at that moment you had an extra set of eyes; a co-facilitator who had heard the entire conversation?
 
 ---
 
@@ -54,9 +54,9 @@ The difference is in speed and context:
 - **Live:** Seconds. Works on the last few minutes. Suitable for intervention in the moment.
 - **Semi-live:** 1-2 minutes, depending on your workflow. Works on longer segments. Suitable for interim synthesis and reflection.
 
-Both require preparation: your prompts need to be ready. The difference is when you deploy them and how many steps are in between: from running the prompt to showing something on screen to the group.
+Both require preparation: your prompts need to be ready. The difference is when you deploy them and how many steps are in between, from running the prompt to showing something on screen to the group:
 
-run prompt, copy output, paste in document, show to group
+run prompt → copy output → paste in document → show to group
 
 The fewer intermediate steps, the faster.
 
@@ -77,57 +77,56 @@ The difference is in the question. A summary closes. An echo opens.
 | **Mirror** | Reflects what was said | "You mentioned X, Y, and Z" |
 | **Synthesis** | Connects patterns | "What stands out: everyone mentions 'time' but means something different" |
 | **Serendipity** | Asks the question that wasn't asked | "What would change if X wasn't the problem?" |
-
-Echo operates at the synthesis and serendipity level. It connects and asks further.
+Echo operates on all three levels: it mirrors, connects, and asks further, depending on the prompts you've configured.
 
 ---
 
 ## The prompt
 
-This is the working echo prompt from the Doesburg leadership workshop.
+This is the working echo prompt from a leadership workshop.
 
 ```prompt
-**Rol:** Je bent een ervaren groepsdynamiek-expert die signalen van
-vermeden onderwerpen, onuitgesproken spanningen en verschillende
-perspectieven detecteert in dialogen.
+**Role:** You are an experienced group dynamics expert who detects
+signals of avoided topics, unspoken tensions, and differing
+perspectives in dialogues.
 
-**Context:** Je analyseert de laatste 10-15 minuten van een
-[TYPE SESSIE]. Deelnemers zijn [WIE]. Ze kennen elkaar [RELATIE].
+**Context:** You are analyzing the last 10-15 minutes of a
+[SESSION TYPE]. Participants are [WHO]. They know each other [RELATIONSHIP].
 
-**Vereiste Stijl:**
-- Niet-oordelend en uitnodigend
-- Focus op wat ontbreekt, niet op wat fout is
-- Herken diplomatieke taal die onderliggende spanningen maskeert
+**Required Style:**
+- Non-judgmental and inviting
+- Focus on what's missing, not on what's wrong
+- Recognize diplomatic language that masks underlying tensions
 
-**Cruciale Randvoorwaarden:**
-- Baseer signalen strikt op transcript, geen veronderstellingen
-- Onderscheid tussen stilte en consensus
-- Bij twijfel: "Mogelijk onderbelicht" ipv stellige bewering
-- Genereer maximaal 2 echo-vragen voor facilitator
-- Focus op laatste deel van gesprek
+**Critical Constraints:**
+- Base signals strictly on transcript, no assumptions
+- Distinguish between silence and consensus
+- When in doubt: "Possibly underexposed" instead of definitive claims
+- Generate a maximum of 2 echo questions for facilitator
+- Focus on the last part of the conversation
 
-**Instructies:**
-1. Analyseer de laatste 10-15 minuten van het transcript
-2. Identificeer onderwerpen die opgeroepen maar niet uitgediept werden
-3. Detecteer momenten waar energie wegviel of onderwerp verschoof
-4. Zoek verschillen in framing tussen deelnemers
-5. Herken "ja, maar..." patronen als signaal voor spanning
-6. Kies één krachtige echo-vraag die het belangrijkste adresseert
+**Instructions:**
+1. Analyze the last 10-15 minutes of the transcript
+2. Identify topics that were raised but not explored
+3. Detect moments where energy dropped or the topic shifted
+4. Look for differences in framing between participants
+5. Recognize "yes, but..." patterns as signals of tension
+6. Choose one powerful echo question that addresses the most important issue
 
 **Output Format:**
-### Wat Ik Waarneem
-**Mogelijk onderbelicht:** [Onderwerpen die niet uitgediept werden]
+### What I Observe
+**Possibly underexposed:** [Topics that were not explored]
 
-**Verschillende framingen:**
-- "Quote over hoe dit gezien wordt"
-- "Quote die anders nuanceert"
+**Different framings:**
+- "Quote about how this is viewed"
+- "Quote that nuances differently"
 
-### Echo-vraag voor de Groep
-**[Eén krachtige vraag die uitnodigt tot verdieping]**
+### Echo question for the Group
+**[One powerful question that invites deeper exploration]**
 
-### Over Deze Echo
-Deze echo is een hulpmiddel om mogelijke blinde vlekken te belichten,
-niet om te oordelen. De keuze om hier op in te gaan blijft bij jullie.
+### About This Echo
+This echo is a tool to illuminate possible blind spots,
+not to judge. The choice to engage with it remains yours.
 ```
 
 **Why this structure works:**
@@ -138,7 +137,7 @@ niet om te oordelen. De keuze om hier op in te gaan blijft bij jullie.
 - **Instructions** steer the search process: the sequence (first analyze, then detect, then choose) provides focus
 - **Output Format** structures the output: "One powerful question" forces selection
 
-**Source:** Prompt I use for live group reflection (Doesburg leadership workshop)
+**Source:** Prompt I use for live group reflection (leadership workshop)
 
 ---
 
@@ -157,7 +156,7 @@ Use when the conversation stays abstract: lots of theory but no concrete next st
 **REFLECTING:**
 Use when the connection between perspectives is missing.
 
-> "I hear that Table Red wants 'more time,' but Table Blue says 'too many meetings' — could 'time' mean something different for both groups?"
+> "I hear that Table Red wants 'more time,' but Table Blue says 'too many meetings'; could 'time' mean something different for both groups?"
 
 ---
 
@@ -178,7 +177,7 @@ Use when the connection between perspectives is missing.
 |--------|---------|
 | Someone shares a personal story | Space for emotion IS the intervention |
 | First session, you don't know the group yet | Echo can miss without understanding of context |
-| No strategic preparation | Weak prompts, AI decides, substitution risk |
+| No strategic preparation | Weak prompts → AI decides → substitution risk |
 | Facilitator looks at screen instead of people | Reading real-time group dynamics is human work |
 
 ---
@@ -200,17 +199,17 @@ When the echo is ready, the facilitator reads it in their own words, not verbati
 **Timing of intervention**
 Too early feels like interruption. Too late and the energy is already gone.
 
-*My approach:* I wait until I feel that the group is stuck somewhere. Or until I'm unsure myself and don't know how to proceed, then the echo is a helping hand.
+*My approach:* I wait until I feel that the group is stuck somewhere. Or until I'm unsure myself and don't know how to proceed; then the echo is a helping hand.
 
 **AI language versus own voice**
-What AI generates is a suggestion, not a script. Reading it verbatim can come across as mechanical — but if the preparation was thorough, that's also fine.
+What AI generates is a suggestion, not a script. Reading it verbatim can come across as mechanical, but if the preparation was thorough, that's also fine.
 
 *My approach:* I usually paraphrase in my own words. But if I've prepared the echo prompt well, I sometimes read it verbatim too.
 
 **Spontaneous versus prepared**
-The question that made "mouths fall open" didn't come from nowhere. There was strategic preparation behind it.
+The reflection question that got the creativity flowing again didn't come from nowhere. There was strategic preparation behind it.
 
-*My approach:* 80% of the success is in preparation. I design the echo prompt beforehand based on what I expect.
+*My approach:* 80% of the success is in preparation. I design the echo prompt beforehand based on what I expect. But I also know I'll probably need to adjust them when the session goes in a different direction. That requires understanding *what* your prompt does, not just *that* it works, so you can adjust on the spot.
 
 **Echo as replacement for facilitating**
 The echo is a tool, not a solution. If all I do is press buttons, I miss what's happening in the room.
@@ -273,7 +272,7 @@ But (and this is crucial) the facilitator needs to take ownership of the questio
 
 ---
 
-← [Previous: Reframing questions](reframing-questions.md) | [Back to Phase 2](../../phase-2-deepening.md) | [Next: Conversation to plan →](conversation-to-plan.md)
+← [Previous: Reframing questions](reframing-questions.md) | [Back to Phase 2: Deepening](../../phase-2-deepening.md) | [Next: From conversation to plan →](conversation-to-plan.md)
 
 ---
 

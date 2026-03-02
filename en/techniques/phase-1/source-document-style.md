@@ -3,7 +3,7 @@
 > *"We know this document was approved by the health insurer. What I actually want is for the new documents to come in the same writing style."*
 
 **Phase:** [Phase 1: Start](../../phase-1-start.md)
-**Builds on:** [Transcription](transcription.md)
+**Builds on:** [Transcription as foundation](transcription.md) and [Language as ownership](preserving-language.md), now with the style of an existing document
 
 ---
 
@@ -72,14 +72,14 @@ Before you can write a prompt, you need to understand what the characteristics a
 **The analysis prompt:**
 
 ```prompt
-Analyseer dit document en identificeer:
+Analyze this document and identify:
 
-1. Structuur: Welke secties komen terug? In welke volgorde?
-2. Toon: Formeel/informeel? Collaboratief/directief?
-3. Terminologie: Welk vakjargon wordt consistent gebruikt?
-4. Opmaak: Hoe worden lijsten, tabellen, figuren ingezet?
+1. Structure: Which sections recur? In what order?
+2. Tone: Formal/informal? Collaborative/directive?
+3. Terminology: Which technical jargon is used consistently?
+4. Formatting: How are lists, tables, figures used?
 
-Geef per categorie concrete voorbeelden uit het document.
+Provide concrete examples from the document per category.
 ```
 
 **Example: analysis of the transformation plan**
@@ -87,28 +87,28 @@ Geef per categorie concrete voorbeelden uit het document.
 This is what the analysis yielded for the mental healthcare transformation plan:
 
 ```
-Structuur per Deelplan:
-Elk deelplan volgt een vaste structuur:
-- Inleiding
-- Hoofddoelstelling
-- Huidige status
-- Interventie
-- Doelgroep
-- Effecten (genummerde lijst)
-- Betrokken partners (bullet points)
-- Fasering inrichting
-- Afspraken (SMART-tabel)
-- Investering
+Structure per Sub-plan:
+Each sub-plan follows a fixed structure:
+- Introduction
+- Main objective
+- Current status
+- Intervention
+- Target group
+- Effects (numbered list)
+- Partners involved (bullet points)
+- Phasing
+- Agreements (SMART table)
+- Investment
 
-Schrijfstijl:
-- Formeel, zakelijk Nederlands
-- Collaboratief: veel "we", "samen", "gezamenlijk"
-- Actiegericht, pragmatisch, oplossingsgericht
+Writing style:
+- Formal, business-like Dutch
+- Collaborative: frequent use of "we", "together", "jointly"
+- Action-oriented, pragmatic, solution-focused
 
-Terminologie:
-- IZA, GALA, MGN, POH-GGZ, positieve gezondheid
-- Verkennend gesprek, overlegtafel, sociale kaart
-- Domein overstijgend, herstelgericht
+Terminology:
+- IZA, GALA, MGN, POH-GGZ, positive health
+- Exploratory conversation, consultation table, social map
+- Cross-domain, recovery-oriented
 ```
 
 ### 2. Encode the style in your prompt
@@ -118,14 +118,13 @@ Include the style characteristics literally in every prompt that needs to genera
 **Example: style guidelines embedded**
 
 ```prompt
-Formuleer in de volgende schrijfstijl:
-- Taal: Formeel, zakelijk Nederlands
-- Toon: Collaboratief ("we", "samen"), actiegericht, pragmatisch
-- Perspectief: Samenwerkende partijen, rekening houdend met
-  "inwoner", "naaste", "professional"
-- Terminologie: IZA, GALA, MGN, POH-GGZ, positieve gezondheid,
-  herstelgericht
-- Structuur: Heldere zinnen, opsommingen waar nodig
+Write in the following style:
+- Language: Formal, business-like
+- Tone: Collaborative ("we", "together"), action-oriented, pragmatic
+- Perspective: Collaborating parties, taking into account
+  "resident", "loved one", "professional"
+- Terminology: [insert domain-specific terms from source document]
+- Structure: Clear sentences, bullet points where needed
 ```
 
 This block must be in every prompt that needs to write in the target style.
@@ -160,41 +159,41 @@ This is also a preview of [Phase 3: Scale](../../phase-3-scale.md), where you're
 - Purpose of the output explicitly stated
 
 ```prompt
-**Prompt voor Dembrane (Tussentijdse Visie Terugkoppeling - Universeel)**
+**Prompt for Dembrane (Interim Vision Reflection - Universal)**
 
-**Rol:** Je bent een AI-assistent die helpt bij het live documenteren van een transformatieplan-sessie. Jouw taak nu is om de kern van de zojuist gevoerde visie-discussie samen te vatten voor directe feedback aan de groep.
+**Role:** You are an AI assistant helping with live documentation of a transformation plan session. Your task now is to summarize the core of the vision discussion just held, for direct feedback to the group.
 
 **Context:**
-*   **Sessie Deel:** Ronde 1 - Discussie over 5-jaarsperspectief (vraag 1 draaiboek).
-*   **Doel Output:** Terugkoppeling aan de deelnemers aan de tafel ter validatie ("Klopt dit beeld?").
+*   **Session Part:** Round 1 - Discussion on 5-year perspective (question 1 script).
+*   **Output Goal:** Reflection back to the participants at the table for validation ("Does this picture match?").
 
-**Vereiste Schrijfstijl (Pas deze consistent toe):**
-*   **Taal:** Formeel, zakelijk Nederlands.
-*   **Toon:** Collaboratief ("we", "samen", "gezamenlijk"), actiegericht, pragmatisch, oplossingsgericht.
-*   **Perspectief:** Geschreven vanuit de samenwerkende partijen, rekening houdend met perspectief van "inwoner", "naaste", "professional".
-*   **Terminologie:** Gebruik correcte en relevante jargon uit de Nederlandse zorg en GGZ (zoals IZA, GALA, MGN, POH-GGZ, positieve gezondheid, herstelgericht, domein overstijgend, etc.) waar passend.
-*   **Structuur:** Gebruik heldere zinnen, opsommingen (bullet points) waar nodig.
+**Required Writing Style (Apply consistently):**
+*   **Language:** Formal, business-like.
+*   **Tone:** Collaborative ("we", "together", "jointly"), action-oriented, pragmatic, solution-focused.
+*   **Perspective:** Written from the collaborating parties, taking into account the perspective of "resident", "loved one", "professional".
+*   **Terminology:** Use correct and relevant jargon from the healthcare and mental health domain (such as IZA, GALA, MGN, POH-GGZ, positive health, recovery-oriented, cross-domain, etc.) where appropriate.
+*   **Structure:** Use clear sentences, bullet points where needed.
 
-**Instructies:**
-1.  **Identificeer het primaire thema** dat in dit transcriptfragment wordt besproken. Kies uit: 'Sociale Kaart', 'Overlegtafel/transfertafel', of 'Verkennend Gesprek'. Baseer je keuze op kernwoorden en de context van de visie-discussie. Als het thema niet eenduidig te bepalen is, noteer 'Thema Onduidelijk' en stop.
-2.  **Genereer een beknopte, narratieve samenvatting** van de gedeelde 5-jaarsvisie voor het **geïdentificeerde thema**. Formuleer deze samenvatting strikt volgens de **Vereiste Schrijfstijl**. Focus op het gewenste toekomstbeeld en de beoogde opbrengsten.
-3.  **Extraheer een lijst met 3-5 cruciale onderdelen of elementen** die volgens de deelnemers absoluut in deze 5-jaarsvisie voor het **geïdentificeerde thema** moeten zitten. Presenteer dit als een duidelijke bullet-point lijst onder de samenvatting.
-4.  **Controleer op eventueel genoemde KPI's** of meetbare resultaten gerelateerd aan de visie en neem deze op in de samenvatting of de lijst met cruciale onderdelen.
+**Instructions:**
+1.  **Identify the primary theme** being discussed in this transcript fragment. Choose from: 'Social Map', 'Consultation Table/Transfer Table', or 'Exploratory Conversation'. Base your choice on keywords and the context of the vision discussion. If the theme cannot be clearly determined, note 'Theme Unclear' and stop.
+2.  **Generate a concise, narrative summary** of the shared 5-year vision for the **identified theme**. Formulate this summary strictly according to the **Required Writing Style**. Focus on the desired future vision and the intended outcomes.
+3.  **Extract a list of 3-5 crucial components or elements** that according to participants absolutely need to be in this 5-year vision for the **identified theme**. Present this as a clear bullet-point list below the summary.
+4.  **Check for any mentioned KPIs** or measurable results related to the vision and include these in the summary or the list of crucial components.
 
 **Input Transcript:**
-[Hier plak je het relevante transcriptfragment van de visie-discussie van deze tafel]
+[Paste the relevant transcript fragment of the vision discussion from this table here]
 
 **Output Format:**
-**Geïdentificeerd Thema:** [Sociale Kaart / Overlegtafel/transfertafel / Verkennend Gesprek / Thema Onduidelijk]
+**Identified Theme:** [Social Map / Consultation Table/Transfer Table / Exploratory Conversation / Theme Unclear]
 
-**(Indien Thema geïdentificeerd):**
-**Concept Visie [Geïdentificeerd Thema] (ter validatie):**
-[Hier komt de narratieve samenvatting in de vereiste schrijfstijl]
+**(If Theme identified):**
+**Draft Vision [Identified Theme] (for validation):**
+[Here goes the narrative summary in the required writing style]
 
-**Cruciale Onderdelen Visie:**
-*   [Cruciaal onderdeel 1]
-*   [Cruciaal onderdeel 2]
-*   [Cruciaal onderdeel 3]
+**Crucial Vision Components:**
+*   [Crucial component 1]
+*   [Crucial component 2]
+*   [Crucial component 3]
 *   ...
 ```
 
@@ -212,43 +211,43 @@ This is also a preview of [Phase 3: Scale](../../phase-3-scale.md), where you're
 - Output aimed at passing forward to the next round
 
 ```prompt
-**Prompt voor Dembrane (Continue Verwerking & Vragen - Universeel)**
+**Prompt for Dembrane (Continuous Processing & Questions - Universal)**
 
-**Rol:** Je bent een AI-analist en redacteur die live gesprekken volgt voor een transformatieplan GGZ. Jouw taken zijn het extraheren van kernpunten en het identificeren van vragen voor verdere discussie.
+**Role:** You are an AI analyst and editor following live conversations for a mental healthcare transformation plan. Your tasks are extracting key points and identifying questions for further discussion.
 
-**Vereiste Schrijfstijl (Voor eventuele geformuleerde kernpunten):**
-*   **Taal:** Formeel, zakelijk Nederlands.
-*   **Toon:** Collaboratief ("we", "samen"), objectief bij samenvatten.
-*   **Terminologie:** Gebruik correcte en relevante jargon (IZA, MGN, etc.) waar passend.
+**Required Writing Style (For any formulated key points):**
+*   **Language:** Formal, business-like.
+*   **Tone:** Collaborative ("we", "together"), objective when summarizing.
+*   **Terminology:** Use correct and relevant jargon (IZA, MGN, etc.) where appropriate.
 
-**Instructies:**
-1.  Analyseer het bijgevoegde transcriptfragment.
-2.  **Identificeer het primaire thema** dat wordt besproken ('Sociale Kaart', 'Overlegtafel/transfertafel', 'Verkennend Gesprek') of noteer 'Thema Onduidelijk'.
-3.  **Extraheer de belangrijkste inhoudelijke punten:**
-    *   Genoemde visie-elementen, doelstellingen, problemen.
-    *   Voorgestelde acties, stappen, oplossingen.
-    *   Genoemde randvoorwaarden, benodigde partners.
-    *   Belangrijke punten van overeenstemming of juist van discussie/onenigheid.
-    *   Eventueel genoemde KPI's of meetbare resultaten.
-4.  **Formuleer deze kernpunten beknopt.** Probeer elk punt te **taggen** met het geïdentificeerde thema en een mogelijke sectie uit het transformatieplan (bijv. `[Thema: Sociale Kaart, Sectie: Visie]`, `[Thema: Overlegtafel, Sectie: Fasering]`, `[Thema: Verkennend Gesprek, Sectie: Randvoorwaarden]`, `[Thema: Algemeen, Sectie: KPI]`). Gebruik de **Vereiste Schrijfstijl** voor deze punten.
-5.  **Analyseer de discussie in het fragment:** Waar stokt het gesprek? Welke punten blijven onduidelijk? Waar is duidelijk behoefte aan input of besluitvorming door een volgende groep?
-6.  **Genereer 1 of 2 concrete, open vragen** die de volgende groep kunnen helpen om verder te bouwen op dit gesprek of om knelpunten op te lossen. De vragen moeten direct voortkomen uit de analyse in stap 5.
+**Instructions:**
+1.  Analyze the attached transcript fragment.
+2.  **Identify the primary theme** being discussed ('Social Map', 'Consultation Table/Transfer Table', 'Exploratory Conversation') or note 'Theme Unclear'.
+3.  **Extract the most important substantive points:**
+    *   Mentioned vision elements, objectives, problems.
+    *   Proposed actions, steps, solutions.
+    *   Mentioned preconditions, required partners.
+    *   Important points of agreement or points of discussion/disagreement.
+    *   Any mentioned KPIs or measurable results.
+4.  **Formulate these key points concisely.** Try to **tag** each point with the identified theme and a possible section from the transformation plan (e.g., `[Theme: Social Map, Section: Vision]`, `[Theme: Consultation Table, Section: Phasing]`, `[Theme: Exploratory Conversation, Section: Preconditions]`, `[Theme: General, Section: KPI]`). Use the **Required Writing Style** for these points.
+5.  **Analyze the discussion in the fragment:** Where does the conversation stall? Which points remain unclear? Where is there a clear need for input or decision-making by the next group?
+6.  **Generate 1 or 2 concrete, open questions** that can help the next group build on this conversation or resolve bottlenecks. The questions must directly stem from the analysis in step 5.
 
 **Input Transcript:**
-[Hier plak je het te verwerken transcript-segment]
+[Paste the transcript segment to be processed here]
 
 **Output Format:**
-**Geïdentificeerd Thema:** [Sociale Kaart / Overlegtafel/transfertafel / Verkennend Gesprek / Thema Onduidelijk]
+**Identified Theme:** [Social Map / Consultation Table/Transfer Table / Exploratory Conversation / Theme Unclear]
 
-**Kernpunten uit dit fragment:**
-*   [Kernpunt 1 geformuleerd in vereiste stijl] `[Tag: Thema, Sectie]`
-*   [Kernpunt 2 geformuleerd in vereiste stijl] `[Tag: Thema, Sectie]`
-*   [KPI 1 genoemd] `[Tag: Thema, Sectie: KPI]`
+**Key Points from this fragment:**
+*   [Key point 1 formulated in required style] `[Tag: Theme, Section]`
+*   [Key point 2 formulated in required style] `[Tag: Theme, Section]`
+*   [KPI 1 mentioned] `[Tag: Theme, Section: KPI]`
 *   ...
 
-**Voorgestelde Vragen voor Volgende Groep:**
-1.  [Vraag 1]
-2.  [Vraag 2 (optioneel)]
+**Suggested Questions for Next Group:**
+1.  [Question 1]
+2.  [Question 2 (optional)]
 ```
 
 *This is the prompt I used at the time for transformation plan sessions.*
@@ -265,60 +264,57 @@ This is also a preview of [Phase 3: Scale](../../phase-3-scale.md), where you're
 - Room for "missing information"
 
 ```prompt
-**Prompt voor Dembrane (Eind-Synthese Deelplan per Thema - Universele Template)**
+**Prompt for Dembrane (Final Synthesis Sub-plan per Theme - Universal Template)**
 
-**Rol:** Je bent de hoofdredacteur die de input van de gehele workshop consolideert tot een concept-deelplan voor het transformatieplan [Naam Nieuwe Regio].
+**Role:** You are the chief editor consolidating the input from the entire workshop into a draft sub-plan for the transformation plan [Name New Region].
 
 **Context:**
-*   **Thema van deze Synthese:** [Naam Thema - **Noodzakelijk specificeren bij uitvoering!**, bijv. 'Verkennend Gesprek']
-*   **Sessie Deel:** Einde van de workshop - consolidatie van alle rondes voor het gespecificeerde thema.
-*   **Doel Output:** Een coherent concept-deelplan voor het gespecificeerde thema, klaar voor verdere redactie.
+*   **Theme of this Synthesis:** [Theme Name - **Must be specified at execution!**, e.g., 'Exploratory Conversation']
+*   **Session Part:** End of the workshop - consolidation of all rounds for the specified theme.
+*   **Output Goal:** A coherent draft sub-plan for the specified theme, ready for further editing.
 
-**Vereiste Schrijfstijl (Pas deze consistent toe op de gehele output):**
-*   **Taal:** Formeel, zakelijk Nederlands.
-*   **Toon:** Collaboratief ("we", "samen", "gezamenlijk"), actiegericht, pragmatisch, oplossingsgericht.
-*   **Perspectief:** Geschreven vanuit de samenwerkende partijen, rekening houdend met perspectief van "inwoner", "naaste", "professional".
-*   **Terminologie:** Gebruik correcte en relevante jargon uit de Nederlandse zorg en GGZ (zoals IZA, GALA, MGN, POH-GGZ, positieve gezondheid, herstelgericht, domein overstijgend, etc.) waar passend voor dit thema.
-*   **Structuur:** Volg de deelplan-structuur (zie instructies). Gebruik duidelijke koppen, subkoppen, bullet points en genummerde lijsten waar van toepassing.
+**Required Writing Style (Apply consistently to the entire output):**
+*   **Language:** Formal, business-like.
+*   **Tone:** Collaborative ("we", "together", "jointly"), action-oriented, pragmatic, solution-focused.
+*   **Perspective:** Written from the collaborating parties, taking into account the perspective of "resident", "loved one", "professional".
+*   **Terminology:** Use correct and relevant jargon from the healthcare and mental health domain (such as IZA, GALA, MGN, POH-GGZ, positive health, recovery-oriented, cross-domain, etc.) where appropriate for this theme.
+*   **Structure:** Follow the sub-plan structure (see instructions). Use clear headings, subheadings, bullet points, and numbered lists where applicable.
 
-**Instructies:**
-1.  Verzamel alle kernpunten en KPI's die tijdens de workshop zijn **getagd met het 'Thema van deze Synthese'** (uit de outputs van Prompt 2).
-2.  **Structureer deze informatie** tot een concept-deelplan voor dit thema. Gebruik de volgende secties als leidraad en vul ze met de relevante getagde informatie:
-    *   **Inleiding:** Context, belang van dit thema (combineer relevante kernpunten).
-    *   **Hoofddoelstelling:** Wat wil men bereiken met dit thema? (Synthetiseer uit relevante kernpunten).
-    *   **Interventie:** Beschrijving van de aanpak/oplossing voor dit thema (Synthetiseer uit relevante kernpunten).
-    *   **Effecten:** Wat levert het op? Maak een genummerde lijst. **Integreer hier logisch de KPI's** die voor dit thema zijn genoteerd en aan effecten gekoppeld kunnen worden.
-    *   **Betrokken partners:** Wie zijn genoemd als relevant voor dit thema? (Maak een bullet list).
-    *   **Fasering inrichting [Thema van deze Synthese]:** Beschrijf de stappen, acties, resultaten per fase zoals besproken voor dit thema. **Integreer hier logisch KPI's** die aan specifieke stappen/fases gekoppeld kunnen worden. (Maak een gestructureerde lijst, bijv. per fase).
-    *   (Voeg optioneel secties toe zoals 'Randvoorwaarden', 'Huidige status', 'Doelgroep', 'Investering' als hierover voldoende getagde informatie beschikbaar is).
-3.  Zorg voor een **logische flow en coherentie**. Herschrijf en verbind de geëxtraheerde punten tot lopende tekst binnen elke sectie, conform de **Vereiste Schrijfstijl**.
-4.  Wees expliciet over waar informatie mogelijk nog ontbreekt of verder uitgewerkt moet worden voor dit deelplan (bijv. "SMART-doelen nog te concretiseren", "Financiering/investering nog niet besproken").
+**Instructions:**
+1.  Collect all key points and KPIs that were **tagged with the 'Theme of this Synthesis'** during the workshop (from the outputs of Prompt 2).
+2.  **Structure this information** into a draft sub-plan for this theme. Use the following sections as a guide and fill them with the relevant tagged information:
+    *   **Introduction:** Context, importance of this theme (combine relevant key points).
+    *   **Main Objective:** What does one want to achieve with this theme? (Synthesize from relevant key points).
+    *   **Intervention:** Description of the approach/solution for this theme (Synthesize from relevant key points).
+    *   **Effects:** What does it yield? Create a numbered list. **Logically integrate the KPIs** that were noted for this theme and can be linked to effects.
+    *   **Partners Involved:** Who was mentioned as relevant for this theme? (Create a bullet list).
+    *   **Phasing [Theme of this Synthesis]:** Describe the steps, actions, results per phase as discussed for this theme. **Logically integrate KPIs** that can be linked to specific steps/phases. (Create a structured list, e.g., per phase).
+    *   (Optionally add sections such as 'Preconditions', 'Current Status', 'Target Group', 'Investment' if sufficient tagged information is available).
+3.  Ensure a **logical flow and coherence**. Rewrite and connect the extracted points into running text within each section, in accordance with the **Required Writing Style**.
+4.  Be explicit about where information may still be missing or needs further elaboration for this sub-plan (e.g., "SMART goals still to be concretized", "Financing/investment not yet discussed").
 
 **Input:**
-[Verwijs naar de verzamelde outputs van Prompt 2, met name de kernpunten getagd met het 'Thema van deze Synthese']
+[Refer to the collected outputs of Prompt 2, specifically the key points tagged with the 'Theme of this Synthesis']
 
 **Output Format:**
-**Concept Deelplan: [Thema van deze Synthese]**
+**Draft Sub-plan: [Theme of this Synthesis]**
 
-**(Volg de structuur zoals beschreven in Instructie 2, met alle tekst in de Vereiste Schrijfstijl)**
+**(Follow the structure as described in Instruction 2, with all text in the Required Writing Style)**
 
-**Opmerkingen/Ontbrekende Informatie:**
-*   [Punt 1]
-*   [Punt 2]
+**Notes/Missing Information:**
+*   [Point 1]
+*   [Point 2]
 ```
-
 *This is the prompt I used at the time for transformation plan sessions.*
-
----
 
 **Why this structure works:**
 
 Every prompt above follows the same structure that applies the technique of cloning source document style:
 
-- **Style guidelines in the prompt** Every prompt explicitly contains the language, tone, terminology, and structure. AI doesn't have to guess.
-- **Phased approach** Not everything at once. Interim reflection, continuous processing, final synthesis: three separate prompts for three separate goals.
-- **Context provided** Every prompt tells AI what the goal is ("reflection for validation", "consolidation into draft sub-plan") and what input it receives.
-- **Terminology adopted** The prompts use the same terms as the source document (IZA, GALA, MGN, etc.) instead of generic alternatives.
+- **Style guidelines in the prompt**: every prompt explicitly contains the language, tone, terminology, and structure. AI doesn't have to guess.
+- **Phased approach**: not everything at once. Interim reflection, continuous processing, final synthesis: three separate prompts for three separate goals.
+- **Context provided**: every prompt tells AI what the goal is ("reflection for validation", "consolidation into draft sub-plan") and what input it receives.
+- **Terminology adopted**: the prompts use the same terms as the source document (IZA, GALA, MGN, etc.) instead of generic alternatives.
 
 This makes the prompts reproducible. If you adapt the style guidelines to your source document, you can use the same structure for other processes.
 
@@ -378,7 +374,7 @@ There's a tension between the official style and the authentic voice of the part
 
 ---
 
-← [Previous: Language as ownership](preserving-language.md) | [Back to Phase 1](../../phase-1-start.md) | [Next: Phase 2: Deepening →](../../phase-2-deepening.md)
+← [Previous: Language as ownership](preserving-language.md) | [Back to Phase 1: Start](../../phase-1-start.md) | [Next: Phase 2: Deepening →](../../phase-2-deepening.md)
 
 ---
 

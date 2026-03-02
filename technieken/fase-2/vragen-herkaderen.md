@@ -88,7 +88,7 @@ Hetzelfde geldt hier: "Wat vind je van de samenwerking?" levert analyse. "Beschr
 
 In een sessie binnen een mentaal gezondheidsnetwerk, over hoe zorg anders kan: na drie kwartier cirkelde het gesprek, kwam er een stilte. De facilitator zei: "Ik heb hem nog niet." Jeroen stelde voor: "Zullen we eens kijken wat de AI-echo ons geeft?"
 
-AI had meegeluisterd en stelde een vraag:
+De echo kwam terug met een vraag:
 
 > "Gezien de uitdagingen die jullie beschrijven, lijkt het cruciaal om te beginnen met kleine haalbare stappen die direct impact hebben in de wijk. Kunnen we een voorbeeld bedenken van zo'n concrete actie die we morgen al zouden kunnen starten, zonder dat we vastlopen in systeemeisen?"
 

@@ -3,7 +3,7 @@
 > *When the group gets stuck, a different question can be the opening.*
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
-**Builds on:** [Prompt the people first](prompt-the-people-first.md)
+**Builds on:** [Prompt the people first](prompt-the-people-first.md), now specifically for in-session reframing of questions
 
 ---
 
@@ -52,8 +52,7 @@ Probing deeper works when people have something but haven't quite articulated it
 **The question, reframed:**
 > "We've heard a lot about what isn't working. Let's flip it for a moment: if everything would succeed, what's your ideal picture? What would it look like?"
 
-**Why this structure works:**
-- **Future orientation** by placing the question in a different light (from problem to aspiration) you open up the future. Problem-focus keeps people in the present or the past.
+**Why this works:** By placing the question in a different light (from problem to aspiration) you open up the future. Problem-focus keeps people in the present or the past.
 
 ### 2. From abstract to concrete
 
@@ -62,8 +61,7 @@ Probing deeper works when people have something but haven't quite articulated it
 **The question, reframed:**
 > "Communication, you're saying. Can someone describe a moment when the communication did work? What happened then?"
 
-**Why this structure works:**
-- **Story over abstraction** by placing the question in a different light (from problem to positive example) you get a story about what people want more of. That provides direction for improvement. Abstractions are immovable. Concrete moments you can explore.
+**Why this works:** By placing the question in a different light (from problem to positive example) you get a story about what people want more of. That provides direction for improvement. Abstractions are immovable. Concrete moments you can explore.
 
 **The 50 euro test:**
 
@@ -80,8 +78,7 @@ The same applies here: "What do you think about the collaboration?" yields analy
 **The question, reframed:**
 > "If we leave the system aside for a moment, what could you personally do? Where do you have influence?"
 
-**Why this structure works:**
-- **Ownership activation** by placing the question in a different light (from system to person) you activate ownership. System-talk is safe but passive. Personal action is scary but activating.
+**Why this works:** By placing the question in a different light (from system to person) you activate ownership. System-talk is safe but passive. Personal action is scary but activating.
 
 ---
 
@@ -91,7 +88,7 @@ The same applies here: "What do you think about the collaboration?" yields analy
 
 In a session within a mental health network, about how care could be different: after forty-five minutes the conversation was circling, a silence fell. The facilitator said: "I don't have it yet." Jeroen suggested: "Shall we see what the AI echo gives us?"
 
-AI had been listening along and posed a question:
+The echo came back with a question:
 
 > "Given the challenges you're describing, it seems crucial to start with small achievable steps that have direct impact in the neighborhood. Can we think of an example of such a concrete action that we could start tomorrow, without getting stuck in system requirements?"
 
@@ -114,28 +111,31 @@ Reframing is a human skill that you apply in the moment. AI can help you develop
 This is where a transcript becomes so valuable: you can use it for your own learning. Not just to analyze what the group said, but to reflect on your own facilitation.
 
 ```prompt
-Ik had vandaag een sessie. Op een gegeven moment liep het gesprek vast.
+I had a session today. At some point the conversation got stuck.
 
-Dit is wat er gebeurde:
-[Beschrijf de situatie: mensen herhaalden zich, energie zakte, etc.]
+This is what happened:
+[Describe the situation: people were repeating themselves,
+energy dropped, etc.]
 
-Dit is de vraag die ik stelde:
-[De vraag die je gebruikte]
+This is the question I asked:
+[The question you used]
 
-Dit is wat er toen gebeurde:
-[Hoe reageerde de groep?]
+This is what happened then:
+[How did the group respond?]
 
-Help me reflecteren:
-- Wat had ik anders kunnen vragen?
-- Welke herkader-strategie had hier gepast? (probleem→verlangen, abstract→concreet, systeem→persoon)
-- Hoe herken ik dit patroon de volgende keer eerder?
+Help me reflect:
+- What could I have asked differently?
+- Which reframing strategy would have fit here?
+  (problem to aspiration, abstract to concrete,
+  system to person)
+- How do I recognize this pattern earlier next time?
 ```
 
 **Why this structure works:**
-- **Reflection partner** "I had a session today" positions AI as reflection partner, not as expert
-- **Concrete description** "This is what happened" forces you to describe concretely what you did, not abstractly
-- **Strategy link** "Which reframing strategy would have fit here?" ties back to the three strategies on this page
-- **Pattern recognition** "How do I recognize this pattern earlier?" you're building a repertoire for next time
+- **"I had a session today"** positions AI as reflection partner, not as expert
+- **"This is what happened"** forces you to describe concretely what you did, not abstractly
+- **"Which reframing strategy"** ties back to the three strategies on this page
+- **"How do I recognize this pattern"** you're building a repertoire for next time
 
 *This is a suggestion: adapt it to your specific situation.*
 
@@ -194,7 +194,7 @@ This requires listening. Not to what's being said, but to what's being sought.
 
 ### The hypothetical question (miracle question)
 
-A powerful way to reframe is the hypothetical question from positive psychology: "Imagine you wake up tomorrow and your biggest problem is solved — what would be the first difference you notice?"
+A way to reframe is the hypothetical question from positive psychology: "Imagine you wake up tomorrow and your biggest problem is solved, what would be the first difference you notice?"
 
 This still starts from the problem, but shifts the focus to the solution. Instead of being stuck in what's wrong, people imagine what would be different. From there you can work backwards to what's needed.
 
@@ -208,7 +208,7 @@ This still starts from the problem, but shifts the focus to the solution. Instea
 
 ---
 
-← [Previous: Prompt the people first](prompt-the-people-first.md) | [Back to Phase 2](../../phase-2-deepening.md) | [Next: Phase 3 →](../../phase-3-scale.md)
+[Previous: Prompt the people first](prompt-the-people-first.md) | [Back to Phase 2](../../phase-2-deepening.md) | [Next: Phase 3 →](../../phase-3-scale.md)
 
 ---
 

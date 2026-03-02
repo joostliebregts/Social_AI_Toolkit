@@ -3,13 +3,13 @@
 > *AI makes visible what you already felt but couldn't yet name.*
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
-**Builds on:** [Transcription](../phase-1/transcription.md)
+**Builds on:** [Transcription as foundation](../phase-1/transcription.md), as raw material for pattern recognition
 
 ---
 
 ## When is this relevant?
 
-**Situation:** You've facilitated a conversation. You feel there's something in it, a [recurring theme, an unspoken tension](../../phase-2-deepening.md), a dynamic you sense, but you can't quite put it into words.
+**Situation:** You've facilitated a conversation. You feel there's something in it (a [recurring theme, an unspoken tension](../../phase-2-deepening.md), a dynamic you sense) but you can't quite put it into words.
 
 **The tendency:** To carry your feeling with you, but without the words to make it concrete. You know something's going on; you just can't point to it.
 
@@ -21,7 +21,7 @@
 
 ## The story: the pattern I didn't see
 
-We were facilitating a steering group in a bottom-up change process. This group had already accomplished so much: they hadn't just identified problems and come up with solutions, they had also designed and run sessions themselves. They had gathered input from dozens of people across the organization. They had successes: in multiple meetings it had become clear — *these are the patterns we all need to address, this is what matters according to the people we've spoken with*.
+We were facilitating a steering group in a bottom-up change process. This group had already accomplished so much: they hadn't just identified problems and come up with solutions, they had also designed and run sessions themselves. They had gathered input from dozens of people across the organization. They had successes: in multiple meetings it had become clear; *these are the patterns we all need to address, this is what matters according to the people we've spoken with*.
 
 And yet there we were, in the same conversation again: everything that could go wrong, all the obstacles, all the reasons to delay the decision.
 
@@ -58,26 +58,26 @@ The feeling was there. AI made it visible.
 **The prompt that produced this:**
 
 ```prompt
-# CONTEXT & ROL
-Je fungeert als een systemisch strateeg en gemeenschapsbouwer.
-Je hebt toegang tot het transcript van een ouderbijeenkomst (~14 deelnemers).
+# CONTEXT & ROLE
+You function as a systemic strategist and community builder.
+You have access to the transcript of a parent meeting (~14 participants).
 
-# OPDRACHT
-Analyseer het transcript en breng de emotionele leefwereld in kaart,
-ingedeeld per schoolfase (Kleuters/Onderbouw vs. Middenbouw vs. Bovenbouw).
+# TASK
+Analyze the transcript and map the emotional landscape,
+organized by school phase (Toddlers/Early Primary vs. Middle Primary vs. Late Primary).
 
-# RANDVOORWAARDEN
-- Privacy: Gebruik GEEN echte namen
-- Taal: Gebruik de *letterlijke bewoordingen* van de deelnemers
-- Toon: Empathisch, niet-oordelend
-- Kijk voorbij de klacht ("mijn kind wil gamen") naar de onderliggende
-  waarde ("ik wil dat mijn kind sociaal meekomt")
+# CONSTRAINTS
+- Privacy: Do NOT use real names
+- Language: Use the *literal words* of the participants
+- Tone: Empathetic, non-judgmental
+- Look beyond the complaint ("my kid wants to game") to the underlying
+  value ("I want my child to fit in socially")
 
 # OUTPUT
-Per fase:
-- Welke specifieke angsten, twijfels of comfortzones ervaren ouders?
-- Waar zit de energie? Wie voelt urgentie, wie zit in de 'veilige haven'?
-- Citaten die het patroon illustreren
+Per phase:
+- What specific fears, doubts, or comfort zones do parents experience?
+- Where is the energy? Who feels urgency, who is in the 'safe harbor'?
+- Quotes that illustrate the pattern
 ```
 
 **Why this structure works:**
@@ -85,7 +85,7 @@ Per fase:
 - **Underlying value** "Look beyond the complaint to the underlying value" is the core of intuition in writing: not what people say, but what's underneath
 - **Per phase** gives structure to a feeling you already had ("the conversations about toddlers were different") but can now name
 
-*Source: Smartphone-free community analysis prompt*
+**Source:** Smartphone-free community analysis prompt
 
 ---
 
@@ -108,33 +108,33 @@ The difference isn't in the surprise, but in the recognition. You already knew; 
 A prompt to make patterns explicit that you intuitively sense:
 
 ```prompt
-# ROL
-Je bent een patroon-analist die helpt om impliciete groepsdynamiek
-zichtbaar te maken.
+# ROLE
+You are a pattern analyst who helps make implicit group dynamics
+visible.
 
 # CONTEXT
-Ik heb dit gesprek gefaciliteerd en heb een intuïtie dat er iets
-verschuift over het verloop. Maar ik kan het niet precies benoemen.
+I facilitated this conversation and have an intuition that something
+shifts over the course of it. But I can't quite name it.
 
-# OPDRACHT
-Lees het transcript en zoek naar:
-1. Verschuivingen in toon of energie
-2. Thema's die terugkomen maar anders worden besproken
-3. Waardensystemen die botsen of domineren
-4. Momenten waar de groep "kantelt"
+# TASK
+Read the transcript and look for:
+1. Shifts in tone or energy
+2. Themes that recur but are discussed differently
+3. Value systems that clash or dominate
+4. Moments where the group "tips"
 
-# RANDVOORWAARDEN
-- Baseer strikt op wat er staat, niet op interpretatie
-- Bij twijfel: "mogelijk" in plaats van stellige bewering
-- Gebruik hun woorden, niet jouw samenvattingen
-- Zoek niet naar wat ik wil vinden, maar naar wat er is
+# CONSTRAINTS
+- Base strictly on what's there, not on interpretation
+- When in doubt: "possibly" instead of definitive claims
+- Use their words, not your summaries
+- Don't look for what I want to find, but for what's there
 
 # OUTPUT
-Per gevonden patroon:
-- Een herkenbare naam (in de taal van de groep)
-- 2-3 citaten die het patroon illustreren
-- Wat er verschuift (van X naar Y)
-- "Mogelijk relevant": wat dit zou kunnen betekenen
+Per pattern found:
+- A recognizable name (in the language of the group)
+- 2-3 quotes that illustrate the pattern
+- What shifts (from X to Y)
+- "Possibly relevant": what this could mean
 ```
 
 **Why this structure works:**
@@ -156,8 +156,9 @@ Per gevonden patroon:
 **Approach:** Give AI the transcript without saying what you're looking for. See if it comes back.
 
 **In your prompt:**
-> Analyze this transcript for dynamic patterns. Pay specific attention to moments where the energy shifted, topics that were avoided, and differences between what was said and what seems to have been meant.
-
+```prompt
+Analyze this transcript for dynamic patterns. Pay specific attention to moments where the energy shifted, topics that were avoided, and differences between what was said and what seems to have been meant.
+```
 **For example:** After a team meeting, you feel there's tension around a particular topic. You ask AI to analyze "dynamic patterns" (not around people, but around themes). AI identifies that the conversation veered away from budget discussions three times, each time after a critical remark.
 
 ### 2. Finding words for the unnamed
@@ -167,7 +168,9 @@ Per gevonden patroon:
 **Approach:** Ask AI to analyze the conversation for tension, energy, shifts. See what language AI uses.
 
 **In your prompt:**
-> I have a feeling that something shifts in this conversation but I can't name it. Analyze for shifts in tone, energy, and themes. Give each pattern a name in the language of the group.
+```prompt
+I have a feeling that something shifts in this conversation but I can't name it. Analyze for shifts in tone, energy, and themes. Give each pattern a name in the language of the group.
+```
 
 **Example:** The "three phases" (Paradise, Twilight Zone, Reality) weren't my words. AI generated names that captured the feeling.
 
@@ -178,8 +181,9 @@ Per gevonden patroon:
 **Approach:** Let AI identify patterns with quotes. Use those as evidence.
 
 **In your prompt:**
-> Identify patterns in this transcript. Per pattern: a recognizable name, 2-3 quotes that illustrate it, and what shifts.
-
+```prompt
+Identify patterns in this transcript. Per pattern: a recognizable name, 2-3 quotes that illustrate it, and what shifts.
+```
 **Example:** "I noticed the energy dropped on this topic" becomes "From the transcript: at three moments the conversation shifted away from [topic], each time after these types of remarks..."
 
 ---
@@ -249,10 +253,7 @@ This is what AI can do: not create new truth, but name existing truth.
 ## Related techniques
 
 **Other entry points to deepening:**
-- [What else was in there](what-else-was-in-there.md): digging together with AI for structure, hooks, and powerful quotes (this is the reactive variant: you don't yet feel exactly what you're looking for)
-
-**Building further:**
-- [Patterns over time](../phase-3/patterns-over-time.md) (Phase 3): confirming intuitions over longer processes
+- [What else was in there](what-else-was-in-there.md): digging together with AI for structure, hooks, and striking quotes (this is the reactive variant: you don't yet feel exactly what you're looking for)
 
 ---
 

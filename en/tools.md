@@ -2,8 +2,6 @@
 
 > Which tools do you use when? An overview.
 
-> 🚧 **Work in progress:** This page is still being refined. Content may change.
-
 ---
 
 The tool matters less than what you do with it. But it helps to know what's out there, and what makes each one different.
@@ -150,13 +148,15 @@ Using AI in the conversation with a human touch. You introduce it as a person.
 **What makes it different:**
 "10 seconds. One question. The conversation that was stuck started moving." The timing makes the difference: feedback in the moment lands differently than a report after the fact.
 
+---
+
 ### Notion AI
 
 **What is it?**
 Notion is an "all-in-one workspace": an app that combines notes, documents, databases, and project management. Notion AI adds artificial intelligence to that: summarizing, writing, asking questions of your documents.
 
 **How I use it:**
-Notion is my work environment: a lot of my context already lives there. Now with powerful AI models (Claude Opus 4.5, Gemini 3 Pro) that can work with all that context.
+Notion is my work environment: a lot of my context already lives there. Now with capable AI models (Claude Opus 4.5, Gemini 3 Pro) that can work with all that context.
 
 **What it does:**
 - Integrated meetings tool with live transcription (digital and in-person)
@@ -164,7 +164,7 @@ Notion is my work environment: a lot of my context already lives there. Now with
 - Everything in one place: recordings, transcripts, notes, documents
 
 **Why it's interesting:**
-Notion AI is something to keep an eye on. It's becoming increasingly powerful, precisely because so much context already lives there.
+Notion AI is something to keep an eye on. It keeps getting better, precisely because so much context already lives there.
 
 ### NotebookLM
 
@@ -220,6 +220,4 @@ Make a conscious choice per conversation:
 
 *For a deeper dive into privacy choices per tool, read [Safe practices with AI](safe-practices.md).*
 
----
-
-> "The tool matters less than what you do with it. Start with what works for your situation."
+*"The tool matters less than what you do with it. Start with what works for your situation."*

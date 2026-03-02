@@ -2,8 +2,6 @@
 
 > *Privacy, boundaries, and responsible use.*
 
-> 🚧 **Work in progress:** This page is still being refined. Content may change.
-
 ---
 
 ## The basic principles
@@ -54,7 +52,7 @@ With every prompt for sensitive conversations, use these safeguards:
 
 ### Strictly based on transcript
 
-```
+```prompt
 Base yourself strictly on what's written, no fabrications.
 ```
 
@@ -62,16 +60,15 @@ This prevents AI from adding information that isn't there.
 
 ### When in doubt, flag it
 
-```
-When in doubt: phrase as "possibly" or "it seems like"
-rather than definitive statements.
+```prompt
+When in doubt: phrase as "possibly" or "it seems like" rather than definitive statements.
 ```
 
 This prevents AI from simulating certainty that doesn't exist.
 
 ### Preserve language
 
-```
+```prompt
 Use the exact words and phrasings of participants.
 No paraphrasing into professional language.
 ```
@@ -80,9 +77,8 @@ This prevents ownership from disappearing through translation.
 
 ### Mark AI output
 
-```
-Make an explicit distinction between what participants said
-and what AI observes.
+```prompt
+Make an explicit distinction between what participants said and what AI observes.
 ```
 
 This prevents AI interpretations from being confused with what was actually said.
@@ -118,7 +114,7 @@ This prevents AI interpretations from being confused with what was actually said
 | Tool               | Type                | Privacy level                                   |
 | ------------------ | ------------------- | ----------------------------------------------- |
 | **MacWhisper**     | Local transcription | High: everything stays on your device           |
-| **Dembrane**       | Cloud + real-time   | Medium: check their privacy policy              |
+| **Dembrane**       | Cloud + real-time   | High-medium: built for facilitation, privacy-focused, European servers |
 | **Notion.ai**      | Cloud transcription | Lower: data on external servers                 |
 | **ChatGPT/Claude** | Cloud AI            | Lower: data may be used for training*           |
 | **Local LLMs**     | Local AI            | High: everything stays local                    |
@@ -165,7 +161,7 @@ AI generates, you decide. The output is a suggestion, not a conclusion.
 
 ## The limits of AI
 
-AI is powerful but has limits that are relevant for safe practices:
+AI is capable but has limits that are relevant for safe practices:
 
 **AI can sound confident but be wrong:**
 A confident tone is no guarantee of truth. Verify everything that matters.
@@ -187,7 +183,7 @@ You know the people, you're in relationship with them, you're the one looking th
 Know where your data goes. Ask permission. Anonymize where needed. Use safeguards in your prompts. Mark AI output as AI. Stay responsible.
 
 **The attitude:**
-AI as a powerful tool, not as an authority. People remain ultimately responsible.
+AI as a capable tool, not as an authority. People remain ultimately responsible.
 
 **The check:**
 When in doubt, ask yourself: "Would I be comfortable if the people in this conversation knew exactly what I'm doing with this?"

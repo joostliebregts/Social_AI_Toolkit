@@ -3,7 +3,7 @@
 > *Generate live output that participants can assess on the spot.*
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
-**Builds on:** [Source document style cloning](../phase-1/source-document-style.md)
+**Builds on:** [Source document style cloning](../phase-1/source-document-style.md), now as live documentation during sessions
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## The story: 1 day to 1 minute
 
-We applied this principle for the transformation plan of the mental healthcare network in Centraal Gelderland. It worked, which is why we then also applied it in Amsterdam.
+We applied this principle for the transformation plan of the mental healthcare (GGZ, the Dutch mental health system) network in Centraal Gelderland. It worked, which is why we then also applied it in Amsterdam.
 
 An example from Gelderland. Thirty participants give input for a transformation plan for the mental healthcare network. The old process:
 
@@ -100,7 +100,7 @@ G1 feedback on v1   ──► prompt ──► draft v2 (revised)
                                         ↓ show to next group
 G2 feedback on v2   ──► prompt ──► draft v3 (revised)
                                         ↓ show to next group
-G3 feedback on v3   ──► prompt ──► draft v4 ✓ (final)
+G3 feedback on v3   ──► prompt ──► draft v4 (final)
 ```
 
 Same prompt every time. More input each time. The document grows along.
@@ -108,138 +108,143 @@ Same prompt every time. More input each time. The document grows along.
 **View the full prompt (this is very long)**
 
 ```prompt
-**Rol:** Je bent een analytisch redacteur en strategisch ontwikkelaar. Je destilleert eerst de kerninzichten uit de aangeleverde discussie(s). Vervolgens synthetiseer je deze volledig tot een uitgebreid, gedetailleerd, toekomstgericht, en transparant concept (of herzien concept) deelplan voor het Mentaal Gezondheidsnetwerk [regio], waarbij de geïdentificeerde kernwaarden als een rode draad door de tekst zijn verweven.
+**Role:** You are an analytical editor and strategic developer. You
+first distill the core insights from the provided discussion(s). Then
+you fully synthesize these into a comprehensive, detailed,
+future-oriented, and transparent draft (or revised draft) sub-plan for
+the Mental Health Network [region], with the identified core values
+woven throughout the text as a common thread.
 
 **Context:**
-- **Thema:** Het centrale thema van dit deelplan, te identificeren uit de input.
-- **Input - Basisdiscussie(s):** Eén of meerdere transcript(en) van de initiële werksessie(s) over het thema. (Let op: transcripten kunnen in het Engels zijn).
-- **Input - Feedback (Optioneel):** Eén of meerdere transcript(en) van feedbacksessie(s) op een eerdere versie van dit deelplan. (Let op: transcripten kunnen in het Engels zijn).
+- **Theme:** The central theme of this sub-plan, to be identified from the input.
+- **Input - Base discussion(s):** One or more transcript(s) of the initial working session(s) on the theme. (Note: transcripts may be in another language).
+- **Input - Feedback (Optional):** One or more transcript(s) of feedback session(s) on a previous version of this sub-plan. (Note: transcripts may be in another language).
 
-**Doel Output (Tweeledig, Deel 1 is conditioneel):**
-1. **Deel 1 — Echo van de Basisdiscussie(s):** Een beknopte, primair verhalende weergave van de kerninzichten uit de basisdiscussie(s). (Als er meerdere basis-transcripten zijn, maak een echo per transcript; als er één is, een algemene echo van die sessie). Alleen genereren als er geen Feedback Transcript is, of als expliciet gevraagd.
-2. **Deel 2 — Concept (of Herzien Concept) Deelplan:** Een volledig en rijk uitgewerkt deelplan. Het reflecteert de "kleur van [regio]", onderliggende waarden, en nuances. Dient als lerend middel, benadrukt samenwerking, bouwt voort op bestaande kennis, en bevat transparantie-elementen. Kernwaarden zijn consistent doorgevoerd en waar mogelijk verbonden.
+**Target Output (Two-part, Part 1 is conditional):**
+1. **Part 1 - Echo of the Base Discussion(s):** A concise, primarily narrative account of the core insights from the base discussion(s). (If there are multiple base transcripts, create an echo per transcript; if there is one, a general echo of that session). Only generate if there is no Feedback Transcript, or if explicitly requested.
+2. **Part 2 - Draft (or Revised Draft) Sub-plan:** A complete and richly developed sub-plan. It reflects the "character of [region]", underlying values, and nuances. Serves as a learning tool, emphasizes collaboration, builds on existing knowledge, and contains transparency elements. Core values are consistently applied and connected where possible.
 
-**Vereiste Stijl/Aanpak (voor Deel 2):**
-- **Belangrijke Taalinstructie:** De input transcripten kunnen (onbedoeld) in het Engels zijn. Alle gegenereerde output moet zonder uitzondering in correct, vloeiend, en professioneel Nederlands zijn.
-- **Taal:** Formeel, zakelijk Nederlands.
-- **Toon:** Collaboratief, toekomstgericht, reflectief, actiegericht, pragmatisch, oplossingsgericht, en open. Weerspiegelt [regio]se context, centrale waarden, en lerend karakter. Vloeiend, gedetailleerd en overtuigend verhaal, met aandacht voor herkenbaarheid van de input.
-- **Perspectief:** Vanuit samenwerkende partijen (inwoner, naaste, professional).
-- **Terminologie:** Correct jargon (IZA, GALA, MGN, etc.) indien expliciet genoemd.
-- **Cruciale Randvoorwaarde:** Baseer output strikt op expliciete informatie in transcripten. Niet aanvullen, interpreteren of verzinnen.
+**Required Style/Approach (for Part 2):**
+- **Important Language Instruction:** The input transcripts may (unintentionally) be in another language. All generated output must without exception be in correct, fluent, and professional language matching the organization's standards.
+- **Language:** Formal, professional.
+- **Tone:** Collaborative, future-oriented, reflective, action-oriented, pragmatic, solution-oriented, and open. Reflects [region]'s context, central values, and learning character. Fluent, detailed and convincing narrative, with attention to recognizability of the input.
+- **Perspective:** From collaborating parties (resident, relative, professional).
+- **Terminology:** Correct jargon (as used in the sector) if explicitly mentioned.
+- **Critical Constraint:** Base output strictly on explicit information in transcripts. Do not supplement, interpret, or fabricate.
 
-**Instructies:**
+**Instructions:**
 
-DEEL 1: ECHO VAN DE BASISDISCUSSIE(S)
-(Alleen genereren als er geen Feedback Transcript is, of als expliciet gevraagd)
+PART 1: ECHO OF THE BASE DISCUSSION(S)
+(Only generate if there is no Feedback Transcript, or if explicitly requested)
 
-1. Analyseer Input voor Deel 1: Bepaal het aantal meegegeven Basisdiscussie-transcripten.
-2. Genereer Echo('s):
-   - Indien MEERDERE transcripten: Analyseer elk afzonderlijk. Formuleer per transcript een korte, verhalende paragraaf (circa 3-5 zinnen) die kerninzichten/ideeën/teneur samenvat. Presenteer onder respectievelijke kopjes.
-   - Indien ÉÉN transcript: Formuleer één korte, verhalende paragraaf (circa 3-5 zinnen) die de kerninzichten van de gehele sessie samenvat.
+1. Analyze Input for Part 1: Determine the number of provided Base Discussion transcripts.
+2. Generate Echo(s):
+   - If MULTIPLE transcripts: Analyze each separately. Formulate per transcript a short, narrative paragraph (approximately 3-5 sentences) summarizing core insights/ideas/tenor. Present under respective headings.
+   - If ONE transcript: Formulate one short, narrative paragraph (approximately 3-5 sentences) summarizing the core insights of the entire session.
 
-DEEL 2: CONCEPT (OF HERZIEN CONCEPT) DEELPLAN
+PART 2: DRAFT (OR REVISED DRAFT) SUB-PLAN
 
-3. Identificeer Hoofdthema: Analyseer de Basisdiscussie(s) en bepaal het centrale thema. Gebruik thema consistent.
-4. Analyseer Input Type: Controleer of er naast de Basisdiscussie(s) ook Feedback-transcript(en) zijn meegegeven.
-5. Verwerkingsstrategie:
-   - ALS ALLEEN BASISDISCUSSIE(S): Ga direct naar stap 6. Genereer een zo rijk en compleet mogelijk eerste concept.
-   - ALS OOK FEEDBACK-TRANSCRIPT(EN):
-     a. Analyseer de feedbackpunten (kritiek, suggesties, verduidelijkingen, nieuwe inzichten).
-     b. Genereer een HERZIENE versie. Combineer inzichten uit de Basisdiscussie(s) met grondige verwerking van feedback. Verwijs in de tekst expliciet naar hoe feedback is verwerkt (bijv. 'Naar aanleiding van de feedback is X nu als volgt geformuleerd').
-6. Extraheer Kerninformatie: Identificeer kernwaarden; zoek naar inleiding, hoofddoelstelling, huidige status, interventie, doelgroep, effecten, betrokken partners, en input voor transparantie.
-7. Synthetiseer Conflicten: Bij tegenstrijdige ideeën, probeer synthese via onderliggende waarden. Anders, benoem als discussiepunt.
-8. Structureer Deelplan:
-   - **Totstandkoming van dit Concept:** Beschrijf de totstandkoming. Bij eerste concept: gesynthetiseerd uit basisdiscussie(s). Bij herziene versie: feedback verwerkt, noem de bronnen.
-   - **Inleiding ("Waarom een [Thema] in [regio]?"):** Uitgebreide, contextrijke inleiding. Schets problematiek, relevantie binnen IZA, noodzaak integrale aanpak.
-   - **Hoofddoelstelling:** De centrale doelstelling. Verwijs naar kernwaarden.
-   - **Kernwaarden:** Som op, met korte toelichtende zin per waarde.
-   - **Reflectie op Leidende Principes:** Korte reflectieparagraaf (2-3 zinnen) hoe kernwaarden sturend waren.
-   - **Huidige Status ("Waar staan we nu?"):** Uitgebreide beschrijving huidige situatie, knelpunten, positieve initiatieven.
-   - **Uitwerking [Thema]:** Inleidende zin, gevolgd door:
-     - Interventie ("Hoe gaan we het doen?"): Uitgebreid en concreet, met acties en elementen.
-     - Doelgroep ("Voor wie?"): Indien besproken.
-     - Beoogde Effecten ("Wat levert het op?"): KPI's indien genoemd, per effect een toelichting.
-     - Betrokken Partners ("Wie?"): Cruciale partners, hoe samenwerking kernwaarden ondersteunt.
-   - **(Optioneel) Lerend Vermogen:** Bijdrage aan lerend systeem.
-9. Algemene Kwaliteit: Logische flow, coherentie. Tekst moet [regio]se nuances, urgentie, gedeelde visie en lerend karakter ademen. Kernwaarden als rode draad.
-10. Volledige Output: Genereer Deel 1 (indien van toepassing) en Deel 2 in één keer. Werk alle secties uit.
-11. Afsluitende Secties:
-   - **Verantwoording van Verwerking Feedback** (ALLEEN bij herziene versie): Hoe feedback heeft geleid tot specifieke wijzigingen.
-   - **Opmerkingen, Ontbrekende Informatie, en Overwogen Alternatieven:** Inclusief 'Overwogen Alternatieven en Mogelijke Blinde Vlekken' (1-2 alternatieven, 1-2 blinde vlekken).
-   - **Een Levend Document:** Uitnodiging tot feedback, belang gedeeld eigenaarschap.
+3. Identify Main Theme: Analyze the Base Discussion(s) and determine the central theme. Use the theme consistently.
+4. Analyze Input Type: Check whether Feedback transcript(s) have been provided alongside the Base Discussion(s).
+5. Processing Strategy:
+   - IF ONLY BASE DISCUSSION(S): Go directly to step 6. Generate a first draft that is as rich and complete as possible.
+   - IF ALSO FEEDBACK TRANSCRIPT(S):
+     a. Analyze the feedback points (criticism, suggestions, clarifications, new insights).
+     b. Generate a REVISED version. Combine insights from the Base Discussion(s) with thorough processing of feedback. Refer explicitly in the text to how feedback has been processed (e.g., 'Based on the feedback, X has been reformulated as follows').
+6. Extract Core Information: Identify core values; look for introduction, main objective, current status, intervention, target group, effects, involved partners, and input for transparency.
+7. Synthesize Conflicts: For contradictory ideas, try synthesis through underlying values. Otherwise, identify as a discussion point.
+8. Structure Sub-plan:
+   - **Creation of this Draft:** Describe the creation process. For first draft: synthesized from base discussion(s). For revised version: feedback processed, name the sources.
+   - **Introduction ("Why a [Theme] in [region]?"):** Comprehensive, context-rich introduction. Sketch the problem, relevance, necessity of an integrated approach.
+   - **Main Objective:** The central objective. Refer to core values.
+   - **Core Values:** List them, with a brief explanatory sentence per value.
+   - **Reflection on Guiding Principles:** Short reflection paragraph (2-3 sentences) on how core values were guiding.
+   - **Current Status ("Where do we stand?"):** Comprehensive description of current situation, bottlenecks, positive initiatives.
+   - **Development [Theme]:** Introductory sentence, followed by:
+     - Intervention ("How are we going to do it?"): Comprehensive and concrete, with actions and elements.
+     - Target Group ("For whom?"): If discussed.
+     - Intended Effects ("What does it deliver?"): KPIs if mentioned, with explanation per effect.
+     - Involved Partners ("Who?"): Crucial partners, how collaboration supports core values.
+   - **(Optional) Learning Capacity:** Contribution to a learning system.
+9. General Quality: Logical flow, coherence. Text should breathe [region]'s nuances, urgency, shared vision and learning character. Core values as common thread.
+10. Complete Output: Generate Part 1 (if applicable) and Part 2 in one go. Develop all sections fully.
+11. Closing Sections:
+   - **Accountability of Feedback Processing** (ONLY for revised version): How feedback led to specific changes.
+   - **Notes, Missing Information, and Considered Alternatives:** Including 'Considered Alternatives and Possible Blind Spots' (1-2 alternatives, 1-2 blind spots).
+   - **A Living Document:** Invitation to feedback, importance of shared ownership.
 
 **Input:**
-- Basisdiscussie(s): [transcript(en)] (mogelijk in het Engels)
-- Feedback (optioneel): [transcript(en)] (mogelijk in het Engels)
+- Base discussion(s): [transcript(s)]
+- Feedback (optional): [transcript(s)]
 
 **Output Format:**
 
-### Herziene Concept Deelplan [regio]: [Het Geïdentificeerde Thema] (Draft 2.0)
+### Revised Draft Sub-plan [region]: [The Identified Theme] (Draft 2.0)
 
-#### Totstandkoming van dit Concept
-(Bijgewerkte tekst die reflecteert dat dit een herziene versie is na feedback, etc.)
+#### Creation of this Draft
+(Updated text reflecting that this is a revised version after feedback, etc.)
 
-#### Inleiding ("Waarom [Het Geïdentificeerde Thema] in [regio]?")
-(Herziene tekst)
+#### Introduction ("Why [The Identified Theme] in [region]?")
+(Revised text)
 
-#### Hoofddoelstelling voor [Het Geïdentificeerde Thema]
-(Herziene tekst)
+#### Main Objective for [The Identified Theme]
+(Revised text)
 
-#### Kernwaarden voor [Het Geïdentificeerde Thema]
-(Herziene tekst, indien van toepassing)
-- [Kernwaarde 1]: [Herziene toelichting]
+#### Core Values for [The Identified Theme]
+(Revised text, if applicable)
+- [Core Value 1]: [Revised explanation]
 (etc.)
 
-#### Reflectie op Leidende Principes
-(Herziene tekst, indien van toepassing)
+#### Reflection on Guiding Principles
+(Revised text, if applicable)
 
-#### Huidige Status in [regio] ("Wat is de huidige situatie m.b.t. [Het Geïdentificeerde Thema]?")
-(Herziene tekst)
+#### Current Status in [region] ("What is the current situation regarding [The Identified Theme]?")
+(Revised text)
 
-#### Uitwerking [Het Geïdentificeerde Thema]
-(Herziene inleidende zin)
+#### Development [The Identified Theme]
+(Revised introductory sentence)
 
-Interventie ("Hoe gaan we het aanpakken?")
-(Herziene tekst)
+Intervention ("How are we going to approach it?")
+(Revised text)
 
-Doelgroep ("Voor wie is [Het Geïdentificeerde Thema] bedoeld?")
-(Herziene tekst)
+Target Group ("For whom is [The Identified Theme] intended?")
+(Revised text)
 
-Beoogde Effecten ("Wat levert het op?")
-(Herziene tekst)
+Intended Effects ("What does it deliver?")
+(Revised text)
 
-Betrokken Partners ("Wie doet mee?")
-(Herziene tekst)
+Involved Partners ("Who participates?")
+(Revised text)
 
-(Optioneel) Lerend Vermogen ("Hoe leren we en verbeteren we?")
-(Herziene tekst)
-
----
-
-#### Opmerkingen, Ontbrekende Informatie, en Overwogen Alternatieven
-(Herziene tekst)
-
-Overwogen Alternatieven en Mogelijke Blinde Vlekken
-(Herziene tekst)
-
-#### Een Levend Document
-(Herziene tekst, die mogelijk reflecteert op deze nieuwe iteratie)
+(Optional) Learning Capacity ("How do we learn and improve?")
+(Revised text)
 
 ---
 
-### Verwerking van Feedback (Wijzigingen t.o.v. Vorige Concept)
-- Op basis van feedback over [onderwerp A] is [wijziging X] doorgevoerd in sectie [Y] omdat [reden].
-- De suggestie om [onderwerp B] toe te voegen is verwerkt in [sectie Z].
-- De zorg over [onderwerp C] is geadresseerd door [wijziging W].
+#### Notes, Missing Information, and Considered Alternatives
+(Revised text)
+
+Considered Alternatives and Possible Blind Spots
+(Revised text)
+
+#### A Living Document
+(Revised text, possibly reflecting on this new iteration)
+
+---
+
+### Processing of Feedback (Changes compared to Previous Draft)
+- Based on feedback about [topic A], [change X] was implemented in section [Y] because [reason].
+- The suggestion to add [topic B] has been processed in [section Z].
+- The concern about [topic C] has been addressed through [change W].
 (3-5 bullet points)
 ```
 
 **Why this structure works:**
-- **Strict basis** "Base output strictly on explicit information" prevents AI from making things up. You get honest output with clear gaps that you can fill in.
-- **Transparent feedback** "Refer explicitly to how feedback was processed" creates transparency about what was done with the input. People see that their contribution matters.
-- **Core values as thread** gives the document coherence from the values the group itself identified.
-- **Two-part structure** (echo + sub-plan) means first showing what AI heard, then the document. That sequence gives the group grip: first recognition, then structure.
-- **Style in the prompt** The prompt contains style guidelines so AI doesn't write generically, but in the language and structure the organization expects. (See [Source document style cloning](../phase-1/source-document-style.md) for how to define that style.)
+- **"Base output strictly on explicit information"** prevents AI from making things up. You get honest output with clear gaps that you can fill in.
+- **"Refer explicitly to how feedback was processed"** transparency about what was done with the input. People see that their contribution matters.
+- **"Core values as common thread"** the document gets coherence from the values the group itself identified.
+- **The two-part structure (echo + sub-plan)** first showing what AI heard, then the document. That sequence gives the group grip: first recognition, then structure.
+- **Style in the prompt.** The prompt contains style guidelines so AI doesn't write generically, but in the language and structure the organization expects. (See [Source document style cloning](../phase-1/source-document-style.md) for how to define that style.)
 
 **Adapting this prompt for your context.** The themes, terminology, and document structure above are specific to the mental healthcare network. You can adapt the prompt by:
 - Changing the **Role** to your document type (project plan, policy brief, strategic framework)
@@ -255,17 +260,11 @@ A quick approach: give AI this prompt together with an example of an existing do
 
 This requires two people:
 
-**Facilitator:**
-- Stays with the group
-- Leads the discussion
-- Shows AI output to the group
-- Guides validation
-
-**Co-facilitator:**
-- Monitors transcription
-- Selects segments
-- Launches prompts
-- Does quick iterations
+| | Facilitator | Co-facilitator |
+|---|------------|----------------|
+| **Before the session** | Session design, prepare questions | Set up technology, arrange recording |
+| **During** | Lead conversation, show AI output, guide validation | Monitor transcription, select segments, launch prompts |
+| **After** | Review output with group | Processing and consolidation |
 
 Never: facilitator behind a laptop while the group waits.
 

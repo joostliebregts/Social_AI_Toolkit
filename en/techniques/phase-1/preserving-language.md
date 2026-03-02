@@ -5,7 +5,7 @@
 > *The difference between "communication issues" and "you're talking to a wall" isn't semantic — the first undermines ownership, the second creates it.*
 
 **Phase:** [Phase 1: Start](../../phase-1-start.md)
-**Builds on:** [Source document style cloning](source-document-style.md)
+**Builds on:** [Transcription as foundation](transcription.md), with a focus on preserving original language
 
 ---
 
@@ -47,7 +47,7 @@ Nobody would have had the same reaction to a synthesis that had translated their
 
 ---
 
-![Mechanism: verbatim quoting](../../images/taal-behouden-mechanisme-letterlijk.png)
+![Recognition creates ownership](../../images/taal-behouden-mechanisme-letterlijk.png)
 
 ## The mechanism: recognition creates ownership
 
@@ -105,53 +105,53 @@ By making language preservation explicit in the prompt. Not as a side note, but 
 This is a prompt we used for a leadership workshop in a small municipality. Notice how the constraints for language preservation are specific and concrete:
 
 ```prompt
-**Rol**: Je bent een strategisch redacteur met expertise in visievorming
-die individuele toekomstbeelden omzet in één krachtige, gezamenlijk
-gedragen visie.
+**Role**: You are a strategic editor with expertise in vision development
+who transforms individual future visions into one strong, collectively
+supported vision.
 
-**Vereiste Stijl/Aanpak**:
-- Gebruik hun eigen woorden en terminologie uit de gesprekken
-- Behoud de kracht van hun individuele visies
-- Maak het specifiek voor deze gemeente, niet generiek
-- Schrijf in de toekomstige tegenwoordige tijd (2040 als realiteit)
+**Required Style/Approach**:
+- Use their own words and terminology from the conversations
+- Preserve the strength of their individual visions
+- Make it specific to this municipality, not generic
+- Write in future present tense (2040 as reality)
 
-**Cruciale Randvoorwaarden**:
-- Baseer output strikt op transcript(en) - geen verzinsels
-- Benoem openstaande punten en onzekerheden expliciet
-- Gebruik quotes uit gesprekken zonder speaker attributie
-- Gebruik hun eigen kernterminologie - niet automatisch "samenredzaamheid"
-- Vermijd abstracte bestuurstaal - houd het menselijk
+**Critical Constraints**:
+- Base output strictly on transcript(s) - no fabrications
+- Name open points and uncertainties explicitly
+- Use quotes from conversations without speaker attribution
+- Use their own core terminology - don't automatically default to jargon
+- Avoid abstract governance language - keep it human
 
-**Instructies**:
-1. Analyseer elke individuele "stip op de horizon" die genoemd is
-2. Identificeer hun eigen kernterminologie - gebruik NIET "samenredzaamheid"
-   tenzij zij dat zeggen
-3. Identificeer gemeenschappelijke waardes en kernprincipes
-4. Zoek de specifieke lokale elementen die terugkomen
-5. ALS er tegenstrijdigheden zijn DAN benoem deze expliciet als "nog af te stemmen"
-6. Sluit af met waarom dit belangrijk is in hun eigen woorden
+**Instructions**:
+1. Analyze each individual "dot on the horizon" that was mentioned
+2. Identify their own core terminology - do NOT use generic policy terms
+   unless they themselves use them
+3. Identify shared values and core principles
+4. Look for the specific local elements that recur
+5. IF there are contradictions THEN name these explicitly as "still to be aligned"
+6. Close with why this matters in their own words
 
 **Output Format**:
-### Hun Waarom (in eigen woorden)
-> "Quote waarom dit belangrijk is"
-> "Quote over kernwaarde"
+### Their Why (in their own words)
+> "Quote about why this matters"
+> "Quote about core value"
 
-*Uit de gesprekken komt naar voren dat...*
+*From the conversations it emerges that...*
 
-### Nog Af Te Stemmen
-- [Punten waar verschillende visies nog samenkomen]
+### Still to be Aligned
+- [Points where different visions still need to converge]
 
-### Over Deze Visie
-Deze visie is opgesteld door AI op basis van jullie gesprek. Het is een
-hulpmiddel om jullie eigen toekomstbeelden te structureren - niet perfect,
-maar een startpunt voor verder gesprek. Dit blijft jullie verhaal - de AI
-helpt alleen bij het bundelen en verbinden van jullie ideeën.
+### About This Vision
+This vision was composed by AI based on your conversation. It's a
+tool to structure your own future visions - not perfect,
+but a starting point for further conversation. This remains your story - AI
+only helps with bundling and connecting your ideas.
 ```
 
 **Why this structure works:**
 - **Role** gives AI an identity that fits the task: "strategic editor with expertise in vision development" steers toward synthesis, not summary
 - **Required Style/Approach** defines the tone: "their own words" and "specific to this municipality" prevents generic output
-- **Critical Constraints** are the hard boundaries: "no fabrications", "don't automatically use 'self-reliance'" prevents AI from filling in the blanks
+- **Critical Constraints** are the hard boundaries: "no fabrications", "don't automatically default to jargon" prevents AI from filling in the blanks
 - **Instructions** are the steps: the sequence (first analyze, then identify, then synthesize) steers the thought process
 - **Output Format** determines the form: "Their Why" with quotes enforces verbatim citation
 
@@ -163,7 +163,7 @@ The basic approach above works for many situations. But the context varies: some
 
 ### Variation 1: Community analysis with "hooks"
 
-On the transcription page you saw the [full prompt for the smartphone-free parent evening](transcription.md#1-vastleggen-wat-je-niet-kon-horen). Here I highlight two constraints that enforce language preservation:
+On the transcription page you saw the [full prompt for the smartphone-free parent evening](transcription.md#1-capturing-what-you-couldnt-hear). Here I highlight two constraints that enforce language preservation:
 
 ```prompt
 **Language:** Use participants' *verbatim words* wherever possible for maximum recognizability.
@@ -174,9 +174,9 @@ On the transcription page you saw the [full prompt for the smartphone-free paren
 ```
 
 **Why this structure works:**
-- **Verbatim words** is more explicit than "use their language": it prevents AI from paraphrasing
-- **No scripts** protects the facilitator's authenticity: AI delivers building blocks, not ready-made text
-- **Maximum recognizability** names the goal, not just the method
+- **"Verbatim words"** is more explicit than "use their language": it prevents AI from paraphrasing
+- **"No scripts"** protects the facilitator's authenticity: AI delivers building blocks, not ready-made text
+- **"Maximum recognizability"** names the goal, not just the method
 
 **When:** With groups where you want to facilitate connection, not just capture information.
 
@@ -190,64 +190,64 @@ This is the analysis approach we used at a session with key figures in Doesburg,
 
 **Prompt:**
 ```prompt
-**Context**: Je analyseert het transcript van [één tafel/sessie/breakout]
-over [onderwerp]. De sessie had [aantal] rondes: [ronde-namen].
+**Context**: You are analyzing the transcript of [one table/session/breakout]
+about [topic]. The session had [number] rounds: [round names].
 
-**Opdracht**: Analyseer per ronde en identificeer:
+**Assignment**: Analyze per round and identify:
 
-### 1. Thema's met quotes
-Per ronde: welke thema's kwamen terug?
-- Met quotes die het thema dragen — in hun woorden, niet geparafraseerd
-- Frequentie aangeven waar relevant
+### 1. Themes with quotes
+Per round: which themes recurred?
+- With quotes that carry the theme - in their words, not paraphrased
+- Indicate frequency where relevant
 
-### 2. Eigenaarschaps-signalen
-Herken taalpatronen die aangeven hoeveel eigenaarschap mensen voelen:
+### 2. Ownership signals
+Recognize language patterns that indicate how much ownership people feel:
 
-**Hoge eigenaarschap (0.7-1.0):**
-- "Ik ga daar iets aan doen"
-- "Wij moeten dit anders aanpakken"
-- "Dat ga ik volgende week proberen"
+**High ownership (0.7-1.0):**
+- "I'm going to do something about that"
+- "We need to approach this differently"
+- "I'm going to try that next week"
 
-**Gemengde eigenaarschap (0.4-0.6):**
-- "Het zou moeten maar..."
-- "Als er budget was dan..."
-- "Ik probeer wel, maar het systeem..."
+**Mixed ownership (0.4-0.6):**
+- "It should be done but..."
+- "If there were budget then..."
+- "I try, but the system..."
 
-**Lage eigenaarschap (0.0-0.3):**
-- "Daar kan ik niks aan doen"
-- "Zij moeten dat oplossen"
-- "Het is zoals het is"
+**Low ownership (0.0-0.3):**
+- "There's nothing I can do about that"
+- "They need to fix that"
+- "It is what it is"
 
-→ Zoek specifiek naar concrete initiatieven en aanbiedingen.
+> Specifically look for concrete initiatives and offers.
 
-### 3. Spanningen en paradoxen
-- Waar spraken mensen zichzelf of elkaar tegen?
-- Uitdagingen zonder "eigen mogelijkheid" ertegenover?
-- Formuleer als vragen, niet als conclusies
+### 3. Tensions and paradoxes
+- Where did people contradict themselves or each other?
+- Challenges without an "own possibility" to counter them?
+- Formulate as questions, not conclusions
 
 ### 4. Outliers
-Dingen die met passie genoemd werden maar niet in een thema passen.
-Niet clusteren — behoud als losse parels met context.
+Things that were mentioned with passion but don't fit a theme.
+Don't cluster - preserve as loose pearls with context.
 
-**Cruciale Randvoorwaarden**:
-- Taal: Nederlands
-- Herkenbare taal van deelnemers — geen consultant-speak
-- Patronen benoemen, geen conclusies opdringen
-- AI-observaties altijd expliciet labelen
+**Critical Constraints**:
+- Language: English
+- Recognizable participant language - no consultant-speak
+- Name patterns, don't impose conclusions
+- Always explicitly label AI observations
 
 **Don'ts**:
-- Geen namen extern delen
-- Interpretaties niet als feiten presenteren
-- Niet "problematiseren" — de groep bepaalt wat problemen zijn
-- Frustraties niet wegpoetsen of "constructief herformuleren"
-- Niet parafraseren waar originele woorden krachtiger zijn
+- Don't share names externally
+- Don't present interpretations as facts
+- Don't "problematize" - the group determines what the problems are
+- Don't polish away frustrations or "constructively reframe" them
+- Don't paraphrase where original words are more powerful
 
 **Output Format**:
-### [Ronde]: [Naam]
-**Thema's**: [thema + quotes]
-**Eigenaarschap**: [score-range + voorbeelden uit transcript]
-**Spanningen**: [als vragen geformuleerd]
-**Outliers**: [losse parels met context]
+### [Round]: [Name]
+**Themes**: [theme + quotes]
+**Ownership**: [score range + examples from transcript]
+**Tensions**: [formulated as questions]
+**Outliers**: [loose pearls with context]
 ```
 
 **Why this structure works:**
@@ -256,7 +256,7 @@ Niet clusteren — behoud als losse parels met context.
 - **"Loose pearls"** protects outliers against the urge to cluster everything
 - **Don'ts** are explicit because AI tends to smooth over frustrations
 
-*Want to compare multiple sessions? Analyze each session separately with this prompt first, lay the analyses side by side, and look for patterns. You'll find that step in Patterns over time *(Phase 3, coming soon)* (Phase 3).*
+*Want to compare multiple sessions? Analyze each session separately with this prompt first, lay the analyses side by side, and look for patterns. You'll find that step in [Patterns over time](../phase-3/patterns-over-time.md) (Phase 3).*
 
 ---
 
@@ -278,45 +278,61 @@ This is language preservation in action. Not "some think X, others think Y" — 
 
 **The prompt:**
 ```prompt
-**Rol**: Je bent een ervaren groepsdynamiek-expert die signalen van
-vermeden onderwerpen, onuitgesproken spanningen en verschillende
-perspectieven detecteert in dialogen.
+**Role**: You are an experienced group dynamics expert who detects signals of
+avoided topics, unspoken tensions, and different
+perspectives in dialogues.
 
-**Vereiste Stijl/Aanpak**:
-- Niet-oordelend en uitnodigend
-- Focus op wat ontbreekt, niet op wat fout is
-- Herken diplomatieke taal die onderliggende spanningen maskeert
+**Required Style/Approach**:
+- Non-judgmental and inviting
+- Focus on what's missing, not on what's wrong
+- Recognize diplomatic language that masks underlying tensions
 
-**Cruciale Randvoorwaarden**:
-- Baseer signalen strikt op transcript — geen veronderstellingen
-- Onderscheid tussen stilte en consensus
-- Bij twijfel: "Mogelijk onderbelicht" ipv stellige bewering
-- Genereer maximaal 2 echo-vragen voor facilitator
+**Critical Constraints**:
+- Base signals strictly on transcript - no assumptions
+- Distinguish between silence and consensus
+- When in doubt: "Possibly underexposed" rather than an assertive claim
+- Generate a maximum of 2 echo questions for the facilitator
 
 **Output Format**:
-### Wat Ik Waarneem
-**Mogelijk onderbelicht**: [Onderwerpen die opgeroepen maar niet
-uitgediept werden]
+### What I Observe
+**Possibly underexposed**: [Topics that were raised but not
+explored in depth]
 
-**Verschillende framingen**:
-- "Quote over hoe dit gezien wordt"
-- "Quote die anders nuanceert"
+**Different framings**:
+- "Quote about how this is seen"
+- "Quote that adds different nuance"
 
-### Echo-vraag voor de Groep
-**[Eén krachtige vraag die uitnodigt tot verdieping]**
+### Echo Question for the Group
+**[One powerful question that invites deeper exploration]**
 
-### Over Deze Echo
-Deze echo-analyse is een hulpmiddel om mogelijke blinde vlekken te
-belichten — niet om te oordelen, maar om uitnodigende vragen te stellen.
-De keuze om hier op in te gaan blijft bij jullie.
+### About This Echo
+This echo analysis is a tool to illuminate possible blind spots
+- not to judge, but to pose inviting questions.
+The choice to engage with this remains yours.
 ```
 
 **Why this structure works:**
-- **Different framings** with verbatim quotes ensures people recognize themselves
-- **Strict basis** "Base strictly on transcript" prevents AI from interpreting
-- **Hedged language** "When in doubt: possibly underexposed" protects against overly assertive claims about what people "actually" meant
+- **"Different framings"** with verbatim quotes ensures people recognize themselves
+- **"Base strictly on transcript"** prevents AI from interpreting
+- **"When in doubt: possibly underexposed"** protects against overly assertive claims about what people "actually" meant
 
 *For the full technique (when to deploy, how to prepare, the workflow) see [Live reflection with AI](../phase-2/live-reflection-with-ai.md).*
+
+---
+
+## Two layers, always labeled
+
+What I notice is that AI output really always consists of two layers, and the difference matters.
+
+**Layer 1: What participants said**
+> Verbatim quotes, their words, their framing. This is the ownership.
+
+**Layer 2: What AI observes (for inspiration)**
+> Patterns, connections, unexpected observations. Not from them — from the machine.
+
+It sounds simple, but without that separation something annoying happens: people no longer recognize themselves. They read a document and don't know which sentences are theirs and which AI came up with. That's exactly when the ownership this whole technique revolves around disappears.
+
+I think that's also why the transparency footer in the prompts is so important: "This document was composed with AI based on your conversation." It's not just a disclaimer. It's the agreement that people know what they're reading. That nothing was secretly added by AI without it being visible.
 
 ---
 

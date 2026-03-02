@@ -18,7 +18,7 @@ This is the phase of deepening: no longer recording what's there, but discoverin
 
 ---
 
-## Twelve rounds
+## The story: twelve rounds
 
 You may already know this story from [source document style cloning](techniques/phase-1/source-document-style.md). There it was about the technique: how you incorporate style characteristics into your prompt. Here it's about something else: the process itself. What does iteration with AI actually look like?
 
@@ -63,15 +63,15 @@ This is also a form of democratization: recognizing group dynamics and undercurr
 
 What I notice myself: I now see things I used to miss. It gives me more confidence to name patterns, because I have evidence. And perhaps most valuable: I learn to recognize new patterns, and ways to work with them next time.
 
-> *[Go deeper: Intuition in writing](techniques/phase-2/intuition-in-writing.md)*
+→ *[Go deeper: Intuition in writing](techniques/phase-2/intuition-in-writing.md)*
 
 #### Digging together for what's in there
 
 You've had a session. The conversation was valuable, but you know: there's more in it than what you could name right away. Not because you missed something, but because every rich conversation contains more than one person can process in one moment.
 
-AI can help by digging together: looking for structure, finding hooks for connection, identifying powerful quotes. The transcript is raw material: foundation for deepening. And the nice thing is: this doesn't have to be solo work. You can build a prompt together with AI: AI asks questions, you give direction, and the analysis becomes sharper and sharper.
+AI can help by digging together: looking for structure, finding hooks for connection, identifying striking quotes. The transcript is raw material: foundation for deepening. And the nice thing is: this doesn't have to be solo work. You can build a prompt together with AI: AI asks questions, you give direction, and the analysis becomes sharper and sharper.
 
-> *[Go deeper: What else was in there](techniques/phase-2/what-else-was-in-there.md)*
+→ *[Go deeper: What else was in there](techniques/phase-2/what-else-was-in-there.md)*
 
 *But how do you actually work together with AI to do this? That requires a crucial skill.*
 
@@ -87,7 +87,7 @@ The story of the twelve rounds above is an example of that. Every round brought 
 
 And if you ended up having to adjust a lot yourself? Then that's valuable information. Your adjustments show what was missing in your original prompt. Give your adjusted version back to AI with the question: "What should I have asked differently to get this result directly?" That way, every iteration becomes a lesson for next time.
 
-> *[Go deeper: Iteration](techniques/phase-2/iteration.md)*
+→ *[Go deeper: Iteration](techniques/phase-2/iteration.md)*
 
 *You've now seen how iteration works. But the best deepening actually starts earlier. How do you make sure there's something valuable in the transcript to begin with?*
 
@@ -99,13 +99,13 @@ Before you think about what AI does with the output, there's a more important qu
 
 The quality of AI output depends on the quality of human input. That starts with the questions you ask: in advance when designing your session, and in the moment when the group gets stuck. This is the human work that precedes every AI prompt.
 
-> *[Go deeper: Prompt the people first](techniques/phase-2/prompt-the-people-first.md)*
+→ *[Go deeper: Prompt the people first](techniques/phase-2/prompt-the-people-first.md)*
 
 A concrete sub-technique that comes from this: reframing questions. "What do you think about the collaboration?" yields abstract answers. "Can you describe a moment when the collaboration felt good?" yields concrete stories, and directs the energy toward what people want more of.
 
 This is a distinctly human skill: sensing on the spot that a different question is needed, and then asking it. AI can help you develop this skill, for example by asking afterwards: "The group got stuck on this question. What could I have asked differently?" That way you learn techniques you can apply next time.
 
-> *[Go deeper: Reframing questions](techniques/phase-2/reframing-questions.md)*
+→ *[Go deeper: Reframing questions](techniques/phase-2/reframing-questions.md)*
 
 *And when you do this well (the people well-prompted, the process well-designed) then something else becomes possible.*
 
@@ -119,17 +119,17 @@ In tools like Dembrane this is called the "echo button": one press, and AI reads
 
 This is where everything comes together: you've learned how to get depth from transcripts, how to iterate with AI, how to design the input. Now you can apply that while the conversation is still happening.
 
-> *[Go deeper: Live reflection with AI](techniques/phase-2/live-reflection-with-ai.md)*
+→ *[Go deeper: Live reflection with AI](techniques/phase-2/live-reflection-with-ai.md)*
 
 #### From conversation to live document
 
 One step beyond live reflection: what if you don't just give back a question, but generate an entire draft document while the session is still in progress?
 
-In strategic sessions or workshops where a plan needs to emerge, you can use AI to generate draft sections during the breaks. People see their words reflected back right away, structured in the format the organization needs. From a day's work to minutes — not for efficiency, but for ownership. Because the feedback loop shortens: what people said is still fresh, they recognize it immediately.
+In strategic sessions or workshops where a plan needs to emerge, you can use AI to generate draft sections during the breaks. People see their words reflected back right away, structured in the format the organization needs. From a day's work to minutes, not for efficiency, but for ownership. Because the feedback loop shortens: what people said is still fresh, they recognize it immediately.
 
 This does require a co-facilitator handling the tech, while you stay with the group. And it requires validation along the way: never present it as if AI has captured the truth.
 
-> *[Go deeper: From conversation to plan](techniques/phase-2/conversation-to-plan.md)*
+→ *[Go deeper: From conversation to plan](techniques/phase-2/conversation-to-plan.md)*
 
 ---
 
@@ -148,7 +148,7 @@ The difference between a live reflection that lands and one that falls flat isn'
 | Suggest input structures | Create the safety to share |
 | Reframe questions | Choose the right moment to ask |
 
-What stays most human? A feel for the room. Intuition. Timing. AI can generate the perfect question — but you need to sense when that question helps, and whether the group is ready for it.
+What stays most human? A feel for the room. Intuition. Timing. AI can generate the perfect question, but you need to sense when that question helps, and whether the group is ready for it.
 
 ---
 
@@ -164,10 +164,15 @@ Sometimes reading AI output verbatim is exactly right: a quote, a short reflecti
 When AI output isn't right, the reflex is to adjust it yourself. A sentence here, a word there. But then you miss the chance to collaborate, and to learn what you actually mean. Giving feedback takes some getting used to, but it yields better results.
 
 **Pushing through vs. accepting**
-Iterating is powerful, but perfection can paralyze. Sometimes 80% is good enough. After three rounds without improvement, it's time to choose: accept or try a different approach.
+Iterating is effective, but perfection can paralyze. Sometimes 80% is good enough. After three rounds without improvement, it's time to choose: accept or try a different approach.
 
 **Patterns vs. noise**
 AI always finds something. The question is: is it a real pattern or coincidental overlap? Your experience in the room is the test.
+
+**Introduction: experiment vs. normal part of the process**
+How you introduce AI determines how people engage with it. "Let's see what AI makes of this" invites curiosity. "We're going to do an experiment with AI" invites judgment.
+
+That carries through. At first, participants look with the question "is this correct?" instead of "do I recognize myself in this?" What I notice is that shift happens naturally, but you can speed it up. The first time: explicitly state that you're looking for recognition, not assessment.
 
 ---
 
@@ -176,13 +181,13 @@ AI always finds something. The question is: is it a real pattern or coincidental
 Want to get started right away? Choose the technique that best fits where you are now:
 
 **You've had a session and want to get more out of it**
-> [Intuition in writing](techniques/phase-2/intuition-in-writing.md): capture and discuss patterns you sensed
+→ [Intuition in writing](techniques/phase-2/intuition-in-writing.md) — capture and discuss patterns you sensed
 
 **You want to practice iterating collaboratively with AI**
-> [Iteration](techniques/phase-2/iteration.md): giving feedback in rounds instead of adjusting yourself
+→ [Iteration](techniques/phase-2/iteration.md) — giving feedback in rounds instead of adjusting yourself
 
 **You're preparing a session and want to get better input**
-> [Prompt the people first](techniques/phase-2/prompt-the-people-first.md): designing the questions that yield rich answers
+→ [Prompt the people first](techniques/phase-2/prompt-the-people-first.md) — designing the questions that yield rich answers
 
 ---
 
@@ -196,8 +201,8 @@ Want to get started right away? Choose the technique that best fits where you ar
 | [What else was in there](techniques/phase-2/what-else-was-in-there.md) | Dig together for depth in your transcript |
 | [Iteration](techniques/phase-2/iteration.md) | Collaborating with AI in rounds |
 | [Prompt the people first](techniques/phase-2/prompt-the-people-first.md) | Design the input experience before the AI prompt |
-| > [Reframing questions](techniques/phase-2/reframing-questions.md) | In-session: casting abstract questions in a different light |
+| ↳ [Reframing questions](techniques/phase-2/reframing-questions.md) | In-session: casting abstract questions in a different light |
 
 ---
 
-← *[Back to phase 1: start](phase-1-start.md)* | → *[To phase 3: scale](phase-3-scale.md)*: from deepening to collective.
+← *[Back to Phase 1: start](phase-1-start.md)* | → *[To Phase 3: scale](phase-3-scale.md)*, from deepening to collective.

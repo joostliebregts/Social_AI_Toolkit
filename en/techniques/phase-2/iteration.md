@@ -3,7 +3,7 @@
 > *Not tinkering with output, but giving feedback. AI learns what you mean.*
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
-**Builds on:** [Preserving language](../phase-1/preserving-language.md)
+**Builds on:** The first AI output that's not quite right
 
 ---
 
@@ -19,20 +19,9 @@
 
 ---
 
-## On this page
-
-Iteration takes different forms. Jump to what you're looking for:
-
-- [The story: twelve rounds](#the-story-twelve-rounds): why the best prompts don't emerge in round 1
-- [The shift: from tinkering to steering](#the-shift-from-tinkering-to-steering): the difference between solo work and collaborating with AI
-- [Iteration upfront: let AI ask you the questions](#iteration-upfront-let-ai-ask-you-the-questions): getting clear on what you want before any output comes
-- [The toolbox](#the-toolbox): concrete methods for giving feedback, improving prompts, and having AIs review each other's work
-
----
-
 ## The story: twelve rounds
 
-A transformation plan for a mental healthcare network. Thirty participants had given input. Now that needed to be turned into a document the health insurer would accept.
+A transformation plan for a mental health network. Thirty stakeholders had given input. Now that needed to be turned into a document the health insurer would accept.
 
 There was already an approved transformation plan from another region. The question: how do you write new sub-plans in the same style?
 
@@ -93,7 +82,7 @@ The difference is subtle but fundamental. Tinkering is solo work. Iterating is c
 > **Round 2:** "Better. But the first paragraph is still too distant. Make it more personal."
 > *Another thirty seconds. Now it lands.*
 
-**Why this structure works:**
+**Why this works:**
 - **Learning context** AI learns your needs within the ongoing conversation
 - **Sharper articulation** you articulate more sharply what you want, for yourself and for AI
 - **Combined capacity** the end result combines AI's capacity with your direction
@@ -105,11 +94,11 @@ The difference is subtle but fundamental. Tinkering is solo work. Iterating is c
 
 The barrier to giving feedback is typing. If you have to type out every correction, iterating feels like work. But dictation changes that.
 
-The workflow: AI gives output -> you speak your reaction -> within a second it's there as text
+The workflow: AI gives output → you speak your reaction → within a second it's there as text
 
 You don't have to formulate while typing. You just say what you think: "No, this is too formal. I'm looking for more of a kitchen table conversation tone." That's faster than typing, and it feels more natural: more like a conversation.
 
-*See [Transcription](transcription.md#dictation-as-accelerator) for tools and setup.*
+*See [Transcription](../phase-1/transcription.md#dictation-as-accelerator) for tools and setup.*
 
 ---
 
@@ -126,23 +115,23 @@ For the full story of how this played out in practice (three questions, three ad
 This behavior (AI asking you questions with A/B options) needs to be explicitly triggered. Here's the prompt that does it:
 
 ```prompt
-Ik werk aan [PROJECT/DOEL].
+I'm working on [PROJECT/GOAL].
 
-Huidige stand van zaken:
-- Doel: [wat je wilt bereiken]
-- Doelgroep: [voor wie]
-- Waar ik mee worstel: [open vragen, twijfels]
+Current state of affairs:
+- Goal: [what you want to achieve]
+- Audience: [for whom]
+- What I'm struggling with: [open questions, doubts]
 
-Stel me 3-5 scherpe vragen die me helpen om:
-1. Mijn doel helderder te krijgen
-2. Cruciale keuzes expliciet te maken
-3. Blinde vlekken te identificeren
+Ask me 3-5 sharp questions that help me to:
+1. Get my goal clearer
+2. Make crucial choices explicit
+3. Identify blind spots
 
-Waar relevant: presenteer keuzes (A vs B) in plaats van
-alleen open vragen. Dit dwingt me om positie te kiezen.
+Where relevant: present choices (A vs B) instead of
+just open questions. This forces me to choose a position.
 
-Na mijn antwoorden: stel follow-up vragen op basis van
-wat ik heb gekozen.
+After my answers: ask follow-up questions based on
+what I've chosen.
 ```
 
 The power is in "present choices (A vs B)". That forces you to choose a position, and the nuances you add to your choice are exactly where the value lies.
@@ -158,48 +147,83 @@ The twelve-rounds story above shows iteration on output. Iteration upfront shows
 When AI output doesn't land, give specific feedback. Say it as if you're dictating:
 
 **For tone:**
-> "Make it warmer, as if you're telling it to a colleague."
-> "This feels like consultant speak, can you use the participants' words?"
+
+```prompt
+Make it warmer, as if you're telling it to a colleague.
+```
+
+```prompt
+This feels like consultant speak, can you use the participants' words?
+```
 
 **For structure:**
-> "Too long, can you use fewer bullets and more narrative?"
-> "The order isn't right, can you start with X instead of Y?"
+
+```prompt
+Too long, can you use fewer bullets and more narrative?
+```
+
+```prompt
+The order isn't right, can you start with X instead of Y?
+```
 
 **For content:**
-> "This misses the nuance about X, can you add this, this, and this please?"
-> "This is 70% of what I'm looking for. What's missing is X, can you try again?"
+
+```prompt
+This misses the nuance about X, can you add this, this, and this please?
+```
+
+```prompt
+This is 70% of what I'm looking for. What's missing is X, can you try again?
+```
 
 **For framing:**
-> "This is framed too negatively, can you frame it from what people want?"
-> "This sounds like AI knows it for sure, can you use 'possibly' and 'it seems like'?"
+
+```prompt
+This is framed too negatively, can you frame it from what people want?
+```
+
+```prompt
+This sounds like AI knows it for sure, can you use 'possibly' and 'it seems like'?
+```
 
 **When you don't know what you want:**
-> "This isn't what I'm looking for in terms of tone and structure, but I don't entirely know what I do want. Can you ask me questions to figure out what options there are and which works better for me?"
+
+```prompt
+This isn't what I'm looking for in terms of tone and structure, but I don't entirely know what I do want. Can you ask me questions to figure out what options there are and which works better for me?
+```
 
 **When you're torn between options:**
-> "I'm torn between these two formats. Can you briefly work out both so I can read the examples and give feedback on those?"
+
+```prompt
+I'm torn between these two formats. Can you briefly work out both so I can read the examples and give feedback on those?
+```
 
 ### The feedback loop prompt
 
 Imagine: you've significantly adjusted AI output. You've rewritten sentences, changed the structure, adjusted the tone. Instead of "losing" that work, you can feed it back to AI so your prompt works better next time.
 
 ```prompt
-Dit was de originele output:
-[plak AI output]
+This was the original output:
+[paste AI output]
 
-Dit is wat ik ervan heb gemaakt:
-[plak jouw verbeterde versie]
+This is what I made of it:
+[paste your improved version]
 
-Analyseer de verschillen:
-1. Wat heb ik veranderd?
-2. Waarom denk je dat ik dat veranderde?
-3. Hoe moet ik de prompt aanpassen om de volgende keer
-   dichter bij mijn gewenste output te komen?
+Analyze the differences:
+1. What did I change?
+2. Why do you think I changed that?
+3. How should I adjust the prompt to get closer to my
+   desired output next time?
 
-Geef concrete suggesties voor prompt-verbeteringen.
+Give concrete suggestions for prompt improvements.
 ```
 
-*This is a suggestion: adapt to your specific situation.*
+**Why this structure works:**
+- **Original next to revision** forces AI to compare concretely, not advise abstractly
+- **Three analysis questions** structure the reflection from observation to action
+- **Prompt improvements** as end goal make every iteration cumulatively better
+
+*This is a suggestion: adapt it to your specific situation.*
 
 This seems like extra work, but it's an investment. Every iteration makes your prompts sharper.
 
@@ -221,16 +245,21 @@ The steps:
 4. **Feed back to the AI that built the prompt:**
 
 ```prompt
-Ik heb de prompt die we samen maakten getest op een echt transcript.
+I tested the prompt we built together on a real transcript.
 
-Dit is de output die eruit kwam:
-[plak de output]
+This is the output that came out:
+[paste the output]
 
-Vragen:
-1. Hoe goed heeft onze prompt gepresteerd voor wat we wilden bereiken?
-2. Wat ontbreekt er in de output?
-3. Hoe moeten we de prompt aanpassen om dichter bij ons doel te komen?
+Questions:
+1. How well did our prompt perform for what we wanted to achieve?
+2. What's missing from the output?
+3. How should we adjust the prompt to get closer to our goal?
 ```
+
+**Why this structure works:**
+- **Real data as test** prevents your prompt from only working in theory
+- **Three evaluation questions** force reflection on performance, gaps, and improvement
+- **Cyclical design** makes the prompt itself the object of iteration
 
 5. **Refine the prompt**: let AI adjust the original prompt based on the test
 
@@ -242,7 +271,7 @@ This is different from the feedback loop above. There, you adjust the output and
 
 This is a time-intensive technique for work you really want to polish: having two AIs review each other's work. I used this for workshop design: ChatGPT and Gemini reviewed each other's output until they converged at 98/100.
 
-**Why this structure works:**
+**Why this works:**
 - **Model diversity** different models have different biases and strengths
 - **Peer critique** critique from a "peer AI" helps identify blind spots
 - **Convergence** shows robustness of the result
@@ -257,52 +286,61 @@ This is a time-intensive technique for work you really want to polish: having tw
 To both AIs (separately):
 
 ```prompt
-We hebben samen gewerkt aan [PROJECT/VRAAG].
+We worked together on [PROJECT/QUESTION].
 
-Maak een samenvatting van:
-- De kernvraag die we probeerden te beantwoorden
-- De aanpak die we hebben gekozen
-- De belangrijkste inzichten die naar voren kwamen
-- De zwakke punten of blinde vlekken in onze analyse
-- Een rating (0-100) voor de kwaliteit van ons werk
+Summarize:
+- The core question we were trying to answer
+- The approach we chose
+- The key insights that emerged
+- The weak points or blind spots in our analysis
+- A rating (0-100) for the quality of our work
 
-Wees kritisch en eerlijk over beperkingen.
+Be critical and honest about limitations.
 ```
+
+**Why this structure works:**
+- **Forcing self-critique** via "be critical" prevents self-congratulatory output
+- **Rating** forces the AI to make a quantitative judgment about its own work
+- **Five dimensions** cover from core question to blind spots across the full spectrum
 
 #### Step 2: Have them review each other
 
 Feed summary A to Model B:
 
 ```prompt
-Een andere AI heeft deze samenvatting gemaakt van werk
-aan dezelfde vraag:
+Another AI made this summary of work on the same question:
 
-[KOPIEER SAMENVATTING A]
+[COPY SUMMARY A]
 
-Review deze samenvatting:
-1. Wat zijn sterke punten die wij niet hebben?
-2. Wat zijn zwakke punten die zij niet zien?
-3. Welke blinde vlekken heeft deze analyse?
-4. Hoe zou je onze aanpak combineren met hun inzichten?
+Review this summary:
+1. What are strengths that we don't have?
+2. What are weak points they don't see?
+3. What blind spots does this analysis have?
+4. How would you combine our approach with their insights?
 ```
+
+**Why this structure works:**
+- **External review** breaks through the bias of one model
+- **Four targeted questions** steer the critique from strengths to synthesis
+- **Combination question** forces constructive integration, not just critique
 
 Do the same the other way around.
 
 #### Step 3: Integrate
 
 ```prompt
-Ik heb nu twee analyses en wederzijdse kritiek.
+I now have two analyses and mutual critique.
 
-Analyse A: [SAMENVATTING A]
-Kritiek van B op A: [KRITIEK B→A]
+Analysis A: [SUMMARY A]
+Critique from B on A: [CRITIQUE B->A]
 
-Analyse B: [SAMENVATTING B]
-Kritiek van A op B: [KRITIEK A→B]
+Analysis B: [SUMMARY B]
+Critique from A on B: [CRITIQUE A->B]
 
-Syntheseer tot één geïntegreerd perspectief dat:
-- De sterke punten van beide behoudt
-- De zwakke punten van beide adresseert
-- Nieuwe inzichten toevoegt die uit de confrontatie ontstaan
+Synthesize into one integrated perspective that:
+- Retains the strengths of both
+- Addresses the weak points of both
+- Adds new insights that emerge from the confrontation
 ```
 
 *This is time-intensive. Use it sparingly, for work where it really matters.* Or where your curiosity drives you :)

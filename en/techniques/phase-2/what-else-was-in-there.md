@@ -3,8 +3,7 @@
 > *Seeking depth in your transcript, together with AI.*
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
-
-**Builds on:** [Transcription as foundation](../phase-1/transcription.md)
+**Builds on:** [Transcription as foundation](../phase-1/transcription.md), digging together into what's in there
 
 ---
 
@@ -73,21 +72,21 @@ Below are the prompts we actually used in the story above.
 Instead of writing an analysis prompt directly, I asked AI to think along:
 
 ```prompt
-Zojuist had ik het met Maarten over hun traject over smartphonevrij
-opgroeien. Wat ik je heb toegevoegd is context over hoe Maarten
-die meeting heeft voorbereid — zijn wensen en intenties — en het
-transcript van de meeting zelf.
+I just spoke with Maarten about their journey on smartphone-free
+childhood. What I've added for you is context about how Maarten
+prepared that meeting — his wishes and intentions — and the
+transcript of the meeting itself.
 
-Waar we naar op zoek zijn is een prompt waarmee we het transcript
-kunnen analyseren. Om Maarten te helpen in zijn missie.
+What we're looking for is a prompt to analyze the transcript.
+To help Maarten in his mission.
 
-Voordat we die prompt opstellen zou ik het fijn vinden als je ons
-nog een aantal vragen kunt stellen om de prompt te verscherpen.
-Stel ons drie vragen, steeds met twee opties.
+Before we write that prompt, I'd like you to ask us a few
+questions to sharpen the prompt. Ask us three questions, each
+with two options.
 
-En nog een heel belangrijk element: we spreken altijd in de taal
-van de deelnemers, gericht op herkenbaarheid. En we blijven weg
-bij individuele namen.
+And one very important element: we always speak in the language
+of the participants, focused on recognizability. And we stay
+away from individual names.
 ```
 
 *Source: The opening prompt we used to start the iteration conversation.*
@@ -107,48 +106,48 @@ Three times he corrected and added nuance. The prompt wasn't determined by AI; M
 Based on Maarten's answers, AI built this prompt:
 
 ```prompt
-# CONTEXT & ROL
-Je fungeert als een systemisch strateeg die [De Initiatiefnemer]
-ondersteunt. Hij heeft een lokale werkgroep opgericht met als doel:
-het smartphonegebruik bij kinderen uitstellen.
+# CONTEXT & ROLE
+You function as a systemic strategist supporting [The Initiator].
+He has established a local working group with the goal of:
+delaying smartphone use among children.
 
-# OPDRACHT
-Analyseer het transcript en creëer:
-1. Een strategisch overzicht ("De Giant Map")
-2. Een praktische gespreksgids ("De Gesprekswaaier")
+# ASSIGNMENT
+Analyze the transcript and create:
+1. A strategic overview ("The Giant Map")
+2. A practical conversation guide ("The Conversation Fan")
 
-Het doel is niet om mensen te overtuigen met feiten, maar om
-verbinding te maken op basis van gedeelde waarden en zorgen.
+The goal is not to convince people with facts, but to make
+connection based on shared values and concerns.
 
-# RANDVOORWAARDEN
-- Privacy: Gebruik GEEN echte namen
-- Taal: Gebruik de *letterlijke bewoordingen* van deelnemers
-- Toon: Empathisch, gericht op de wens goed ouder te zijn
-- Vorm: Concrete haakjes, geen letterlijke scripts
+# CONSTRAINTS
+- Privacy: Do NOT use real names
+- Language: Use the *literal words* of participants
+- Tone: Empathetic, focused on the desire to be a good parent
+- Format: Concrete hooks, not literal scripts
 
-# OUTPUT (in 3 delen)
+# OUTPUT (in 3 parts)
 
-## DEEL 1: DE TWEE HEATMAPS
-Per schoolfase (Kleuters vs. Middenbouw vs. Bovenbouw):
-A. De Emotionele Leefwereld: angsten, twijfels, onderliggende waarden
-B. De Actie-Bereidheid: waar zit de energie, wie voelt urgentie
+## PART 1: THE TWO HEATMAPS
+Per school phase (Kindergarten vs. Middle Primary vs. Late Primary):
+A. The Emotional Inner World: fears, doubts, underlying values
+B. The Readiness to Act: where is the energy, who feels urgency
 
-## DEEL 2: DE INTERNE STRIJD
-De spanning tussen eigen telefoongebruik en wat we willen voor
-ons kind. Frame dit als uitdaging, niet als hypocrisie.
+## PART 2: THE INTERNAL STRUGGLE
+The tension between personal phone use and what we want for
+our child. Frame this as a challenge, not as hypocrisy.
 
-## DEEL 3: DE GESPREKSWAAIER
-Concrete 'haakjes' per doelgroep voor informele gesprekken.
-Focus op de gemene deler, niet op overtuigen.
+## PART 3: THE CONVERSATION FAN
+Concrete 'hooks' per target group for informal conversations.
+Focus on common ground, not on convincing.
 ```
 
 **Why this structure works:**
 - **Systemic strategist** positions AI as an analytical thinker, not a summarizer
 - **Literal words** protects participant language from AI interpretation
-- **Empathetic tone** "focused on the desire to be a good parent": Maarten's tone correction, built into the prompt
-- **Concrete hooks** "not literal scripts": output that Maarten can deploy himself, his way
+- **Empathetic, focused on the desire to be a good parent** Maarten's tone correction, built into the prompt
+- **Concrete hooks, not literal scripts** output that Maarten can deploy himself, his way
 
-*Source: The prompt we built together with AI after the iteration conversation.*
+**Source:** The prompt we built together with AI after the iteration conversation.
 
 ---
 
@@ -164,7 +163,7 @@ What AI found: "heatmaps" per school phase. A structure that was intuitively pre
 
 | Phase | The atmosphere | What's going on |
 |-------|----------------|-----------------|
-| Toddlers & Early Primary | "Paradise" | Unawareness, caution: "Am I that annoying parent if I bring this up already?" |
+| Kindergarten & Early Primary | "Paradise" | Unawareness, caution: "Am I that annoying parent if I bring this up already?" |
 | Middle Primary | "The Twilight Zone" | Confusion, first pressure: "Everyone has one, my kid says." |
 | Late Primary | "Reality" | Fear of exclusion: "We're actually already too late." |
 
@@ -184,9 +183,9 @@ This is the mirror nobody names out loud, but everyone recognizes. By making thi
 
 Section 3 asked for concrete hooks: moments in the conversation that can connect people, if you know where to find them.
 
-What AI found: concrete conversation openers per target group:
+What AI found, concrete conversation openers per target group:
 
-For parents of toddlers:
+For parents of kindergarteners:
 > "Right now we still have time to arrange this together. Later we won't have to fight that battle."
 
 For middle primary parents:
@@ -199,9 +198,9 @@ Two parents who both struggle, both feel alone, now have a hook to find each oth
 
 *Want to approach this more systematically, across multiple conversations? The full technique is in [Finding hooks](../phase-3/finding-hooks.md) (Phase 3).*
 
-### Powerful quotes
+### Striking quotes
 
-This wasn't a separate section in the prompt. But the constraint "use the literal words of participants" ensured that AI preserved the most powerful statements rather than paraphrasing them. You can already see that in section 2: the mirror quote about personal phone use was a byproduct of good framing. Sometimes a constraint delivers more than an explicit instruction.
+This wasn't a separate section in the prompt. But the constraint "use the literal words of participants" ensured that AI preserved the most striking statements rather than paraphrasing them. You can already see that in section 2: the mirror quote about personal phone use was a byproduct of good framing. Sometimes a constraint delivers more than an explicit instruction.
 
 The bicycle helmet paradox:
 > "Your kid cycles to school for the first time, helmet on. Comes home and says: 'Nobody in the class wears a helmet. I'm not wearing one either, otherwise I don't belong.'"
@@ -291,7 +290,7 @@ The question isn't "what did I miss?" but "what's in there that I haven't named 
 
 ---
 
-← [Previous: Intuition in writing](intuition-in-writing.md) | [Back to Phase 2](../../phase-2-deepening.md) | [Next: Iteration as dialogue →](iteration.md)
+← [Previous: Intuition in writing](intuition-in-writing.md) | [Back to Phase 2](../../phase-2-deepening.md) | [Next: Iteration as dialogue](iteration.md) →
 
 ---
 

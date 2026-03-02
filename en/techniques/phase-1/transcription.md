@@ -3,7 +3,7 @@
 > *Everything starts with text. Transcription makes the fleeting tangible.*
 
 **Phase:** [Phase 1: Start](../../phase-1-start.md)
-**Builds on:** This is the foundation technique
+**This is the foundation:** without text, no deepening
 
 ---
 
@@ -71,7 +71,6 @@ Choose a tool that fits your situation:
 | **Dembrane**                 | Real-time transcription during the session, direct synthesis possible                           |
 | **Notion AI**                | You already work in Notion, want everything in one place, works in both English and Dutch       |
 | **Google Meet transcription** | You already work in the Google ecosystem, basic is enough (note: no Dutch transcription yet)    |
-
 *See the [tools page](../../tools.md) for more details about these and other tools.*
 
 For most facilitators (with a Mac), MacWhisper is a good starting point: it works locally (privacy), has a free version that already does a lot, the pro version is a one-time purchase, delivers good Dutch transcriptions, and has built-in dictation.
@@ -85,8 +84,9 @@ Transcriptions aren't perfect. Always check for:
 
 You don't need to correct the entire transcript. Focus on what you're going to use. And as soon as you start working with the transcript, give the AI the transcript with correction context included. For example:
 
-> "This transcript contains technical terms and names that may have been transcribed incorrectly: 'POH-GGZ' (not 'P.O. Achates'), 'Rianne' (not 'Rijanne'), 'GALA' (not 'gala')."
-
+```prompt
+This transcript contains technical terms and names that may have been transcribed incorrectly: 'POH-GGZ' (not 'P.O. Achates'), 'Rianne' (not 'Rijanne'), 'GALA' (not 'gala').
+```
 ### Step 4: Use with intention
 
 This is where the real work begins. The question isn't "what can I do with this transcript?" but "what do I want to achieve?"
@@ -106,7 +106,7 @@ There are countless possibilities. But in my work, four patterns keep coming bac
 
 ### 1. Capturing what you couldn't hear
 
-This is the most basic application, and that's why it comes first. You can't catch everything when you're facilitating. You miss subtleties while thinking about the next question. You hear a powerful remark, but before you can write it down, the next speaker is already going.
+This is the most basic application, and that's why it comes first. You can't catch everything when you're facilitating. You miss subtleties while thinking about the next question. You hear a striking remark, but before you can write it down, the next speaker is already going.
 
 Transcription is your safety net. Not as a replacement for attention, but as backup for when attention isn't enough.
 
@@ -115,70 +115,52 @@ Transcription is your safety net. Not as a replacement for attention, but as bac
 The prompt below is more extensive than you might expect for "capturing what you couldn't hear." That's deliberate. This is the actual prompt that Maarten and I used after the parent-teacher evening about smartphone-free parenting. It shows how you go from transcript to usable insights in one step: not just what was said, but also how you can use it in follow-up conversations.
 
 ```prompt
-# CONTEXT & ROL
+**Context & Role:**
+You act as a systemic strategist and community builder supporting [The Initiator]. He has set up a local working group at his children's primary school with the goal: delaying smartphone use among children and changing the norm (aiming for >25% smartphone-free in the class to reduce peer pressure).
 
-Je fungeert als een systemisch strateeg en gemeenschapsbouwer die [De Initiatiefnemer] ondersteunt. Hij heeft een lokale werkgroep opgericht op de basisschool van zijn kinderen met als doel: het smartphonegebruik bij kinderen uitstellen en de norm veranderen (streven naar >25% smartphonevrij in de klas om groepsdruk te verlagen).
+You have access to this text:
+1. The transcript of the first online parent meeting (~14 participants).
 
-Je hebt toegang tot deze tekst:
+**Assignment:**
+Analyze the transcripts and create a strategic overview ("The Giant Map") and a practical conversation guide ("The Conversation Fan"). The goal is not to convince people with facts, but to connect based on shared values and concerns.
 
-1. Het transcript van de eerste online ouderbijeenkomst (~14 deelnemers).
+**Constraints & Style:**
+- **Privacy:** Do NOT use real names. Replace names with [The Initiator], [Facilitator], or [Parent Group X].
+- **Language:** Use the participants' *verbatim words* wherever possible for maximum recognizability.
+- **Tone:** Empathetic, non-judgmental, constructive. Focus on the desire to be a good parent, not on guilt about personal screen behavior.
+- **Form:** Provide concrete hooks and insights, not literal scripts that [The Initiator] has to read aloud. He wants to protect his own authenticity.
 
-# OPDRACHT
+**The output (in 3 parts):**
 
-Analyseer de transcripten en creëer een strategisch overzicht ("De Giant Map") en een praktische gespreksgids ("De Gesprekswaaier"). Het doel is niet om mensen te overtuigen met feiten, maar om verbinding te maken op basis van gedeelde waarden en zorgen.
+**Part 1: The two heatmaps (The Insight)**
+Map the population in two ways, organized by school phase (Kindergarten/Lower Primary vs. Middle Primary vs. Upper Primary/First Year Secondary).
 
-# RANDVOORWAARDEN & STIJL
+**A. The Emotional Landscape (The Concerns)**
+* What specific fears, doubts, or comfort zones do parents experience in this phase?
+* Look beyond the complaint ("my kid wants to game") to the underlying value ("I want my child to fit in socially").
 
-- **Privacy:** Gebruik GEEN echte namen. Vervang namen door [De Initiatiefnemer], [Facilitator], of [Ouder Groep X].
+**B. The Action Readiness (The Energy)**
+* Where is the energy? Who feels urgency (e.g., "it's five to midnight") and who is in the 'safe harbor'?
+* Identify the 'hooks' for urgency per group: what makes a kindergarten parent want to act *now*, while the problem still seems far away?
 
-- **Taal:** Gebruik Nederlands. Gebruik de *letterlijke bewoordingen* van de deelnemers waar mogelijk voor maximale herkenbaarheid.
+**Part 2: The internal struggle (The Connection)**
+Analyze the tension between "what we do" (own phone use, convenience) and "what we want for our child" (free play, safety).
 
-- **Toon:** Empathisch, niet-oordelend, constructief. Richt je op de wens om een goede ouder te zijn, niet op schuldgevoel over eigen schermgedrag.
+* Do NOT frame this as hypocrisy or addiction, but as a challenge in modern parenting.
+* Return 3 to 5 core themes where parents wrestle with their own role model behavior.
+* Use quotes or paraphrases that show: "You're not alone, we find this difficult too."
 
-- **Vorm:** Geef concrete haakjes en inzichten, geen letterlijke scripts die [De Initiatiefnemer] moet voorlezen. Hij wil zijn eigen authenticiteit bewaken.
+**Part 3: The conversation fan (The Ammunition)**
+Translate the above insights into concrete 'hooks' that [The Initiator] can use in informal conversations (e.g., at the schoolyard, on the sidelines).
 
-# DE OUTPUT (in 3 delen)
-
-## DEEL 1: DE TWEE HEATMAPS (Het Inzicht)
-
-Breng de populatie in kaart op twee manieren, ingedeeld per schoolfase (Kleuters/Onderbouw vs. Middenbouw vs. Bovenbouw/Brugklas).
-
-**A. De Emotionele Leefwereld (De Zorgen)**
-
-* Welke specifieke angsten, twijfels of juist comfortzones ervaren ouders in deze fase?
-
-* Kijk voorbij de klacht ("mijn kind wil gamen") naar de onderliggende waarde ("ik wil dat mijn kind sociaal meekomt").
-
-**B. De Actie-Bereidheid (De Energie)**
-
-* Waar zit de energie? Wie voelt urgentie (bijv. "het is 5 voor 12") en wie zit in de 'veilige haven'?
-
-* Identificeer de 'haakjes' voor urgentie per groep: wat maakt dat een kleuterouder *nu* in actie wil komen, terwijl het probleem nog ver weg lijkt?
-
-## DEEL 2: DE INTERNE STRIJD (De Verbinding)
-
-Analyseer de spanning tussen "wat we doen" (eigen telefoongebruik, gemak) en "wat we willen voor ons kind" (vrij spelen, veiligheid).
-
-* Frame dit NIET als hypocrisie of verslaving, maar als een uitdaging in modern ouderschap.
-
-* Geef 3 tot 5 kernthema's terug waarin ouders worstelen met hun eigen voorbeeldrol.
-
-* Gebruik hierbij citaten of parafrases die laten zien: "Je bent niet alleen, wij vinden dit ook moeilijk.
-
-## DEEL 3: DE GESPREKSWAAIER (De Munitie)
-
-Vertaal bovenstaande inzichten naar concrete 'haakjes' die [De Initiatiefnemer] kan gebruiken in informele gesprekken (bijv. op het schoolplein, langs de lijn).
-
-* Geef per doelgroep (Onderbouw, Middenbouw, Bovenbouw) 2 à 3 openingen of observaties.
-
-* Focus op het vinden van de *gemene deler*.
-
-* Format: *"Als je een ouder uit groep [X] spreekt, is [THEMA] een sterke ingang. Je zou kunnen refereren aan [IDEE/CITAAT]."*
+* Per target group (Lower Primary, Middle Primary, Upper Primary) provide 2 or 3 openings or observations.
+* Focus on finding the *common ground*.
+* Format: *"When you talk to a parent from group [X], [THEME] is a strong entry point. You could reference [IDEA/QUOTE]."*
 ```
 
 **Why this structure works:**
-- **Role** "systemic strategist and community builder" steers AI's perspective: looking for connection, not delivering critique
-- **Safeguards** protect authenticity: using verbatim language, no real names, empathetic tone
+- **Role** steers perspective: "systemic strategist and community builder" directs AI toward finding connection, not delivering critique
+- **Constraints** protect authenticity: using verbatim words, no real names, empathetic tone
 - **Two heatmaps** force AI to analyze both the emotions (concerns) and the energy (readiness to act)
 - **Conversation fan** translates insights into something usable: concrete hooks for real conversations
 
@@ -208,48 +190,50 @@ This is perhaps the most obvious use of transcription. Many people start here: a
 
 These days you can also have AI write the prompt for you. Give it the transcript and your wishes, and ask for a fitting prompt. After a meeting I asked AI:
 
-> "Now that the meeting is over, what's the right prompt to get the best-fitting summary and minutes, for both attendees and absentees (Anna and Lisa)?"
+```prompt
+Now that the meeting is over, what's the right prompt to get the best-fitting summary and minutes, for both attendees and absentees (Anna and Lisa)?
+```
 
 AI generated a prompt with structure (in brief, recap, decisions, action items, for absentees) and the instruction to preserve the language of participants. This is an interesting pattern: AI helps create the prompt based on context.
 
 **Key Decisions Capture:**
 
 ```prompt
-**Rol**: Je bent een nauwkeurige notulist die expliciet genomen besluiten
-vastlegt zonder interpretatie.
+**Role**: You are a precise note-taker who records explicitly made decisions
+without interpretation.
 
-**Context**: Extract alleen de concrete besluiten die expliciet zijn
-genomen tijdens deze sessie.
+**Context**: Extract only the concrete decisions that were explicitly
+made during this session.
 
-**Cruciale Randvoorwaarden**:
-- Alleen expliciet genomen besluiten - geen impliciete of veronderstelde
-  beslissingen
-- Citeer letterlijk wie wat heeft besloten
-- Bij twijfel: "Nog te bevestigen"
+**Critical Constraints**:
+- Only explicitly made decisions - no implicit or assumed
+  decisions
+- Quote verbatim who decided what
+- When in doubt: "Yet to be confirmed"
 
-**Instructies**:
-1. Scan transcript voor expliciete besluitvorming
-   ("we besluiten", "afgesproken", etc.)
-2. Noteer besluit, wie het nam, en eventuele voorwaarden
-3. Groepeer per type besluit (proces, inhoud, vervolgstappen)
+**Instructions**:
+1. Scan transcript for explicit decision-making
+   ("we decided", "agreed", etc.)
+2. Note the decision, who made it, and any conditions
+3. Group by type of decision (process, content, follow-up steps)
 
 **Output Format**:
-### Kernbesluiten uit deze Sessie
+### Key Decisions from this Session
 
-#### Procesbeslissingen
-- [Besluit + wie + wanneer]
+#### Process Decisions
+- [Decision + who + when]
 
-#### Inhoudelijke Besluiten
-- [Besluit + wie + wanneer]
+#### Content Decisions
+- [Decision + who + when]
 
-#### Vervolgafspraken
-- [Afspraak + verantwoordelijke + deadline]
+#### Follow-up Agreements
+- [Agreement + responsible person + deadline]
 ```
 
 **Why this structure works:**
 - **Role** "precise note-taker" keeps AI focused on what was literally decided
-- **Safeguards** prevent implicit conclusions
-- **Output format** is surprisingly powerful: AI follows it quite precisely
+- **Constraints** prevent implicit conclusions: only explicitly made decisions, when in doubt "yet to be confirmed"
+- **Output format** is surprisingly effective: AI follows the structure (process, content, follow-up) quite precisely
 
 ### 4. Dictation: capturing your own stream of thought
 
@@ -305,16 +289,16 @@ This is not a requirement. Just start with your built-in microphone. But if you 
 Above you read four ways to use transcription. But there are techniques that go further: that build on transcription as a foundation. If you work through the field guide chronologically, you'll encounter them naturally:
 
 **Digging together into what's in there**
-A transcript contains more than you could take in during the moment. Imagine: you go searching together with AI for structure, hooks for connection, powerful quotes.
+A transcript contains more than you could take in during the moment. Imagine: you go searching together with AI for structure, hooks for connection, striking quotes.
 → *[What else was in there](../phase-2/what-else-was-in-there.md)* (Phase 2)
 
 **Seeing patterns across multiple conversations**
 One transcript is a snapshot. Five transcripts over three months show development: how language shifts, which themes recur, where breakthroughs happen or don't.
-→ *Patterns over time* (Phase 3, coming soon)
+→ *[Patterns over time](../phase-3/patterns-over-time.md)* (Phase 3)
 
 **Finding unexpected connections**
 Two people who share the same struggle without knowing it about each other. Two parents (of different children) both turned out to be struggling with playdates that revolve entirely around gaming. AI distilled the hook: "Are you also standing alone in that Minecraft conversation?" Not a summary. A bridge.
-→ *Finding hooks* (Phase 3, coming soon)
+→ *[Finding hooks](../phase-3/finding-hooks.md)* (Phase 3)
 
 ---
 
@@ -396,7 +380,7 @@ The power of transcription doesn't lie in the technology. That's almost free now
 
 ---
 
-← [Previous: Phase 1: Start](../../phase-1-start.md) | [Back to Phase 1](../../phase-1-start.md) | [Next: Preserving language →](preserving-language.md)
+← [Back to Phase 1: Start](../../phase-1-start.md) | [Next: Preserving language →](preserving-language.md)
 
 ---
 

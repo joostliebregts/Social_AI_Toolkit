@@ -3,7 +3,7 @@
 > *The quality of AI output depends on the quality of human input.*
 
 **Phase:** [Phase 2: Deepening](../../phase-2-deepening.md)
-**Builds on:** [Reframing questions](reframing-questions.md)
+**Builds on:** [Transcription as foundation](../phase-1/transcription.md), with focus on designing the input experience
 
 ---
 
@@ -50,7 +50,6 @@ But how do you design questions that yield those puzzle pieces?
 I like to think of workshops as a 'deconstructed burger': you start with what you want on the plate, and work backwards to the ingredients.
 
 **Why this works:**
-
 From my design background I learned this when testing prototypes: if you ask people "Would you buy this?" or "What would you pay for this?", you get a hypothetical answer. They think about what they should think.
 
 But if you placed that same prototype as a product somewhere in a shop, and observed whether they actually pick it up, look at it, and buy it, you'd see real behavior.
@@ -68,8 +67,7 @@ In what order do you draw out the puzzle pieces? Start with experience, end with
 
 **Step 4: Formulate the questions**
 How do you get each puzzle piece from people? Not one big question, but separate questions that each yield something specific.
-![Backwards design visualization](../../images/prompt-mensen-eerst-backwards-design.png)
-
+![[prompt-mensen-eerst-backwards-design.png]]
 **Example:**
 - **Goal:** Set priorities based on real experience
 - **Puzzle pieces:** Impact assessment + effort assessment + value for others
@@ -116,61 +114,63 @@ Because the input was so well structured, the prompt could precisely follow what
 **View the full prompt**
 
 ```prompt
-Rol: Je bent een AI-assistent die helpt bij het live documenteren
-van een transformatieplan-sessie. Jouw taak nu is om de kern van
-de gevoerde visie-discussie samen te vatten voor directe feedback
-aan de groep.
+**Role:** You are an AI assistant helping with the live documentation
+of a transformation plan session. Your task now is to summarize
+the core of the vision discussion that just took place, for direct
+feedback to the group.
 
-Context:
-- Sessie Deel: Einde van Ronde 1 - Discussie over 5-jaarsperspectief
-  (vraag 1 draaiboek).
-- Input: Het volledige transcript van de zojuist afgeronde
-  60-minuten discussie aan deze tafel.
-- Doel Output: Terugkoppeling aan de deelnemers aan de tafel
-  ter validatie ("Klopt dit beeld?").
+**Context:**
+- Session Part: End of Round 1 - Discussion on 5-year perspective
+  (question 1 from the session script).
+- Input: The complete transcript of the just-completed
+  60-minute discussion at this table.
+- Output Goal: Feedback to the participants at the table
+  for validation ("Does this picture ring true?").
 
-Vereiste Schrijfstijl (Pas deze consistent toe):
-- Taal: Formeel, zakelijk Nederlands.
-- Toon: Collaboratief ("we", "samen", "gezamenlijk"), actiegericht,
-  pragmatisch, oplossingsgericht.
-- Perspectief: Geschreven vanuit de samenwerkende partijen, rekening
-  houdend met perspectief van "inwoner", "naaste", "professional".
-- Terminologie: Gebruik correcte en relevante jargon uit de
-  Nederlandse zorg en GGZ (zoals IZA, GALA, MGN, POH-GGZ, positieve
-  gezondheid, herstelgericht, domein overstijgend, etc.) waar passend.
-- Structuur: Gebruik heldere zinnen, opsommingen (bullet points)
-  waar nodig.
+**Required Writing Style (Apply consistently):**
+- Language: Formal, professional.
+- Tone: Collaborative ("we", "together", "jointly"), action-oriented,
+  pragmatic, solution-focused.
+- Perspective: Written from the perspective of the collaborating
+  parties, taking into account the viewpoints of "resident",
+  "family member", "professional".
+- Terminology: Use correct and relevant jargon from the
+  Dutch healthcare and mental health system (such as IZA, GALA,
+  MGN, POH-GGZ, positive health, recovery-oriented,
+  cross-domain, etc.) where appropriate.
+- Structure: Use clear sentences, bullet points where needed.
 
-Instructies:
-1. Analyseer het volledige input-transcript.
-2. Identificeer het primaire thema dat in dit transcript wordt
-   besproken. Kies uit: 'Sociale Kaart', 'Overlegtafel/transfertafel',
-   of 'Verkennend Gesprek'. Als het thema niet eenduidig te bepalen
-   is, noteer 'Thema Onduidelijk' en stop.
-3. Focus op de gedeelten van het transcript die betrekking hebben
-   op de 5-jaarsvisie (vraag 1 uit het draaiboek: hoe het eruitziet,
-   wat het oplevert, cruciale onderdelen, ander gedrag, randvoorwaarden).
-4. Genereer een beknopte, narratieve samenvatting van de gedeelde
-   5-jaarsvisie voor het geïdentificeerde thema. Formuleer deze
-   samenvatting strikt volgens de Vereiste Schrijfstijl.
-5. Extraheer een lijst met 3-5 cruciale onderdelen of elementen
-   die volgens de deelnemers absoluut in deze 5-jaarsvisie moeten
-   zitten. Presenteer dit als een duidelijke bullet-point lijst.
-6. Controleer op eventueel genoemde KPI's of meetbare resultaten
-   en neem deze op in de samenvatting of de lijst.
+**Instructions:**
+1. Analyze the complete input transcript.
+2. Identify the primary theme discussed in this transcript.
+   Choose from: 'Social Map', 'Consultation Table/Transfer Table',
+   or 'Exploratory Conversation'. If the theme cannot be
+   unambiguously determined, note 'Theme Unclear' and stop.
+3. Focus on the parts of the transcript relating to the
+   5-year vision (question 1 from the script: what it looks like,
+   what it delivers, crucial elements, different behavior,
+   preconditions).
+4. Generate a concise, narrative summary of the shared
+   5-year vision for the identified theme. Formulate this
+   summary strictly according to the Required Writing Style.
+5. Extract a list of 3-5 crucial elements that participants
+   say absolutely need to be in this 5-year vision.
+   Present this as a clear bullet-point list.
+6. Check for any mentioned KPIs or measurable results
+   and include these in the summary or the list.
 
-Input Transcript: [Hier het volledige transcript]
+**Input Transcript:** [Insert the complete transcript here]
 
-Output Format:
-Geïdentificeerd Thema: [Sociale Kaart / Overlegtafel / Verkennend Gesprek]
+**Output Format:**
+Identified Theme: [Social Map / Consultation Table / Exploratory Conversation]
 
-Concept Visie [Thema] (ter validatie):
-[Narratieve samenvatting in de vereiste schrijfstijl]
+Draft Vision [Theme] (for validation):
+[Narrative summary in the required writing style]
 
-Cruciale Onderdelen Visie:
-- [Cruciaal onderdeel 1]
-- [Cruciaal onderdeel 2]
-- [Cruciaal onderdeel 3]
+Crucial Vision Elements:
+- [Crucial element 1]
+- [Crucial element 2]
+- [Crucial element 3]
 - ...
 ```
 
@@ -226,8 +226,8 @@ A quick test for every question you ask:
 If it's an opinion, reformulate toward an experience.
 
 **Example:**
-- "What do you think about the communication in the team?"
-- "Can you describe a moment when you thought: something's going wrong here?"
+- ❌ "What do you think about the communication in the team?"
+- ✅ "Can you describe a moment when you thought: something's going wrong here?"
 
 And if you need help designing those questions? Then you can use AI.
 
@@ -238,33 +238,33 @@ And if you need help designing those questions? Then you can use AI.
 This is how you can use AI to design the participant questions:
 
 ```prompt
-Ik bereid een workshop voor over [ONDERWERP].
+I'm preparing a workshop about [TOPIC].
 
-Mijn doel is: [WAT IK WIL BEREIKEN]
+My goal is: [WHAT I WANT TO ACHIEVE]
 
-De deelnemers zijn: [WIE]
+The participants are: [WHO & THEIR ROLES]
 
-Ontwerp 3-5 vragen die:
-1. Concrete ervaringen oproepen, geen meningen
-2. Elk een ander "puzzelstukje" opleveren
-3. In een logische volgorde staan (van emotie naar analyse)
+Design 3-5 questions that:
+1. Evoke concrete experiences, not opinions
+2. Each yield a different "puzzle piece"
+3. Are in a logical order (from emotion to analysis)
 
-Per vraag:
-- De vraag zelf
-- Welk puzzelstukje dit oplevert
-- Waarom deze volgorde
+Per question:
+- The question itself
+- Which puzzle piece this yields
+- Why this order
 
-Let op:
-- Vermijd "Wat vind je van..."
-- Gebruik "Beschrijf een moment waarin..."
-- Focus op geleefde ervaring, niet op abstracte reflectie
+Note:
+- Avoid "What do you think about..."
+- Use "Describe a moment when..."
+- Focus on lived experience, not abstract reflection
 ```
 
 **Why this structure works:**
-- **Concrete experiences** "not opinions" prevents you from designing abstract questions that yield abstract answers
-- **Different puzzle pieces** forces you to think ahead about what ingredients you need
-- **From emotion to analysis** ensures the order is right
-- **Avoid opinions** "Avoid 'What do you think about...'" blocks the default question that yields opinions
+- **"Concrete experiences, not opinions"** prevents you from designing abstract questions that yield abstract answers
+- **"Each a different puzzle piece"** forces you to think ahead about what ingredients you need
+- **"From emotion to analysis"** ensures the order is right
+- **"Avoid 'What do you think about...'"** blocks the default question that yields opinions
 
 *This is a suggestion: adapt it to your specific situation.*
 
@@ -294,6 +294,20 @@ Concretely:
 
 ---
 
+## Reach people where they are
+
+The input experience doesn't start with the workshop question. It starts with the invitation.
+
+In Doesburg, a small Dutch town, the steering group learned that standard communication (email, websites, flyers) doesn't always work when you want to reach people in their own world. You need to communicate in the place and manner that fits the audience. Floor de Ruiter, process facilitator and expert in bottom-up work, knew this from experience:
+
+> "You shouldn't invite flower growers by email... You need to send a text message, because that's what they read on the tractor."
+
+This isn't just a channel choice. It's a broader pattern: being present at the mosque instead of sending a letter. Writing texts at a sixth-grade reading level, not because people aren't smart, but because it needs to be clear. The steering group in Doesburg eventually also started individually inviting people for an important session.
+
+The lesson for "prompt the people first": if you approach people through a channel that isn't theirs, you won't reach them. The question "how do I design the input experience?" starts earlier than you think.
+
+---
+
 ## Philosophical deepening
 
 ### Facilitation over prompting
@@ -302,7 +316,7 @@ This principle goes deeper than technique. It's really about the question: where
 
 The tendency is to see AI as the source of value. "AI analyzes", "AI finds patterns", "AI generates insights". But AI works with what you give it.
 
-The real value creation sits in the human experience. In what people share, how they share it, which stories surface. AI can amplify that, organize it, connect it — but it can't create it.
+The real value creation sits in the human experience. In what people share, how they share it, which stories surface. AI can amplify that, organize it, connect it, but it can't create it.
 
 That's why: prompt the people first.
 
