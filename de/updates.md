@@ -22,7 +22,7 @@
 
 - **Phase 3: Skalierung** — Hauptseite erweitert mit der Skeptiker-Geschichte, der Musik-Metapher, vier Organisationsmustern und sechs Linsen. Die verkürzte Version wurde durch die vollständige Einführung ersetzt.
 - **Muster über Zeit** — Erste Phase-3-Technik veröffentlicht. Vom Schnappschuss zur Entwicklungslinie: das Gerda-Muster, die Zwei-Schritte-Methode (erst einzeln, dann zusammen) und die vollständigen Prompts für Transcript Analyst und Predictive Synthesizer.
-- Zwei weitere Vertiefungen (Anknüpfungspunkte finden, Ownership) kommen bald.
+- Zwei weitere Vertiefungen (Anknüpfungspunkte finden, Eigenverantwortung) kommen bald.
 
 ## 23. Februar 2026
 
@@ -45,4 +45,4 @@
 
 **Launch — Version 1.0**
 
-- **Social AI Feldanleitung live** — Die visuelle Plattform der Feldanleitung ging online. Das ist Version 1: Phase 1 (Transkription, Sprache als Ownership, Quelldokument als Stilvorlage) und Phase 2 (Live-Reflexion, Iteration, Intuition schwarz auf weiß und mehr) sind verfügbar. Der Inhalt war zuvor auf GitHub als [Social AI Field Guide](https://github.com/joostliebregts/Social_AI_Toolkit) verfügbar.
+- **Social AI Feldanleitung live** — Die visuelle Plattform der Feldanleitung ging online. Das ist Version 1: Phase 1 (Transkription, Sprache als Eigenverantwortung, Quelldokument als Stilvorlage) und Phase 2 (Live-Reflexion, Iteration, Intuition schwarz auf weiß und mehr) sind verfügbar. Der Inhalt war zuvor auf GitHub als [Social AI Field Guide](https://github.com/joostliebregts/Social_AI_Toolkit) verfügbar.

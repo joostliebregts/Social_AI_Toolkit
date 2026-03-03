@@ -4,6 +4,12 @@
 
 ---
 
+## 3 maart 2026
+
+**Duitse vertaling beschikbaar**
+
+- **Volledige vertaling** — Alle 19 pagina's van de veldgids zijn nu ook beschikbaar in het Duits: Fase 1, Fase 2, Fase 3 en de hoofdpagina's. De veldgids is nu in drie talen beschikbaar: Nederlands, Engels en Duits. Wisselen kan via de taalknop onderin de sidebar.
+
 ## 2 maart 2026
 
 **Engelse vertaling beschikbaar**

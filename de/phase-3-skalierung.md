@@ -24,15 +24,15 @@ Teile davon habe ich konkret gemacht. Teile sind noch eine Vision. Das ist die P
 
 In einem Bottom-up-Prozess arbeiten wir zusammen mit einer Gruppe von Freiwilligen an der Verbesserung der Versorgung in ihrer Gemeinde. Fachleute, Bewohner und Unternehmer: gemeinsam schauen, was besser kann, ausgehend von den Menschen selbst. Einer der Teilnehmenden war in der ersten Sitzung offen skeptisch. Über das System: frustriert, das Gefühl, dass sich nie wirklich etwas ändert. Über den Ansatz: "Ich sehe nicht wirklich, dass das irgendwo funktioniert."
 
-Gleichzeitig hatte ich mehr mit Claude Code experimentiert. Ownership ist in Bottom-up-Prozessen essenziell; die Frage war: Kann ich das tatsächlich sichtbar machen? Das war das erste echte Bottom-up-Projekt, an dem ich arbeitete, und ein Pilotversuch, um zu sehen, wie AI in solchen Prozessen helfen kann. Diese beiden Dinge kamen zusammen.
+Gleichzeitig hatte ich mehr mit Claude Code experimentiert. Eigenverantwortung ist in Bottom-up-Prozessen essenziell; die Frage war: Kann ich das tatsächlich sichtbar machen? Das war das erste echte Bottom-up-Projekt, an dem ich arbeitete, und ein Pilotversuch, um zu sehen, wie AI in solchen Prozessen helfen kann. Diese beiden Dinge kamen zusammen.
 
-Die AI-Analyse der ersten Sitzung ergab einen niedrigen Ownership-Wert. Machte Sinn. Aber als ich die zweite und dritte Sitzung analysierte, sah AI eine Verschiebung. Die Werte gingen hoch. Die Sprache veränderte sich von "das wird eh nichts" zu "ich bin offen dafür." AI berichtete: "Skepsis beginnt in Richtung Offenheit zu kippen."
+Die AI-Analyse der ersten Sitzung ergab einen niedrigen Eigenverantwortungs-Wert. Machte Sinn. Aber als ich die zweite und dritte Sitzung analysierte, sah AI eine Verschiebung. Die Werte gingen hoch. Die Sprache veränderte sich von "das wird eh nichts" zu "ich bin offen dafür." AI berichtete: "Skepsis beginnt in Richtung Offenheit zu kippen."
 
 Ich dachte: Ist das echt, oder erfindet AI das?
 
 Dann, in der vierten Sitzung, sagte der Teilnehmer: "Ich war skeptisch, aber jetzt fange ich wirklich an, es zu sehen."
 
-Das war genau das, was die Analyse bereits gezeigt hatte. Nicht wörtlich, aber die Verschiebung war real. AI gab etwas Struktur, das sonst nur als Bauchgefühl existiert hätte. Die Methode, Ownership in Transkripten zu lesen, wurde großteils von Claude selbst entwickelt, basierend auf den Bottom-up-Prinzipien, die wir verwendeten. Diese Analysetiefe hatte ich selbst nicht bedacht.
+Das war genau das, was die Analyse bereits gezeigt hatte. Nicht wörtlich, aber die Verschiebung war real. AI gab etwas Struktur, das sonst nur als Bauchgefühl existiert hätte. Die Methode, Eigenverantwortung in Transkripten zu lesen, wurde großteils von Claude selbst entwickelt, basierend auf den Bottom-up-Prinzipien, die wir verwendeten. Diese Analysetiefe hatte ich selbst nicht bedacht.
 
 Dieses Experiment läuft noch. Wir sind noch nicht fertig. Aber was ich schon sehe: Analysen über Zeit können Veränderung sichtbar machen, die sonst unsichtbar geblieben wäre.
 
@@ -140,13 +140,13 @@ In der Praxis kombinierst du oft Muster. Breakouts, die rollend vorwärts gehen.
 
 ## Linsen: was du sehen kannst
 
-Mit mehreren Analysen nebeneinander kannst du verschiedene Linsen anwenden. Eine Linse ist eine Frage, die du an dein Material stellst. Ich denke, es gibt viel mehr als hier aufgelistet. Ownership und Muster über Zeit habe ich konkret im Bottom-up-Prozess angewandt, den ich vorhin beschrieben habe. Die anderen Linsen sind das, was ich auf Basis dessen, was ich dort gesehen habe, für möglich halte. Eine offene Einladung.
+Mit mehreren Analysen nebeneinander kannst du verschiedene Linsen anwenden. Eine Linse ist eine Frage, die du an dein Material stellst. Ich denke, es gibt viel mehr als hier aufgelistet. Eigenverantwortung und Muster über Zeit habe ich konkret im Bottom-up-Prozess angewandt, den ich vorhin beschrieben habe. Die anderen Linsen sind das, was ich auf Basis dessen, was ich dort gesehen habe, für möglich halte. Eine offene Einladung.
 
 **Verschiebungen verfolgen:** Was hat sich verändert? In der Sprache, in den Themen, in den Fragen, in der Energie. Was ist verschwunden? Was ist aufgetaucht? Verschiebungen sind der Herzschlag der Entwicklung.
 
 **Verbindungen ziehen:** Wo kämpfen Menschen mit dem Gleichen, ohne es voneinander zu wissen? Wo stimmen sie eigentlich überein? Welche gemeinsamen Entscheidungen und Zukunftsvisionen werden sichtbar? Aber auch: Wo liegen die Unterschiede, und was sagen sie dir? Anknüpfungspunkte finden, wo Verbindung entstehen kann, besonders über Unterschiede hinweg.
 
-**Ownership lesen:** Verschiebt sich die Sprache von "die sollten" zu "wir werden"? Ergreifen Menschen mehr Initiative? Ownership ist vielleicht die fundamentalste Verschiebung, die es zu verfolgen gilt. Hiermit habe ich am konkretesten experimentiert: Musteranalysen über fünf Sitzungen, eine Chronik, die wir der Gruppe als erzählerischen Überblick zurückpräsentierten, und Entscheidungen und Aktionen, die wir systematisch verfolgten.
+**Eigenverantwortung lesen:** Verschiebt sich die Sprache von "die sollten" zu "wir werden"? Ergreifen Menschen mehr Initiative? Eigenverantwortung ist vielleicht die fundamentalste Verschiebung, die es zu verfolgen gilt. Hiermit habe ich am konkretesten experimentiert: Musteranalysen über fünf Sitzungen, eine Chronik, die wir der Gruppe als erzählerischen Überblick zurückpräsentierten, und Entscheidungen und Aktionen, die wir systematisch verfolgten.
 
 **Energie und Konsens lesen:** Wo liegt die Energie in einem Gespräch? Wo wird es still? Wo entsteht echter Konsens, und wo gehen alle nur mit? *Das ist noch experimentell; ich habe dafür noch keine konkrete Anwendung gefunden.*
 
@@ -192,17 +192,17 @@ Mehrere Gespräche vom selben Tag oder Prozess nebeneinanderlegen. Wo kämpfen M
 
 > *Mehr dazu: In der Sitzung, Anknüpfungspunkte finden und verbinden (kommt bald)*
 
-### Langfristiger Prozess, Ownership-Frage
+### Langfristiger Prozess, Eigenverantwortungs-Frage
 
-Die Formel von Floor de Ruiter besagt: Erfolg = Qualität der Idee x Ownership. Ein brillanter Plan ohne Ownership stirbt. Ein mittelmäßiger Plan mit viel Ownership lebt. Kann AI Ownership sichtbar machen? Das war die Frage, die ich letzten Herbst angehen wollte. Das ist die konkreteste, am besten dokumentierte Vertiefung.
+Die Formel von Floor de Ruiter besagt: Erfolg = Qualität der Idee x Eigenverantwortung. Ein brillanter Plan ohne Eigenverantwortung stirbt. Ein mittelmäßiger Plan mit viel Eigenverantwortung lebt. Kann AI Eigenverantwortung sichtbar machen? Das war die Frage, die ich letzten Herbst angehen wollte. Das ist die konkreteste, am besten dokumentierte Vertiefung.
 
-> *Mehr dazu: Ownership, kann AI Ownership sichtbar machen? (kommt bald)*
+> *Mehr dazu: Eigenverantwortung, kann AI Eigenverantwortung sichtbar machen? (kommt bald)*
 
 | Deine Situation | Beginne hier | Vertiefung |
 |----------------|------------|-----------|
 | Gleiche Gruppe, mehrere Sitzungen | Verschiebungen über Zeit | [Über Zeit](techniken/phase-3/muster-ueber-zeit.md) |
 | Breakouts oder parallele Sitzungen | Anknüpfungspunkte und Verbindungen | *Kommt bald* |
-| Langfristiger Prozess, Ownership-Frage | Ownership verfolgen | *Kommt bald* |
+| Langfristiger Prozess, Eigenverantwortungs-Frage | Eigenverantwortung verfolgen | *Kommt bald* |
 
 ---
 
@@ -219,7 +219,7 @@ Ich denke, es gibt auch eine Schattenseite dieses Wachstums. Wenn wir AI mehr ve
 | Verschiebungen in der Sprache signalisieren | Beurteilen, ob die Verschiebung echt ist |
 | Anknüpfungspunkte zwischen Menschen finden | Beurteilen, ob die Verbindung echt ist |
 | Muster über Monate verfolgen | Entscheiden, welche Muster zählen |
-| Signale von Ownership erkennen | Intuition vertrauen und trainieren |
+| Signale von Eigenverantwortung erkennen | Intuition vertrauen und trainieren |
 | Energie und Konsens messen | Interpretieren, was es für diese Gruppe bedeutet |
 | Unterrepräsentierte Stimmen finden | Entscheiden, wie sie Raum bekommen |
 
@@ -247,7 +247,7 @@ Es ist verlockend, alles auf einmal an AI zu geben. Aber getrennte Analysen mit 
 
 Irgendwann in dieser Phase beginnt eine andere Frage aufzutauchen.
 
-Du hast gesehen, was AI für eine Sitzung tun kann. Dann für mehrere Sitzungen über Zeit. Dann für einen ganzen Verlauf innerhalb eines Teams oder einer Gemeinschaft: Muster werden sichtbar, Ownership wächst, Dynamiken, die du jetzt benennen kannst.
+Du hast gesehen, was AI für eine Sitzung tun kann. Dann für mehrere Sitzungen über Zeit. Dann für einen ganzen Verlauf innerhalb eines Teams oder einer Gemeinschaft: Muster werden sichtbar, Eigenverantwortung wächst, Dynamiken, die du jetzt benennen kannst.
 
 Und dann:
 
@@ -257,7 +257,7 @@ Was, wenn wir, mit Zustimmung und ethischer Aufsicht, AI nutzen würden, um koll
 
 Ich nenne das manchmal den "Social GitHub"-Traum. Ich bin mir nicht sicher, ob das genau der richtige Name ist, aber die Idee lässt mich nicht los. Entwickler teilen Code auf GitHub: nicht nur ihre Lösungen, sondern auch wie sie diese Lösungen gebaut haben. Was, wenn Gemeinschaften das Gleiche tun könnten? Nicht nur "das hat bei uns funktioniert", sondern auch "so sind wir es angegangen, das waren unsere Schwierigkeiten, das haben wir dabei gelernt."
 
-Ein Stadtteil, der etwas darüber entdeckt, wie man Ownership rund um Versorgung und Füreinander-Sorgen innerhalb der Gemeinschaft aufbaut: Dieses Wissen könnte zugänglich sein für einen Stadtteil in Groningen, der mit dem Gleichen ringt. Nicht als abstrakte Theorie, sondern als konkrete Erfahrung: ihre Worte, ihr Prozess, ihre Lektionen.
+Ein Stadtteil, der etwas darüber entdeckt, wie man Eigenverantwortung rund um Versorgung und Füreinander-Sorgen innerhalb der Gemeinschaft aufbaut: Dieses Wissen könnte zugänglich sein für einen Stadtteil in Groningen, der mit dem Gleichen ringt. Nicht als abstrakte Theorie, sondern als konkrete Erfahrung: ihre Worte, ihr Prozess, ihre Lektionen.
 
 Ich habe noch keine Software gefunden, die das kann. Und ich halte es nicht für abwegig, dass sie existieren wird.
 

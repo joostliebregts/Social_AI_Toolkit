@@ -164,13 +164,13 @@ Analysiere die Spannung zwischen "was wir tun" (eigene Handynutzung, Bequemlichk
 - **Zwei Heatmaps** zwingen AI, sowohl die Emotionen (Sorgen) als auch die Energie (Handlungsbereitschaft) zu analysieren
 - **Gesprächsfächer** übersetzt Erkenntnisse in etwas Nutzbares: konkrete Anknüpfungspunkte für echte Gespräche
 
-### 2. Sprache als Ownership
+### 2. Sprache als Eigenverantwortung
 
 Wenn es beim ersten Muster darum geht, was du übersehen hast, geht es hier um das, was du gehört hast, aber zu verlieren drohst: die genauen Worte.
 
 Es gibt einen entscheidenden Unterschied zwischen "Kommunikationsprobleme" und "du redest gegen eine Wand." Das Erste ist eine Interpretation. Das Zweite ist, was jemand tatsächlich gesagt hat.
 
-Wenn Menschen ihre eigenen Worte zurückgespiegelt sehen, erleben sie, dass ihr Beitrag wirklich zählt. Sie fühlen sich gehört: nicht zusammengefasst, nicht interpretiert, sondern gehört. Und das öffnet die Tür zu Ownership. Das Gefühl, dass das auch ihres ist, nicht nur das des Facilitators oder der Organisation.
+Wenn Menschen ihre eigenen Worte zurückgespiegelt sehen, erleben sie, dass ihr Beitrag wirklich zählt. Sie fühlen sich gehört: nicht zusammengefasst, nicht interpretiert, sondern gehört. Und das öffnet die Tür zu Eigenverantwortung. Das Gefühl, dass das auch ihres ist, nicht nur das des Facilitators oder der Organisation.
 
 Ein Teilnehmer, der liest "wir müssen aufhören, Meetings über Meetings zu haben", denkt: *Ja, das habe ich gesagt*. Derselbe Teilnehmer, der "ineffiziente Meetingstruktur" liest, denkt: *Das hat ein Berater daraus gemacht*.
 
@@ -362,7 +362,7 @@ Das ist ein Fundament. Wenn du dem Geschriebenen nicht vertraust, ist es schwer,
 
 Wenn du eine Synthese teilst und jemand sagt: "Aber das habe ich nicht gesagt," ist das Vertrauen weg. Nicht nur in die Synthese, sondern in den gesamten Prozess.
 
-Umgekehrt: Wenn du eine Synthese teilst und Menschen sagen: "Ja, das sind wir," wächst Ownership. Nicht weil die Synthese perfekt ist, sondern weil sie wiedererkennbar ist.
+Umgekehrt: Wenn du eine Synthese teilst und Menschen sagen: "Ja, das sind wir," wächst Eigenverantwortung. Nicht weil die Synthese perfekt ist, sondern weil sie wiedererkennbar ist.
 
 Die Kraft der Transkription liegt nicht in der Technologie. Die ist inzwischen fast kostenlos. Die Kraft liegt in dem, was du damit machst: Menschen ihre eigenen Worte zurückgeben.
 

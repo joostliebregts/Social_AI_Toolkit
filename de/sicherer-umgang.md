@@ -72,7 +72,7 @@ Das verhindert, dass AI Sicherheit simuliert, die nicht existiert.
 Verwende die genauen Worte und Formulierungen der Teilnehmenden. Kein Umschreiben in Fachsprache.
 ```
 
-Das verhindert, dass Ownership durch Übersetzung verschwindet.
+Das verhindert, dass Eigenverantwortung durch Übersetzung verschwindet.
 
 ### AI-Output kennzeichnen
 
@@ -136,7 +136,7 @@ AI ist ein Werkzeug. Nicht jede Situation verlangt nach einem Werkzeug.
 
 ## Die ethische Ebene
 
-### Ownership respektieren
+### Eigenverantwortung respektieren
 
 Wenn du Output generierst, der auf den Worten anderer basiert, gehört dieser Output nicht dir. Es ist eine Verarbeitung ihres Inputs.
 

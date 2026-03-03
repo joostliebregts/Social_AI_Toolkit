@@ -1,8 +1,8 @@
-![Sprache als Ownership-Mechanismus](../../images/taalalseigenaarschapmechanisme.png)
+![Sprache als Eigenverantwortungs-Mechanismus](../../images/taalalseigenaarschapmechanisme.png)
 
-# Sprache als Ownership
+# Sprache als Eigenverantwortung
 
-> *Der Unterschied zwischen "Kommunikationsprobleme" und "du redest gegen eine Wand" ist nicht semantisch — das Erste untergräbt Ownership, das Zweite schafft es.*
+> *Der Unterschied zwischen "Kommunikationsprobleme" und "du redest gegen eine Wand" ist nicht semantisch — das Erste untergräbt Eigenverantwortung, das Zweite schafft sie.*
 
 **Phase:** [Phase 1: Erfassen](../../phase-1-start.md)
 **Baut auf:** [Transkription als Fundament](transkription.md), mit Fokus auf das Bewahren der Originalsprache
@@ -15,9 +15,18 @@
 
 **Die Tendenz:** Alles in professionelle Sprache "aufräumen." Frustrationen in "Herausforderungen" übersetzen. Unordentliche Sätze in saubere Aufzählungspunkte umschreiben. Das Ergebnis klingt besser, aber niemand erkennt sich mehr wieder.
 
-**Das Prinzip:** Wenn Menschen ihre eigenen Worte im AI-Output hören oder sehen, erkennen sie sich wieder. Diese Wiedererkennung löst Ownership aus. Ohne Wiedererkennung kein Ownership. Ohne Ownership keine Verbindlichkeit.
+**Das Prinzip:** Wenn Menschen ihre eigenen Worte im AI-Output hören oder sehen, erkennen sie sich wieder. Diese Wiedererkennung löst Eigenverantwortung aus. Ohne Wiedererkennung keine Eigenverantwortung. Ohne Eigenverantwortung keine Verbindlichkeit.
 
-**Die Frage:** Wenn die Menschen, die dieses Gespräch geführt haben, dieses Ergebnis lesen: Sagen sie "ja, das haben wir gesagt" oder "das klingt nach einem Berater"?
+**Die Frage:** Wenn die Menschen, die dieses Gespräch geführt haben, dieses Ergebnis lesen: Sagen sie "ja, das haben wir gesagt" oder "das klinkt nach einem Berater"?
+
+<div class="definition-block">
+<span class="def-word">Eigenverantwortung</span> <span class="def-phonetic">/ˈaɪ.ɡn̩.fɛɐ̯ˌʔant.vɔr.tʊŋ/</span><br>
+<span class="def-class">Substantiv, feminin</span>
+
+<span class="def-text">Kein einzelnes deutsches Wort erfasst die gesamte Bewegung. Es beginnt bei <span class="def-highlight">Zugehörigkeit</span> — <em>ich gehöre dazu, mir wird zugehört.</em> Es wächst durch <span class="def-highlight">Selbstwirksamkeit</span> — <em>mein Beitrag zählt, ich erkenne mich wieder.</em> Und es mündet in <span class="def-highlight">Eigenverantwortung</span> — <em>ich übernehme Verantwortung für das, was gemeinsam entstanden ist.</em></span>
+
+<span class="def-text" style="font-size: 0.875rem; font-style: italic;">Nicht Verantwortung als Pflicht, sondern als Folge von Zugehörigkeit: weil ich mich darin wiederfinde, trage ich es mit.</span>
+</div>
 
 ---
 
@@ -41,15 +50,15 @@ Später in der Sitzung nutzt Facilitator Jeroen den Echo-Knopf. Es gibt eine ang
 
 > "Wow, wow. Das erfasst es wirklich gut. Das ist buchstäblich — ja, das ist wirklich die Frage, die wir stellen müssen."
 
-Der Übergang ist sichtbar: von Überraschung ("AI versteht uns?!") zu Wiedererkennung ("das ist buchstäblich, was wir gesagt haben") zu Ownership ("das ist die Frage, die wir stellen müssen").
+Der Übergang ist sichtbar: von Überraschung ("AI versteht uns?!") zu Wiedererkennung ("das ist buchstäblich, was wir gesagt haben") zu Eigenverantwortung ("das ist die Frage, die wir stellen müssen").
 
 Niemand hätte die gleiche Reaktion auf eine Synthese gehabt, die ihre Worte in Verwaltungssprache übersetzt hätte. Der Unterschied liegt nicht in der Struktur. Der Unterschied liegt in der Sprache.
 
 ---
 
-![Wiedererkennung schafft Ownership](../../images/taal-behouden-mechanisme-letterlijk.png)
+![Wiedererkennung schafft Eigenverantwortung](../../images/taal-behouden-mechanisme-letterlijk.png)
 
-## Der Mechanismus: Wiedererkennung schafft Ownership
+## Der Mechanismus: Wiedererkennung schafft Eigenverantwortung
 
 Warum funktioniert das? Der Mechanismus ist einfach, aber fundamental:
 
@@ -62,7 +71,7 @@ Warum funktioniert das? Der Mechanismus ist einfach, aber fundamental:
         ↓
 4. Wiedererkennung: "Ja, das habe ich gesagt"
         ↓
-5. Ownership: "Da steckt etwas von mir drin"
+5. Eigenverantwortung: "Da steckt etwas von mir drin"
         ↓
 6. Verbindlichkeit: "Da stehe ich hinter"
 ```
@@ -244,7 +253,7 @@ Nicht clustern - als einzelne Perlen mit Kontext bewahren.
 ```
 
 **Warum diese Struktur funktioniert:**
-- **Ownership-Skala** gibt AI einen konkreten Rahmen (0.0-1.0) zum Bewerten von Sprache
+- **Eigenverantwortungs-Skala** gibt AI einen konkreten Rahmen (0.0-1.0) zum Bewerten von Sprache
 - **"Als Fragen formulieren"** verhindert, dass AI Schlussfolgerungen zieht, die die Gruppe nicht gezogen hat
 - **"Einzelne Perlen"** schützt Ausreißer gegen den Drang, alles zu clustern
 - **Don'ts** sind explizit, weil AI dazu neigt, Frustrationen zu glätten
@@ -267,7 +276,7 @@ Schau dir das Ausgabeformat an:
 > - "Zitat darüber, wie das gesehen wird"
 > - "Zitat, das eine andere Nuance hinzufügt"
 
-Das ist Sprachbewahrung in Aktion. Nicht "manche denken X, andere denken Y," sondern wörtliche Zitate, die zeigen, wie verschiedene Menschen Dinge rahmen. Teilnehmende erkennen sich wieder. Und genau da beginnt Ownership.
+Das ist Sprachbewahrung in Aktion. Nicht "manche denken X, andere denken Y," sondern wörtliche Zitate, die zeigen, wie verschiedene Menschen Dinge rahmen. Teilnehmende erkennen sich wieder. Und genau da beginnt Eigenverantwortung.
 
 **Der Prompt:**
 ```prompt
@@ -314,12 +323,12 @@ Die Entscheidung, darauf einzugehen, bleibt bei dir.
 Was mir auffällt: AI-Output besteht wirklich immer aus zwei Schichten, und der Unterschied zählt.
 
 **Schicht 1: Was Teilnehmende gesagt haben**
-> Wörtliche Zitate, ihre Worte, ihre Rahmung. Das ist das Ownership.
+> Wörtliche Zitate, ihre Worte, ihre Rahmung. Das ist die Eigenverantwortung.
 
 **Schicht 2: Was AI beobachtet (zur Inspiration)**
 > Muster, Verbindungen, unerwartete Beobachtungen. Nicht von ihnen, sondern von der Maschine.
 
-Es klingt einfach, aber ohne diese Trennung passiert etwas Ärgerliches: Menschen erkennen sich nicht mehr wieder. Sie lesen ein Dokument und wissen nicht, welche Sätze ihre sind und welche AI sich ausgedacht hat. Genau dann verschwindet das Ownership, um das sich diese ganze Technik dreht.
+Es klingt einfach, aber ohne diese Trennung passiert etwas Ärgerliches: Menschen erkennen sich nicht mehr wieder. Sie lesen ein Dokument und wissen nicht, welche Sätze ihre sind und welche AI sich ausgedacht hat. Genau dann verschwindet die Eigenverantwortung, um die sich diese ganze Technik dreht.
 
 Ich denke, das ist auch der Grund, warum der Transparenz-Fußtext in den Prompts so wichtig ist: "Dieses Dokument wurde mit AI auf Basis eures Gesprächs zusammengestellt." Das ist nicht nur ein Disclaimer. Es ist die Vereinbarung, dass Menschen wissen, was sie lesen. Dass nichts heimlich von AI hinzugefügt wurde, ohne dass es sichtbar ist.
 
@@ -343,7 +352,7 @@ Der Beraterreflex ist, "es macht mich wahnsinnig" in "es gibt Herausforderungen"
 *Mein Ansatz:* Ich zitiere mit genug Kontext, um das Zitat verständlich zu machen, aber nicht so viel, dass die Kraft verschwindet.
 
 **Vergessen zu kennzeichnen**
-Wenn AI Muster erkennt oder Fragen stellt, kann Interpretation mit Ownership verschmelzen. Menschen wissen dann nicht mehr, was ihres ist und was von AI.
+Wenn AI Muster erkennt oder Fragen stellt, kann Interpretation mit Eigenverantwortung verschmelzen. Menschen wissen dann nicht mehr, was ihres ist und was von AI.
 
 *Mein Ansatz:* Ich mache visuell deutlich, was von Teilnehmenden kommt und was von AI. Kennzeichnen ist nicht optional.
 
@@ -357,21 +366,21 @@ Wenn AI Muster erkennt oder Fragen stellt, kann Interpretation mit Ownership ver
 - [ ] Teilnehmenden-Terminologie verwendet? (nicht in Fachjargon übersetzt)
 - [ ] Frustrationen als Frustrationen benannt? (nicht als "Herausforderungen")
 - [ ] Im Zweifel explizit gemacht? ("Möglicherweise unterbelichtet")
-- [ ] AI-Beobachtungen als AI gekennzeichnet? (nicht mit Ownership verschmolzen)
+- [ ] AI-Beobachtungen als AI gekennzeichnet? (nicht mit Eigenverantwortung verschmolzen)
 
 ---
 
 ## Philosophische Vertiefung
 
-**Prinzip:** Echtzeit-Feedback beschleunigt Ownership
+**Prinzip:** Echtzeit-Feedback beschleunigt Eigenverantwortung
 
 Es gibt einen Grund, warum der Moment in der Sitzung zur Transformation der psychischen Gesundheitsversorgung so auffallend war (das Netzwerk mit dreißig Teilnehmenden): Menschen sahen ihre Worte *sofort* zurückgespiegelt.
 
-Echtzeit-Feedback macht etwas mit Ownership, das verzögertes Feedback nicht kann. Wenn du deine Worte sofort zurückgespiegelt siehst, ist die Verbindung zwischen Sprechen und Ergebnis noch frisch. Du erkennst nicht nur die Worte; du erkennst den Moment. "Das habe ich gerade gesagt. Und jetzt steht es hier."
+Echtzeit-Feedback macht etwas mit Eigenverantwortung, das verzögertes Feedback nicht kann. Wenn du deine Worte sofort zurückgespiegelt siehst, ist die Verbindung zwischen Sprechen und Ergebnis noch frisch. Du erkennst nicht nur die Worte; du erkennst den Moment. "Das habe ich gerade gesagt. Und jetzt steht es hier."
 
-Darum funktioniert Live-Reflexion. Darum hat Live-Synthese eine Wirkung, die ein Bericht nie haben wird. Die Geschwindigkeit dient nicht der Effizienz. Die Geschwindigkeit dient dem Ownership.
+Darum funktioniert Live-Reflexion. Darum hat Live-Synthese eine Wirkung, die ein Bericht nie haben wird. Die Geschwindigkeit dient nicht der Effizienz. Die Geschwindigkeit dient der Eigenverantwortung.
 
-Aber (und das ist entscheidend) Geschwindigkeit ohne Sprachbewahrung ist kaum nützlich. Eine schnelle Synthese in Beratersprache stimuliert kein Ownership. Es muss beides sein: schnell und in ihren Worten.
+Aber (und das ist entscheidend) Geschwindigkeit ohne Sprachbewahrung ist kaum nützlich. Eine schnelle Synthese in Beratersprache stimuliert keine Eigenverantwortung. Es muss beides sein: schnell und in ihren Worten.
 
 ---
 
@@ -387,4 +396,4 @@ Aber (und das ist entscheidend) Geschwindigkeit ohne Sprachbewahrung ist kaum n�
 
 ---
 
-*"Die Worte der Teilnehmenden sind nicht nur Information, sie sind Ownership."*
+*"Die Worte der Teilnehmenden sind nicht nur Information, sie sind Eigenverantwortung."*

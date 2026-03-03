@@ -100,14 +100,14 @@ Die Synthese lieferte auch etwas, das du auf einen Blick lesen kannst. Von den s
 
 ```
                  T1  T2  T3  T4  T5  T6  T7
-Ownership         2   4   4   6   6   7   7   ▂▄▄▆▆▇▇
+Eigenverantwortung 2   4   4   6   6   7   7   ▂▄▄▆▆▇▇
 Energie           6   7   7   7   7   6   7   ▆▇▇▇▇▆▇
 Entscheidungen    5   4   1   5   6   6   7   ▅▄▁▅▆▆▇
 ```
 
-Drei Linien, drei Geschichten. Ownership steigt in zwei Sprüngen und konsolidiert sich: Die Gruppe übernimmt schrittweise die Initiative. Energie bleibt bemerkenswert stabil, mit einem Einbruch, der (vermutlich) nicht inhaltlich bedingt war, sondern daran lag, dass das Treffen online stattfand. Und Entscheidungen erzählt vielleicht die überraschendste Geschichte: ein Tal im dritten Treffen (der Check-in nahm die gesamte Sitzung ein), gefolgt von einer stetigen Beschleunigung, als die Gruppe lernte zu beraten und vor allem zu entscheiden.
+Drei Linien, drei Geschichten. Eigenverantwortung steigt in zwei Sprüngen und konsolidiert sich: Die Gruppe übernimmt schrittweise die Initiative. Energie bleibt bemerkenswert stabil, mit einem Einbruch, der (vermutlich) nicht inhaltlich bedingt war, sondern daran lag, dass das Treffen online stattfand. Und Entscheidungen erzählt vielleicht die überraschendste Geschichte: ein Tal im dritten Treffen (der Check-in nahm die gesamte Sitzung ein), gefolgt von einer stetigen Beschleunigung, als die Gruppe lernte zu beraten und vor allem zu entscheiden.
 
-Jede Linie sagt für sich etwas. Aber zusammen sagen sie mehr. Die stabile Energie stützt das Ownership-Wachstum: Die Gruppe bleibt dran, auch wenn es schwierig wird. Und die Beschleunigung bei Entscheidungen korreliert mit dem Moment, als eine konkrete Deadline kam.
+Jede Linie sagt für sich etwas. Aber zusammen sagen sie mehr. Die stabile Energie stützt das Wachstum der Eigenverantwortung: Die Gruppe bleibt dran, auch wenn es schwierig wird. Und die Beschleunigung bei Entscheidungen korreliert mit dem Moment, als eine konkrete Deadline kam.
 
 Die anderen drei Signale (Spannung, Gruppenidentität, Verhaltensmuster) sind qualitativ und schwerer in einem Diagramm zu erfassen, aber mindestens genauso wertvoll. Wie sich Spannung von "Wut auf das System" zu "Geduld versus Tatendrang" verschiebt. Wie sich Gruppenidentität von "kleiner Club" zu "vielfältige Doesburg-Bewohner, die etwas aufbauen" verändert. Solche Verschiebungen siehst du nur, wenn du systematisch zurückschaust.
 
@@ -123,7 +123,7 @@ Das Szenario zeigt, dass die Synthese funktioniert. Die Kurven zeigen, wie sich 
 
 **Loslassen:** Wovon sollte ich mich lösen? Perfektion. Vollständige Anwesenheit. Den ursprünglichen Plan, wenn der Prozess in eine andere Richtung geht.
 
-**Beobachten:** Worauf achte ich als Signal für echte Veränderung? Wer übernimmt die Führung nach einem öffentlichen Moment? Wenn du den nächsten Schritt initiieren musst, stagniert die Ownership-Linie. Wenn ein Gruppenmitglied spontan sagt "Ich schlage vor, wir machen das so", ist die Verschiebung echt.
+**Beobachten:** Worauf achte ich als Signal für echte Veränderung? Wer übernimmt die Führung nach einem öffentlichen Moment? Wenn du den nächsten Schritt initiieren musst, stagniert die Eigenverantwortungs-Linie. Wenn ein Gruppenmitglied spontan sagt "Ich schlage vor, wir machen das so", ist die Verschiebung echt.
 
 Diese vier Punkte sind nicht generisch. Sie kommen direkt aus den Daten von sieben Treffen. Das ist der Unterschied zu einer Standard-Checkliste: Jede Frage ist verwurzelt in dem, was tatsächlich gesagt und was tatsächlich passiert ist.
 
@@ -157,7 +157,7 @@ Die Facilitationskarte oben ist das konkreteste Beispiel. Aber die Vorbereitung 
 
 ### Als Evaluation
 
-Auftraggeber fragen oft: Funktioniert dieser Prozess? Mit Muster über Zeit kannst du die Verschiebung zeigen, nicht in abstrakten Begriffen, sondern in den Worten der Teilnehmenden selbst. Diese Ownership-Kurve von 2 auf 7 über sieben Treffen ist überzeugender als jedes Evaluationsformular.
+Auftraggeber fragen oft: Funktioniert dieser Prozess? Mit Muster über Zeit kannst du die Verschiebung zeigen, nicht in abstrakten Begriffen, sondern in den Worten der Teilnehmenden selbst. Diese Eigenverantwortungs-Kurve von 2 auf 7 über sieben Treffen ist überzeugender als jedes Evaluationsformular.
 
 ### Als Geschichte
 
@@ -547,7 +547,7 @@ Diese Geschichte ist wertvoll. Für die Gruppe selbst: um zu sehen, wie weit sie
 - [Transkription als Fundament](../phase-1/transkription.md) — das Rohmaterial sammeln
 - [Intuition schwarz auf weiß](../phase-2/intuition-schwarz-auf-weiss.md) — Muster in einer einzelnen Sitzung sichtbar machen
 - [Anknüpfungspunkte finden](anknuepfungspunkte-finden.md) — Verbindungsmuster in einem Gespräch, komplementär zu Verschiebungsmustern über Zeit
-- [Ownership wachsen sehen](ownership-wachstum.md) — spezifisches Muster: wie sich Ownership über Zeit entwickelt
+- [Eigenverantwortung wachsen sehen](ownership-wachstum.md) — spezifisches Muster: wie sich Eigenverantwortung über Zeit entwickelt
 
 ---
 

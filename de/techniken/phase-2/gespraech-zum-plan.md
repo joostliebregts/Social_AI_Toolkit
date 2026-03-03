@@ -89,7 +89,7 @@ Was ihn besonders macht: du verwendest denselben Prompt wiederholt. Jedes Mal mi
 
 2. **Reflexion bei Erstverwendung.** Für den ersten Entwurf generiert der Prompt auch eine kurze Reflexion: eine narrative Zusammenfassung der zentralen Erkenntnisse aus der Diskussion. Das zeigst du der Gruppe: "das hat AI gehört."
 
-3. **Feedback transparent verarbeitet.** In überarbeiteten Versionen markiert AI, was sich geändert hat und warum. Der Abschnitt "Verarbeitung des Feedbacks" zeigt genau, wie der Input der vorherigen Gruppe eingeflossen ist. Das erzeugt Ownership: Leute sehen, dass ihr Feedback zählt.
+3. **Feedback transparent verarbeitet.** In überarbeiteten Versionen markiert AI, was sich geändert hat und warum. Der Abschnitt "Verarbeitung des Feedbacks" zeigt genau, wie der Input der vorherigen Gruppe eingeflossen ist. Das erzeugt Eigenverantwortung: Leute sehen, dass ihr Feedback zählt.
 
 4. **Kernwerte als roter Faden.** Der Prompt identifiziert Werte aus der Diskussion und webt sie durch das gesamte Dokument. Das gibt dem Plan nicht nur Struktur, sondern auch Seele.
 
@@ -173,7 +173,7 @@ TEIL 2: ENTWURF (ODER ÜBERARBEITETER ENTWURF) DES TEILPLANS
 11. Schlussabschnitte:
    - **Rechenschaft über Feedbackverarbeitung** (NUR für überarbeitete Version): Wie Feedback zu spezifischen Änderungen geführt hat.
    - **Anmerkungen, fehlende Informationen und erwogene Alternativen:** Einschließlich 'Erwogene Alternativen und mögliche blinde Flecken' (1-2 Alternativen, 1-2 blinde Flecken).
-   - **Ein lebendes Dokument:** Einladung zu Feedback, Bedeutung von geteiltem Ownership.
+   - **Ein lebendes Dokument:** Einladung zu Feedback, Bedeutung von geteilter Eigenverantwortung.
 
 **Input:**
 - Basisdiskussion(en): [Transkript(e)]
@@ -308,20 +308,20 @@ Das Dokument ist technisch korrekt, aber vermisst die Energie des Gesprächs.
 
 ## Philosophische Vertiefung
 
-### Direktes Feedback stimuliert Ownership
+### Direktes Feedback stimuliert Eigenverantwortung
 
 Es gibt einen Grund, warum das funktioniert. Wenn Leute ihre Worte sofort zurückgespiegelt sehen, ist die Verbindung zwischen Sprechen und Ergebnis noch frisch.
 
 "Das habe ich gerade gesagt. Und jetzt steht es hier."
 
-Das ist anders als ein Bericht eine Woche später. Die Geschwindigkeit dient nicht der Effizienz; die Geschwindigkeit dient dem Ownership.
+Das ist anders als ein Bericht eine Woche später. Die Geschwindigkeit dient nicht der Effizienz; die Geschwindigkeit dient der Eigenverantwortung.
 
 ### Das Ritual ändert sich, die Intention bleibt
 
 Das alte Ritual: Haftnotizen, Clustern, ein Tag Arbeit, Entwurf, Review, Endversion.
 Das neue Ritual: Sprechen, sofortiger Output, Validieren, Verfeinern.
 
-Die Form ist anders. Aber die Intention (Leute zu Eigentümern eines Plans machen) bleibt dieselbe. Tatsächlich: durch die Geschwindigkeit ist das Ownership direkter.
+Die Form ist anders. Aber die Intention (Leute zu Eigentümern eines Plans machen) bleibt dieselbe. Tatsächlich: durch die Geschwindigkeit ist die Eigenverantwortung direkter.
 
 ---
 
@@ -337,4 +337,4 @@ Die Form ist anders. Aber die Intention (Leute zu Eigentümern eines Plans mache
 
 ---
 
-*"Von einem Tag Arbeit zu Minuten Verarbeitung: nicht für Effizienz, sondern für Ownership."*
+*"Von einem Tag Arbeit zu Minuten Verarbeitung: nicht für Effizienz, sondern für Eigenverantwortung."*

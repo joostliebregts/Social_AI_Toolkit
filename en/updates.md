@@ -4,6 +4,12 @@
 
 ---
 
+## 3 March 2026
+
+**German translation available**
+
+- **Full translation** — All 19 pages of the field guide are now also available in German: Phase 1, Phase 2, Phase 3, and the main pages. The field guide is now available in three languages: Dutch, English, and German. You can switch languages via the language button at the bottom of the sidebar.
+
 ## 2 March 2026
 
 **English translation available**

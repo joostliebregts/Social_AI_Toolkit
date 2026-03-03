@@ -14,7 +14,7 @@ So wie ich es sehe, beginnt es dort. Beim Menschen.
 
 ## Es beginnt beim Menschen
 
-Das klingt vielleicht selbstverständlich. Aber was mir in der Praxis auffällt: Es läuft oft anders. Jemand hat einen Plan, präsentiert ihn und fragt, ob er richtig ist. Die Absicht ist gut. Aber das Ownership liegt bei der Person, die ihn sich ausgedacht hat, nicht bei der Gruppe. Wer es nicht selbst gesagt hat, erkennt sich weniger darin wieder.
+Das klingt vielleicht selbstverständlich. Aber was mir in der Praxis auffällt: Es läuft oft anders. Jemand hat einen Plan, präsentiert ihn und fragt, ob er richtig ist. Die Absicht ist gut. Aber die Eigenverantwortung liegt bei der Person, die ihn sich ausgedacht hat, nicht bei der Gruppe. Wer es nicht selbst gesagt hat, erkennt sich weniger darin wieder.
 
 In dieser Feldanleitung kommt das immer wieder, auf verschiedene Weisen. Wenn du eine Sitzung vorbereitest: Was wollen wir erreichen, und welche Erfahrung gestaltest du dafür? Wenn du AI einsetzt: Was gibst du ihr? Die Worte der Menschen selbst, nicht deine Zusammenfassung. Wenn du der Gruppe etwas zurückspiegelst: Erkennen die Menschen sich in dem wieder, was da steht? Und wenn du dir unsicher bist über den richtigen Moment: Was braucht diese Gruppe jetzt?
 
@@ -40,7 +40,7 @@ Nach einer Weile begann ich Muster zu sehen. Ich habe diese Muster in sechs Prin
 | ------------------------ | ----------------------------- | ------------------------------- |
 | Ritual vs Intention         | Rituale effizienter machen   | Die Intention bewahren            |
 | Deine Worte, dein Plan    | Analysieren und zusammenfassen         | Formulieren und entscheiden           |
-| Ownership durch Sprache | Wörtlich zitieren              | Die Wiedererkennung spüren            |
+| Eigenverantwortung durch Sprache | Wörtlich zitieren              | Die Wiedererkennung spüren            |
 | Iteration als Dialog    | Schnell generieren              | Steuern und Feedback geben         |
 | Timing vor Perfektion   | Sofort reagieren           | Den richtigen Moment spüren           |
 | Erst die Menschen prompten  | Input verarbeiten                 | Die Erfahrung gestalten           |
@@ -67,19 +67,19 @@ In einer Sitzung über Versorgungsinnovation hatte AI eine wunderschöne Synthes
 
 Meine Antwort: "Das kann sie absolut, aber du bist die Seele von all dem. Die Tatsache, dass ihr darüber redet, ist das, was dazu führt, dass ihr es auch tragt."
 
-Der Punkt ist nicht, dass AI keinen Plan machen kann — das kann sie absolut. Der Punkt ist, dass Ownership entsteht, wenn wir etwas von uns selbst hineingeben. Wenn du es sagst, gehört es dir. Wenn AI es sagt, gehört es AI.
+Der Punkt ist nicht, dass AI keinen Plan machen kann — das kann sie absolut. Der Punkt ist, dass Eigenverantwortung entsteht, wenn wir etwas von uns selbst hineingeben. Wenn du es sagst, gehört es dir. Wenn AI es sagt, gehört es AI.
 
 *Bleibt der Dialog zentral, oder nehmen wir eine Abkürzung zu Lösungen?*
 
-Ownership entsteht, wenn man es selbst sagt. Aber wie stellst du sicher, dass diese Worte wirklich ihre bleiben?
+Eigenverantwortung entsteht, wenn man es selbst sagt. Aber wie stellst du sicher, dass diese Worte wirklich ihre bleiben?
 
 ---
 
-### 3. Ownership durch Sprache
+### 3. Eigenverantwortung durch Sprache
 
 Der Unterschied zwischen "man redet gegen eine Wand" und "Kommunikationsprobleme" scheint klein. Aber das erste ist, was jemand gesagt hat: roh, emotional, wiedererkennbar. Das zweite ist Beratersprache: glatt, professionell, unpersönlich.
 
-Wenn Menschen ihre eigenen Worte zurückgespiegelt sehen, erkennen sie sich wieder: "Ja, das haben wir gesagt." In dieser Wiedererkennung entsteht Ownership. Paraphrasieren (wie gut gemeint auch immer) bricht das auf.
+Wenn Menschen ihre eigenen Worte zurückgespiegelt sehen, erkennen sie sich wieder: "Ja, das haben wir gesagt." In dieser Wiedererkennung entsteht Eigenverantwortung. Paraphrasieren (wie gut gemeint auch immer) bricht das auf.
 
 Ich denke, das ist der einfachste Test: Wenn Menschen denken "Ja, das haben wir gesagt", funktioniert es. Wenn sie denken "Das klingt wie ein Berater", stimmt etwas nicht.
 
@@ -147,7 +147,7 @@ Diese Prinzipien sind nicht nur Richtlinien. Sie öffnen etwas.
 
 Es gibt jetzt Intelligenz, die du vorher nicht hattest. Alles, was du brauchst, ist ein Transkript und Ideen darüber, was du damit machen willst. Was danach möglich wird, ist praktisch endlos.
 
-**AI macht sichtbar, was schon da ist.** Muster in dem, was Menschen gesagt haben, Verbindungen, die du live verpasst hast, das Ownership, das in ihren Worten steckt. Nicht indem etwas Neues hinzugefügt wird, sondern indem sichtbar wird, was schon da war.
+**AI macht sichtbar, was schon da ist.** Muster in dem, was Menschen gesagt haben, Verbindungen, die du live verpasst hast, die Eigenverantwortung, die in ihren Worten steckt. Nicht indem etwas Neues hinzugefügt wird, sondern indem sichtbar wird, was schon da war.
 
 **AI macht Beteiligung skalierbar.** Was vorher nur mit kleinen Gruppen möglich war (wirklich zuhören, jeden hören, gemeinsam zu etwas kommen) wird in größerem Maßstab möglich. Nicht indem das Menschliche ersetzt wird, sondern indem es verstärkt wird.
 

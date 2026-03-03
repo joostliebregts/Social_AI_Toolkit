@@ -78,7 +78,7 @@ Das Gleiche gilt hier: "Was denkst du über die Zusammenarbeit?" liefert Analyse
 **Die Frage, umgerahmt:**
 > "Wenn wir das System mal kurz beiseitelassen: was könntest du persönlich tun? Wo hast du Einfluss?"
 
-**Warum das funktioniert:** Indem du die Frage in ein anderes Licht stellst (vom System zur Person), aktivierst du Ownership. Systemsprache ist sicher, aber passiv. Persönliches Handeln macht Angst, aber aktiviert.
+**Warum das funktioniert:** Indem du die Frage in ein anderes Licht stellst (vom System zur Person), aktivierst du Eigenverantwortung. Systemsprache ist sicher, aber passiv. Persönliches Handeln macht Angst, aber aktiviert.
 
 ---
 

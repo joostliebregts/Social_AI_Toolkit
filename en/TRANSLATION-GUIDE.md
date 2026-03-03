@@ -162,7 +162,7 @@ Preserve this bottom-up discovery structure. Don't front-load conclusions.
 
 | Nederlands | English |
 |-----------|---------|
-| Ritueel vs intentie | Ritual vs intent |
+| Ritueel vs intentie | Ritual vs intention |
 | Jouw woorden, jouw plan | Your words, your plan |
 | Eigenaarschap door taal | Ownership through language |
 | Iteratie als dialoog | Iteration as dialogue |
@@ -225,17 +225,38 @@ Doesburg, Social AI Field Guide, Dembrane. These are proper names.
 
 ---
 
-## D. What NOT to Translate
+## D. What to Translate and What NOT to Translate
+
+### Prompts: TRANSLATE to English
+
+Prompts inside technique pages **must be translated to English**. The English reader needs working prompts they can copy-paste directly.
+
+**How to translate prompts:**
+- Translate the instruction text to clear, functional English
+- Keep the prompt structure (role instructions, context, output format) identical
+- Preserve placeholder markers like `[transcript]`, `[naam]` → `[name]`, `[onderwerp]` → `[topic]`
+- Keep technical terms that LLMs expect (e.g., "transcript", "summary", "analysis")
+- The prompt should work with any LLM — test mentally: would this produce the right output?
+
+**Example:**
+
+Dutch prompt:
+```
+Lees het volgende transcript van een groepsgesprek. Geef een samenvatting die de kernpunten bewaart in de woorden van de deelnemers zelf.
+```
+
+English prompt:
+```
+Read the following transcript of a group conversation. Provide a summary that preserves the key points in the participants' own words.
+```
 
 ### Never translate these elements
 
-1. **Prompts inside code blocks** — These are already written to work with any LLM and are often in English or should remain in Dutch as working prompts.
-2. **Image filenames and paths** — `images/echo-button.png` stays unchanged.
-3. **Person names** — Rianne Runhaar, Jojanneke Diemers, Jeroen, Maarten.
-4. **Project names** — Doesburg, Social AI Field Guide, Dembrane.
-5. **Tool names** — MacWhisper, Claude, ChatGPT, Notion AI, Google Doc.
-6. **Code blocks** — Keep content inside ``` blocks unchanged.
-7. **Frontmatter keys** — If files have YAML frontmatter, translate values but not keys.
+1. **Image filenames and paths** — `images/echo-button.png` stays unchanged.
+2. **Person names** — Rianne Runhaar, Jojanneke Diemers, Jeroen, Maarten.
+3. **Project names** — Doesburg, Social AI Field Guide, Dembrane.
+4. **Tool names** — MacWhisper, Claude, ChatGPT, Notion AI, Google Doc.
+5. **Frontmatter keys** — If files have YAML frontmatter, translate values but not keys.
 
 ---
 
@@ -501,7 +522,7 @@ Before submitting any translation, verify:
 - [ ] Cultural references have minimal context added
 - [ ] Anonymization rules followed (investment cooperative, GGZ Amsterdam)
 - [ ] Named people preserved correctly
-- [ ] Prompts in code blocks left untouched
+- [ ] Prompts in code blocks translated to English
 - [ ] No em-dash overuse
 - [ ] "What I notice..." not "Research shows..."
 - [ ] "I think..." not "It is clear that..."

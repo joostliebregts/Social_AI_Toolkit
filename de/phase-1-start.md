@@ -52,17 +52,17 @@ Aber die Frage ist nicht, wie du an Text kommst. Die Frage ist, was du damit mac
 
 ---
 
-### Sprache als Ownership
+### Sprache als Eigenverantwortung
 
 Das ist einer der Gründe, warum Transkription so wertvoll ist.
 
 Der Unterschied zwischen "du redest gegen eine Wand" und "Kommunikationsprobleme" scheint klein. Aber das Erste ist, was jemand gesagt hat: roh, emotional, wiedererkennbar. Das Zweite ist Beratersprache. Und dieser Unterschied bestimmt, ob sich die Menschen im Ergebnis wiedererkennen.
 
-Wenn Menschen ihre eigenen Worte zurückgespiegelt sehen, entsteht Ownership. Nicht weil die Synthese perfekt ist, sondern weil sie wiedererkennbar ist. "Ja, das haben wir gesagt": Das ist der Moment, in dem Beteiligung zu Verbindlichkeit wird.
+Wenn Menschen ihre eigenen Worte zurückgespiegelt sehen, entsteht Eigenverantwortung. Nicht weil die Synthese perfekt ist, sondern weil sie wiedererkennbar ist. "Ja, das haben wir gesagt": Das ist der Moment, in dem Beteiligung zu Verbindlichkeit wird.
 
 Das ist das dritte Prinzip aus den [sechs Prinzipien](wie.md#3-ownership-durch-sprache): Die eigenen Worte wörtlich zu bewahren ist kein Detail, es ist der Mechanismus.
 
-> *[Tiefer eintauchen: Sprache als Ownership](techniken/phase-1/sprache-bewahren.md)*
+> *[Tiefer eintauchen: Sprache als Eigenverantwortung](techniken/phase-1/sprache-bewahren.md)*
 
 ---
 
@@ -72,7 +72,7 @@ Manchmal muss das Transkript nicht nur die Sprache der Teilnehmenden festhalten,
 
 Es gibt ein genehmigtes Dokument. Die Frage: Wie schreibst du neue Inhalte im gleichen Stil, während du die Worte der Teilnehmenden bewahrst?
 
-AI kann die Stilmerkmale eines Quelldokuments analysieren und auf neue Informationen anwenden. Struktur, Ton, Terminologie; systematisch übernommen. Die Form darf sich ändern, solange das Ownership intakt bleibt.
+AI kann die Stilmerkmale eines Quelldokuments analysieren und auf neue Informationen anwenden. Struktur, Ton, Terminologie; systematisch übernommen. Die Form darf sich ändern, solange die Eigenverantwortung intakt bleibt.
 
 > *[Tiefer eintauchen: Quelldokument als Stilvorlage](techniken/phase-1/quelldokument-stil.md)*
 
@@ -126,7 +126,7 @@ Willst du sofort loslegen? Die Technik [Transkription als Fundament](techniken/p
 | Technik | Was sie tut | Wann einsetzen |
 |-----------|--------------|-------------|
 | [Transkription als Fundament](techniken/phase-1/transkription.md) | Aufzeichnen, Struktur erkennen, durchsuchbar machen | Bei jedem Gespräch, das reichhaltig genug ist, um es festzuhalten |
-| [Sprache als Ownership](techniken/phase-1/sprache-bewahren.md) | Ownership schaffen durch wörtliches Zitieren | Für Synthesen und Rückmeldungen an Teilnehmende |
+| [Sprache als Eigenverantwortung](techniken/phase-1/sprache-bewahren.md) | Eigenverantwortung schaffen durch wörtliches Zitieren | Für Synthesen und Rückmeldungen an Teilnehmende |
 | [Quelldokument als Stilvorlage](techniken/phase-1/quelldokument-stil.md) | Neue Dokumente im bestehenden Stil | Wenn du organisatorische Standards einhalten musst |
 
 ---

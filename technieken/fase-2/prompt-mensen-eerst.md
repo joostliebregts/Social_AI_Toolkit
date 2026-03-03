@@ -300,7 +300,7 @@ In Doesburg leerde de regiegroep dat standaard communicatie (e-mail, websites, f
 
 > "Uitnodigen moet je bloemenkwekers niet doen per e-mail... Je moet een appje sturen, want dat lezen ze op de trekker."
 
-Dit is niet alleen een kanaalkeuze. Het is een breder patroon: in de moskee aanwezig zijn in plaats van een brief sturen. Teksten schrijven op groep 8 niveau, niet omdat mensen dom zijn, maar omdat het helder moet zijn. De groep is uiteindelijk ook daadwerkelijk mensen individueel gaan uitnodigen voor de sleutelfigurensessie.
+Dit is niet alleen een kanaalkeuze. Het is een breder patroon: in de moskee aanwezig zijn in plaats van een brief sturen. Teksten schrijven op groep 8 niveau, niet omdat mensen dom zijn, maar omdat het helder moet zijn. De regiegroep in Doesburg is uiteindelijk ook daadwerkelijk mensen individueel gaan uitnodigen voor een belangrijke sessie.
 
 De les voor "prompt de mensen eerst": als je mensen benadert via een kanaal dat niet van hen is, bereik je ze niet. De vraag "hoe ontwerp ik de input-ervaring?" begint eerder dan je denkt.
 

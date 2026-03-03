@@ -94,8 +94,10 @@ Wenn du merkst, dass ein Satz länger als 20 Wörter wird, brich ihn auf. Kurze 
 | English | Deutsch | Anmerkungen |
 |---------|---------|-------------|
 | participants / people involved | Beteiligte / Teilnehmende | NIEMALS "Stakeholder" außer in formellem institutionellem Kontext |
-| ownership / agency | Eigenverantwortung / Ownership | "Ownership" als Lehnwort ist im Facilitationskontext akzeptiert |
-| ownership (through language) | Ownership durch Sprache | Zentrales Konzept, konsistent halten |
+| ownership / agency | Eigenverantwortung | Standardübersetzung. "Ownership" NUR als bewusstes Lehnwort in internationalem Facilitationskontext. Drei Aspekte: **Zugehörigkeit** (ich gehöre dazu), **Selbstwirksamkeit** (mein Beitrag zählt), **Eigenverantwortung** (ich trage es mit) |
+| ownership (through language) | Eigenverantwortung durch Sprache | Zentrales Konzept, konsistent halten |
+| recognition (as mechanism) | Wiedererkennung | Das Mechanismus: Menschen erkennen sich in AI-Output wieder |
+| commitment (as result) | Verbindlichkeit | Das Ergebnis von Eigenverantwortung |
 | common ground | Gemeinsamer Boden / was uns verbindet | kontextabhängig |
 | reframing | Neugestaltung / Umrahmen | |
 | facilitator | Facilitator | Lehnwort behalten, NIEMALS als Joosts Titel |
@@ -160,7 +162,7 @@ Wenn du merkst, dass ein Satz länger als 20 Wörter wird, brich ihn auf. Kurze 
 |---------|---------|
 | Ritual vs intention | Ritual vs Intention |
 | Your words, your plan | Deine Worte, dein Plan |
-| Ownership through language | Ownership durch Sprache |
+| Ownership through language | Eigenverantwortung durch Sprache |
 | Iteration as dialogue | Iteration als Dialog |
 | Timing over perfection | Timing vor Perfektion |
 | Prompt the people first | Erst die Menschen prompten |

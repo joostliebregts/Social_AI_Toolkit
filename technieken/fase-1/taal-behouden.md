@@ -19,6 +19,13 @@
 
 **De vraag:** Als de mensen die dit gesprek voerden dit resultaat lezen, zeggen ze dan "ja, dat zeiden wij" of "dat klinkt als een consultant"?
 
+<div class="definition-block">
+<span class="def-word">eigenaarschap</span> <span class="def-phonetic">/ˈɛi.ɣə.naːr.sxɑp/</span><br>
+<span class="def-class">zelfstandig naamwoord</span>
+
+<span class="def-text">Het gevoel dat ontstaat wanneer mensen hun eigen woorden, ideeën of ervaringen terugzien in wat er met hun bijdrage is gemaakt. Niet eigenaarschap als bezit, maar als herkenning: <em>dit is van mij, want ik hoor hierin terug.</em> Het begint bij gehoord worden, en het eindigt bij de bereidheid om verantwoordelijkheid te nemen voor wat er samen is ontstaan.</span>
+</div>
+
 ---
 
 ## Het verhaal: "Dit is letterlijk wat we zeiden"

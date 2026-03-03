@@ -16,13 +16,13 @@ What I do hope to convey is a way of thinking. Not *which buttons to press*, but
 
 ## Why a snapshot
 
-AI is developing fast. What still requires human judgment today might be different a year from now. The table that currently says "AI can suggest patterns, the person needs to assess whether they're right." That's shifting.
+AI is developing fast. What still requires human judgment today might be different a year from now. The table that currently says "AI can suggest patterns, the person needs to assess whether they're right" is shifting.
 
 My expectation: as AI gets better at absorbing and working with more context, it will see patterns that we don't see. It will show us things about how we collaborate, what we need as groups, where our blind spots are.
 
 That doesn't mean the human element disappears. It means we'll learn: from AI, about ourselves. And that requires openness: not holding on to what we think we know, but staying curious about what becomes visible.
 
-This guide is written from where we stand now. A year from now, part of it might no longer hold. That's not a weakness — that's how it should be.
+This guide is written from where we stand now. A year from now, part of it might no longer hold. That's not a weakness. That's how it should be.
 
 ---
 
@@ -60,8 +60,8 @@ AI can amplify. The real work stays between people.
 
 I'm Joost. I work at the intersection of technology and human collaboration: how can digital tools amplify what makes us human, instead of replacing it?
 
-This is my perspective, based on my experience. Not the truth; an invitation to discover what works for you.
+This is my perspective, based on my experience. Not the truth. An invitation to discover what works for you.
 
 ---
 
-> *[Go to: Why Social AI?](why.md)*
+→ *[Go to: Why Social AI?](why.md)*

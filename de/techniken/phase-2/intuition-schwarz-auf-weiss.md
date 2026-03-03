@@ -140,7 +140,7 @@ Pro gefundenem Muster:
 **Warum diese Struktur funktioniert:**
 - **Strenge Basis** "Streng basiert auf dem, was da ist, nicht auf Interpretation" verhindert, dass AI deinen Bestätigungsfehler füttert
 - **Vorsichtige Sprache** "Im Zweifel: 'möglicherweise' statt definitiver Aussagen" lässt Raum für die Gruppe, selbst zu prüfen
-- **Ihre Worte** "Verwende ihre Worte, nicht deine Zusammenfassungen" bewahrt Ownership: Menschen erkennen sich wieder
+- **Ihre Worte** "Verwende ihre Worte, nicht deine Zusammenfassungen" bewahrt Eigenverantwortung: Menschen erkennen sich wieder
 - **Vorannahmen explizit** "Suche nicht nach dem, was ich finden will" macht deine eigenen Vorannahmen explizit im Prompt
 
 *Das ist ein Ausgangspunkt: Passe ihn an deine spezifische Situation an und füge Kontext hinzu über das, wonach du suchst.*

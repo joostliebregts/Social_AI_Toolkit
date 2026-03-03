@@ -62,7 +62,7 @@ Was interessant ist, ist das, was danach passierte: Menschen fühlten sich gehö
 
 Was ich in diesem Moment gesehen habe, war etwas, wonach ich lange gesucht hatte.
 
-Menschen, die sich nicht gehört fühlen, steigen aus. Oder sie machen mit, aber fühlen kein Ownership. Oder sie kämpfen weiter, um gehört zu werden, was als Widerstand oder Störung abgestempelt wird. Dinge, die wir ständig sehen, in Organisationen, in Teams, in unserer Gesellschaft.
+Menschen, die sich nicht gehört fühlen, steigen aus. Oder sie machen mit, aber fühlen keine Eigenverantwortung. Oder sie kämpfen weiter, um gehört zu werden, was als Widerstand oder Störung abgestempelt wird. Dinge, die wir ständig sehen, in Organisationen, in Teams, in unserer Gesellschaft.
 
 Und hier sah ich das Gegenteil. Eine Gruppe, die feststeckte, die durch eine einfache Frage (basierend auf ihren eigenen Worten) plötzlich wieder weiterkam. Nicht weil AI die Antwort gab. Sondern weil AI zurückspiegelte, was sie bereits gesagt hatten, auf eine Weise, die ihnen half, den nächsten Schritt zu sehen.
 
@@ -80,7 +80,7 @@ Das meine ich mit AI, die verstärkt, was uns menschlich macht. Unsere Kreativit
 
 Und wenn du das stapelst, über Sitzungen hinweg, über Projekte hinweg, über Gemeinschaften hinweg, entsteht etwas Größeres.
 
-Stell dir vor: Lokales Wissen wird skalierbar. Eine Maßnahme, die in einem Stadtteil funktioniert hat. AI hilft zu entdecken, *warum* sie funktioniert hat, wie Handeln zu Ergebnissen führte, wie Ownership über die Zeit gewachsen ist. Und dann diese Erkenntnis teilen, damit ein anderer Stadtteil, eine andere Gemeinde, ein anderes Land davon lernen kann.
+Stell dir vor: Lokales Wissen wird skalierbar. Eine Maßnahme, die in einem Stadtteil funktioniert hat. AI hilft zu entdecken, *warum* sie funktioniert hat, wie Handeln zu Ergebnissen führte, wie Eigenverantwortung über die Zeit gewachsen ist. Und dann diese Erkenntnis teilen, damit ein anderer Stadtteil, eine andere Gemeinde, ein anderes Land davon lernen kann.
 
 Zusammenarbeit im großen Maßstab. Tiefer entdecken, was wir als Menschen brauchen, in einer Straße, in einer Gemeinde, in der Welt. Was ein Einzelner braucht. Was wir gemeinsam brauchen, um gesund und glücklich zu sein.
 

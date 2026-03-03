@@ -142,7 +142,7 @@ AI im Gespräch einsetzen mit einem menschlichen Touch. Du stellst sie vor wie e
 **Wann einsetzen:**
 - Echtzeit-Feedback während einer Sitzung
 - Multi-Session-Prozesse, bei denen du Muster über Zeit verfolgen willst
-- Ownership in der Sprache der Teilnehmenden ist entscheidend
+- Eigenverantwortung in der Sprache der Teilnehmenden ist entscheidend
 - Gruppen ohne erfahrenen Facilitator, die trotzdem Struktur wollen
 
 **Was es besonders macht:**

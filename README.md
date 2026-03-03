@@ -2,10 +2,11 @@
 
 ![Social AI Field Guide](images/socialaitoolkit.png)
 
-**v1.1** — March 2026
+**v1.2** — March 2026
 
 > **[Read the Field Guide online (Dutch) -> jmfl.nl/social-ai](https://jmfl.nl/social-ai/)**
-> **[English version (preview) -> jmfl.nl/social-ai/en/](https://jmfl.nl/social-ai/en/)**
+> **[English version -> jmfl.nl/social-ai/en/](https://jmfl.nl/social-ai/en/)**
+> **[German version -> jmfl.nl/social-ai/de/](https://jmfl.nl/social-ai/de/)**
 
 **How can AI help us strengthen collaboration?**
 
@@ -91,9 +92,12 @@ More Phase 3 techniques are in development.
 
 ---
 
-## English translation
+## Translations
 
-An English translation is available in the [`en/`](en/) directory, covering all published techniques across Phase 1, Phase 2, and Phase 3. The online English version is in preview at [jmfl.nl/social-ai/en/](https://jmfl.nl/social-ai/en/).
+An **English** translation is available in the [`en/`](en/) directory, and a **German** translation in the [`de/`](de/) directory. Both cover all published techniques across Phase 1, Phase 2, and Phase 3.
+
+- [English online version](https://jmfl.nl/social-ai/en/)
+- [German online version](https://jmfl.nl/social-ai/de/)
 
 ---
 
@@ -132,9 +136,9 @@ And others with whom I've done meaningful work that we can't share publicly — 
 
 ## Status
 
-This is v1.1.
+This is v1.2.
 
-**What's in it:** The vision, the 6 principles, Phase 1 with three techniques, Phase 2 with seven fully developed techniques, Phase 3 with its first technique (Patterns over time), English translations of all published content, and a [visual online version](https://jmfl.nl/social-ai/) with an [English preview](https://jmfl.nl/social-ai/en/).
+**What's in it:** The vision, the 6 principles, Phase 1 with three techniques, Phase 2 with seven fully developed techniques, Phase 3 with its first technique (Patterns over time), full English and German translations of all published content, and a [visual online version](https://jmfl.nl/social-ai/) in [Dutch](https://jmfl.nl/social-ai/), [English](https://jmfl.nl/social-ai/en/), and [German](https://jmfl.nl/social-ai/de/).
 
 **What's next:** More Phase 3 techniques are being developed. Extra techniques (transcript to podcast, chat to profile) will follow.
 

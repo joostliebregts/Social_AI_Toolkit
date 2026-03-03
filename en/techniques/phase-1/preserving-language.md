@@ -19,6 +19,13 @@
 
 **The question:** If the people who had this conversation read this result, do they say "yes, that's what we said" or "that sounds like a consultant"?
 
+<div class="definition-block">
+<span class="def-word">ownership</span> <span class="def-phonetic">/ˈoʊ.nər.ʃɪp/</span><br>
+<span class="def-class">noun</span>
+
+<span class="def-text">The sense that emerges when people recognize their own words, ideas, or experiences in what has been created with their contribution. Not ownership as possession, but as recognition: <em>this is mine, because I can hear myself in it.</em> It starts with being heard, and it ends with the willingness to take responsibility for what was built together.</span>
+</div>
+
 ---
 
 ## The story: "This is literally what we said"

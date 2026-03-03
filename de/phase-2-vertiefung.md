@@ -125,7 +125,7 @@ Hier kommt alles zusammen: Du hast gelernt, wie du Tiefe aus Transkripten holst,
 
 Ein Schritt weiter als Live-Reflexion: Was, wenn du nicht nur eine Frage zurückgibst, sondern ein ganzes Entwurfsdokument generierst, während die Sitzung noch läuft?
 
-In strategischen Sitzungen oder Workshops, bei denen ein Plan entstehen soll, kannst du AI nutzen, um in den Pausen Entwurfsabschnitte zu generieren. Die Teilnehmenden sehen ihre Worte sofort zurückgespiegelt, strukturiert im Format, das die Organisation braucht. Von einem Arbeitstag zu Minuten; nicht für Effizienz, sondern für Ownership. Denn die Feedback-Schleife verkürzt sich: Was die Leute gesagt haben, ist noch frisch, sie erkennen es sofort wieder.
+In strategischen Sitzungen oder Workshops, bei denen ein Plan entstehen soll, kannst du AI nutzen, um in den Pausen Entwurfsabschnitte zu generieren. Die Teilnehmenden sehen ihre Worte sofort zurückgespiegelt, strukturiert im Format, das die Organisation braucht. Von einem Arbeitstag zu Minuten; nicht für Effizienz, sondern für Eigenverantwortung. Denn die Feedback-Schleife verkürzt sich: Was die Leute gesagt haben, ist noch frisch, sie erkennen es sofort wieder.
 
 Das erfordert allerdings einen Co-Facilitator, der sich um die Technik kümmert, während du bei der Gruppe bleibst. Und es erfordert Validierung unterwegs: Präsentiere es niemals so, als hätte AI die Wahrheit eingefangen.
 
