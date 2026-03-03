@@ -261,10 +261,10 @@ Beachte:
 ```
 
 **Warum diese Struktur funktioniert:**
-- **"Konkrete Erfahrungen, keine Meinungen"** verhindert, dass du abstrakte Fragen entwirfst, die abstrakte Antworten liefern
-- **"Jeweils ein anderes Puzzleteil"** zwingt dich, vorauszudenken, welche Zutaten du brauchst
-- **"Von Emotion zu Analyse"** stellt sicher, dass die Reihenfolge stimmt
-- **"Vermeide 'Was denkst du über...'"** blockiert die Standardfrage, die Meinungen liefert
+- "Konkrete Erfahrungen, keine Meinungen" verhindert, dass du abstrakte Fragen entwirfst, die abstrakte Antworten liefern
+- "Jeweils ein anderes Puzzleteil" zwingt dich, vorauszudenken, welche Zutaten du brauchst
+- "Von Emotion zu Analyse" stellt sicher, dass die Reihenfolge stimmt
+- "Vermeide 'Was denkst du über...'" blockiert die Standardfrage, die Meinungen liefert
 
 *Das ist ein Vorschlag: Pass ihn an deine spezifische Situation an.*
 

@@ -240,11 +240,11 @@ Considered Alternatives and Possible Blind Spots
 ```
 
 **Why this structure works:**
-- **"Base output strictly on explicit information"** prevents AI from making things up. You get honest output with clear gaps that you can fill in.
-- **"Refer explicitly to how feedback was processed"** transparency about what was done with the input. People see that their contribution matters.
-- **"Core values as common thread"** the document gets coherence from the values the group itself identified.
-- **The two-part structure (echo + sub-plan)** first showing what AI heard, then the document. That sequence gives the group grip: first recognition, then structure.
-- **Style in the prompt.** The prompt contains style guidelines so AI doesn't write generically, but in the language and structure the organization expects. (See [Source document style cloning](../phase-1/source-document-style.md) for how to define that style.)
+- "Base output strictly on explicit information" prevents AI from making things up. You get honest output with clear gaps that you can fill in.
+- "Refer explicitly to how feedback was processed" transparency about what was done with the input. People see that their contribution matters.
+- "Core values as common thread" the document gets coherence from the values the group itself identified.
+- "The two-part structure (echo + sub-plan)" first showing what AI heard, then the document. That sequence gives the group grip: first recognition, then structure.
+- "Style in the prompt." The prompt contains style guidelines so AI doesn't write generically, but in the language and structure the organization expects. (See [Source document style cloning](../phase-1/source-document-style.md) for how to define that style.)
 
 **Adapting this prompt for your context.** The themes, terminology, and document structure above are specific to the mental healthcare network. You can adapt the prompt by:
 - Changing the **Role** to your document type (project plan, policy brief, strategic framework)

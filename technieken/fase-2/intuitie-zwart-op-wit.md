@@ -70,8 +70,7 @@ ingedeeld per schoolfase (Kleuters/Onderbouw vs. Middenbouw vs. Bovenbouw).
 - Privacy: Gebruik GEEN echte namen
 - Taal: Gebruik de *letterlijke bewoordingen* van de deelnemers
 - Toon: Empathisch, niet-oordelend
-- Kijk voorbij de klacht ("mijn kind wil gamen") naar de onderliggende
-  waarde ("ik wil dat mijn kind sociaal meekomt")
+- Kijk voorbij de klacht ("mijn kind wil gamen") naar de onderliggende waarde ("ik wil dat mijn kind sociaal meekomt")
 
 # OUTPUT
 Per fase:
@@ -82,7 +81,7 @@ Per fase:
 
 **Waarom deze structuur werkt:**
 - "Letterlijke bewoordingen van de deelnemers" beschermt tegen AI-interpretatie: het zijn hún woorden, niet jouw samenvatting
-- "Kijk voorbij de klacht naar de onderliggende waarde" is de kern van intuïtie zwart op wit: niet wat mensen zeggen, maar wat daaronder zit
+- "Kijk voorbij de klacht" is de kern van intuïtie zwart op wit: niet wat mensen zeggen, maar wat daaronder zit
 - "Per fase" geeft structuur aan een gevoel dat je al had ("de gesprekken over kleuters waren anders") maar nu benoemen kunt
 
 **Bron:** Smartphonevrij gemeenschapsanalyse prompt

@@ -132,10 +132,10 @@ Help me reflect:
 ```
 
 **Why this structure works:**
-- **"I had a session today"** positions AI as reflection partner, not as expert
-- **"This is what happened"** forces you to describe concretely what you did, not abstractly
-- **"Which reframing strategy"** ties back to the three strategies on this page
-- **"How do I recognize this pattern"** you're building a repertoire for next time
+- "I had a session today" positions AI as reflection partner, not as expert
+- "This is what happened" forces you to describe concretely what you did, not abstractly
+- "Which reframing strategy" ties back to the three strategies on this page
+- "How do I recognize this pattern" you're building a repertoire for next time
 
 *This is a suggestion: adapt it to your specific situation.*
 

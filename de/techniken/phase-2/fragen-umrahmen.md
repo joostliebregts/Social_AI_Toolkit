@@ -132,10 +132,10 @@ Hilf mir zu reflektieren:
 ```
 
 **Warum diese Struktur funktioniert:**
-- **"Ich hatte heute eine Sitzung"** positioniert AI als Reflexionspartner, nicht als Experten
-- **"Das ist passiert"** zwingt dich, konkret zu beschreiben, was du getan hast, nicht abstrakt
-- **"Welche Umrahmungsstrategie"** knüpft an die drei Strategien auf dieser Seite an
-- **"Wie erkenne ich dieses Muster"** du baust dir ein Repertoire für nächstes Mal auf
+- "Ich hatte heute eine Sitzung" positioniert AI als Reflexionspartner, nicht als Experten
+- "Das ist passiert" zwingt dich, konkret zu beschreiben, was du getan hast, nicht abstrakt
+- "Welche Umrahmungsstrategie" knüpft an die drei Strategien auf dieser Seite an
+- "Wie erkenne ich dieses Muster" du baust dir ein Repertoire für nächstes Mal auf
 
 *Das ist ein Vorschlag: pass ihn an deine spezifische Situation an.*
 

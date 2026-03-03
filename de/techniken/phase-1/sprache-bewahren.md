@@ -23,7 +23,11 @@
 <span class="def-word">Eigenverantwortung</span> <span class="def-phonetic">/ˈaɪ.ɡn̩.fɛɐ̯ˌʔant.vɔr.tʊŋ/</span><br>
 <span class="def-class">Substantiv, feminin</span>
 
-<span class="def-text">Kein einzelnes deutsches Wort erfasst die gesamte Bewegung. Es beginnt bei <span class="def-highlight">Zugehörigkeit</span> — <em>ich gehöre dazu, mir wird zugehört.</em> Es wächst durch <span class="def-highlight">Selbstwirksamkeit</span> — <em>mein Beitrag zählt, ich erkenne mich wieder.</em> Und es mündet in <span class="def-highlight">Eigenverantwortung</span> — <em>ich übernehme Verantwortung für das, was gemeinsam entstanden ist.</em></span>
+<span class="def-text">Kein einzelnes deutsches Wort erfasst die gesamte Bewegung.</span>
+
+<span class="def-text"><span class="def-highlight">Zugehörigkeit</span>: <em>ich gehöre dazu, mir wird zugehört.</em><br>
+<span class="def-highlight">Selbstwirksamkeit</span>: <em>mein Beitrag zählt, ich erkenne mich wieder.</em><br>
+<span class="def-highlight">Eigenverantwortung</span>: <em>ich übernehme Verantwortung für das, was gemeinsam entstanden ist.</em></span>
 
 <span class="def-text" style="font-size: 0.875rem; font-style: italic;">Nicht Verantwortung als Pflicht, sondern als Folge von Zugehörigkeit: weil ich mich darin wiederfinde, trage ich es mit.</span>
 </div>
@@ -152,11 +156,11 @@ Diese Vision wurde von AI auf Basis eures Gesprächs zusammengestellt. Sie ist e
 ```
 
 **Warum diese Struktur funktioniert:**
-- **Rolle** gibt AI eine Identität, die zur Aufgabe passt: "strategischer Redakteur mit Expertise in Visionsentwicklung" steuert in Richtung Synthese, nicht Zusammenfassung
-- **Gewünschter Stil/Ansatz** definiert den Ton: "ihre eigenen Worte" und "spezifisch für diese Gemeinde" verhindert generischen Output
-- **Zentrale Einschränkungen** sind die harten Grenzen: "keine Erfindungen", "nicht automatisch in Fachjargon verfallen" verhindert, dass AI Lücken füllt
-- **Anweisungen** sind die Schritte: Die Reihenfolge (erst analysieren, dann identifizieren, dann synthetisieren) steuert den Denkprozess
-- **Ausgabeformat** bestimmt die Form: "Ihr Warum" mit Zitaten erzwingt wörtliches Zitieren
+- "Rolle" gibt AI eine Identität, die zur Aufgabe passt: "strategischer Redakteur mit Expertise in Visionsentwicklung" steuert in Richtung Synthese, nicht Zusammenfassung
+- "Gewünschter Stil/Ansatz" definiert den Ton: "ihre eigenen Worte" und "spezifisch für diese Gemeinde" verhindert generischen Output
+- "Zentrale Einschränkungen" sind die harten Grenzen: "keine Erfindungen", "nicht automatisch in Fachjargon verfallen" verhindert, dass AI Lücken füllt
+- "Anweisungen" sind die Schritte: Die Reihenfolge (erst analysieren, dann identifizieren, dann synthetisieren) steuert den Denkprozess
+- "Ausgabeformat" bestimmt die Form: "Ihr Warum" mit Zitaten erzwingt wörtliches Zitieren
 
 ---
 
@@ -177,9 +181,9 @@ Auf der Transkriptionsseite hast du den [vollständigen Prompt für den Elternab
 ```
 
 **Warum diese Struktur funktioniert:**
-- **"Wörtliche Worte"** ist expliziter als "verwende ihre Sprache": es verhindert, dass AI paraphrasiert
-- **"Keine Skripte"** schützt die Authentizität des Facilitators: AI liefert Bausteine, nicht fertige Texte
-- **"Maximale Wiedererkennung"** benennt das Ziel, nicht nur die Methode
+- "Wörtliche Worte" ist expliziter als "verwende ihre Sprache": es verhindert, dass AI paraphrasiert
+- "Keine Skripte" schützt die Authentizität des Facilitators: AI liefert Bausteine, nicht fertige Texte
+- "Maximale Wiedererkennung" benennt das Ziel, nicht nur die Methode
 
 **Wann:** Bei Gruppen, wo du Verbindung schaffen willst, nicht nur Informationen festhalten.
 
@@ -253,10 +257,10 @@ Nicht clustern - als einzelne Perlen mit Kontext bewahren.
 ```
 
 **Warum diese Struktur funktioniert:**
-- **Eigenverantwortungs-Skala** gibt AI einen konkreten Rahmen (0.0-1.0) zum Bewerten von Sprache
-- **"Als Fragen formulieren"** verhindert, dass AI Schlussfolgerungen zieht, die die Gruppe nicht gezogen hat
-- **"Einzelne Perlen"** schützt Ausreißer gegen den Drang, alles zu clustern
-- **Don'ts** sind explizit, weil AI dazu neigt, Frustrationen zu glätten
+- "Eigenverantwortungs-Skala" gibt AI einen konkreten Rahmen (0.0-1.0) zum Bewerten von Sprache
+- "Als Fragen formulieren" verhindert, dass AI Schlussfolgerungen zieht, die die Gruppe nicht gezogen hat
+- "Einzelne Perlen" schützt Ausreißer gegen den Drang, alles zu clustern
+- "Don'ts" sind explizit, weil AI dazu neigt, Frustrationen zu glätten
 
 *Willst du mehrere Sitzungen vergleichen? Analysiere jede Sitzung separat mit diesem Prompt, lege die Analysen nebeneinander und suche nach Mustern. Diesen Schritt findest du in [Muster über Zeit](../phase-3/muster-ueber-zeit.md) (Phase 3).*
 
@@ -310,9 +314,9 @@ Die Entscheidung, darauf einzugehen, bleibt bei dir.
 ```
 
 **Warum diese Struktur funktioniert:**
-- **"Verschiedene Rahmungen"** mit wörtlichen Zitaten sorgt dafür, dass Menschen sich wiedererkennen
-- **"Streng auf Transkript basieren"** verhindert, dass AI interpretiert
-- **"Im Zweifel: möglicherweise unterbelichtet"** schützt vor übermäßig assertiven Behauptungen darüber, was Menschen "eigentlich" meinten
+- "Verschiedene Rahmungen" mit wörtlichen Zitaten sorgt dafür, dass Menschen sich wiedererkennen
+- "Streng auf Transkript basieren" verhindert, dass AI interpretiert
+- "Im Zweifel: möglicherweise unterbelichtet" schützt vor übermäßig assertiven Behauptungen darüber, was Menschen "eigentlich" meinten
 
 *Für die vollständige Technik (wann einsetzen, wie vorbereiten, der Workflow) siehe [Live-Reflexion mit AI](../phase-2/live-reflexion-mit-ai.md).*
 

@@ -311,10 +311,10 @@ Das ist auch eine Vorschau auf [Phase 3: Skalierung](../../phase-3-skalierung.md
 
 Jeder Prompt oben folgt derselben Struktur, die die Technik des Quelldokument-Klonens anwendet:
 
-- **Stilrichtlinien im Prompt**: Jeder Prompt enthält explizit Sprache, Ton, Terminologie und Struktur. AI muss nicht raten.
-- **Phasenweiser Ansatz**: Nicht alles auf einmal. Zwischenreflexion, fortlaufende Verarbeitung, abschließende Synthese: drei separate Prompts für drei separate Ziele.
-- **Kontext mitgeliefert**: Jeder Prompt sagt AI, was das Ziel ist ("Reflexion zur Validierung", "Konsolidierung in Entwurf-Teilplan") und welchen Input er erhält.
-- **Terminologie übernommen**: Die Prompts verwenden dieselben Begriffe wie das Quelldokument (IZA, GALA, MGN usw.) statt generischer Alternativen.
+- "Stilrichtlinien im Prompt": Jeder Prompt enthält explizit Sprache, Ton, Terminologie und Struktur. AI muss nicht raten.
+- "Phasenweiser Ansatz": Nicht alles auf einmal. Zwischenreflexion, fortlaufende Verarbeitung, abschließende Synthese: drei separate Prompts für drei separate Ziele.
+- "Kontext mitgeliefert": Jeder Prompt sagt AI, was das Ziel ist ("Reflexion zur Validierung", "Konsolidierung in Entwurf-Teilplan") und welchen Input er erhält.
+- "Terminologie übernommen": Die Prompts verwenden dieselben Begriffe wie das Quelldokument (IZA, GALA, MGN usw.) statt generischer Alternativen.
 
 Das macht die Prompts reproduzierbar. Wenn du die Stilrichtlinien an dein Quelldokument anpasst, kannst du dieselbe Struktur für andere Prozesse verwenden.
 

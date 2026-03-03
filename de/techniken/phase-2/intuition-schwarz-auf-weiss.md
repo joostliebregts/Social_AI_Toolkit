@@ -70,8 +70,7 @@ geordnet nach Schulphase (Kleinkinder/Frühe Grundschule vs. Mittlere Grundschul
 - Datenschutz: Verwende KEINE echten Namen
 - Sprache: Verwende die *wörtlichen Worte* der Teilnehmenden
 - Ton: Empathisch, nicht wertend
-- Schau hinter die Beschwerde ("mein Kind will zocken") auf den
-  dahinterliegenden Wert ("ich will, dass mein Kind sozial dazugehört")
+- Schau hinter die Beschwerde ("mein Kind will zocken") auf den dahinterliegenden Wert ("ich will, dass mein Kind sozial dazugehört")
 
 # OUTPUT
 Pro Phase:
@@ -81,9 +80,9 @@ Pro Phase:
 ```
 
 **Warum diese Struktur funktioniert:**
-- **Wörtliche Worte** "Verwende die wörtlichen Worte der Teilnehmenden" schützt vor AI-Interpretation: das sind *ihre* Worte, nicht deine Zusammenfassung
-- **Dahinterliegender Wert** "Schau hinter die Beschwerde auf den dahinterliegenden Wert" ist der Kern von Intuition schwarz auf weiß: nicht was Menschen sagen, sondern was dahintersteckt
-- **Pro Phase** gibt Struktur für ein Gefühl, das du schon hattest ("die Gespräche über Kleinkinder waren anders"), aber jetzt benennen kannst
+- "Verwende die wörtlichen Worte der Teilnehmenden" schützt vor AI-Interpretation: das sind *ihre* Worte, nicht deine Zusammenfassung
+- "Schau hinter die Beschwerde" ist der Kern von Intuition schwarz auf weiß: nicht was Menschen sagen, sondern was dahintersteckt
+- "Pro Phase" gibt Struktur für ein Gefühl, das du schon hattest ("die Gespräche über Kleinkinder waren anders"), aber jetzt benennen kannst
 
 **Quelle:** Smartphonefreie-Community-Analyse-Prompt
 
@@ -138,10 +137,10 @@ Pro gefundenem Muster:
 ```
 
 **Warum diese Struktur funktioniert:**
-- **Strenge Basis** "Streng basiert auf dem, was da ist, nicht auf Interpretation" verhindert, dass AI deinen Bestätigungsfehler füttert
-- **Vorsichtige Sprache** "Im Zweifel: 'möglicherweise' statt definitiver Aussagen" lässt Raum für die Gruppe, selbst zu prüfen
-- **Ihre Worte** "Verwende ihre Worte, nicht deine Zusammenfassungen" bewahrt Eigenverantwortung: Menschen erkennen sich wieder
-- **Vorannahmen explizit** "Suche nicht nach dem, was ich finden will" macht deine eigenen Vorannahmen explizit im Prompt
+- "Streng basiert auf dem, was da ist, nicht auf Interpretation" verhindert, dass AI deinen Bestätigungsfehler füttert
+- "Im Zweifel: 'möglicherweise' statt definitiver Aussagen" lässt Raum für die Gruppe, selbst zu prüfen
+- "Verwende ihre Worte, nicht deine Zusammenfassungen" bewahrt Eigenverantwortung: Menschen erkennen sich wieder
+- "Suche nicht nach dem, was ich finden will" macht deine eigenen Vorannahmen explizit im Prompt
 
 *Das ist ein Ausgangspunkt: Passe ihn an deine spezifische Situation an und füge Kontext hinzu über das, wonach du suchst.*
 

@@ -130,12 +130,12 @@ not to judge. The choice to engage with it remains yours.
 ```
 
 **Why this structure works:**
-- **Role** defines expertise: "group dynamics expert" steers toward detecting what isn't being said
-- **Context** makes it specific: "last 10-15 minutes" prevents AI from trying to capture everything
-- **Required Style** guards the tone: "non-judgmental" prevents the echo from feeling like criticism
-- **Critical Constraints** are the hard boundaries: "maximum 2 echo questions" prevents overwhelm
-- **Instructions** steer the search process: the sequence (first analyze, then detect, then choose) provides focus
-- **Output Format** structures the output: "One powerful question" forces selection
+- "Role" defines expertise: "group dynamics expert" steers toward detecting what isn't being said
+- "Context" makes it specific: "last 10-15 minutes" prevents AI from trying to capture everything
+- "Required Style" guards the tone: "non-judgmental" prevents the echo from feeling like criticism
+- "Critical Constraints" are the hard boundaries: "maximum 2 echo questions" prevents overwhelm
+- "Instructions" steer the search process: the sequence (first analyze, then detect, then choose) provides focus
+- "Output Format" structures the output: "One powerful question" forces selection
 
 **Source:** Prompt I use for live group reflection (leadership workshop)
 

@@ -156,11 +156,11 @@ only helps with bundling and connecting your ideas.
 ```
 
 **Why this structure works:**
-- **Role** gives AI an identity that fits the task: "strategic editor with expertise in vision development" steers toward synthesis, not summary
-- **Required Style/Approach** defines the tone: "their own words" and "specific to this municipality" prevents generic output
-- **Critical Constraints** are the hard boundaries: "no fabrications", "don't automatically default to jargon" prevents AI from filling in the blanks
-- **Instructions** are the steps: the sequence (first analyze, then identify, then synthesize) steers the thought process
-- **Output Format** determines the form: "Their Why" with quotes enforces verbatim citation
+- "Role" gives AI an identity that fits the task: "strategic editor with expertise in vision development" steers toward synthesis, not summary
+- "Required Style/Approach" defines the tone: "their own words" and "specific to this municipality" prevents generic output
+- "Critical Constraints" are the hard boundaries: "no fabrications", "don't automatically default to jargon" prevents AI from filling in the blanks
+- "Instructions" are the steps: the sequence (first analyze, then identify, then synthesize) steers the thought process
+- "Output Format" determines the form: "Their Why" with quotes enforces verbatim citation
 
 ---
 
@@ -181,9 +181,9 @@ On the transcription page you saw the [full prompt for the smartphone-free paren
 ```
 
 **Why this structure works:**
-- **"Verbatim words"** is more explicit than "use their language": it prevents AI from paraphrasing
-- **"No scripts"** protects the facilitator's authenticity: AI delivers building blocks, not ready-made text
-- **"Maximum recognizability"** names the goal, not just the method
+- "Verbatim words" is more explicit than "use their language": it prevents AI from paraphrasing
+- "No scripts" protects the facilitator's authenticity: AI delivers building blocks, not ready-made text
+- "Maximum recognizability" names the goal, not just the method
 
 **When:** With groups where you want to facilitate connection, not just capture information.
 
@@ -258,10 +258,10 @@ Don't cluster - preserve as loose pearls with context.
 ```
 
 **Why this structure works:**
-- **Ownership scale** gives AI a concrete framework (0.0-1.0) to score language
-- **"Formulate as questions"** prevents AI from drawing conclusions the group hasn't drawn
-- **"Loose pearls"** protects outliers against the urge to cluster everything
-- **Don'ts** are explicit because AI tends to smooth over frustrations
+- "Ownership scale" gives AI a concrete framework (0.0-1.0) to score language
+- "Formulate as questions" prevents AI from drawing conclusions the group hasn't drawn
+- "Loose pearls" protects outliers against the urge to cluster everything
+- "Don'ts" are explicit because AI tends to smooth over frustrations
 
 *Want to compare multiple sessions? Analyze each session separately with this prompt first, lay the analyses side by side, and look for patterns. You'll find that step in [Patterns over time](../phase-3/patterns-over-time.md) (Phase 3).*
 
@@ -319,9 +319,9 @@ The choice to engage with this remains yours.
 ```
 
 **Why this structure works:**
-- **"Different framings"** with verbatim quotes ensures people recognize themselves
-- **"Base strictly on transcript"** prevents AI from interpreting
-- **"When in doubt: possibly underexposed"** protects against overly assertive claims about what people "actually" meant
+- "Different framings" with verbatim quotes ensures people recognize themselves
+- "Base strictly on transcript" prevents AI from interpreting
+- "When in doubt: possibly underexposed" protects against overly assertive claims about what people "actually" meant
 
 *For the full technique (when to deploy, how to prepare, the workflow) see [Live reflection with AI](../phase-2/live-reflection-with-ai.md).*
 

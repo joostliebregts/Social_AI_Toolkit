@@ -131,12 +131,12 @@ arbeiten, bleibt bei euch.
 ```
 
 **Warum diese Struktur funktioniert:**
-- **Rolle** definiert die Expertise: "Experte für Gruppendynamik" steuert auf das Erkennen dessen, was nicht gesagt wird
-- **Kontext** macht es spezifisch: "letzte 10-15 Minuten" verhindert, dass AI versucht, alles zu erfassen
-- **Erforderlicher Stil** schützt den Ton: "wertfrei" verhindert, dass das Echo wie Kritik wirkt
-- **Kritische Einschränkungen** sind die harten Grenzen: "maximal 2 Echo-Fragen" verhindert Überwältigung
-- **Anweisungen** steuern den Suchprozess: die Abfolge (erst analysieren, dann erkennen, dann wählen) gibt Fokus
-- **Ausgabeformat** strukturiert die Ausgabe: "eine kraftvolle Frage" erzwingt Auswahl
+- "Rolle" definiert die Expertise: "Experte für Gruppendynamik" steuert auf das Erkennen dessen, was nicht gesagt wird
+- "Kontext" macht es spezifisch: "letzte 10-15 Minuten" verhindert, dass AI versucht, alles zu erfassen
+- "Erforderlicher Stil" schützt den Ton: "wertfrei" verhindert, dass das Echo wie Kritik wirkt
+- "Kritische Einschränkungen" sind die harten Grenzen: "maximal 2 Echo-Fragen" verhindert Überwältigung
+- "Anweisungen" steuern den Suchprozess: die Abfolge (erst analysieren, dann erkennen, dann wählen) gibt Fokus
+- "Ausgabeformat" strukturiert die Ausgabe: "eine kraftvolle Frage" erzwingt Auswahl
 
 **Quelle:** Prompt, den ich für Live-Gruppenreflexion verwende (Führungsworkshop)
 

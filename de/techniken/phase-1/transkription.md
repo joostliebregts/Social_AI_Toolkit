@@ -159,10 +159,10 @@ Analysiere die Spannung zwischen "was wir tun" (eigene Handynutzung, Bequemlichk
 ```
 
 **Warum diese Struktur funktioniert:**
-- **Rolle** steuert die Perspektive: "systemischer Stratege und Community-Builder" lenkt AI in Richtung Verbindung, nicht Kritik
-- **Einschränkungen** schützen Authentizität: wörtliche Worte verwenden, keine echten Namen, empathischer Ton
-- **Zwei Heatmaps** zwingen AI, sowohl die Emotionen (Sorgen) als auch die Energie (Handlungsbereitschaft) zu analysieren
-- **Gesprächsfächer** übersetzt Erkenntnisse in etwas Nutzbares: konkrete Anknüpfungspunkte für echte Gespräche
+- "Rolle" steuert die Perspektive: "systemischer Stratege und Community-Builder" lenkt AI in Richtung Verbindung, nicht Kritik
+- "Einschränkungen" schützen Authentizität: wörtliche Worte verwenden, keine echten Namen, empathischer Ton
+- "Zwei Heatmaps" zwingen AI, sowohl die Emotionen (Sorgen) als auch die Energie (Handlungsbereitschaft) zu analysieren
+- "Gesprächsfächer" übersetzt Erkenntnisse in etwas Nutzbares: konkrete Anknüpfungspunkte für echte Gespräche
 
 ### 2. Sprache als Eigenverantwortung
 
@@ -227,9 +227,9 @@ AI generierte einen Prompt mit Struktur (Kurzzusammenfassung, Rückblick, Entsch
 ```
 
 **Warum diese Struktur funktioniert:**
-- **Rolle** "präziser Protokollant" hält AI fokussiert auf das, was wörtlich entschieden wurde
-- **Einschränkungen** verhindern implizite Schlussfolgerungen: nur explizit getroffene Entscheidungen, im Zweifel "noch zu bestätigen"
-- **Ausgabeformat** ist überraschend effektiv: AI folgt der Struktur (Prozess, Inhalt, Folge) ziemlich genau
+- "präziser Protokollant" hält AI fokussiert auf das, was wörtlich entschieden wurde
+- "Einschränkungen" verhindern implizite Schlussfolgerungen: nur explizit getroffene Entscheidungen, im Zweifel "noch zu bestätigen"
+- "Ausgabeformat" ist überraschend effektiv: AI folgt der Struktur (Prozess, Inhalt, Folge) ziemlich genau
 
 ### 4. Diktat: den eigenen Gedankenstrom festhalten
 

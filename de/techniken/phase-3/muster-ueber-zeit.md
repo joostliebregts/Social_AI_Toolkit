@@ -397,12 +397,12 @@ Ausgabeformat:
 
 **Warum diese Struktur funktioniert:**
 
-- **Zwei Schritte** statt eines All-in-one-Prompts stellen sicher, dass jede Sitzung volle Aufmerksamkeit bekommt. Bei mehreren Transkripten auf einmal geht Nuance verloren: Das Kontextfenster füllt sich und AI beginnt zusammenzufassen statt zu analysieren.
-- **Die gleichen sechs Signale** in Schritt 1 machen die Analysen vergleichbar. Ohne diese Konsistenz bekommst du Daten, die du nicht nebeneinanderlegen kannst.
-- **Die Synthese als separater Schritt** zwingt AI, aktiv zu vergleichen, statt pro Transkript zusammenzufassen.
-- **Retro-Vorhersagen** zwingen das Modell, sich selbst zu validieren. Das ist der Ehrlichkeitscheck.
-- **Szenarien mit Margen** statt einer einzelnen Vorhersage zwingen AI, alternative Zukünfte in Betracht zu ziehen. Nicht "das wird passieren", sondern "hier sind drei Möglichkeiten."
-- **Die Facilitationskarte** übersetzt Analyse in Handlung. Nicht "hier ist ein Diagramm", sondern "hier ist, was du damit machen kannst."
+- "Zwei Schritte" statt eines All-in-one-Prompts stellen sicher, dass jede Sitzung volle Aufmerksamkeit bekommt. Bei mehreren Transkripten auf einmal geht Nuance verloren: Das Kontextfenster füllt sich und AI beginnt zusammenzufassen statt zu analysieren.
+- "Die gleichen sechs Signale" in Schritt 1 machen die Analysen vergleichbar. Ohne diese Konsistenz bekommst du Daten, die du nicht nebeneinanderlegen kannst.
+- "Die Synthese als separater Schritt" zwingt AI, aktiv zu vergleichen, statt pro Transkript zusammenzufassen.
+- "Retro-Vorhersagen" zwingen das Modell, sich selbst zu validieren. Das ist der Ehrlichkeitscheck.
+- "Szenarien mit Margen" statt einer einzelnen Vorhersage zwingen AI, alternative Zukünfte in Betracht zu ziehen. Nicht "das wird passieren", sondern "hier sind drei Möglichkeiten."
+- "Die Facilitationskarte" übersetzt Analyse in Handlung. Nicht "hier ist ein Diagramm", sondern "hier ist, was du damit machen kannst."
 
 ---
 

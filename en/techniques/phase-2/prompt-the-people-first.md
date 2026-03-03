@@ -261,10 +261,10 @@ Note:
 ```
 
 **Why this structure works:**
-- **"Concrete experiences, not opinions"** prevents you from designing abstract questions that yield abstract answers
-- **"Each a different puzzle piece"** forces you to think ahead about what ingredients you need
-- **"From emotion to analysis"** ensures the order is right
-- **"Avoid 'What do you think about...'"** blocks the default question that yields opinions
+- "Concrete experiences, not opinions" prevents you from designing abstract questions that yield abstract answers
+- "Each a different puzzle piece" forces you to think ahead about what ingredients you need
+- "From emotion to analysis" ensures the order is right
+- "Avoid 'What do you think about...'" blocks the default question that yields opinions
 
 *This is a suggestion: adapt it to your specific situation.*
 

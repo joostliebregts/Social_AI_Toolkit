@@ -242,11 +242,11 @@ Erwogene Alternativen und mögliche blinde Flecken
 ```
 
 **Warum diese Struktur funktioniert:**
-- **"Output streng auf explizite Informationen stützen"** verhindert, dass AI Dinge erfindet. Du bekommst ehrlichen Output mit klaren Lücken, die du füllen kannst.
-- **"Explizit darauf verweisen, wie Feedback verarbeitet wurde"** Transparenz darüber, was mit dem Input passiert ist. Leute sehen, dass ihr Beitrag zählt.
-- **"Kernwerte als roter Faden"** das Dokument bekommt Kohärenz durch die Werte, die die Gruppe selbst identifiziert hat.
-- **Die zweiteilige Struktur (Echo + Teilplan)** erst zeigen, was AI gehört hat, dann das Dokument. Diese Reihenfolge gibt der Gruppe Halt: erst Wiedererkennung, dann Struktur.
-- **Stil im Prompt.** Der Prompt enthält Stilrichtlinien, damit AI nicht generisch schreibt, sondern in der Sprache und Struktur, die die Organisation erwartet. (Siehe [Quelldokument als Stilvorlage](../phase-1/quelldokument-stil.md) für die Definition dieses Stils.)
+- "Output streng auf explizite Informationen stützen" verhindert, dass AI Dinge erfindet. Du bekommst ehrlichen Output mit klaren Lücken, die du füllen kannst.
+- "Explizit darauf verweisen, wie Feedback verarbeitet wurde" Transparenz darüber, was mit dem Input passiert ist. Leute sehen, dass ihr Beitrag zählt.
+- "Kernwerte als roter Faden" das Dokument bekommt Kohärenz durch die Werte, die die Gruppe selbst identifiziert hat.
+- "Die zweiteilige Struktur (Echo + Teilplan)" erst zeigen, was AI gehört hat, dann das Dokument. Diese Reihenfolge gibt der Gruppe Halt: erst Wiedererkennung, dann Struktur.
+- "Stil im Prompt." Der Prompt enthält Stilrichtlinien, damit AI nicht generisch schreibt, sondern in der Sprache und Struktur, die die Organisation erwartet. (Siehe [Quelldokument als Stilvorlage](../phase-1/quelldokument-stil.md) für die Definition dieses Stils.)
 
 **Diesen Prompt für deinen Kontext anpassen.** Die Themen, Terminologie und Dokumentstruktur oben sind spezifisch für das Netzwerk für psychische Gesundheitsversorgung. Du kannst den Prompt anpassen, indem du:
 - Die **Rolle** auf deinen Dokumenttyp änderst (Projektplan, Policy Brief, strategischer Rahmen)

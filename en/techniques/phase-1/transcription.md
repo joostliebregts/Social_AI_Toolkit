@@ -159,10 +159,10 @@ Translate the above insights into concrete 'hooks' that [The Initiator] can use 
 ```
 
 **Why this structure works:**
-- **Role** steers perspective: "systemic strategist and community builder" directs AI toward finding connection, not delivering critique
-- **Constraints** protect authenticity: using verbatim words, no real names, empathetic tone
-- **Two heatmaps** force AI to analyze both the emotions (concerns) and the energy (readiness to act)
-- **Conversation fan** translates insights into something usable: concrete hooks for real conversations
+- "Role" steers perspective: "systemic strategist and community builder" directs AI toward finding connection, not delivering critique
+- "Constraints" protect authenticity: using verbatim words, no real names, empathetic tone
+- "Two heatmaps" force AI to analyze both the emotions (concerns) and the energy (readiness to act)
+- "Conversation fan" translates insights into something usable: concrete hooks for real conversations
 
 ### 2. Language as ownership
 
@@ -231,9 +231,9 @@ made during this session.
 ```
 
 **Why this structure works:**
-- **Role** "precise note-taker" keeps AI focused on what was literally decided
-- **Constraints** prevent implicit conclusions: only explicitly made decisions, when in doubt "yet to be confirmed"
-- **Output format** is surprisingly effective: AI follows the structure (process, content, follow-up) quite precisely
+- "precise note-taker" keeps AI focused on what was literally decided
+- "Constraints" prevent implicit conclusions: only explicitly made decisions, when in doubt "yet to be confirmed"
+- "Output format" is surprisingly effective: AI follows the structure (process, content, follow-up) quite precisely
 
 ### 4. Dictation: capturing your own stream of thought
 

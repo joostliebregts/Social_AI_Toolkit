@@ -143,10 +143,10 @@ Fokus auf Gemeinsames, nicht auf Überzeugen.
 ```
 
 **Warum diese Struktur funktioniert:**
-- **Systemischer Stratege** positioniert AI als analytischen Denker, nicht als Zusammenfasser
-- **Wörtliche Worte** schützt Teilnehmersprache vor AI-Interpretation
-- **Empathisch, fokussiert auf den Wunsch, ein guter Elternteil zu sein** Maartens Tonkorrektur, eingebaut in den Prompt
-- **Konkrete Ankerpunkte, keine wörtlichen Skripte** Output, den Maarten selbst einsetzen kann, auf seine Art
+- "Systemischer Stratege" positioniert AI als analytischen Denker, nicht als Zusammenfasser
+- "Wörtliche Worte" schützt Teilnehmersprache vor AI-Interpretation
+- "Empathisch, fokussiert auf den Wunsch, ein guter Elternteil zu sein" Maartens Tonkorrektur, eingebaut in den Prompt
+- "Konkrete Ankerpunkte, keine wörtlichen Skripte" Output, den Maarten selbst einsetzen kann, auf seine Art
 
 **Quelle:** Der Prompt, den wir nach dem Iterationsgespräch gemeinsam mit AI gebaut haben.
 

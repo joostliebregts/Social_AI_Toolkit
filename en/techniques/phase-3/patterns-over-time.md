@@ -384,12 +384,12 @@ Output format:
 
 **Why this structure works:**
 
-- **Two steps** instead of an all-in-one prompt ensures each session gets full attention. With multiple transcripts at once you lose nuance: the context window fills up and AI starts summarizing instead of analyzing.
-- **The same six signals** in step 1 make the analyses comparable. Without that consistency you get data that can't be laid side by side.
-- **The synthesis as a separate step** forces AI to actively compare instead of summarizing per transcript.
-- **Retro-predictions** force the model to validate itself. That's the honesty check.
-- **Scenarios with margins** instead of a single prediction force AI to consider alternative futures. Not "this is going to happen" but "here are three possibilities."
-- **The facilitation card** translates analysis into action. Not "here is a chart" but "here is what you can do with it."
+- "Two steps" instead of an all-in-one prompt ensures each session gets full attention. With multiple transcripts at once you lose nuance: the context window fills up and AI starts summarizing instead of analyzing.
+- "The same six signals" in step 1 make the analyses comparable. Without that consistency you get data that can't be laid side by side.
+- "The synthesis as a separate step" forces AI to actively compare instead of summarizing per transcript.
+- "Retro-predictions" force the model to validate itself. That's the honesty check.
+- "Scenarios with margins" instead of a single prediction force AI to consider alternative futures. Not "this is going to happen" but "here are three possibilities."
+- "The facilitation card" translates analysis into action. Not "here is a chart" but "here is what you can do with it."
 
 ---
 

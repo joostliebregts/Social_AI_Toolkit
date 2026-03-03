@@ -142,10 +142,10 @@ Focus on common ground, not on convincing.
 ```
 
 **Why this structure works:**
-- **Systemic strategist** positions AI as an analytical thinker, not a summarizer
-- **Literal words** protects participant language from AI interpretation
-- **Empathetic, focused on the desire to be a good parent** Maarten's tone correction, built into the prompt
-- **Concrete hooks, not literal scripts** output that Maarten can deploy himself, his way
+- "Systemic strategist" positions AI as an analytical thinker, not a summarizer
+- "Literal words" protects participant language from AI interpretation
+- "Empathetic, focused on the desire to be a good parent" Maarten's tone correction, built into the prompt
+- "Concrete hooks, not literal scripts" output that Maarten can deploy himself, his way
 
 **Source:** The prompt we built together with AI after the iteration conversation.
 

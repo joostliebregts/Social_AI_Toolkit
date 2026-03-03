@@ -83,10 +83,10 @@ The difference is subtle but fundamental. Tinkering is solo work. Iterating is c
 > *Another thirty seconds. Now it lands.*
 
 **Why this works:**
-- **Learning context** AI learns your needs within the ongoing conversation
-- **Sharper articulation** you articulate more sharply what you want, for yourself and for AI
-- **Combined capacity** the end result combines AI's capacity with your direction
-- **Next iteration** next time, you can already say: "tone of a conversation between colleagues who've known each other a long time, transparent about needs, no jargon"
+- "Learning context" AI learns your needs within the ongoing conversation
+- "Sharper articulation" you articulate more sharply what you want, for yourself and for AI
+- "Combined capacity" the end result combines AI's capacity with your direction
+- "Next iteration" next time, you can already say: "tone of a conversation between colleagues who've known each other a long time, transparent about needs, no jargon"
 
 *Note: start a new conversation, and the context window is empty again. You start from scratch. That's why it pays to keep iterating within a single session.*
 
@@ -219,9 +219,9 @@ Give concrete suggestions for prompt improvements.
 ```
 
 **Why this structure works:**
-- **Original next to revision** forces AI to compare concretely, not advise abstractly
-- **Three analysis questions** structure the reflection from observation to action
-- **Prompt improvements** as end goal make every iteration cumulatively better
+- "Original next to revision" forces AI to compare concretely, not advise abstractly
+- "Three analysis questions" structure the reflection from observation to action
+- "Prompt improvements" as end goal make every iteration cumulatively better
 
 *This is a suggestion: adapt it to your specific situation.*
 
@@ -257,9 +257,9 @@ Questions:
 ```
 
 **Why this structure works:**
-- **Real data as test** prevents your prompt from only working in theory
-- **Three evaluation questions** force reflection on performance, gaps, and improvement
-- **Cyclical design** makes the prompt itself the object of iteration
+- "Real data as test" prevents your prompt from only working in theory
+- "Three evaluation questions" force reflection on performance, gaps, and improvement
+- "Cyclical design" makes the prompt itself the object of iteration
 
 5. **Refine the prompt**: let AI adjust the original prompt based on the test
 
@@ -272,9 +272,9 @@ This is different from the feedback loop above. There, you adjust the output and
 This is a time-intensive technique for work you really want to polish: having two AIs review each other's work. I used this for workshop design: ChatGPT and Gemini reviewed each other's output until they converged at 98/100.
 
 **Why this works:**
-- **Model diversity** different models have different biases and strengths
-- **Peer critique** critique from a "peer AI" helps identify blind spots
-- **Convergence** shows robustness of the result
+- "Model diversity" different models have different biases and strengths
+- "Peer critique" critique from a "peer AI" helps identify blind spots
+- "Convergence" shows robustness of the result
 
 **When to consider:**
 - Work where you're really looking for depth (strategic plans, workshop designs)
@@ -299,9 +299,9 @@ Be critical and honest about limitations.
 ```
 
 **Why this structure works:**
-- **Forcing self-critique** via "be critical" prevents self-congratulatory output
-- **Rating** forces the AI to make a quantitative judgment about its own work
-- **Five dimensions** cover from core question to blind spots across the full spectrum
+- "Forcing self-critique" via "be critical" prevents self-congratulatory output
+- "Rating" forces the AI to make a quantitative judgment about its own work
+- "Five dimensions" cover from core question to blind spots across the full spectrum
 
 #### Step 2: Have them review each other
 
@@ -320,9 +320,9 @@ Review this summary:
 ```
 
 **Why this structure works:**
-- **External review** breaks through the bias of one model
-- **Four targeted questions** steer the critique from strengths to synthesis
-- **Combination question** forces constructive integration, not just critique
+- "External review" breaks through the bias of one model
+- "Four targeted questions" steer the critique from strengths to synthesis
+- "Combination question" forces constructive integration, not just critique
 
 Do the same the other way around.
 

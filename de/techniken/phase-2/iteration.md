@@ -83,10 +83,10 @@ Der Unterschied ist subtil, aber grundlegend. Herumschrauben ist Alleinarbeit. I
 > *Noch mal dreißig Sekunden. Jetzt trifft es.*
 
 **Warum das funktioniert:**
-- **Lernkontext:** AI lernt deine Bedürfnisse innerhalb des laufenden Gesprächs
-- **Schärfere Formulierung:** Du formulierst präziser, was du willst, für dich selbst und für AI
-- **Kombinierte Kapazität:** Das Endergebnis verbindet die Kapazität von AI mit deiner Richtung
-- **Nächste Iteration:** Beim nächsten Mal kannst du schon sagen: "Ton eines Gesprächs zwischen Kollegen, die sich lange kennen, offen über Bedürfnisse, kein Fachjargon"
+- "Lernkontext:" AI lernt deine Bedürfnisse innerhalb des laufenden Gesprächs
+- "Schärfere Formulierung:" Du formulierst präziser, was du willst, für dich selbst und für AI
+- "Kombinierte Kapazität:" Das Endergebnis verbindet die Kapazität von AI mit deiner Richtung
+- "Nächste Iteration:" Beim nächsten Mal kannst du schon sagen: "Ton eines Gesprächs zwischen Kollegen, die sich lange kennen, offen über Bedürfnisse, kein Fachjargon"
 
 *Hinweis: Starte ein neues Gespräch, und das Kontextfenster ist wieder leer. Du fängst von vorn an. Deshalb lohnt es sich, innerhalb einer Sitzung weiterzuiterieren.*
 
@@ -219,9 +219,9 @@ Gib konkrete Vorschläge für Prompt-Verbesserungen.
 ```
 
 **Warum diese Struktur funktioniert:**
-- **Original neben Überarbeitung** zwingt AI zum konkreten Vergleich, nicht zu abstrakten Ratschlägen
-- **Drei Analysefragen** strukturieren die Reflexion von Beobachtung zu Handlung
-- **Prompt-Verbesserungen** als Endziel machen jede Iteration kumulativ besser
+- "Original neben Überarbeitung" zwingt AI zum konkreten Vergleich, nicht zu abstrakten Ratschlägen
+- "Drei Analysefragen" strukturieren die Reflexion von Beobachtung zu Handlung
+- "Prompt-Verbesserungen" als Endziel machen jede Iteration kumulativ besser
 
 *Das ist ein Vorschlag: Pass ihn an deine spezifische Situation an.*
 
@@ -257,9 +257,9 @@ Fragen:
 ```
 
 **Warum diese Struktur funktioniert:**
-- **Echte Daten als Test** verhindert, dass dein Prompt nur in der Theorie funktioniert
-- **Drei Bewertungsfragen** erzwingen Reflexion über Leistung, Lücken und Verbesserung
-- **Zyklisches Design** macht den Prompt selbst zum Gegenstand der Iteration
+- "Echte Daten als Test" verhindert, dass dein Prompt nur in der Theorie funktioniert
+- "Drei Bewertungsfragen" erzwingen Reflexion über Leistung, Lücken und Verbesserung
+- "Zyklisches Design" macht den Prompt selbst zum Gegenstand der Iteration
 
 5. **Den Prompt verfeinern:** AI den ursprünglichen Prompt auf Basis des Tests anpassen lassen
 
@@ -272,9 +272,9 @@ Das unterscheidet sich vom Feedback-Loop oben. Dort passt du das Ergebnis an und
 Das ist eine zeitintensive Technik für Arbeit, die du wirklich polieren willst: zwei AIs gegenseitig die Arbeit des anderen bewerten lassen. Ich habe das beim Workshop-Design eingesetzt: ChatGPT und Gemini haben gegenseitig den Output des anderen geprüft, bis sie bei 98/100 konvergierten.
 
 **Warum das funktioniert:**
-- **Modellvielfalt:** verschiedene Modelle haben unterschiedliche Verzerrungen und Stärken
-- **Gegenseitige Kritik:** Kritik von einer "Peer-AI" hilft, blinde Flecken zu erkennen
-- **Konvergenz** zeigt die Robustheit des Ergebnisses
+- "Modellvielfalt:" verschiedene Modelle haben unterschiedliche Verzerrungen und Stärken
+- "Gegenseitige Kritik:" Kritik von einer "Peer-AI" hilft, blinde Flecken zu erkennen
+- "Konvergenz" zeigt die Robustheit des Ergebnisses
 
 **Wann in Betracht ziehen:**
 - Arbeit, bei der du wirklich Tiefe suchst (strategische Pläne, Workshop-Designs)
@@ -299,9 +299,9 @@ Sei kritisch und ehrlich über Grenzen.
 ```
 
 **Warum diese Struktur funktioniert:**
-- **Selbstkritik erzwingen** durch "sei kritisch" verhindert selbstlobenden Output
-- **Bewertung** zwingt die AI zu einem quantitativen Urteil über die eigene Arbeit
-- **Fünf Dimensionen** decken das gesamte Spektrum ab, von Kernfrage bis blinde Flecken
+- "Selbstkritik erzwingen" durch "sei kritisch" verhindert selbstlobenden Output
+- "Bewertung" zwingt die AI zu einem quantitativen Urteil über die eigene Arbeit
+- "Fünf Dimensionen" decken das gesamte Spektrum ab, von Kernfrage bis blinde Flecken
 
 #### Schritt 2: Gegenseitig bewerten lassen
 
@@ -320,9 +320,9 @@ Bewerte diese Zusammenfassung:
 ```
 
 **Warum diese Struktur funktioniert:**
-- **Externe Bewertung** durchbricht die Verzerrung eines einzelnen Modells
-- **Vier gezielte Fragen** lenken die Kritik von Stärken zu Synthese
-- **Kombinationsfrage** erzwingt konstruktive Integration, nicht nur Kritik
+- "Externe Bewertung" durchbricht die Verzerrung eines einzelnen Modells
+- "Vier gezielte Fragen" lenken die Kritik von Stärken zu Synthese
+- "Kombinationsfrage" erzwingt konstruktive Integration, nicht nur Kritik
 
 Dasselbe in die andere Richtung.
 

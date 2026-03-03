@@ -70,8 +70,7 @@ organized by school phase (Toddlers/Early Primary vs. Middle Primary vs. Late Pr
 - Privacy: Do NOT use real names
 - Language: Use the *literal words* of the participants
 - Tone: Empathetic, non-judgmental
-- Look beyond the complaint ("my kid wants to game") to the underlying
-  value ("I want my child to fit in socially")
+- Look beyond the complaint ("my kid wants to game") to the underlying value ("I want my child to fit in socially")
 
 # OUTPUT
 Per phase:
@@ -81,9 +80,9 @@ Per phase:
 ```
 
 **Why this structure works:**
-- **Literal words** "Use the participants' literal words" protects against AI interpretation: these are *their* words, not your summary
-- **Underlying value** "Look beyond the complaint to the underlying value" is the core of intuition in writing: not what people say, but what's underneath
-- **Per phase** gives structure to a feeling you already had ("the conversations about toddlers were different") but can now name
+- "literal words of the participants" protects against AI interpretation: these are *their* words, not your summary
+- "Look beyond the complaint" is the core of intuition in writing: not what people say, but what's underneath
+- "Per phase" gives structure to a feeling you already had ("the conversations about toddlers were different") but can now name
 
 **Source:** Smartphone-free community analysis prompt
 
@@ -138,10 +137,10 @@ Per pattern found:
 ```
 
 **Why this structure works:**
-- **Strict basis** "Base strictly on what's there, not on interpretation" prevents AI from feeding your confirmation bias
-- **Hedged language** "When in doubt: 'possibly' instead of definitive claims" leaves room for the group to test for themselves
-- **Their words** "Use their words, not your summaries" preserves ownership: people recognize themselves
-- **Preconceptions explicit** "Don't look for what I want to find" makes your own preconceptions explicit in the prompt
+- "Base strictly on what's there, not on interpretation" prevents AI from feeding your confirmation bias
+- "When in doubt: 'possibly' instead of definitive claims" leaves room for the group to test for themselves
+- "Use their words, not your summaries" preserves ownership: people recognize themselves
+- "Don't look for what I want to find" makes your own preconceptions explicit in the prompt
 
 *This is a starting point: adapt to your specific situation and add context about what you're looking for.*
 
