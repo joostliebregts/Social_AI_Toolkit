@@ -19,7 +19,7 @@
 
 ---
 
-## Style guidelines in the prompt
+## The story: style guidelines in the prompt
 
 A regional mental healthcare network (GGZ, the Dutch mental health system) faced a challenge. They had to write a transformation plan for their region. There was already an approved plan from another region: 94 pages, accepted by the health insurer.
 

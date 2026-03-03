@@ -19,7 +19,7 @@
 
 ---
 
-## Stilrichtlinien im Prompt
+## Die Geschichte: Stilrichtlinien im Prompt
 
 Ein regionales Netzwerk für psychische Gesundheitsversorgung (GGZ, das niederländische System für psychische Gesundheitsversorgung) stand vor einer Herausforderung. Sie mussten einen Transformationsplan für ihre Region schreiben. Es gab bereits einen genehmigten Plan aus einer anderen Region: 94 Seiten, akzeptiert von der Krankenkasse.
 

@@ -19,7 +19,7 @@
 
 ---
 
-## Stijlrichtlijnen in de prompt
+## Het verhaal: stijlrichtlijnen in de prompt
 
 Een regionaal GGZ-netwerk stond voor een uitdaging. Ze moesten een transformatieplan schrijven voor hun regio. Er was al een goedgekeurd plan uit een andere regio: 94 pagina's, door de zorgverzekeraar geaccepteerd.
 
