@@ -37,6 +37,10 @@ Ik had dat op dat moment niet door. Ik voelde alleen mijn eigen frustratie. Pas 
 
 ---
 
+<ProbeerStory></ProbeerStory>
+
+---
+
 ## Tweede voorbeeld: drie fases in één avond
 
 De ouderavond over smartphonevrij opgroeien. In [Fase 1](../../fase-1-begin.md) las je al over Maarten en het fietshelm-moment. Hier bekijken we dezelfde sessie vanuit het perspectief van patroonherkenning: AI maakt zichtbaar wat je al voelde.
