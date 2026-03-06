@@ -51,8 +51,6 @@ Vier tafels, elk met een tafelhost. Drie rondes met dezelfde vragen: droombeeld 
 
 <ProbeerStory experiment="in-de-sessie"></ProbeerStory>
 
-*Meer over hoe je zo'n sessie voorbereidt: [Prompt de mensen eerst](../fase-2/prompt-mensen-eerst.md) beschrijft hoe de facilitators in dit voorbeeld vanuit het doel van de sessie terugwerkten naar welke stappen nodig waren en welke puzzelstukjes ze per tafel wilden ophalen.*
-
 ---
 
 ## 2. Na elkaar: groepen bouwen voort, synthese achteraf
@@ -78,6 +76,8 @@ Dan rouleren. Ronde 2 (25 minuten): de voorzitter toont de Dembrane-samenvatting
 
 Aan het einde: drie rondes per thema apart geanalyseerd, dan gesynthetiseerd tot een concept-deelplan per thema.
 
+*Meer over hoe je zo'n sessie voorbereidt: in [Prompt de mensen eerst](../fase-2/prompt-mensen-eerst.md) beschrijven Rianne Runhaar en Jojanneke Diemers hoe ze vanuit het doel van deze sessie terugwerkten naar welke stappen nodig waren en welke puzzelstukjes ze per tafel wilden ophalen.*
+
 ---
 
 **Het verschil met parallel:** Hier bouwen groepen wél op elkaar voort. De voorzitter koppelt terug wat de vorige groep zei. Maar elke ronde wordt apart geanalyseerd; de AI bouwt niet voort in een doorlopend document.
@@ -87,8 +87,6 @@ Aan het einde: drie rondes per thema apart geanalyseerd, dan gesynthetiseerd tot
 **De prompt:** Twee prompts in tandem: een tussentijdse analyse na elke ronde, en een eind-synthese na de sessie. Plak onderstaande prompt in je AI-tool naar keuze; die helpt je om beide prompts te maken voor jouw sessie.
 
 <ProbeerStory experiment="in-de-sessie-sequential"></ProbeerStory>
-
-*Gefaciliteerd door Rianne Runhaar en Jojanneke Diemers.*
 
 ---
 
