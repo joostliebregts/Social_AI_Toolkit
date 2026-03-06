@@ -3,23 +3,23 @@
 > *Erzeuge Live-Output, den die Teilnehmenden direkt vor Ort bewerten können.*
 
 **Phase:** [Phase 2: Vertiefung](../../phase-2-vertiefung.md)
-**Baut auf:** [Quelldokument als Stilvorlage](../phase-1/quelldokument-stil.md), jetzt als Live-Dokumentation während Sitzungen
+**Baut auf:** [Quelldokument als Stilvorlage](../phase-1/quelldokument-stil.md), jetzt als Live-Dokumentation während Sessions
 
 ---
 
 ## Wann ist das relevant?
 
-**Situation:** Du facilitierst eine strategische Sitzung. Teilnehmende teilen ihre Perspektiven. Normalerweise würdest du einen Tag lang nachbearbeiten: Haftnotizen sortieren, einen Entwurf schreiben, Feedback einsammeln.
+**Situation:** Du facilitierst eine strategische Session. Teilnehmende teilen ihre Perspektiven. Normalerweise würdest du einen Tag lang nachbearbeiten: Haftnotizen sortieren, einen Entwurf schreiben, Feedback einsammeln.
 
-**Die Tendenz:** Den Prozess als gegeben akzeptieren. Nach der Sitzung einen Tag für die Verarbeitung einplanen, weil "das schon immer so war". Die Annahme, dass Qualität Abstand braucht; dass man eine Nacht darüber schlafen muss. Und wahrscheinlich auch: der Zweifel, ob AI es genauso gut kann wie du selbst.
+**Die Tendenz:** Den Prozess als gegeben akzeptieren. Nach der Session einen Tag für die Verarbeitung einplanen, weil "das schon immer so war". Die Annahme, dass Qualität Abstand braucht; dass man eine Nacht darüber schlafen muss. Und wahrscheinlich auch: der Zweifel, ob AI es genauso gut kann wie du selbst.
 
-**Das Prinzip:** AI kann Entwurfs-Output während der Sitzung selbst generieren. Leute sehen ihre Worte sofort zurückgespiegelt, strukturiert in der Form, die die Organisation braucht. Die Feedbackschleife schrumpft von Tagen auf Minuten.
+**Das Prinzip:** AI kann Entwurfs-Output während der Session selbst generieren. Leute sehen ihre Worte sofort zurückgespiegelt, strukturiert in der Form, die die Organisation braucht. Die Feedbackschleife schrumpft von Tagen auf Minuten.
 
 **Die Frage:** Was wäre, wenn Leute ihren Input sofort als Entwurfsdokument zurücksehen könnten?
 
-**Der Unterschied zu [Live-Reflexion](live-reflexion-mit-ai.md):** Dort nutzt du AI für Reflexionsfragen *während* des Gesprächs, um Wendungen zu erzeugen. Hier nutzt du AI, um *Dokumentation* aus dem Gespräch zu generieren. Beides kann in derselben Sitzung passieren: der Echo-Knopf für Wendungen und diese Technik für Output.
+**Der Unterschied zu [Live-Reflexion](live-reflexion-mit-ai.md):** Dort nutzt du AI für Reflexionsfragen *während* des Gesprächs, um Wendungen zu erzeugen. Hier nutzt du AI, um *Dokumentation* aus dem Gespräch zu generieren. Beides kann in derselben Session passieren: der Echo-Knopf für Wendungen und diese Technik für Output.
 
-**Das ist eine Semi-Live-Methode.** Nicht in Echtzeit wie der Echo-Knopf (direkt im Gespräch), sondern zwischen Blöcken: während Pausen oder Teilsitzungen. Du brauchst etwa 1-2 Minuten, um einen Prompt zu starten und die Ausgabe zu prüfen, bevor du sie der Gruppe zeigst.
+**Das ist eine Semi-Live-Methode.** Nicht in Echtzeit wie der Echo-Knopf (direkt im Gespräch), sondern zwischen Blöcken: während Pausen oder Teilsessions. Du brauchst etwa 1-2 Minuten, um einen Prompt zu starten und die Ausgabe zu prüfen, bevor du sie der Gruppe zeigst.
 
 ---
 
@@ -29,7 +29,7 @@ Wir haben dieses Prinzip für den Transformationsplan des Netzwerks für psychis
 
 Ein Beispiel aus Gelderland. Dreißig Teilnehmende geben Input für einen Transformationsplan für das Netzwerk für psychische Gesundheitsversorgung. Der alte Prozess:
 
-1. Live-Sitzung: Leute arbeiten in Kleingruppen
+1. Live-Session: Leute arbeiten in Kleingruppen
 2. Haftnotizen an Wänden
 3. **Ein Tag Verarbeitung**: Facilitatoren clustern und schreiben einen Entwurf
 4. Review durch ein 10-Personen-Team
@@ -38,7 +38,7 @@ Ein Beispiel aus Gelderland. Dreißig Teilnehmende geben Input für einen Transf
 Die Frage: was wäre, wenn AI dieses Entwurfsdokument direkt aus dem Gespräch generieren könnte?
 
 Die Antwort wurde ein Live-Workflow:
-- Transkription läuft parallel zur (originalen) faciliierten Sitzung, bei der Haftnotizen verwendet werden.
+- Transkription läuft parallel zur (originalen) faciliierten Session, bei der Haftnotizen verwendet werden.
 - Während kurzer Pausen generiert AI Entwurfsabschnitte
 - Leute sehen ihre Worte zurückgespiegelt, strukturiert, und erkennen sie sofort wieder
 
@@ -50,7 +50,7 @@ Von einem Tag Arbeit zu Minuten Verarbeitung. Ohne den Wert von Haftnotizen oder
 
 ### Die Grundmethode
 
-**VOR DER SITZUNG:**
+**VOR DER SESSION:**
 Bereite Prompts vor, die zum benötigten Dokumenttyp und -stil passen.
 
 **WÄHREND:**
@@ -79,7 +79,7 @@ Das ist die "rollende" Variante: jede Gruppe baut auf der verbesserten Version d
 
 ### Der Prompt
 
-Das ist der tatsächliche Prompt, den wir während der Transformationsplan-Sitzungen für das Netzwerk für psychische Gesundheitsversorgung verwendet haben. Er wurde für Dembrane entworfen, funktioniert aber mit jedem Tool, das Transkripte verarbeiten kann.
+Das ist der tatsächliche Prompt, den wir während der Transformationsplan-Sessions für das Netzwerk für psychische Gesundheitsversorgung verwendet haben. Er wurde für Dembrane entworfen, funktioniert aber mit jedem Tool, das Transkripte verarbeiten kann.
 
 Was ihn besonders macht: du verwendest denselben Prompt wiederholt. Jedes Mal mit mehr Input. AI bestimmt selbst, was nötig ist.
 
@@ -119,11 +119,11 @@ den Text gewebt werden.
 
 **Kontext:**
 - **Thema:** Das zentrale Thema dieses Teilplans, zu identifizieren aus dem Input.
-- **Input - Basisdiskussion(en):** Ein oder mehrere Transkript(e) der ersten Arbeitssitzung(en) zum Thema. (Hinweis: Transkripte können in einer anderen Sprache sein).
-- **Input - Feedback (Optional):** Ein oder mehrere Transkript(e) von Feedback-Sitzung(en) zu einer früheren Version dieses Teilplans. (Hinweis: Transkripte können in einer anderen Sprache sein).
+- **Input - Basisdiskussion(en):** Ein oder mehrere Transkript(e) der ersten Arbeitssession(en) zum Thema. (Hinweis: Transkripte können in einer anderen Sprache sein).
+- **Input - Feedback (Optional):** Ein oder mehrere Transkript(e) von Feedback-Session(en) zu einer früheren Version dieses Teilplans. (Hinweis: Transkripte können in einer anderen Sprache sein).
 
 **Zieloutput (zweiteilig, Teil 1 ist bedingt):**
-1. **Teil 1 - Echo der Basisdiskussion(en):** Ein prägnanter, vorwiegend narrativer Bericht der Kernerkenntnisse aus der/den Basisdiskussion(en). (Bei mehreren Basistranskripten ein Echo pro Transkript erstellen; bei einem ein allgemeines Echo dieser Sitzung). Nur generieren, wenn kein Feedback-Transkript vorliegt, oder wenn explizit angefordert.
+1. **Teil 1 - Echo der Basisdiskussion(en):** Ein prägnanter, vorwiegend narrativer Bericht der Kernerkenntnisse aus der/den Basisdiskussion(en). (Bei mehreren Basistranskripten ein Echo pro Transkript erstellen; bei einem ein allgemeines Echo dieser Session). Nur generieren, wenn kein Feedback-Transkript vorliegt, oder wenn explizit angefordert.
 2. **Teil 2 - Entwurf (oder überarbeiteter Entwurf) des Teilplans:** Ein vollständiger und reich ausgearbeiteter Teilplan. Er spiegelt den "Charakter von [Region]", zugrundeliegende Werte und Nuancen wider. Dient als Lernwerkzeug, betont Zusammenarbeit, baut auf vorhandenem Wissen auf und enthält Transparenzelemente. Kernwerte werden durchgehend angewandt und wo möglich verbunden.
 
 **Erforderlicher Stil/Ansatz (für Teil 2):**
@@ -142,7 +142,7 @@ TEIL 1: ECHO DER BASISDISKUSSION(EN)
 1. Input für Teil 1 analysieren: Anzahl der bereitgestellten Basisdiskussion-Transkripte bestimmen.
 2. Echo(s) generieren:
    - Bei MEHREREN Transkripten: Jedes separat analysieren. Pro Transkript einen kurzen, narrativen Absatz (ca. 3-5 Sätze) formulieren, der Kernerkenntnisse/Ideen/Tenor zusammenfasst. Unter jeweiligen Überschriften präsentieren.
-   - Bei EINEM Transkript: Einen kurzen, narrativen Absatz (ca. 3-5 Sätze) formulieren, der die Kernerkenntnisse der gesamten Sitzung zusammenfasst.
+   - Bei EINEM Transkript: Einen kurzen, narrativen Absatz (ca. 3-5 Sätze) formulieren, der die Kernerkenntnisse der gesamten Session zusammenfasst.
 
 TEIL 2: ENTWURF (ODER ÜBERARBEITETER ENTWURF) DES TEILPLANS
 
@@ -250,7 +250,7 @@ Erwogene Alternativen und mögliche blinde Flecken
 
 **Diesen Prompt für deinen Kontext anpassen.** Die Themen, Terminologie und Dokumentstruktur oben sind spezifisch für das Netzwerk für psychische Gesundheitsversorgung. Du kannst den Prompt anpassen, indem du:
 - Die **Rolle** auf deinen Dokumenttyp änderst (Projektplan, Policy Brief, strategischer Rahmen)
-- Die **Themenliste** durch die für deine Sitzung relevanten Themen ersetzt
+- Die **Themenliste** durch die für deine Session relevanten Themen ersetzt
 - Den **Stil** an die Sprache und den Ton deiner Organisation anpasst
 - Die **Struktur** (Schritt 8) nach dem Format modellierst, das deine Organisation erwartet
 
@@ -264,7 +264,7 @@ Das erfordert zwei Personen:
 
 | | Facilitator | Co-Facilitator |
 |---|------------|----------------|
-| **Vor der Sitzung** | Sitzungsdesign, Fragen vorbereiten | Technik einrichten, Aufnahme arrangieren |
+| **Vor der Session** | Sessiondesign, Fragen vorbereiten | Technik einrichten, Aufnahme arrangieren |
 | **Während** | Gespräch leiten, AI-Output zeigen, Validierung begleiten | Transkription überwachen, Abschnitte auswählen, Prompts starten |
 | **Danach** | Output mit der Gruppe reviewen | Verarbeitung und Konsolidierung |
 
@@ -280,7 +280,7 @@ Niemals: Facilitator hinter einem Laptop, während die Gruppe wartet.
 *Mein Ansatz:* Ich präsentiere es immer als Entwurf. "Das hat AI aus eurem Gespräch gemacht. Stimmt das so?"
 
 **Zu wenige Validierungsmomente**
-Sitzungsende: "Schaut, euer Dokument!" Aber niemand erkennt sich wieder, weil es keine Zwischenchecks gab.
+Sessionende: "Schaut, euer Dokument!" Aber niemand erkennt sich wieder, weil es keine Zwischenchecks gab.
 
 *Mein Ansatz:* Unterwegs validieren. Nach jeder Phase prüfen, ob es stimmt.
 
@@ -329,7 +329,7 @@ Die Form ist anders. Aber die Intention (Leute zu Eigentümern eines Plans mache
 
 - Der Stilansatz (wie stellst du sicher, dass Output im richtigen Format kommt?) wird behandelt in [Quelldokument als Stilvorlage](../phase-1/quelldokument-stil.md)
 - Warum das Bewahren der genauen Worte so wichtig ist, lies in [Sprache bewahren](../phase-1/sprache-bewahren.md)
-- Für Echtzeit-Interventionen während der Sitzung (nicht nur Dokumentation, sondern auch Reflexion), siehe [Live-Reflexion mit AI](live-reflexion-mit-ai.md)
+- Für Echtzeit-Interventionen während der Session (nicht nur Dokumentation, sondern auch Reflexion), siehe [Live-Reflexion mit AI](live-reflexion-mit-ai.md)
 
 ---
 

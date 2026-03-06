@@ -67,7 +67,7 @@ Was mir selbst auffällt: Ich sehe jetzt Dinge, die ich früher übersehen habe.
 
 #### Gemeinsam nach dem graben, was darin steckt
 
-Du hattest eine Sitzung. Das Gespräch war wertvoll, aber du weißt: Da steckt mehr drin, als du sofort benennen konntest. Nicht weil du etwas verpasst hast, sondern weil jedes reichhaltige Gespräch mehr enthält, als eine Person in einem Moment verarbeiten kann.
+Du hattest eine Session. Das Gespräch war wertvoll, aber du weißt: Da steckt mehr drin, als du sofort benennen konntest. Nicht weil du etwas verpasst hast, sondern weil jedes reichhaltige Gespräch mehr enthält, als eine Person in einem Moment verarbeiten kann.
 
 AI kann helfen, indem ihr gemeinsam grabt: nach Struktur suchen, Anknüpfungspunkte für Verbindung finden, auffällige Zitate identifizieren. Das Transkript ist Rohmaterial: Fundament für Vertiefung. Und das Schöne ist: Das muss keine Einzelarbeit sein. Du kannst gemeinsam mit AI einen Prompt aufbauen: AI stellt Fragen, du gibst die Richtung vor, und die Analyse wird immer schärfer.
 
@@ -97,7 +97,7 @@ Und wenn du am Ende doch viel selbst anpassen musstest? Dann ist das wertvolle I
 
 Bevor du darüber nachdenkst, was AI mit dem Output macht, gibt es eine wichtigere Frage: Wie stellst du sicher, dass der Input reichhaltig genug ist? Die Qualität dessen, was Menschen teilen, bestimmt, was AI damit anfangen kann. Eine gute Frage liefert reichhaltigere Antworten als eine schlechte. Ein sicheres Setting schafft Offenheit. Die Struktur deines Workshops bestimmt, was im Transkript landet.
 
-Die Qualität von AI-Output hängt von der Qualität des menschlichen Inputs ab. Das beginnt mit den Fragen, die du stellst: vorher beim Gestalten deiner Sitzung, und im Moment, wenn die Gruppe feststeckt. Das ist die Menschenarbeit, die jedem AI-Prompt vorausgeht.
+Die Qualität von AI-Output hängt von der Qualität des menschlichen Inputs ab. Das beginnt mit den Fragen, die du stellst: vorher beim Gestalten deiner Session, und im Moment, wenn die Gruppe feststeckt. Das ist die Menschenarbeit, die jedem AI-Prompt vorausgeht.
 
 > *[Mehr dazu: Erst die Menschen prompten](techniken/phase-2/erst-die-menschen-prompten.md)*
 
@@ -123,9 +123,9 @@ Hier kommt alles zusammen: Du hast gelernt, wie du Tiefe aus Transkripten holst,
 
 #### Vom Gespräch zum Live-Dokument
 
-Ein Schritt weiter als Live-Reflexion: Was, wenn du nicht nur eine Frage zurückgibst, sondern ein ganzes Entwurfsdokument generierst, während die Sitzung noch läuft?
+Ein Schritt weiter als Live-Reflexion: Was, wenn du nicht nur eine Frage zurückgibst, sondern ein ganzes Entwurfsdokument generierst, während die Session noch läuft?
 
-In strategischen Sitzungen oder Workshops, bei denen ein Plan entstehen soll, kannst du AI nutzen, um in den Pausen Entwurfsabschnitte zu generieren. Die Teilnehmenden sehen ihre Worte sofort zurückgespiegelt, strukturiert im Format, das die Organisation braucht. Von einem Arbeitstag zu Minuten; nicht für Effizienz, sondern für Eigenverantwortung. Denn die Feedback-Schleife verkürzt sich: Was die Leute gesagt haben, ist noch frisch, sie erkennen es sofort wieder.
+In strategischen Sessions oder Workshops, bei denen ein Plan entstehen soll, kannst du AI nutzen, um in den Pausen Entwurfsabschnitte zu generieren. Die Teilnehmenden sehen ihre Worte sofort zurückgespiegelt, strukturiert im Format, das die Organisation braucht. Von einem Arbeitstag zu Minuten; nicht für Effizienz, sondern für Eigenverantwortung. Denn die Feedback-Schleife verkürzt sich: Was die Leute gesagt haben, ist noch frisch, sie erkennen es sofort wieder.
 
 Das erfordert allerdings einen Co-Facilitator, der sich um die Technik kümmert, während du bei der Gruppe bleibst. Und es erfordert Validierung unterwegs: Präsentiere es niemals so, als hätte AI die Wahrheit eingefangen.
 
@@ -181,12 +181,12 @@ Das wirkt nach. Am Anfang schauen Teilnehmende mit der Frage "Stimmt das?" statt
 | Technik | Was sie bewirkt |
 |-----------|--------------|
 | [Live-Reflexion mit AI](techniken/phase-2/live-reflexion-mit-ai.md) | Echtzeit-Reflexion zurück an die Gruppe |
-| [Vom Gespräch zum Plan](techniken/phase-2/gespraech-zum-plan.md) | Ein Live-Entwurfsdokument während einer Sitzung erstellen |
+| [Vom Gespräch zum Plan](techniken/phase-2/gespraech-zum-plan.md) | Ein Live-Entwurfsdokument während einer Session erstellen |
 | [Intuition schwarz auf weiß](techniken/phase-2/intuition-schwarz-auf-weiss.md) | Muster erfassen, die du spürst, und besprechbar machen |
 | [Was noch darin steckte](techniken/phase-2/was-noch-darin-steckte.md) | Gemeinsam nach Tiefe in deinem Transkript graben |
 | [Iteration](techniken/phase-2/iteration.md) | In Runden mit AI zusammenarbeiten |
 | [Erst die Menschen prompten](techniken/phase-2/erst-die-menschen-prompten.md) | Die Input-Erfahrung gestalten, bevor der AI-Prompt kommt |
-| ↳ [Fragen umrahmen](techniken/phase-2/fragen-umrahmen.md) | In der Sitzung: abstrakte Fragen in ein anderes Licht rücken |
+| ↳ [Fragen umrahmen](techniken/phase-2/fragen-umrahmen.md) | In der Session: abstrakte Fragen in ein anderes Licht rücken |
 
 ---
 

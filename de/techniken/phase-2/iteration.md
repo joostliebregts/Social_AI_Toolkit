@@ -29,7 +29,7 @@ Das wurde kein einmaliger Prompt. Es wurden zwölf Runden.
 
 **Runde 1:** Ich beschreibe, was ich will.
 **Runde 2:** AI schlägt einen Schritt-für-Schritt-Plan vor.
-**Runde 3:** Ich füge das Sitzungsskript als Kontext hinzu.
+**Runde 3:** Ich füge das Sessionskript als Kontext hinzu.
 **Runde 4:** AI passt die Prompts an das Skript an.
 **Runde 5:** Ich bitte um drei spezifische Prompts.
 **Runde 6:** AI liefert drei Prompts, aber der Stil stimmt noch nicht.
@@ -234,7 +234,7 @@ Das wirkt wie Mehrarbeit, aber es ist eine Investition. Jede Iteration macht dei
 - Es gibt ein neues AI-Modell und du willst prüfen, ob deine Prompts noch gut funktionieren
 - Du willst systematisch verbessern statt ad hoc
 
-Beispiel: Du hast einen Prompt, der mit Gemini 2.5 gut funktioniert hat, aber jetzt gibt es ein neues Modell. Funktioniert dein Prompt noch? Oder du hast zehn Transkripte aus früheren Sitzungen und willst testen, ob dein neuer Analyse-Prompt das Richtige herausholt.
+Beispiel: Du hast einen Prompt, der mit Gemini 2.5 gut funktioniert hat, aber jetzt gibt es ein neues Modell. Funktioniert dein Prompt noch? Oder du hast zehn Transkripte aus früheren Sessions und willst testen, ob dein neuer Analyse-Prompt das Richtige herausholt.
 
 Der Ansatz: Teste deinen Prompt mit echten Daten und lass AI die eigene Arbeit bewerten.
 

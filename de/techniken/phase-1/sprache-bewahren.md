@@ -42,7 +42,7 @@ Hier kommt die Spannung ins Spiel: die Tendenz, alles in professionelle Sprache 
 
 Ein Transformationsplan für ein Netzwerk der psychischen Gesundheitsversorgung (GGZ, das niederländische System für psychische Gesundheitsversorgung). Dreißig Teilnehmende haben ihren Input zur Vision für psychische Gesundheit in der Region gegeben. Jetzt muss das in ein Dokument umgewandelt werden, das die Krankenkasse akzeptiert.
 
-Die Sitzung wird live mit Dembrane transkribiert. Während die Diskussion noch läuft, generiert AI einen Entwurf eines Teilplans basierend auf dem Gesagten.
+Die Session wird live mit Dembrane transkribiert. Während die Diskussion noch läuft, generiert AI einen Entwurf eines Teilplans basierend auf dem Gesagten.
 
 Als er gezeigt wird, fällt die Reaktion auf.
 
@@ -50,7 +50,7 @@ Als er gezeigt wird, fällt die Reaktion auf.
 
 Die Teilnehmenden schauen auf den Bildschirm und sehen ihre eigenen Worte zurückgespiegelt. Nicht zusammengefasst. Nicht interpretiert. Ihre genauen Formulierungen, strukturiert in einem Format, das die Krankenkasse erkennt.
 
-Später in der Sitzung nutzt Facilitator Jeroen den Echo-Knopf. Es gibt eine angespannte Diskussion über Prioritäten. AI fasst das Gespräch zusammen und stellt eine Frage.
+Später in der Session nutzt Facilitator Jeroen den Echo-Knopf. Es gibt eine angespannte Diskussion über Prioritäten. AI fasst das Gespräch zusammen und stellt eine Frage.
 
 > "Wow, wow. Das erfasst es wirklich gut. Das ist buchstäblich — ja, das ist wirklich die Frage, die wir stellen müssen."
 
@@ -189,15 +189,15 @@ Auf der Transkriptionsseite hast du den [vollständigen Prompt für den Elternab
 
 ---
 
-### Variation 2: Sitzungsanalyse mit Teilnehmendensprache
+### Variation 2: Sessionanalyse mit Teilnehmendensprache
 
-Das ist der Analyseansatz, den wir bei einer Sitzung mit Schlüsselpersonen in Doesburg, einer Kleinstadt in den Niederlanden, verwendet haben. Du kannst das pro Tisch, pro Breakout oder pro einzelner Sitzung anwenden.
+Das ist der Analyseansatz, den wir bei einer Session mit Schlüsselpersonen in Doesburg, einer Kleinstadt in den Niederlanden, verwendet haben. Du kannst das pro Tisch, pro Breakout oder pro einzelner Session anwenden.
 
-**Wann:** Nach einer Sitzung mit strukturierten Runden (z.B. Traumszenario, Herausforderungen, eigene Möglichkeiten).
+**Wann:** Nach einer Session mit strukturierten Runden (z.B. Traumszenario, Herausforderungen, eigene Möglichkeiten).
 
 **Prompt:**
 ```prompt
-**Kontext**: Du analysierst das Transkript von [einem Tisch/einer Sitzung/einem Breakout] zum Thema [Thema]. Die Sitzung hatte [Anzahl] Runden: [Rundennamen].
+**Kontext**: Du analysierst das Transkript von [einem Tisch/einer Session/einem Breakout] zum Thema [Thema]. Die Session hatte [Anzahl] Runden: [Rundennamen].
 
 **Auftrag**: Analysiere pro Runde und identifiziere:
 
@@ -262,13 +262,13 @@ Nicht clustern - als einzelne Perlen mit Kontext bewahren.
 - "Einzelne Perlen" schützt Ausreißer gegen den Drang, alles zu clustern
 - "Don'ts" sind explizit, weil AI dazu neigt, Frustrationen zu glätten
 
-*Willst du mehrere Sitzungen vergleichen? Analysiere jede Sitzung separat mit diesem Prompt, lege die Analysen nebeneinander und suche nach Mustern. Diesen Schritt findest du in [Muster über Zeit](../phase-3/muster-ueber-zeit.md) (Phase 3).*
+*Willst du mehrere Sessions vergleichen? Analysiere jede Session separat mit diesem Prompt, lege die Analysen nebeneinander und suche nach Mustern. Diesen Schritt findest du in [Muster über Zeit](../phase-3/muster-ueber-zeit.md) (Phase 3).*
 
 ---
 
 ### Variation 3: Sprachbewahrung in der Live-Reflexion
 
-Bis hierhin ging es um Analyse im Nachhinein. Aber Sprachbewahrung funktioniert auch live, mitten in einer Sitzung.
+Bis hierhin ging es um Analyse im Nachhinein. Aber Sprachbewahrung funktioniert auch live, mitten in einer Session.
 
 Der Echo-Prompt unten ist eine leichtere Variante der [vollständigen Live-Reflexions-Technik](../phase-2/live-reflexion-mit-ai.md). Dort lernst du, wann du sie einsetzt, wie du sie vorbereitest und wie der Workflow funktioniert. Hier konzentriere ich mich auf einen Aspekt: wie der Prompt Sprachbewahrung erzwingt.
 
@@ -378,7 +378,7 @@ Wenn AI Muster erkennt oder Fragen stellt, kann Interpretation mit Eigenverantwo
 
 **Prinzip:** Echtzeit-Feedback beschleunigt Eigenverantwortung
 
-Es gibt einen Grund, warum der Moment in der Sitzung zur Transformation der psychischen Gesundheitsversorgung so auffallend war (das Netzwerk mit dreißig Teilnehmenden): Menschen sahen ihre Worte *sofort* zurückgespiegelt.
+Es gibt einen Grund, warum der Moment in der Session zur Transformation der psychischen Gesundheitsversorgung so auffallend war (das Netzwerk mit dreißig Teilnehmenden): Menschen sahen ihre Worte *sofort* zurückgespiegelt.
 
 Echtzeit-Feedback macht etwas mit Eigenverantwortung, das verzögertes Feedback nicht kann. Wenn du deine Worte sofort zurückgespiegelt siehst, ist die Verbindung zwischen Sprechen und Ergebnis noch frisch. Du erkennst nicht nur die Worte; du erkennst den Moment. "Das habe ich gerade gesagt. Und jetzt steht es hier."
 

@@ -15,7 +15,7 @@ Man würde erwarten, dass es in einer Feldanleitung über AI vor allem um die ri
 
 ## Wann ist das relevant?
 
-**Situation:** Du bereitest eine Sitzung vor, in der AI eine Rolle spielen wird. Du überlegst, welchen Prompt du verwenden sollst.
+**Situation:** Du bereitest eine Session vor, in der AI eine Rolle spielen wird. Du überlegst, welchen Prompt du verwenden sollst.
 
 **Was mir auffällt:** Die Qualität dessen, was AI leisten kann, hängt vollständig davon ab, was du ihr gibst. Und was du ihr gibst, hängt davon ab, wie du Menschen dazu bringst, zu teilen. Die Frage "Wie prompte ich die AI?" kommt eigentlich nach einer wichtigeren: "Wie prompte ich die Menschen?"
 
@@ -57,7 +57,7 @@ Aber wenn du denselben Prototyp als Produkt irgendwo in einem Laden platziert h�
 Dieselbe Logik gilt für Workshops: Gestalte Fragen, die Menschen in ihre Erfahrung versetzen, nicht in ihre Analyse. Frag nicht, was sie denken, sondern was sie erlebt haben.
 
 **Schritt 1: Beginne mit dem Ziel**
-Was willst du am Ende der Sitzung haben? Welches Ergebnis braucht die Gruppe, um voranzukommen?
+Was willst du am Ende der Session haben? Welches Ergebnis braucht die Gruppe, um voranzukommen?
 
 **Schritt 2: Arbeite rückwärts zu den Puzzleteilen**
 Welche Zutaten brauchst du dafür? Welche Erkenntnisse, Perspektiven, Erfahrungen?
@@ -79,7 +79,7 @@ Wie holst du jedes Puzzleteil aus den Menschen heraus? Nicht eine große Frage, 
 
 Erst dann denkst du an AI. Der Prompt wird einfacher, weil der Input reicher ist.
 
-In einer ko-kreativen Sitzung mit 30 Leuten habe ich das sehr konkret erlebt.
+In einer ko-kreativen Session mit 30 Leuten habe ich das sehr konkret erlebt.
 
 ---
 
@@ -89,7 +89,7 @@ In einer ko-kreativen Sitzung mit 30 Leuten habe ich das sehr konkret erlebt.
 
 In einem Transformationsprojekt für ein Netzwerk der psychischen Gesundheitsversorgung mussten die Beteiligten eine Vision formulieren. Drei Themen (Soziale Landkarte, Beratungstisch, Erkundungsgespräch) wurden parallel von verschiedenen Gruppen entwickelt.
 
-Dieses Beispiel zeigt, wie gute Sitzungsgestaltung vor der Arbeit mit AI den entscheidenden Unterschied macht. Die Facilitatorinnen Rianne und Jojanneke hatten die Sitzung mit sorgfältig gestalteten Fragen vorbereitet. Sie hatten die Puzzleteile bereits herausgearbeitet. Meine Rolle war es, mit AI zu ernten, was sie gesammelt hatten: im Grunde nur die Muster zurückzuspiegeln, die schon da waren.
+Dieses Beispiel zeigt, wie gute Sessiongestaltung vor der Arbeit mit AI den entscheidenden Unterschied macht. Die Facilitatorinnen Rianne und Jojanneke hatten die Session mit sorgfältig gestalteten Fragen vorbereitet. Sie hatten die Puzzleteile bereits herausgearbeitet. Meine Rolle war es, mit AI zu ernten, was sie gesammelt hatten: im Grunde nur die Muster zurückzuspiegeln, die schon da waren.
 
 **Das Ziel:** Nicht nur "Was denkst du?", sondern ein konkretes 5-Jahres-Bild mit Schritten, um dorthin zu kommen.
 
@@ -115,13 +115,13 @@ Weil der Input so gut strukturiert war, konnte der Prompt genau dem folgen, was 
 
 ```prompt
 **Rolle:** Du bist ein AI-Assistent, der bei der Live-Dokumentation
-einer Sitzung zum Transformationsplan hilft. Deine Aufgabe ist es
+einer Session zum Transformationsplan hilft. Deine Aufgabe ist es
 jetzt, den Kern der gerade stattgefundenen Visionsdiskussion
 zusammenzufassen, als direktes Feedback an die Gruppe.
 
 **Kontext:**
-- Sitzungsteil: Ende von Runde 1 – Diskussion zur 5-Jahres-Perspektive
-  (Frage 1 aus dem Sitzungsskript).
+- Sessionteil: Ende von Runde 1 – Diskussion zur 5-Jahres-Perspektive
+  (Frage 1 aus dem Sessionskript).
 - Input: Das vollständige Transkript der gerade abgeschlossenen
   60-minütigen Diskussion an diesem Tisch.
 - Ausgabeziel: Feedback an die Teilnehmenden am Tisch
@@ -302,7 +302,7 @@ In Doesburg, einer Kleinstadt in den Niederlanden, lernte die Steuerungsgruppe, 
 
 > "Man sollte Blumenzüchter nicht per E-Mail einladen... Man muss eine SMS schicken, weil sie das auf dem Traktor lesen."
 
-Das ist nicht nur eine Kanalwahl. Es ist ein breiteres Muster: In der Moschee anwesend sein statt einen Brief zu schicken. Texte auf dem Leseniveau der sechsten Klasse schreiben, nicht weil Menschen nicht klug sind, sondern weil es klar sein muss. Die Steuerungsgruppe in Doesburg fing schließlich auch an, Menschen persönlich für eine wichtige Sitzung einzuladen.
+Das ist nicht nur eine Kanalwahl. Es ist ein breiteres Muster: In der Moschee anwesend sein statt einen Brief zu schicken. Texte auf dem Leseniveau der sechsten Klasse schreiben, nicht weil Menschen nicht klug sind, sondern weil es klar sein muss. Die Steuerungsgruppe in Doesburg fing schließlich auch an, Menschen persönlich für eine wichtige Session einzuladen.
 
 Die Lektion für "Erst die Menschen prompten": Wenn du Menschen über einen Kanal ansprichst, der nicht ihrer ist, erreichst du sie nicht. Die Frage "Wie gestalte ich die Input-Erfahrung?" beginnt früher, als du denkst.
 
@@ -329,7 +329,7 @@ Deshalb: Erst die Menschen prompten.
 - [Transkription als Grundlage](../phase-1/transkription.md): Das Ergebnis guter Fragen festhalten
 - [Iteration](iteration.md): Die Fragen selbst im Dialog mit AI weiterentwickeln
 - [Live-Reflexion mit AI](live-reflexion-mit-ai.md): In Echtzeit Fragen stellen, basierend auf dem, was gesagt wurde
-- [Fragen umrahmen](fragen-umrahmen.md): Fragen während der Sitzung selbst neu rahmen
+- [Fragen umrahmen](fragen-umrahmen.md): Fragen während der Session selbst neu rahmen
 
 ---
 

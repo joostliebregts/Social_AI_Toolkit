@@ -21,7 +21,7 @@
 
 ## Die Geschichte: das Muster, das ich nicht sah
 
-Wir haben eine Steuerungsgruppe in einem Bottom-up-Veränderungsprozess facilitiert. Diese Gruppe hatte schon so viel erreicht: Sie hatten nicht nur Probleme identifiziert und Lösungen erarbeitet, sie hatten auch selbst Sitzungen entworfen und durchgeführt. Sie hatten Input von Dutzenden von Menschen quer durch die Organisation gesammelt. Sie hatten Erfolge: In mehreren Sitzungen war es klar geworden; *das sind die Muster, die wir alle angehen müssen, das ist es, was laut den Menschen, mit denen wir gesprochen haben, zählt*.
+Wir haben eine Steuerungsgruppe in einem Bottom-up-Veränderungsprozess facilitiert. Diese Gruppe hatte schon so viel erreicht: Sie hatten nicht nur Probleme identifiziert und Lösungen erarbeitet, sie hatten auch selbst Sessions entworfen und durchgeführt. Sie hatten Input von Dutzenden von Menschen quer durch die Organisation gesammelt. Sie hatten Erfolge: In mehreren Sessions war es klar geworden; *das sind die Muster, die wir alle angehen müssen, das ist es, was laut den Menschen, mit denen wir gesprochen haben, zählt*.
 
 Und trotzdem saßen wir wieder im selben Gespräch: alles, was schiefgehen könnte, alle Hindernisse, alle Gründe, die Entscheidung aufzuschieben.
 
@@ -39,7 +39,7 @@ Das hatte ich in dem Moment nicht erkannt. Alles, was ich fühlte, war meine eig
 
 ## Zweites Beispiel: drei Phasen an einem Abend
 
-Der Elternabend über smartphonefreies Aufwachsen. In [Phase 1](../../phase-1-start.md) hast du schon über Maarten und den Fahrradhelm-Moment gelesen. Hier schauen wir auf dieselbe Sitzung aus der Perspektive der Mustererkennung: AI macht sichtbar, was du schon gefühlt hast.
+Der Elternabend über smartphonefreies Aufwachsen. In [Phase 1](../../phase-1-start.md) hast du schon über Maarten und den Fahrradhelm-Moment gelesen. Hier schauen wir auf dieselbe Session aus der Perspektive der Mustererkennung: AI macht sichtbar, was du schon gefühlt hast.
 
 Vierzehn Eltern teilen ihre Kämpfe. Danach gibt es ein Gefühl: Die Gespräche über Kleinkinder waren anders als die Gespräche über Teenager. Aber wie genau?
 
@@ -227,7 +227,7 @@ Der Unterschied zwischen "es scheint, als ob" und "die Analyse zeigt" ist in Wor
 
 Was mir immer wieder auffällt: Intuition ist vertrackt. Du fühlst, dass etwas los ist, aber du kannst nicht darauf zeigen. Es ist in deinem Körper, nicht in deinem Kopf. Du weißt es, aber du kannst es nicht sagen.
 
-So wie ich es sehe, hängt es von deiner Erfahrung ab, wie gut du dieses Gefühl in Worte übersetzen kannst. Ein erfahrener Facilitator spürt Spannung und kann sie sofort benennen: "Mir fällt auf, dass wir immer wieder von diesem Thema abweichen." Ich hatte diese Worte in jener Steuerungsgruppen-Sitzung nicht. Ich fühlte die Frustration, aber ich konnte nicht benennen, was los war, bis ich das Transkript analysierte und AI mir half, es zu sehen.
+So wie ich es sehe, hängt es von deiner Erfahrung ab, wie gut du dieses Gefühl in Worte übersetzen kannst. Ein erfahrener Facilitator spürt Spannung und kann sie sofort benennen: "Mir fällt auf, dass wir immer wieder von diesem Thema abweichen." Ich hatte diese Worte in jener Steuerungsgruppen-Session nicht. Ich fühlte die Frustration, aber ich konnte nicht benennen, was los war, bis ich das Transkript analysierte und AI mir half, es zu sehen.
 
 Hier wird es interessant: Die Intuition war schon da. AI hat sie nicht erschaffen. Was AI gemacht hat, war die Übersetzung: von etwas Unsichtbarem zu etwas, das ich benennen und besprechen konnte.
 

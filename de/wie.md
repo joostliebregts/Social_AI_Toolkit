@@ -16,9 +16,9 @@ So wie ich es sehe, beginnt es dort. Beim Menschen.
 
 Das klingt vielleicht selbstverständlich. Aber was mir in der Praxis auffällt: Es läuft oft anders. Jemand hat einen Plan, präsentiert ihn und fragt, ob er richtig ist. Die Absicht ist gut. Aber die Eigenverantwortung liegt bei der Person, die ihn sich ausgedacht hat, nicht bei der Gruppe. Wer es nicht selbst gesagt hat, erkennt sich weniger darin wieder.
 
-In dieser Feldanleitung kommt das immer wieder, auf verschiedene Weisen. Wenn du eine Sitzung vorbereitest: Was wollen wir erreichen, und welche Erfahrung gestaltest du dafür? Wenn du AI einsetzt: Was gibst du ihr? Die Worte der Menschen selbst, nicht deine Zusammenfassung. Wenn du der Gruppe etwas zurückspiegelst: Erkennen die Menschen sich in dem wieder, was da steht? Und wenn du dir unsicher bist über den richtigen Moment: Was braucht diese Gruppe jetzt?
+In dieser Feldanleitung kommt das immer wieder, auf verschiedene Weisen. Wenn du eine Session vorbereitest: Was wollen wir erreichen, und welche Erfahrung gestaltest du dafür? Wenn du AI einsetzt: Was gibst du ihr? Die Worte der Menschen selbst, nicht deine Zusammenfassung. Wenn du der Gruppe etwas zurückspiegelst: Erkennen die Menschen sich in dem wieder, was da steht? Und wenn du dir unsicher bist über den richtigen Moment: Was braucht diese Gruppe jetzt?
 
-Auch wenn du allein mit AI arbeitest, beginnt es bei dir. Was macht dich neugierig? Wobei könntest du Hilfe gebrauchen? Was hast du in dieser Sitzung gespürt, und wie machst du das sichtbar?
+Auch wenn du allein mit AI arbeitest, beginnt es bei dir. Was macht dich neugierig? Wobei könntest du Hilfe gebrauchen? Was hast du in dieser Session gespürt, und wie machst du das sichtbar?
 
 All diese Fragen beginnen beim Menschen. Nicht beim Werkzeug, nicht beim System, nicht beim Prompt.
 
@@ -32,7 +32,7 @@ Diese grundlegende Haltung übersetzt sich in sechs Arbeitsprinzipien.
 
 ## Die sechs Arbeitsprinzipien
 
-Jedes Mal, wenn ich AI in einer Sitzung einsetze, spüre ich dasselbe. Es gibt Dinge, die AI kann und ich nicht (Muster blitzschnell erkennen, mit endloser Geduld zusammenfassen). Und es gibt Dinge, die ich tun muss und AI nicht kann (Menschen Raum geben, sie selbst zu sein, Körpersprache lesen, entscheiden, in welche Richtung wir gehen). Ich treffe diese Wahl immer wieder, und ich merke, dass sie sich verändert, je intelligenter AI wird.
+Jedes Mal, wenn ich AI in einer Session einsetze, spüre ich dasselbe. Es gibt Dinge, die AI kann und ich nicht (Muster blitzschnell erkennen, mit endloser Geduld zusammenfassen). Und es gibt Dinge, die ich tun muss und AI nicht kann (Menschen Raum geben, sie selbst zu sein, Körpersprache lesen, entscheiden, in welche Richtung wir gehen). Ich treffe diese Wahl immer wieder, und ich merke, dass sie sich verändert, je intelligenter AI wird.
 
 Nach einer Weile begann ich Muster zu sehen. Ich habe diese Muster in sechs Prinzipien festgehalten. Im Folgenden erkläre ich sie. In den drei Phasen, die in dieser Feldanleitung folgen, ob du mit deiner ersten Transkription beginnst oder monatelange Gespräche analysierst, ziehen sich dieselben Prinzipien hindurch.
 
@@ -63,7 +63,7 @@ Rituale dürfen sich ändern. Aber wer entscheidet, ob die Intention bewahrt ble
 
 ### 2. Deine Worte, dein Plan
 
-In einer Sitzung über Versorgungsinnovation hatte AI eine wunderschöne Synthese der gemeinsamen Vision erstellt. Alle waren beeindruckt. Dann fragte jemand: "Kann die AI nicht auch den Umsetzungsplan machen?"
+In einer Session über Versorgungsinnovation hatte AI eine wunderschöne Synthese der gemeinsamen Vision erstellt. Alle waren beeindruckt. Dann fragte jemand: "Kann die AI nicht auch den Umsetzungsplan machen?"
 
 Meine Antwort: "Das kann sie absolut, aber du bist die Seele von all dem. Die Tatsache, dass ihr darüber redet, ist das, was dazu führt, dass ihr es auch tragt."
 

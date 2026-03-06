@@ -1,17 +1,17 @@
 # Muster über Zeit
 
-> *Vom Schnappschuss zur Entwicklungslinie: Was verändert sich, wenn du Sitzungen nebeneinanderlegst?*
+> *Vom Schnappschuss zur Entwicklungslinie: Was verändert sich, wenn du Sessions nebeneinanderlegst?*
 
 **Phase:** [Phase 3: Skalierung](../../phase-3-skalierung.md)
-**Baut auf:** [Intuition schwarz auf weiß](../phase-2/intuition-schwarz-auf-weiss.md), jetzt über mehrere Sitzungen hinweg
+**Baut auf:** [Intuition schwarz auf weiß](../phase-2/intuition-schwarz-auf-weiss.md), jetzt über mehrere Sessions hinweg
 
 ---
 
 ## Wann ist das relevant?
 
-**Situation:** Du hast einen langfristigen Prozess. Mehrere Sitzungen über Wochen oder Monate. Du spürst, dass sich etwas verschiebt, aber du kannst es nicht benennen. Oder du willst die Veränderung kartieren: nicht nur spüren, dass etwas anders ist, sondern sehen, was sich genau verschiebt.
+**Situation:** Du hast einen langfristigen Prozess. Mehrere Sessions über Wochen oder Monate. Du spürst, dass sich etwas verschiebt, aber du kannst es nicht benennen. Oder du willst die Veränderung kartieren: nicht nur spüren, dass etwas anders ist, sondern sehen, was sich genau verschiebt.
 
-**Was mir auffällt:** Bis vor kurzem war es schlicht nicht möglich, Treffen systematisch zu vergleichen. Du hattest deine eigene Erinnerung, deine Notizen, vielleicht ein Evaluationsformular. Aber zusammenbringen, was in Sitzung zwei gesagt wurde, neben dem, was in Sitzung sechs gesagt wurde: Das kostete mehr Zeit, als die meisten haben. AI macht es zum ersten Mal möglich, das tatsächlich zu tun. Nicht als Ersatz für das eigene Gefühl, sondern als Ergänzung: ein Gesprächspartner mit einem sehr präzisen Gedächtnis.
+**Was mir auffällt:** Bis vor kurzem war es schlicht nicht möglich, Treffen systematisch zu vergleichen. Du hattest deine eigene Erinnerung, deine Notizen, vielleicht ein Evaluationsformular. Aber zusammenbringen, was in Session zwei gesagt wurde, neben dem, was in Session sechs gesagt wurde: Das kostete mehr Zeit, als die meisten haben. AI macht es zum ersten Mal möglich, das tatsächlich zu tun. Nicht als Ersatz für das eigene Gefühl, sondern als Ergänzung: ein Gesprächspartner mit einem sehr präzisen Gedächtnis.
 
 **Die Frage:** Was würde sichtbar werden, wenn du alle Gespräche nebeneinanderlegen könntest?
 
@@ -39,15 +39,15 @@ AI griff dieses Thema selbstständig als wiederkehrendes Muster über mehrere Tr
 
 Das ist wichtig: Wir hatten der AI diesen Namen nicht gegeben. Floor hatte das Konzept der Gruppe vorgestellt, die Gruppe sprach darüber in den Treffen. Aber es war AI, die es als wiederkehrendes Muster über mehrere Treffen hinweg erkannte und ihm selbstständig diesen Namen gab.
 
-In den ersten Sitzungen war der Ton besorgt. Jemand fragte über eine Schlüsselfigur in der Nachbarschaft:
+In den ersten Sessions war der Ton besorgt. Jemand fragte über eine Schlüsselfigur in der Nachbarschaft:
 
 > *"Was, wenn du ausfällst? Denn dann haben wir eine sehr wichtige Person verloren."*
 
-In späteren Sitzungen verschob sich das Bewusstsein. Die Gruppe sprach über Schlüsselfiguren, die bereits so viel taten, dass sie Gefahr liefen auszubrennen:
+In späteren Sessions verschob sich das Bewusstsein. Die Gruppe sprach über Schlüsselfiguren, die bereits so viel taten, dass sie Gefahr liefen auszubrennen:
 
 > *"Sie hat schon so eine Schlüsselrolle... Es ist fast eine Verpflichtung."*
 
-Und in der vierten Sitzung wurde sichtbar, wie Wissen verschwindet, wenn diese Schlüsselfiguren ausfallen. Jemand hatte online nach lokalen Initiativen in Doesburg gesucht und entdeckt, dass die Initiativen, die sie kannten, bereits aufgehört hatten:
+Und in der vierten Session wurde sichtbar, wie Wissen verschwindet, wenn diese Schlüsselfiguren ausfallen. Jemand hatte online nach lokalen Initiativen in Doesburg gesucht und entdeckt, dass die Initiativen, die sie kannten, bereits aufgehört hatten:
 
 > *"Wie oft ich zurückbekomme, dass Google sagt, wir konnten sie nicht finden... Dann ist wieder jemand weggegangen."*
 
@@ -55,7 +55,7 @@ Die Verschiebung über die Treffen war auffallend: von "die Netzwerke dieser Men
 
 Dieses Muster war nur sichtbar, weil es über mehrere Treffen wiederkehrte. In einem Treffen ist es eine Bemerkung. Über drei Treffen ist es ein Muster. Über fünf Treffen ist es eine Veränderungslinie: von Beobachtung zu Besorgnis zu Handlung.
 
-Das ist der Kern von Muster über Zeit: Verschiebungen sichtbar machen, die sich über Sitzungen entfalten, die du verpasst, wenn du jedes Treffen als isolierte Insel behandelst.
+Das ist der Kern von Muster über Zeit: Verschiebungen sichtbar machen, die sich über Sessions entfalten, die du verpasst, wenn du jedes Treffen als isolierte Insel behandelst.
 
 ---
 
@@ -63,16 +63,16 @@ Das ist der Kern von Muster über Zeit: Verschiebungen sichtbar machen, die sich
 
 Das ist das Kernprinzip von Muster über Zeit und eigentlich der gesamten [Phase 3](../../phase-3-skalierung.md): **Auseinandernehmen und Synthetisieren.**
 
-Nicht alle Transkripte auf einmal an AI verfüttern. Nicht jede Sitzung als isolierte Insel behandeln. Sondern:
+Nicht alle Transkripte auf einmal an AI verfüttern. Nicht jede Session als isolierte Insel behandeln. Sondern:
 
-1. **Erst jede Sitzung einzeln analysieren**: mit der gleichen Methodik, den gleichen Fragen, den gleichen Linsen
+1. **Erst jede Session einzeln analysieren**: mit der gleichen Methodik, den gleichen Fragen, den gleichen Linsen
 2. **Dann synthetisieren**: die Analysen vergleichen, nach Mustern suchen
 
 Warum nicht alles auf einmal? Weil du die Nuance einzelner Gespräche verlierst, keine Kontrolle über die Methodik hast und Daten bekommst, die nicht vergleichbar sind. Das Kontextfenster der AI füllt sich, und die Ergebnisse werden schlechter.
 
-Warum nicht einzeln? Weil du die Verbindungen zwischen Sitzungen verpasst, keine Verschiebungen sehen kannst und jede Analyse eine Insel bleibt.
+Warum nicht einzeln? Weil du die Verbindungen zwischen Sessions verpasst, keine Verschiebungen sehen kannst und jede Analyse eine Insel bleibt.
 
-Der Ansatz ist einfach, aber wirkungsvoll: **Konsequent die gleiche Analyse auf jede Sitzung anwenden, dann die Analysen nebeneinanderlegen.** Du bewahrst den Reichtum jedes Gesprächs und machst Muster sichtbar, die du sonst verpassen würdest.
+Der Ansatz ist einfach, aber wirkungsvoll: **Konsequent die gleiche Analyse auf jede Session anwenden, dann die Analysen nebeneinanderlegen.** Du bewahrst den Reichtum jedes Gesprächs und machst Muster sichtbar, die du sonst verpassen würdest.
 
 Die Kontrolle liegt in der Methodik: Wenn die Synthese nicht überzeugt, kannst du sie auf Basis der gleichen einzelnen Analysen wiederholen. Wenn du weißt, dass die einzelnen Analysen solide sind und das Problem in der Synthese liegt, passt du nur den Synthese-Prompt an. Der Input bleibt gleich.
 
@@ -84,7 +84,7 @@ Als ich diese Methodik auf sieben Treffen angewandt hatte, war meine erste Frage
 
 Zu dem Zeitpunkt hatte der Doesburg-Prozess bereits zehn Treffen gehabt. Ich analysierte die ersten sieben und stellte AI eine einfache Frage: Was erwartest du von Treffen acht? Ich wusste bereits, was in Treffen acht passiert war. Das war das Ehrliche an diesem Experiment: Es war im Nachhinein überprüfbar. Keine Spekulation, sondern eine Hypothese, die ich checken konnte.
 
-Das Setup: Ich gab jedes der sieben Transkripte einer separaten AI. Sieben parallele Analysen, jede in ihrem eigenen Kontextfenster, mit dem gleichen Prompt und den gleichen sechs Signalen. Maximales Detail pro Sitzung. Eine Synthese-AI kombinierte dann alle sieben Analysen.
+Das Setup: Ich gab jedes der sieben Transkripte einer separaten AI. Sieben parallele Analysen, jede in ihrem eigenen Kontextfenster, mit dem gleichen Prompt und den gleichen sechs Signalen. Maximales Detail pro Session. Eine Synthese-AI kombinierte dann alle sieben Analysen.
 
 ### Das Szenario, das eintraf
 
@@ -105,13 +105,13 @@ Energie           6   7   7   7   7   6   7   ▆▇▇▇▇▆▇
 Entscheidungen    5   4   1   5   6   6   7   ▅▄▁▅▆▆▇
 ```
 
-Drei Linien, drei Geschichten. Eigenverantwortung steigt in zwei Sprüngen und konsolidiert sich: Die Gruppe übernimmt schrittweise die Initiative. Energie bleibt bemerkenswert stabil, mit einem Einbruch, der (vermutlich) nicht inhaltlich bedingt war, sondern daran lag, dass das Treffen online stattfand. Und Entscheidungen erzählt vielleicht die überraschendste Geschichte: ein Tal im dritten Treffen (der Check-in nahm die gesamte Sitzung ein), gefolgt von einer stetigen Beschleunigung, als die Gruppe lernte zu beraten und vor allem zu entscheiden.
+Drei Linien, drei Geschichten. Eigenverantwortung steigt in zwei Sprüngen und konsolidiert sich: Die Gruppe übernimmt schrittweise die Initiative. Energie bleibt bemerkenswert stabil, mit einem Einbruch, der (vermutlich) nicht inhaltlich bedingt war, sondern daran lag, dass das Treffen online stattfand. Und Entscheidungen erzählt vielleicht die überraschendste Geschichte: ein Tal im dritten Treffen (der Check-in nahm die gesamte Session ein), gefolgt von einer stetigen Beschleunigung, als die Gruppe lernte zu beraten und vor allem zu entscheiden.
 
 Jede Linie sagt für sich etwas. Aber zusammen sagen sie mehr. Die stabile Energie stützt das Wachstum der Eigenverantwortung: Die Gruppe bleibt dran, auch wenn es schwierig wird. Und die Beschleunigung bei Entscheidungen korreliert mit dem Moment, als eine konkrete Deadline kam.
 
 Die anderen drei Signale (Spannung, Gruppenidentität, Verhaltensmuster) sind qualitativ und schwerer in einem Diagramm zu erfassen, aber mindestens genauso wertvoll. Wie sich Spannung von "Wut auf das System" zu "Geduld versus Tatendrang" verschiebt. Wie sich Gruppenidentität von "kleiner Club" zu "vielfältige Doesburg-Bewohner, die etwas aufbauen" verändert. Solche Verschiebungen siehst du nur, wenn du systematisch zurückschaust.
 
-Und das sind sechs Signale, die ich gewählt habe. Es ist wahrscheinlich noch viel mehr möglich. Andere Fragen, andere Linsen, andere Signale, je nachdem, was du über deine Gruppe wissen willst. Die Methode ist die gleiche: konsequent die gleiche Analyse pro Sitzung anwenden, dann die Analysen nebeneinanderlegen.
+Und das sind sechs Signale, die ich gewählt habe. Es ist wahrscheinlich noch viel mehr möglich. Andere Fragen, andere Linsen, andere Signale, je nachdem, was du über deine Gruppe wissen willst. Die Methode ist die gleiche: konsequent die gleiche Analyse pro Session anwenden, dann die Analysen nebeneinanderlegen.
 
 ### Die Facilitationskarte
 
@@ -137,7 +137,7 @@ Der Transcript Analyst (Schritt 1 der Methode) sucht pro Treffen nicht nur nach 
 
 **Die Hilfefrage.** Einer der Teilnehmenden sagte im vierten Treffen: "Sag nicht, wir brauchen Hilfe. Nein, sag: Willst du mir helfen? Das ist der Moment, wo die Leute denken, ach ja, erzähl mir mehr." Dieser Moment kam im sechsten Treffen zurück, als die Gruppe einen Einladungstext schrieb. AI erkannte es als das gleiche Muster: Die Art, wie du die Frage formulierst, bestimmt, ob sich Menschen eingeladen oder angesprochen fühlen.
 
-**Der Gruppe-8-Test.** Einer der Teilnehmenden führte das Prinzip ein: Jede Kommunikation sollte auf dem Niveau der Gruppe 8 verständlich sein (das letzte Jahr der niederländischen Grundschule, etwa vergleichbar mit der sechsten Klasse). Die Gruppe wendete es auf ihre Einladung an, und es wurde ein wiederkehrender Prüfpunkt in späteren Treffen. Ein einfaches Prinzip, das AI über mehrere Sitzungen hinweg erkannte.
+**Der Gruppe-8-Test.** Einer der Teilnehmenden führte das Prinzip ein: Jede Kommunikation sollte auf dem Niveau der Gruppe 8 verständlich sein (das letzte Jahr der niederländischen Grundschule, etwa vergleichbar mit der sechsten Klasse). Die Gruppe wendete es auf ihre Einladung an, und es wurde ein wiederkehrender Prüfpunkt in späteren Treffen. Ein einfaches Prinzip, das AI über mehrere Sessions hinweg erkannte.
 
 Das klingt vielleicht nach offenen Türen. Aber interessant ist, dass AI diese "Module" selbstständig herausgefiltert hat. Der Prompt bittet AI, pro Treffen nach übertragbaren Erkenntnissen zu suchen, und die Synthese zieht die Verbindungen. Was du zurückbekommst, sind Muster, die du informell schon gespürt hast, jetzt aber formalisiert und gestützt durch Zitate aus mehreren Treffen.
 
@@ -262,7 +262,7 @@ Ausgabeformat:
 # Treffen [N] Analyse — [Datum]
 
 ## Kontext
-- Treffentyp: [Einführung / Vertiefungssitzung / Organisation /
+- Treffentyp: [Einführung / Vertiefungssession / Organisation /
   Entscheidungsfindung / etc.]
 - Anwesend: [Namen + Rollen]
 - Abwesend: [Namen — Abwesenheit ist auch eine Information]
@@ -397,7 +397,7 @@ Ausgabeformat:
 
 **Warum diese Struktur funktioniert:**
 
-- "Zwei Schritte" statt eines All-in-one-Prompts stellen sicher, dass jede Sitzung volle Aufmerksamkeit bekommt. Bei mehreren Transkripten auf einmal geht Nuance verloren: Das Kontextfenster füllt sich und AI beginnt zusammenzufassen statt zu analysieren.
+- "Zwei Schritte" statt eines All-in-one-Prompts stellen sicher, dass jede Session volle Aufmerksamkeit bekommt. Bei mehreren Transkripten auf einmal geht Nuance verloren: Das Kontextfenster füllt sich und AI beginnt zusammenzufassen statt zu analysieren.
 - "Die gleichen sechs Signale" in Schritt 1 machen die Analysen vergleichbar. Ohne diese Konsistenz bekommst du Daten, die du nicht nebeneinanderlegen kannst.
 - "Die Synthese als separater Schritt" zwingt AI, aktiv zu vergleichen, statt pro Transkript zusammenzufassen.
 - "Retro-Vorhersagen" zwingen das Modell, sich selbst zu validieren. Das ist der Ehrlichkeitscheck.
@@ -408,13 +408,13 @@ Ausgabeformat:
 
 ## Probiere es selbst aus
 
-Du kannst die Prompts oben auf deine eigenen Transkripte anwenden. Aber wenn du mit etwas Kleinerem anfangen willst, probiere das hier: ein Vergleich von zwei Sitzungen mit der gleichen Gruppe.
+Du kannst die Prompts oben auf deine eigenen Transkripte anwenden. Aber wenn du mit etwas Kleinerem anfangen willst, probiere das hier: ein Vergleich von zwei Sessions mit der gleichen Gruppe.
 
 *10-15 Minuten. Du brauchst zwei Berichte oder Transkripte von Treffen mit der gleichen Gruppe.*
 
-1. **Wähle zwei Sitzungen** aus dem gleichen Prozess. Es muss nicht perfekt sein: zwei Teambesprechungen, zwei Workshops, zwei Gruppengespräche. Hauptsache, sie sind von der gleichen Gruppe mit mindestens ein paar Wochen dazwischen.
+1. **Wähle zwei Sessions** aus dem gleichen Prozess. Es muss nicht perfekt sein: zwei Teambesprechungen, zwei Workshops, zwei Gruppengespräche. Hauptsache, sie sind von der gleichen Gruppe mit mindestens ein paar Wochen dazwischen.
 
-2. **Analysiere beide mit den gleichen fünf Fragen.** Kopiere diesen Prompt und verwende ihn für beide Sitzungen:
+2. **Analysiere beide mit den gleichen fünf Fragen.** Kopiere diesen Prompt und verwende ihn für beide Sessions:
 
 ```prompt
 Analysiere dieses Transkript eines Treffens.
@@ -440,7 +440,7 @@ Zitaten.
 Ich gebe dir zwei Analysen von Treffen der gleichen Gruppe,
 mit ein paar Wochen dazwischen. Vergleiche sie:
 
-- Was hat sich zwischen Sitzung 1 und Sitzung 2 verschoben?
+- Was hat sich zwischen Session 1 und Session 2 verschoben?
 - Sind die Fragen konkreter oder abstrakter geworden?
 - Hat sich der Ton verändert? Von nach außen zu nach innen
   gerichtet?
@@ -460,20 +460,20 @@ Das Ziel ist keine perfekte Analyse. Das Ziel ist die Erfahrung: Ach, *das* hat 
 
 *Das ist für diejenigen, die neugierig sind, wie die Methode entwickelt und getestet wurde. Du musst das nicht lesen, um Muster über Zeit anzuwenden.*
 
-Alles oben basiert auf Version eins des Experiments: sieben parallele Analysen, eine Synthese. Aber nach diesem ersten Ergebnis wollte ich wissen: Geht das auch pro Sitzung? Nicht alles rückblickend auf einmal analysieren, sondern nach Sitzung eins bereits eine Vorhersage für Sitzung zwei machen. Und dann bei Sitzung zwei die vorherige Vorhersage evaluieren, anpassen und wieder vorhersagen. Eine Spirale aus Feedback und Lernen, in der jede Runde auf den Beobachtungen der vorherigen aufbaut. Ich habe das mit vier Methoden getestet, die progressiv aufeinander aufbauten.
+Alles oben basiert auf Version eins des Experiments: sieben parallele Analysen, eine Synthese. Aber nach diesem ersten Ergebnis wollte ich wissen: Geht das auch pro Session? Nicht alles rückblickend auf einmal analysieren, sondern nach Session eins bereits eine Vorhersage für Session zwei machen. Und dann bei Session zwei die vorherige Vorhersage evaluieren, anpassen und wieder vorhersagen. Eine Spirale aus Feedback und Lernen, in der jede Runde auf den Beobachtungen der vorherigen aufbaut. Ich habe das mit vier Methoden getestet, die progressiv aufeinander aufbauten.
 
 Eine Anmerkung: Die Prozentangaben unten werden von der AI selbst bewertet. Eine AI sagt vorher, eine andere bewertet, was tatsächlich passiert ist. Das sind keine harten Zahlen. Interessant ist, was jeder Schritt in der Spirale darüber verrät, wie AI mit dieser Art von Daten umgeht.
 
 | Version | Methode | Was es ergibt |
 |---------|--------|----------------|
 | **V1** | Sieben parallele Analysen + eine Synthese | Das Ergebnis oben: Szenario, Kurven, Facilitationskarte. Der reichhaltigste Ansatz, aber nur rückblickend möglich. |
-| **V2** | Analyse pro Sitzung, blinde Vorhersage, komprimierte Übergabe an die nächste | Die Basis der Spirale. Jede AI erhält nur eine Zusammenfassung der vorherigen, nicht die vollständige Analyse. Erster Versuch: ~68%. |
+| **V2** | Analyse pro Session, blinde Vorhersage, komprimierte Übergabe an die nächste | Die Basis der Spirale. Jede AI erhält nur eine Zusammenfassung der vorherigen, nicht die vollständige Analyse. Erster Versuch: ~68%. |
 | **V3** | V2 + jede Runde evaluiert die vorherige Vorhersage, passt an und lernt | Die Spirale in Aktion. Durch explizites Zurückschauen, was die vorherige Runde richtig und falsch eingeschätzt hat, wurden die Vorhersagen schärfer (~73%). |
 | **V4** | V3 + vollständige vorherige Analysen werden weitergegeben statt Zusammenfassungen | Mehr Daten, aber nicht unbedingt besser (~69%). AI wurde vorsichtiger und beschreibender statt schärfer. |
 
 **Was das zeigt:** Die Vorhersagen von V3 kamen näher an das, was tatsächlich passierte, als die von V4, obwohl V4 mehr Informationen hatte. So funktioniert es: Bei jedem nächsten Schritt erhielt AI das Transkript des Treffens, das in der vorherigen Runde vorhergesagt wurde. So konnte sie evaluieren, welche Szenarien tatsächlich eingetroffen waren, und für die nächste Vorhersage anpassen. Das ist keine harte Wissenschaft (AI evaluiert sich selbst), aber das Muster ist interessant. Wenn du AI alles gibst, muss sie selbst herausfinden, was wichtig ist, und das macht AI vorsichtiger und beschreibender statt schärfer. Gib ihr eine kompakte Zusammenfassung und das Rauschen ist bereits herausgefiltert, sodass AI sich auf die Muster konzentrieren kann, die zählen. Das stützt das Prinzip "erst einzeln, dann zusammen."
 
-**Die Ehrlichkeit:** Das ist ein Experiment, keine bewiesene Methode. Ich habe die Signale selbst definiert, die Werte sind indikativ, und das Modell überschätzt Fortschritt und unterschätzt Widerstand. Menschen sind keine Trendlinien. Der Wert liegt nicht in den Prozentangaben, sondern im Denken: eine Spirale aus Feedback und Lernen, die die Analyse jede Runde reicher macht. Und praktisch: ein Facilitator, der vor jedem Treffen ein Briefing bekommt, basierend auf allen vorherigen Sitzungen.
+**Die Ehrlichkeit:** Das ist ein Experiment, keine bewiesene Methode. Ich habe die Signale selbst definiert, die Werte sind indikativ, und das Modell überschätzt Fortschritt und unterschätzt Widerstand. Menschen sind keine Trendlinien. Der Wert liegt nicht in den Prozentangaben, sondern im Denken: eine Spirale aus Feedback und Lernen, die die Analyse jede Runde reicher macht. Und praktisch: ein Facilitator, der vor jedem Treffen ein Briefing bekommt, basierend auf allen vorherigen Sessions.
 
 ---
 
@@ -503,9 +503,9 @@ Wenn AI bestimmt, dass drei Zitate relevant sind, um ein Muster zu stützen, ist
 
 ## Sicherheits-Checkliste
 
-- [ ] Mehrere Sitzungen für die Analyse verfügbar?
-- [ ] Jede Sitzung einzeln mit der gleichen Methodik analysiert?
-- [ ] Kontext pro Sitzung im Prompt enthalten?
+- [ ] Mehrere Sessions für die Analyse verfügbar?
+- [ ] Jede Session einzeln mit der gleichen Methodik analysiert?
+- [ ] Kontext pro Session im Prompt enthalten?
 - [ ] Muster auf drei bis fünf beschränkt, die wirklich zählen?
 - [ ] Muster mit der Gruppe gecheckt: Erkennen sie die Verschiebung?
 - [ ] Unterschied gemacht zwischen Verschiebung und Variation?
@@ -516,17 +516,17 @@ Wenn AI bestimmt, dass drei Zitate relevant sind, um ein Muster zu stützen, ist
 
 ### Weisheit, die sich ansammelt
 
-Jede Sitzung bringt Erkenntnisse. Aber die meisten verschwinden. Das nächste Gespräch beginnt, die Aufmerksamkeit verlagert sich, was vorher gesagt wurde, verblasst.
+Jede Session bringt Erkenntnisse. Aber die meisten verschwinden. Das nächste Gespräch beginnt, die Aufmerksamkeit verlagert sich, was vorher gesagt wurde, verblasst.
 
 Muster über Zeit machen es möglich, dass sich Weisheit ansammelt. Nicht nur in den Köpfen der Menschen, sondern sichtbar, dokumentierbar, teilbar.
 
-Das ist das Versprechen von Analyse über Zeit: nicht jede Sitzung als separate Insel, sondern alle Sitzungen zusammen als eine Geschichte, die sich entfaltet.
+Das ist das Versprechen von Analyse über Zeit: nicht jede Session als separate Insel, sondern alle Sessions zusammen als eine Geschichte, die sich entfaltet.
 
 ### Das Ritual ändert sich, die Intention nicht
 
-Bis vor kurzem habe ich Gruppenentwicklung so verfolgt, wie es die meisten Facilitatoren kennen: nach Gefühl, mit losen Notizen und mit dem, was ich aus früheren Sitzungen erinnerte. Das funktioniert, bis zu einem gewissen Punkt. Das Problem ist nicht, dass du nicht aufpasst, sondern dass manche Verschiebungen sich so langsam entfalten, dass du sie erst erkennst, wenn du zurückschaust.
+Bis vor kurzem habe ich Gruppenentwicklung so verfolgt, wie es die meisten Facilitatoren kennen: nach Gefühl, mit losen Notizen und mit dem, was ich aus früheren Sessions erinnerte. Das funktioniert, bis zu einem gewissen Punkt. Das Problem ist nicht, dass du nicht aufpasst, sondern dass manche Verschiebungen sich so langsam entfalten, dass du sie erst erkennst, wenn du zurückschaust.
 
-Die Methodik auf dieser Seite verändert das Ritual. Statt Erinnern und Spüren analysierst du jede Sitzung systematisch und legst die Analysen nebeneinander. Die Intention ist genau die gleiche: verstehen, was sich in einer Gruppe bewegt, und diese Erkenntnis nutzen, um den Prozess zu verbessern. Aber das Ritual macht sichtbar, was vorher unsichtbar blieb.
+Die Methodik auf dieser Seite verändert das Ritual. Statt Erinnern und Spüren analysierst du jede Session systematisch und legst die Analysen nebeneinander. Die Intention ist genau die gleiche: verstehen, was sich in einer Gruppe bewegt, und diese Erkenntnis nutzen, um den Prozess zu verbessern. Aber das Ritual macht sichtbar, was vorher unsichtbar blieb.
 
 Ich denke, der Wert liegt nicht in der Analyse selbst, sondern in dem Gespräch, das sie auslöst. Eine Facilitationskarte, die sagt "schütze die Reflexionszeit", ist nur dann wertvoll, wenn du sie mit deinem Co-Facilitator besprichst. AI liefert den Spiegel; was du damit machst, ist Menschenarbeit.
 
@@ -545,7 +545,7 @@ Diese Geschichte ist wertvoll. Für die Gruppe selbst: um zu sehen, wie weit sie
 ## Verwandte Techniken
 
 - [Transkription als Fundament](../phase-1/transkription.md) — das Rohmaterial sammeln
-- [Intuition schwarz auf weiß](../phase-2/intuition-schwarz-auf-weiss.md) — Muster in einer einzelnen Sitzung sichtbar machen
+- [Intuition schwarz auf weiß](../phase-2/intuition-schwarz-auf-weiss.md) — Muster in einer einzelnen Session sichtbar machen
 - [Anknüpfungspunkte finden](anknuepfungspunkte-finden.md) — Verbindungsmuster in einem Gespräch, komplementär zu Verschiebungsmustern über Zeit
 - [Eigenverantwortung wachsen sehen](ownership-wachstum.md) — spezifisches Muster: wie sich Eigenverantwortung über Zeit entwickelt
 

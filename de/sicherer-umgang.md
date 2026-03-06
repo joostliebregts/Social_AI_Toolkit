@@ -84,15 +84,15 @@ Das verhindert, dass AI-Interpretationen mit dem verwechselt werden, was tatsäc
 
 ---
 
-## Checkliste pro Sitzung
+## Checkliste pro Session
 
-### Vor der Sitzung
+### Vor der Session
 
 - [ ] Erlaubnis für Aufnahme vorbereitet
 - [ ] Entschieden: Cloud- oder lokale Verarbeitung
 - [ ] Klarheit darüber, wer Zugang zum Output hat
 
-### Nach der Sitzung
+### Nach der Session
 
 - [ ] Transkript/Aufnahme sicher gespeichert
 - [ ] Anonymisierung wo nötig

@@ -53,7 +53,7 @@ Das verändert die grundlegende Frage. Nicht mehr: "Lohnt es sich, das zu transk
 
 ### Schritt 1: Mit Einverständnis aufnehmen
 
-Das klingt selbstverständlich, aber hier beginnt es. Bitte zu Beginn jeder Sitzung ausdrücklich um Erlaubnis.
+Das klingt selbstverständlich, aber hier beginnt es. Bitte zu Beginn jeder Session ausdrücklich um Erlaubnis.
 
 Eine einfache Formulierung:
 
@@ -68,7 +68,7 @@ Wähle ein Tool, das zu deiner Situation passt:
 | Tool                         | Wann wählen                                                                                  |
 | ---------------------------- | ----------------------------------------------------------------------------------------------- |
 | **MacWhisper**               | Privatsphäre wichtig, du willst lokal transkribieren oder diktieren.                                     |
-| **Dembrane**                 | Echtzeit-Transkription während der Sitzung, direkte Synthese möglich                           |
+| **Dembrane**                 | Echtzeit-Transkription während der Session, direkte Synthese möglich                           |
 | **Notion AI**                | Du arbeitest bereits in Notion, willst alles an einem Ort, funktioniert auf Englisch und Niederländisch       |
 | **Google Meet Transkription** | Du arbeitest bereits im Google-Ökosystem, Basis reicht aus (Hinweis: noch keine niederländische Transkription)    |
 *Siehe die [Tools-Seite](../../tools.md) für mehr Details zu diesen und anderen Tools.*
@@ -201,7 +201,7 @@ AI generierte einen Prompt mit Struktur (Kurzzusammenfassung, Rückblick, Entsch
 ```prompt
 **Rolle**: Du bist ein präziser Protokollant, der ausschließlich explizit getroffene Entscheidungen ohne Interpretation festhält.
 
-**Kontext**: Extrahiere nur die konkreten Entscheidungen, die während dieser Sitzung explizit getroffen wurden.
+**Kontext**: Extrahiere nur die konkreten Entscheidungen, die während dieser Session explizit getroffen wurden.
 
 **Zentrale Einschränkungen**:
 - Nur explizit getroffene Entscheidungen - keine impliziten oder angenommenen Entscheidungen
@@ -214,7 +214,7 @@ AI generierte einen Prompt mit Struktur (Kurzzusammenfassung, Rückblick, Entsch
 3. Gruppiere nach Art der Entscheidung (Prozess, Inhalt, Folgeschritte)
 
 **Ausgabeformat**:
-### Zentrale Entscheidungen dieser Sitzung
+### Zentrale Entscheidungen dieser Session
 
 #### Prozessentscheidungen
 - [Entscheidung + wer + wann]
@@ -241,7 +241,7 @@ Mit Diktat sprichst du deine Gedanken und innerhalb einer Sekunde sind sie als T
 
 **Wann das wertvoll ist:**
 - Beim Iterieren mit AI: Du diktierst dein Feedback, fügst es in den Chat ein
-- Beim Verarbeiten von Sitzungen: Du sprichst deine Beobachtungen, solange sie frisch sind
+- Beim Verarbeiten von Sessions: Du sprichst deine Beobachtungen, solange sie frisch sind
 - Beim Vorbereiten: laut denken, später strukturieren
 
 Viel von meiner Arbeit mit AI ist inzwischen: diktieren → AI → diktieren → AI. Die Hürde zum Festhalten von Gedanken sinkt auf fast null.

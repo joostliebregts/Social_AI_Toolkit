@@ -18,7 +18,7 @@ Das Tool zählt weniger als das, was du damit machst. Aber es hilft zu wissen, w
 | **Gemini** | 1M Kontext, filtert Rauschen | Große Dokumente, Cross-Model-Check |
 | **T3 Chat** | Multi-Model-Interface | Modelle vergleichen, Preis/Leistung |
 | **Claude Code + Finn** | Agentische Zusammenarbeit | Feldanleitung/Prompt-Entwicklung |
-| **Dembrane** | Live-Transkription + Echo | Echtzeit-Feedback in Sitzungen |
+| **Dembrane** | Live-Transkription + Echo | Echtzeit-Feedback in Sessions |
 | **Notion AI** | AI in deinem Workspace | Alles an einem Ort, Kontext |
 | **NotebookLM** | Quellen in andere Formate | Podcasts, Videos, Folien erstellen |
 
@@ -32,7 +32,7 @@ Das Tool zählt weniger als das, was du damit machst. Aber es hilft zu wissen, w
 Eine Mac-App, die Sprache in Text verwandelt, komplett auf deinem eigenen Computer, ohne dass etwas in die Cloud geht. Entwickelt von Jordi Bruin, basierend auf OpenAIs Whisper-Technologie.
 
 **Warum ich es nutze:**
-Diktat ist der Hauptgrund. Es verändert den gesamten Workflow: diktieren, AI, diktieren, AI. Die Schwelle, Gedanken festzuhalten, sinkt auf fast null. Feedback an AI geben, Beobachtungen nach einer Sitzung einsprechen, laut denken. Das geht alles schneller als tippen.
+Diktat ist der Hauptgrund. Es verändert den gesamten Workflow: diktieren, AI, diktieren, AI. Die Schwelle, Gedanken festzuhalten, sinkt auf fast null. Feedback an AI geben, Beobachtungen nach einer Session einsprechen, laut denken. Das geht alles schneller als tippen.
 
 **Bonus: Privacy-first**
 Alles passiert lokal auf deinem Mac. Kein Audio an Server, kein Text in die Cloud. Nützlich für sensible Gespräche.
@@ -140,7 +140,7 @@ Der Kern: ECHO, ihr Tool, das Gespräche erfasst, analysiert und Erkenntnisse ge
 AI im Gespräch einsetzen mit einem menschlichen Touch. Du stellst sie vor wie eine Person.
 
 **Wann einsetzen:**
-- Echtzeit-Feedback während einer Sitzung
+- Echtzeit-Feedback während einer Session
 - Multi-Session-Prozesse, bei denen du Muster über Zeit verfolgen willst
 - Eigenverantwortung in der Sprache der Teilnehmenden ist entscheidend
 - Gruppen ohne erfahrenen Facilitator, die trotzdem Struktur wollen
@@ -202,7 +202,7 @@ Basis-Transkription innerhalb deines bestehenden Ökosystems. Wenn du bereits in
 | Großer Kontext, gefiltert? | Gemini |
 | Modelle vergleichen? | T3 Chat |
 | An einem Projekt zusammenarbeiten? | Claude Code |
-| Echtzeit-Feedback in der Sitzung? | Dembrane |
+| Echtzeit-Feedback in der Session? | Dembrane |
 | Alles in Notion? | Notion AI |
 | Quellen umwandeln? | NotebookLM |
 

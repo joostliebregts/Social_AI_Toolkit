@@ -4,6 +4,12 @@
 
 ---
 
+## 6. März 2026
+
+**Neue Phase-3-Technik: In der Session**
+
+- **In der Session** — Die zweite Phase-3-Technik ist live. Drei Sessionformate für den Einsatz von AI mit mehreren Gruppen gleichzeitig: parallel (gleicher Prompt, verschiedene Gruppen), sequentiell (Gruppen bauen rotierend auf dem Output der anderen auf) und iterativ (Gruppen verfeinern gemeinsam ein geteiltes Ergebnis). Jedes Format hat einen eigenen Prompt, der dir hilft, maßgeschneiderte Sessionprompts mit AI zu entwerfen. Phase 3 wächst weiter.
+
 ## 3. März 2026
 
 **Deutsche Übersetzung verfügbar**
@@ -37,7 +43,7 @@
 
 **Zwei neue Spannungen und ein praktischer Tipp**
 
-- **Phase 2: Vertiefung** — Neue Spannung hinzugefügt: wie du AI einer Gruppe vorstellst. Framing (Experiment vs. normaler Teil der Sitzung) und die Verschiebung vom Beurteilen zum Wiedererkennen
+- **Phase 2: Vertiefung** — Neue Spannung hinzugefügt: wie du AI einer Gruppe vorstellst. Framing (Experiment vs. normaler Teil der Session) und die Verschiebung vom Beurteilen zum Wiedererkennen
 - **Live-Reflexion mit AI** — Praktischer Tipp: Bereite Prompts im Voraus vor, aber wisse, dass du sie anpassen musst, wenn die Sitzung eine andere Richtung einschlägt
 - **Sicherer Umgang** — Dembrane-Datenschutzniveau aktualisiert auf hoch-mittel (für Facilitation gebaut, datenschutzorientiert, europäische Server)
 

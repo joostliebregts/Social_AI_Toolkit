@@ -9,7 +9,7 @@
 
 ## Wann ist das relevant?
 
-**Situation:** Du hattest eine Sitzung, vielleicht eine der [Vertiefungssitzungen aus Phase 2](../../phase-2-vertiefung.md). Das Gespräch war wertvoll. Aber du weißt: Da steckt mehr drin, als du auf Anhieb benennen kannst.
+**Situation:** Du hattest eine Session, vielleicht eine der [Vertiefungssessions aus Phase 2](../../phase-2-vertiefung.md). Das Gespräch war wertvoll. Aber du weißt: Da steckt mehr drin, als du auf Anhieb benennen kannst.
 
 **Die Tendenz:** Auf das vertrauen, was du dir gemerkt hast. Oder eine schnelle Zusammenfassung machen und zum nächsten Punkt übergehen.
 
@@ -231,7 +231,7 @@ Die Vertiefung zu finden ist Schritt eins. Die Frage ist, was du damit machst.
 
 *Aber zuerst: Was willst du eigentlich erreichen? Es hilft, vorher darüber nachzudenken; es steuert deine Analyse.*
 
-**Option 1: In der nächsten Sitzung darauf zurückkommen**
+**Option 1: In der nächsten Session darauf zurückkommen**
 "Letztes Mal kam etwas hoch, das mir im Kopf geblieben ist. Über den Fahrradhelm. Können wir das weiter erkunden?"
 
 **Option 2: Verbindungen herstellen**
@@ -241,7 +241,7 @@ Nutze die Ankerpunkte, um Menschen zu verbinden, die denselben Kampf teilen.
 Die Muster und Zitate werden Teil von dem, was du der Gruppe zurückgibst.
 
 **Option 4: Persönliche Vertiefung**
-Du notierst, was an die Oberfläche kam, als Input für deine nächste Sitzung. Welche Themen verdienen mehr Aufmerksamkeit?
+Du notierst, was an die Oberfläche kam, als Input für deine nächste Session. Welche Themen verdienen mehr Aufmerksamkeit?
 
 ---
 
@@ -260,7 +260,7 @@ Die Versuchung ist, die erste Analyse ohne Fragen oder Korrekturen zu akzeptiere
 **Vorausdenken an den nächsten Schritt**
 Die Tendenz ist, zu analysieren, ohne zu wissen, was du damit machen willst. Was hilft: Bevor du anfängst, überleg dir, was du mit dem Ergebnis tun wirst.
 
-*Mein Ansatz:* Ich plane, was ich mit der Vertiefung mache. In der nächsten Sitzung, in einer E-Mail, in der Synthese. Wenn du das vorher weißt, steuert es auch die Analyse selbst. Das ist dieselbe Logik wie beim [Deconstructed Burger](erst-die-menschen-prompten.md): Beginne beim Ziel und arbeite rückwärts zu dem, was du brauchst.
+*Mein Ansatz:* Ich plane, was ich mit der Vertiefung mache. In der nächsten Session, in einer E-Mail, in der Synthese. Wenn du das vorher weißt, steuert es auch die Analyse selbst. Das ist dieselbe Logik wie beim [Deconstructed Burger](erst-die-menschen-prompten.md): Beginne beim Ziel und arbeite rückwärts zu dem, was du brauchst.
 
 ---
 

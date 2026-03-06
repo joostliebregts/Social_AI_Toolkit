@@ -23,7 +23,7 @@
 
 *Vielleicht kennst du diese Geschichte schon von der [Warum-Seite](../../warum.md). Hier gehen wir tiefer auf das Timing ein: den richtigen Moment für die richtige Frage.*
 
-Eine Sitzung über Stadtteil-Transformation. Acht Personen sprechen 45 Minuten lang über die Spannung zwischen Systemanforderungen und einem menschenzentrierten Ansatz. Die Energie beginnt zu sinken.
+Eine Session über Stadtteil-Transformation. Acht Personen sprechen 45 Minuten lang über die Spannung zwischen Systemanforderungen und einem menschenzentrierten Ansatz. Die Energie beginnt zu sinken.
 
 Facilitator Jeroen drückt den Echo-Knopf. Innerhalb von 10 Sekunden generiert AI diese Frage:
 
@@ -42,10 +42,10 @@ Die Reaktion kam sofort.
 
 ## Live versus Semi-Live
 
-Es gibt einen wichtigen Unterschied darin, wie du AI während Sitzungen einsetzt.
+Es gibt einen wichtigen Unterschied darin, wie du AI während Sessions einsetzt.
 
 **Live (der Echo-Knopf):**
-Direkt in der Sitzung, mit einem Knopfdruck. AI analysiert die letzten Minuten und generiert sofort eine Frage. Das funktioniert mit Tools wie Dembrane, die Echtzeit-Transkription mit Prompt-Funktionalität koppeln.
+Direkt in der Session, mit einem Knopfdruck. AI analysiert die letzten Minuten und generiert sofort eine Frage. Das funktioniert mit Tools wie Dembrane, die Echtzeit-Transkription mit Prompt-Funktionalität koppeln.
 
 **Semi-Live (Zwischenmomente):**
 Zwischen Blöcken. Zum Beispiel: während Gruppen in Breakout-Sessions arbeiten, nimmst du das bisherige Transkript, lässt einen längeren Prompt laufen und kopierst die Ausgabe in ein Google Doc, das der Facilitator dann der Gruppe auf dem Bildschirm zeigen kann.
@@ -91,7 +91,7 @@ Signale von vermiedenen Themen, unausgesprochenen Spannungen und
 unterschiedlichen Perspektiven in Dialogen erkennt.
 
 **Kontext:** Du analysierst die letzten 10-15 Minuten einer
-[SITZUNGSTYP]. Die Teilnehmenden sind [WER]. Sie kennen sich [BEZIEHUNG].
+[SESSIONTYP]. Die Teilnehmenden sind [WER]. Sie kennen sich [BEZIEHUNG].
 
 **Erforderlicher Stil:**
 - Wertfrei und einladend
@@ -168,7 +168,7 @@ Einsetzen, wenn die Verbindung zwischen Perspektiven fehlt.
 | Signal | Was du tust |
 |--------|-------------|
 | Energie sinkt, Gespräch dreht sich im Kreis | Echo mit konkretisierender Frage |
-| Sitzungsende, Gruppe hat kein klares Bild | Echo mit reflektierender Frage |
+| Sessionende, Gruppe hat kein klares Bild | Echo mit reflektierender Frage |
 | Spannung spürbar, aber unbenannt | Echo mit vertiefender Frage |
 | Neue Phase beginnt, Brücke zur vorherigen nötig | Echo als Öffnung |
 
@@ -177,7 +177,7 @@ Einsetzen, wenn die Verbindung zwischen Perspektiven fehlt.
 | Signal | Warum nicht |
 |--------|------------|
 | Jemand teilt eine persönliche Geschichte | Raum für Emotion IST die Intervention |
-| Erste Sitzung, du kennst die Gruppe noch nicht | Echo kann danebengehen ohne Kontextverständnis |
+| Erste Session, du kennst die Gruppe noch nicht | Echo kann danebengehen ohne Kontextverständnis |
 | Keine strategische Vorbereitung | Schwache Prompts → AI entscheidet → Substitutionsrisiko |
 | Facilitator schaut auf den Bildschirm statt auf die Leute | Echtzeit-Gruppendynamik lesen ist Menschenarbeit |
 
@@ -210,7 +210,7 @@ Was AI generiert, ist ein Vorschlag, kein Skript. Es wörtlich vorzulesen kann m
 **Spontan versus vorbereitet**
 Die Reflexionsfrage, die die Kreativität wieder in Gang brachte, kam nicht aus dem Nichts. Dahinter steckte strategische Vorbereitung.
 
-*Mein Ansatz:* 80% des Erfolgs liegt in der Vorbereitung. Ich gestalte den Echo-Prompt vorher auf Basis dessen, was ich erwarte. Aber ich weiß auch, dass ich ihn wahrscheinlich anpassen muss, wenn die Sitzung in eine andere Richtung geht. Das erfordert ein Verständnis davon, *was* dein Prompt tut, nicht nur *dass* er funktioniert, damit du auf der Stelle anpassen kannst.
+*Mein Ansatz:* 80% des Erfolgs liegt in der Vorbereitung. Ich gestalte den Echo-Prompt vorher auf Basis dessen, was ich erwarte. Aber ich weiß auch, dass ich ihn wahrscheinlich anpassen muss, wenn die Session in eine andere Richtung geht. Das erfordert ein Verständnis davon, *was* dein Prompt tut, nicht nur *dass* er funktioniert, damit du auf der Stelle anpassen kannst.
 
 **Echo als Ersatz für Facilitation**
 Das Echo ist ein Werkzeug, keine Lösung. Wenn ich nur Knöpfe drücke, verpasse ich, was im Raum passiert.
@@ -235,13 +235,13 @@ Das Echo ist ein Werkzeug, keine Lösung. Wenn ich nur Knöpfe drücke, verpasse
 
 | Tool | Wofür | Nuance |
 |------|--------|--------|
-| **Dembrane** | Echtzeit-Transkription + Echo-Knopf-Funktionalität | Geeignet für mehrere Sitzungen: alles zentral auf einer Plattform |
+| **Dembrane** | Echtzeit-Transkription + Echo-Knopf-Funktionalität | Geeignet für mehrere Sessions: alles zentral auf einer Plattform |
 | **Notion AI** | Live-Transkription + AI-Prompts auf der Seite | Gut für ein Meeting, bei dem du selbst dabei bist |
 | **MacWhisper + Claude/ChatGPT** | Selbst transkribieren + Echo-Prompt manuell ausführen | Am flexibelsten, am meisten manuelle Arbeit |
 
 **Wann welches Tool:**
 - **Ein Meeting, du bist selbst dabei:** Notion AI funktioniert gut. Du nimmst auf, das Transkript erscheint, du promptest AI direkt auf derselben Seite.
-- **Mehrere Sitzungen, Breakout-Gruppen, oder du facilitierst:** Dembrane. Du kannst verschiedene Aufnahmen an einen Ort senden und zentral analysieren.
+- **Mehrere Sessions, Breakout-Gruppen, oder du facilitierst:** Dembrane. Du kannst verschiedene Aufnahmen an einen Ort senden und zentral analysieren.
 
 ---
 

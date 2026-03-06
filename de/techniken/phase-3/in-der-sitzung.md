@@ -49,7 +49,7 @@ Vier Tische, jeder mit einem Tischgastgeber. Drei Runden mit denselben Fragen: T
 
 **Der Prompt:** Zwei Prompts im Tandem: ein Analyse-Prompt, den du bei jedem Tisch verwendest (das macht die Ergebnisse vergleichbar), und ein Synthese-Prompt, der die Analysen nebeneinanderlegt. Kopiere den Prompt unten; er hilft dir, beide Prompts für deine Session zu erstellen.
 
-<ProbeerStory experiment="in-de-sessie"></ProbeerStory>
+<ProbeerStory experiment="in-der-sitzung"></ProbeerStory>
 
 ---
 
@@ -76,7 +76,7 @@ Dann wird rotiert. Runde 2 (25 Minuten): Der Vorsitzende zeigt die Dembrane-Zusa
 
 Am Ende: drei Runden pro Thema separat analysiert, dann synthetisiert zu einem Konzept-Teilplan pro Thema.
 
-*Mehr darüber, wie man eine solche Session vorbereitet: In [Erst die Menschen prompten](../phase-2/erst-die-menschen-prompten.md) beschreiben Rianne Runhaar und Jojanneke Diemers, wie sie vom Ziel dieser Session aus rückwärts arbeiteten: welche Schritte nötig waren und welche Puzzleteile sie pro Tisch einsammeln wollten.*
+*Mehr darüber, wie du eine solche Session vorbereitest — vom Ziel aus rückwärts zu den richtigen Fragen und Puzzleteilen pro Tisch: [Erst die Menschen prompten](../phase-2/erst-die-menschen-prompten.md).*
 
 ---
 
@@ -86,7 +86,7 @@ Am Ende: drei Runden pro Thema separat analysiert, dann synthetisiert zu einem K
 
 **Der Prompt:** Zwei Prompts im Tandem: eine Zwischenanalyse nach jeder Runde und eine End-Synthese nach der Session. Kopiere den Prompt unten in dein AI-Tool; er hilft dir, beide Prompts für deine Session zu erstellen.
 
-<ProbeerStory experiment="in-de-sessie-sequential"></ProbeerStory>
+<ProbeerStory experiment="in-der-sitzung-sequential"></ProbeerStory>
 
 ---
 
@@ -128,7 +128,7 @@ Runde 2: Eine neue Gruppe von sechs setzte sich hin. Sie sahen V2 und besprachen
 
 **Der Prompt:** Ein Prompt mit eingebauter Logik: Bei einer ersten Diskussion generiert er ein Konzept, bei Feedback eine überarbeitete Version. Kopiere den Prompt unten in dein AI-Tool; er hilft dir, einen Prompt für deine Session zu erstellen.
 
-<ProbeerStory experiment="in-de-sessie-doordraaien"></ProbeerStory>
+<ProbeerStory experiment="in-der-sitzung-iterativ"></ProbeerStory>
 
 ---
 

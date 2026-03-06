@@ -3,7 +3,7 @@
 > *Wenn die Gruppe feststeckt, kann eine andere Frage der Durchbruch sein.*
 
 **Phase:** [Phase 2: Vertiefung](../../phase-2-vertiefung.md)
-**Baut auf:** [Erst die Menschen prompten](erst-die-menschen-prompten.md), hier speziell zum Umrahmen von Fragen in der laufenden Sitzung
+**Baut auf:** [Erst die Menschen prompten](erst-die-menschen-prompten.md), hier speziell zum Umrahmen von Fragen in der laufenden Session
 
 ---
 
@@ -84,9 +84,9 @@ Das Gleiche gilt hier: "Was denkst du über die Zusammenarbeit?" liefert Analyse
 
 ## Aus der Praxis: der Echo-Knopf als Umrahmung
 
-*Dieselbe Sitzung wie in [Live-Reflexion mit AI](live-reflexion-mit-ai.md), hier aus der Perspektive des Umrahmens.*
+*Dieselbe Session wie in [Live-Reflexion mit AI](live-reflexion-mit-ai.md), hier aus der Perspektive des Umrahmens.*
 
-In einer Sitzung innerhalb eines Netzwerks für psychische Gesundheitsversorgung, darüber, wie Versorgung anders sein könnte: nach fünfundvierzig Minuten drehte sich das Gespräch im Kreis, eine Stille trat ein. Der Facilitator sagte: "Ich hab's noch nicht." Jeroen schlug vor: "Sollen wir mal sehen, was das AI-Echo uns gibt?"
+In einer Session innerhalb eines Netzwerks für psychische Gesundheitsversorgung, darüber, wie Versorgung anders sein könnte: nach fünfundvierzig Minuten drehte sich das Gespräch im Kreis, eine Stille trat ein. Der Facilitator sagte: "Ich hab's noch nicht." Jeroen schlug vor: "Sollen wir mal sehen, was das AI-Echo uns gibt?"
 
 Das Echo kam mit einer Frage zurück:
 
@@ -111,7 +111,7 @@ Umrahmen ist eine menschliche Fähigkeit, die du im Moment anwendest. AI kann di
 Hier wird ein Transkript so wertvoll: du kannst es für dein eigenes Lernen nutzen. Nicht nur um zu analysieren, was die Gruppe gesagt hat, sondern um über deine eigene Facilitation nachzudenken.
 
 ```prompt
-Ich hatte heute eine Sitzung. Irgendwann ist das Gespräch steckengeblieben.
+Ich hatte heute eine Session. Irgendwann ist das Gespräch steckengeblieben.
 
 Das ist passiert:
 [Beschreibe die Situation: Leute wiederholten sich,
@@ -132,7 +132,7 @@ Hilf mir zu reflektieren:
 ```
 
 **Warum diese Struktur funktioniert:**
-- "Ich hatte heute eine Sitzung" positioniert AI als Reflexionspartner, nicht als Experten
+- "Ich hatte heute eine Session" positioniert AI als Reflexionspartner, nicht als Experten
 - "Das ist passiert" zwingt dich, konkret zu beschreiben, was du getan hast, nicht abstrakt
 - "Welche Umrahmungsstrategie" knüpft an die drei Strategien auf dieser Seite an
 - "Wie erkenne ich dieses Muster" du baust dir ein Repertoire für nächstes Mal auf

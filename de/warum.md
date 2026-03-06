@@ -10,7 +10,7 @@ Aber in der Zwischenzeit passiert etwas anderes.
 
 ---
 
-## Was ich in Sitzungen sehe
+## Was ich in Sessions sehe
 
 Was mir in Workshops auffällt, in langfristigen Prozessen: etwas anderes als die Geschichten darüber, dass AI alles übernimmt. Ich sehe AI, die das Menschliche nicht ersetzt, sondern verstärkt.
 
@@ -22,7 +22,7 @@ Da will ich hin mit dieser Feldanleitung.
 
 ## Aus der Praxis
 
-Eine Sitzung mit Menschen aus der psychischen Gesundheitsversorgung (GGZ, das niederländische System für psychische Gesundheitsversorgung). Sie sprechen über Transformation, darüber, wie Versorgung anders sein könnte. Der Facilitator leitet das Gespräch. Ein Erfahrungsexperte erzählt offen, was er durchgemacht hat.
+Eine Session mit Menschen aus der psychischen Gesundheitsversorgung (GGZ, das niederländische System für psychische Gesundheitsversorgung). Sie sprechen über Transformation, darüber, wie Versorgung anders sein könnte. Der Facilitator leitet das Gespräch. Ein Erfahrungsexperte erzählt offen, was er durchgemacht hat.
 
 Das Gespräch geht tief. Über die Spannung zwischen Systemanforderungen und menschlichem Maßstab. Jemand beschreibt eine Frau mit Depression, die eigentlich einfach nur Sport machen wollte. Sie konnte sich zehn Euro pro Woche fürs Fitnessstudio nicht leisten, also wurde sie an einen Psychiater überwiesen. "Die Zeit, die ich dafür aufgewendet habe," seufzt der Fachmann, "davon hätte sie sechs Monate ins Fitnessstudio gehen können."
 
@@ -78,7 +78,7 @@ Nicht durch Entscheiden. Nicht durch Zusammenfassen. Sondern durch Zurückspiege
 
 Das meine ich mit AI, die verstärkt, was uns menschlich macht. Unsere Kreativität. Unser Bedürfnis, Geschichten zu erzählen. Unser Wunsch, gesehen zu werden, gehört zu werden, wichtig zu sein.
 
-Und wenn du das stapelst, über Sitzungen hinweg, über Projekte hinweg, über Gemeinschaften hinweg, entsteht etwas Größeres.
+Und wenn du das stapelst, über Sessions hinweg, über Projekte hinweg, über Gemeinschaften hinweg, entsteht etwas Größeres.
 
 Stell dir vor: Lokales Wissen wird skalierbar. Eine Maßnahme, die in einem Stadtteil funktioniert hat. AI hilft zu entdecken, *warum* sie funktioniert hat, wie Handeln zu Ergebnissen führte, wie Eigenverantwortung über die Zeit gewachsen ist. Und dann diese Erkenntnis teilen, damit ein anderer Stadtteil, eine andere Gemeinde, ein anderes Land davon lernen kann.
 
@@ -96,7 +96,7 @@ Es beginnt mit dem Festhalten dessen, was Menschen sagen. Ein Transkript. Das is
 
 Und dann Vertiefung. Muster sehen. Intuitionen bestätigen. Die Lücke überbrücken.
 
-Und dann Skalierung. Von einer Sitzung zu Prozessen über die Zeit. Von einer Gruppe zu Gemeinschaften. Von lokaler Weisheit zu gemeinsamen Mustern.
+Und dann Skalierung. Von einer Session zu Prozessen über die Zeit. Von einer Gruppe zu Gemeinschaften. Von lokaler Weisheit zu gemeinsamen Mustern.
 
 Dieser Echo-Knopf aus der Geschichte: Warum hat er eigentlich funktioniert? Das ist die Frage, bei der der nächste Teil beginnt.
 

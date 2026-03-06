@@ -31,7 +31,7 @@ Aber als ich die Prompts zurücklas (und das war ein klassischer "oh nein"-Momen
 
 > "Schreibe im Stil des Referenz-Transformationsplans"
 
-AI hätte während der Sitzung keinen Zugriff auf dieses Referenzdokument. Der Prompt war unbrauchbar.
+AI hätte während der Session keinen Zugriff auf dieses Referenzdokument. Der Prompt war unbrauchbar.
 
 Die Korrektur war einfach, aber entscheidend: die Stilrichtlinien wörtlich in den Prompt aufnehmen. Nicht "schreib wie das Beispiel", sondern:
 
@@ -48,7 +48,7 @@ Das war eine von mehreren Korrekturen in einem Prozess von zwölf Runden. Der Pr
 
 So wie ich es sehe, ist das die wichtigste Lektion: Du kannst nicht "schreib wie das Beispiel" sagen, wenn AI dieses Beispiel nicht in seinem Kontextfenster (seinem Gedächtnis) hat.
 
-Das klingt offensichtlich. Aber es ist eine Falle, in die ich selbst getappt bin. Meine ersten Prompts verwiesen auf "den Referenz-Transformationsplan", als könnte AI dieses Dokument während der Sitzung konsultieren. Konnte es nicht.
+Das klingt offensichtlich. Aber es ist eine Falle, in die ich selbst getappt bin. Meine ersten Prompts verwiesen auf "den Referenz-Transformationsplan", als könnte AI dieses Dokument während der Session konsultieren. Konnte es nicht.
 
 Die Lösung: Die Stilmerkmale müssen explizit im Prompt stehen. Nicht als Verweis, sondern als Anweisung.
 
@@ -143,11 +143,11 @@ Lass AI den Prompt weiterentwickeln. Siehe [Iteration als Dialog](../phase-2/ite
 
 ## Die Prompts
 
-Das sind die Prompts, die ich damals für Transformationsplan-Sitzungen verwendet habe. Sie sind umfangreicher als die Beispiele oben; das ist beabsichtigt. In der Praxis war dieses Detailniveau für konsistenten Output nötig.
+Das sind die Prompts, die ich damals für Transformationsplan-Sessions verwendet habe. Sie sind umfangreicher als die Beispiele oben; das ist beabsichtigt. In der Praxis war dieses Detailniveau für konsistenten Output nötig.
 
 Die drei Prompts unten passen zu einem phasenweisen Workshop: zuerst eine Zwischenreflexion, dann fortlaufende Verarbeitung, dann abschließende Synthese. Diese Reihenfolge ist kein Zufall. Durch die Trennung von Analyse und Synthese bleibt jeder Schritt überschaubar.
 
-Das ist auch eine Vorschau auf [Phase 3: Skalierung](../../phase-3-skalierung.md), wo du mit mehreren Sitzungen oder Kleingruppen am selben Dokument iterierst.
+Das ist auch eine Vorschau auf [Phase 3: Skalierung](../../phase-3-skalierung.md), wo du mit mehreren Sessions oder Kleingruppen am selben Dokument iterierst.
 
 ### Zwischenreflexion zur Vision
 
@@ -161,10 +161,10 @@ Das ist auch eine Vorschau auf [Phase 3: Skalierung](../../phase-3-skalierung.md
 ```prompt
 **Prompt für Dembrane (Zwischenreflexion Vision - Universal)**
 
-**Rolle:** Du bist ein AI-Assistent, der bei der Live-Dokumentation einer Transformationsplan-Sitzung hilft. Deine Aufgabe jetzt ist es, den Kern der gerade geführten Visionsdiskussion zusammenzufassen, als direkte Rückmeldung an die Gruppe.
+**Rolle:** Du bist ein AI-Assistent, der bei der Live-Dokumentation einer Transformationsplan-Session hilft. Deine Aufgabe jetzt ist es, den Kern der gerade geführten Visionsdiskussion zusammenzufassen, als direkte Rückmeldung an die Gruppe.
 
 **Kontext:**
-*   **Sitzungsteil:** Runde 1 - Diskussion zur 5-Jahres-Perspektive (Frage 1 Leitfaden).
+*   **Sessionteil:** Runde 1 - Diskussion zur 5-Jahres-Perspektive (Frage 1 Leitfaden).
 *   **Output-Ziel:** Rückspiegelung an die Teilnehmenden am Tisch zur Validierung ("Stimmt dieses Bild?").
 
 **Vorgeschriebener Schreibstil (konsistent anwenden):**
@@ -197,7 +197,7 @@ Das ist auch eine Vorschau auf [Phase 3: Skalierung](../../phase-3-skalierung.md
 *   ...
 ```
 
-*Das ist der Prompt, den ich damals für Transformationsplan-Sitzungen verwendet habe.*
+*Das ist der Prompt, den ich damals für Transformationsplan-Sessions verwendet habe.*
 
 ---
 
@@ -250,7 +250,7 @@ Das ist auch eine Vorschau auf [Phase 3: Skalierung](../../phase-3-skalierung.md
 2.  [Frage 2 (optional)]
 ```
 
-*Das ist der Prompt, den ich damals für Transformationsplan-Sitzungen verwendet habe.*
+*Das ist der Prompt, den ich damals für Transformationsplan-Sessions verwendet habe.*
 
 ---
 
@@ -270,7 +270,7 @@ Das ist auch eine Vorschau auf [Phase 3: Skalierung](../../phase-3-skalierung.md
 
 **Kontext:**
 *   **Thema dieser Synthese:** [Themaname - **Muss bei Ausführung angegeben werden!**, z.B. 'Orientierungsgespräch']
-*   **Sitzungsteil:** Ende des Workshops - Konsolidierung aller Runden für das angegebene Thema.
+*   **Sessionteil:** Ende des Workshops - Konsolidierung aller Runden für das angegebene Thema.
 *   **Output-Ziel:** Ein kohärenter Entwurf-Teilplan für das angegebene Thema, bereit zur weiteren Bearbeitung.
 
 **Vorgeschriebener Schreibstil (konsistent auf den gesamten Output anwenden):**
@@ -305,7 +305,7 @@ Das ist auch eine Vorschau auf [Phase 3: Skalierung](../../phase-3-skalierung.md
 *   [Punkt 1]
 *   [Punkt 2]
 ```
-*Das ist der Prompt, den ich damals für Transformationsplan-Sitzungen verwendet habe.*
+*Das ist der Prompt, den ich damals für Transformationsplan-Sessions verwendet habe.*
 
 **Warum diese Struktur funktioniert:**
 
@@ -337,7 +337,7 @@ Die Versuchung ist, alles in einen Prompt zu packen: Analyse, Synthese, Struktur
 
 *Was ich mache:* Ich teile in Phasen auf. Während eines Live-Workshops hatte ich zuerst eine Zwischenreflexion, dann Feedback-Verarbeitung, dann abschließende Synthese. Jede mit eigenem Prompt. Durch die Trennung von Analyse und Synthese bleibt jeder Schritt überschaubar und detailliert. Und du kannst leichter sehen, ob du auf etwas aufbaust, das du wiedererkennst, oder ob viel Detail verloren geht.
 
-Das ist auch eine Vorschau auf [Phase 3: Skalierung](../../phase-3-skalierung.md), wo du mit mehreren Sitzungen oder Kleingruppen am selben Dokument iterierst.
+Das ist auch eine Vorschau auf [Phase 3: Skalierung](../../phase-3-skalierung.md), wo du mit mehreren Sessions oder Kleingruppen am selben Dokument iterierst.
 
 **Stil versus Authentizität**
 Es gibt eine Spannung zwischen dem offiziellen Stil und der authentischen Stimme der Teilnehmenden. Das Dokument muss für die Krankenkasse akzeptabel sein, aber auch wiedererkennbar für die Menschen, die das Gespräch geführt haben.
@@ -361,7 +361,7 @@ Es gibt eine Spannung zwischen dem offiziellen Stil und der authentischen Stimme
 
 | Tool | Wofür |
 |------|-------|
-| **Dembrane** | Live-Transkription + Prompt-Ausführung während Sitzungen |
+| **Dembrane** | Live-Transkription + Prompt-Ausführung während Sessions |
 | **Claude/ChatGPT** | Quelldokument-Analyse + Prompt-Entwicklung |
 
 ---

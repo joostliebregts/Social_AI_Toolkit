@@ -10,7 +10,7 @@ Die Prinzipien geben die Richtung vor. Hier wird es konkret: eine Sammlung desse
 
 ## Wo stehst du?
 
-Du hattest ein Gespräch. Einen Workshop, ein Interview, eine Sitzung mit Menschen, die über etwas Wichtiges gesprochen haben.
+Du hattest ein Gespräch. Einen Workshop, ein Interview, eine Session mit Menschen, die über etwas Wichtiges gesprochen haben.
 
 Bis jetzt war das in Ordnung. Du hattest deine Notizen, eure gemeinsamen Erinnerungen. Aber die genauen Worte, die hattest du nicht.
 
@@ -30,7 +30,7 @@ Nach dem Abend ließ er die Aufnahme transkribieren und von AI analysieren. Ein 
 
 Maarten: *"Das ist genau der Kern. Das fasst zusammen, womit wir als Eltern ringen."*
 
-Das Zitat bestätigte, was er schon wusste. Jetzt hatte er konkrete Worte, um die nächste Sitzung damit zu eröffnen. Damit andere erkennen, worum es wirklich geht.
+Das Zitat bestätigte, was er schon wusste. Jetzt hatte er konkrete Worte, um die nächste Session damit zu eröffnen. Damit andere erkennen, worum es wirklich geht.
 
 Das ist eine Sache, die Transkription mit AI möglich macht. Es gibt mehr.
 
