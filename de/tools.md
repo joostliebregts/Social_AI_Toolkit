@@ -26,7 +26,7 @@ Das Tool zählt weniger als das, was du damit machst. Aber es hilft zu wissen, w
 
 ## Diktat + Transkription (lokal)
 
-### MacWhisper
+### <img src="/icons/tools/macwhisper.jpg" alt="" width="24" height="24" /> MacWhisper
 
 **Was ist das?**
 Eine Mac-App, die Sprache in Text verwandelt, komplett auf deinem eigenen Computer, ohne dass etwas in die Cloud geht. Entwickelt von Jordi Bruin, basierend auf OpenAIs Whisper-Technologie.
@@ -49,7 +49,7 @@ Ich arbeite hauptsächlich mit dreien: Claude, ChatGPT und Gemini. Es gibt inzwi
 
 Es ist wie drei Berater zu haben. Die gleiche Frage, aber unterschiedlicher Stil, unterschiedliche Tiefe, unterschiedliche Annahmen.
 
-### Claude (Anthropic)
+### <img src="/icons/tools/claude.svg" alt="" width="24" height="24" /> Claude (Anthropic)
 
 **Was ist das?**
 Ein AI-Assistent von Anthropic, gegründet von ehemaligen OpenAI-Forschern. Anthropic zeichnet sich durch einen starken Fokus auf AI-Sicherheit aus: Sie haben ein Team, das sich mit den langfristigen Auswirkungen von AI auf die Menschheit beschäftigt.
@@ -63,7 +63,7 @@ Was mir auffällt: durchdacht. Manchmal bekommst du zwei Sätze, wenn das reicht
 - Komplexe Prompt-Entwicklung
 - Wenn du nuancierte, prägnante Antworten willst
 
-### ChatGPT (OpenAI)
+### <img src="/icons/tools/chatgpt.svg" alt="" width="24" height="24" /> ChatGPT (OpenAI)
 
 **Was ist das?**
 Der AI-Assistent von OpenAI, dem Unternehmen, das die Welle der generativen AI mit GPT-3 ausgelöst hat. ChatGPT war das erste massenhaft genutzte AI-Tool und ist immer noch das bekannteste.
@@ -76,7 +76,7 @@ Ausführlich. So wie ich es sehe, liegt die Hilfsbereitschaft von ChatGPT in sei
 - Breit verfügbar, viele Integrationen
 - Wenn du ausführliche, detaillierte Antworten willst
 
-### Gemini (Google)
+### <img src="/icons/tools/gemini.svg" alt="" width="24" height="24" /> Gemini (Google)
 
 **Was ist das?**
 Googles AI-Assistent, basierend auf ihren eigenen Sprachmodellen. Zeichnet sich durch ein enormes Kontextfenster aus (1 Million Tokens). Du kannst ganze Bücher eingeben.
@@ -93,7 +93,7 @@ Was mir auffällt: Gemini filtert Rauschen. Mit dem gleichen Prompt war seine An
 
 ## Multi-Model-Tools
 
-### T3 Chat
+### <img src="/icons/tools/t3chat.png" alt="" width="24" height="24" /> T3 Chat
 
 **Was ist das?**
 Ein "Multi-Model-Interface": Eine Chat-App, die dir gleichzeitig Zugang zu Claude, ChatGPT, Gemini und anderen Modellen gibt. Gemacht von Entwickler Theo Browne. Statt drei separaten Abonnements und drei separaten Tabs hast du alles in einem Fenster.
@@ -105,7 +105,7 @@ Geschwindigkeit: kein Wechseln zwischen Tabs und Logins. Und Preis/Leistung: gü
 - Du willst Outputs verschiedener Modelle vergleichen
 - Schnelles Experimentieren, welches Modell am besten für deine Aufgabe funktioniert
 
-### Claude Code + Finn
+### <img src="/icons/tools/claude.svg" alt="" width="24" height="24" /> Claude Code + Finn
 
 **Was ist das?**
 Claude Code ist Anthropics "agentisches Coding-Tool": AI, die nicht nur antwortet, sondern tatsächlich Aufgaben ausführt. Es läuft in deinem Terminal oder deiner Entwicklungsumgebung, liest dein gesamtes Projekt und kann selbstständig Dateien bearbeiten, Code schreiben und Workflows ausführen.
@@ -127,7 +127,7 @@ Ein konkretes Beispiel: Beim Analysieren mehrerer paralleler Tischgespräche kan
 
 ## Integrierte Plattformen
 
-### Dembrane
+### <img src="/icons/tools/dembrane.png" alt="" width="24" height="24" /> Dembrane
 
 **Was ist das?**
 Eine Plattform aus Eindhoven, die AI für Gruppengespräche einsetzt. Du kannst live transkribieren, direkt analysieren und der Gruppe Echtzeit-Feedback geben. Laut den Machern: "Helping communities grow smarter as they grow larger."
@@ -150,7 +150,7 @@ AI im Gespräch einsetzen mit einem menschlichen Touch. Du stellst sie vor wie e
 
 ---
 
-### Notion AI
+### <img src="/icons/tools/notion.svg" alt="" width="24" height="24" /> Notion AI
 
 **Was ist das?**
 Notion ist ein "All-in-one-Workspace": eine App, die Notizen, Dokumente, Datenbanken und Projektmanagement kombiniert. Notion AI fügt künstliche Intelligenz hinzu: zusammenfassen, schreiben, Fragen an deine Dokumente stellen.
@@ -166,7 +166,7 @@ Notion ist meine Arbeitsumgebung: Viel von meinem Kontext lebt dort bereits. Jet
 **Warum es interessant ist:**
 Notion AI ist etwas, das man im Auge behalten sollte. Es wird immer besser, gerade weil so viel Kontext dort bereits lebt.
 
-### NotebookLM
+### <img src="/icons/tools/notebooklm.svg" alt="" width="24" height="24" /> NotebookLM
 
 **Was ist das?**
 Googles "virtueller Forschungsassistent": Du lädst Quellen hoch (PDFs, Docs, Websites), und NotebookLM hilft dir, sie zu verstehen. Das Besondere: Die AI antwortet nur auf Basis deiner Quellen, nicht auf Basis des gesamten Internets.
@@ -185,7 +185,7 @@ Du kannst Informationen und Wissen auf Weisen teilen, die vorher nicht möglich 
 
 ## Eingebaute Optionen
 
-### Google Meet / Microsoft Teams
+### <img src="/icons/tools/google-meet.svg" alt="" width="24" height="24" /> Google Meet / <img src="/icons/tools/microsoft-teams.svg" alt="" width="24" height="24" /> Microsoft Teams
 
 Basis-Transkription innerhalb deines bestehenden Ökosystems. Wenn du bereits in Google oder Microsoft arbeitest und nur eine einfache Transkription brauchst, musst du keine zusätzlichen Tools installieren.
 
