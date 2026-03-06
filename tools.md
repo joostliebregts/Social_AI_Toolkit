@@ -26,7 +26,7 @@ De tool maakt minder uit dan wat je ermee doet. Maar het helpt om te weten wat e
 
 ## Dictatie + transcriptie (lokaal)
 
-### MacWhisper
+### <img src="/icons/tools/macwhisper.jpg" alt="" width="24" height="24" /> MacWhisper
 
 **Wat is het?**
 Een Mac-app die spraak omzet in tekst — volledig op je eigen computer, zonder dat er iets naar de cloud gaat. Ontwikkeld door Jordi Bruin, gebaseerd op OpenAI's Whisper-technologie.
@@ -49,7 +49,7 @@ Ik werk vooral met drie: Claude, ChatGPT en Gemini. Er zijn er inmiddels tiental
 
 Het is alsof je drie adviseurs hebt. Dezelfde vraag, maar andere stijl, andere diepte, andere aannames.
 
-### Claude (Anthropic)
+### <img src="/icons/tools/claude.svg" alt="" width="24" height="24" /> Claude (Anthropic)
 
 **Wat is het?**
 Een AI-assistent van Anthropic, opgericht door voormalige OpenAI-onderzoekers. Anthropic onderscheidt zich door sterke focus op AI-veiligheid — ze hebben een team dat kijkt naar de lange-termijn impact van AI op de mensheid.
@@ -63,7 +63,7 @@ Wat ik merk: bedachtzaam. Soms krijg je twee zinnen als dat genoeg is. Minder "h
 - Complexe prompt-ontwikkeling
 - Als je genuanceerde, beknopte antwoorden wilt
 
-### ChatGPT (OpenAI)
+### <img src="/icons/tools/chatgpt.svg" alt="" width="24" height="24" /> ChatGPT (OpenAI)
 
 **Wat is het?**
 De AI-assistent van OpenAI, het bedrijf dat de generatieve AI-revolutie startte met GPT-3. ChatGPT was de eerste die massaal werd gebruikt en is nog steeds de bekendste.
@@ -76,7 +76,7 @@ Uitgebreid. Volgens mij zit de behulpzaamheid bij ChatGPT in de rijkheid en hoev
 - Breed beschikbaar, veel integraties
 - Als je uitgebreide, gedetailleerde antwoorden wilt
 
-### Gemini (Google)
+### <img src="/icons/tools/gemini.svg" alt="" width="24" height="24" /> Gemini (Google)
 
 **Wat is het?**
 Google's AI-assistent, gebaseerd op hun eigen taalmodellen. Onderscheidt zich door een enorme context window (1 miljoen tokens) — je kunt er hele boeken in stoppen.
@@ -93,7 +93,7 @@ Wat mij opvalt: Gemini filtert ruis. Bij dezelfde prompt was het antwoord 4x kor
 
 ## Multi-model tools
 
-### T3 Chat
+### <img src="/icons/tools/t3chat.png" alt="" width="24" height="24" /> T3 Chat
 
 **Wat is het?**
 Een "multi-model interface" — één chat-app waarmee je toegang hebt tot Claude, ChatGPT, Gemini en andere modellen tegelijk. Gemaakt door ontwikkelaar Theo Browne. In plaats van drie losse abonnementen en drie losse tabbladen, heb je alles in één venster.
@@ -105,7 +105,7 @@ Snelheid — geen tabbladen en logins wisselen. En prijs/waarde — goedkoper da
 - Je wilt outputs van verschillende modellen vergelijken
 - Snel experimenteren met welk model het beste werkt voor je taak
 
-### Claude Code + Finn
+### <img src="/icons/tools/claude.svg" alt="" width="24" height="24" /> Claude Code + Finn
 
 **Wat is het?**
 Claude Code is Anthropic's "agentic coding tool" — AI die niet alleen antwoordt, maar ook daadwerkelijk taken uitvoert. Het draait in je terminal of software-ontwikkel-programma, leest je hele project, en kan zelfstandig bestanden aanpassen, code schrijven, en workflows uitvoeren.
@@ -127,7 +127,7 @@ Een concreet voorbeeld: bij het analyseren van meerdere parallelle tafelgesprekk
 
 ## Geïntegreerde platforms
 
-### Dembrane
+### <img src="/icons/tools/dembrane.png" alt="" width="24" height="24" /> Dembrane
 
 **Wat is het?**
 Een platform uit Eindhoven dat AI inzet voor groepsgesprekken. Je kunt live transcriberen, direct analyseren, en de groep real-time feedback geven. Volgens de makers: "Communities helpen slimmer te groeien naarmate ze groter worden."
@@ -150,7 +150,7 @@ AI in het gesprek gebruiken met een menselijk randje. Je introduceert het als me
 
 ---
 
-### Notion AI
+### <img src="/icons/tools/notion.svg" alt="" width="24" height="24" /> Notion AI
 
 **Wat is het?**
 Notion is een "all-in-one workspace" — een app waarin je notities, documenten, databases, en projectmanagement combineert. Notion AI voegt daar kunstmatige intelligentie aan toe: samenvatten, schrijven, vragen stellen aan je documenten.
@@ -168,7 +168,7 @@ Notion AI is iets om in de gaten te houden. Het wordt steeds krachtiger — prec
 
 ---
 
-### NotebookLM
+### <img src="/icons/tools/notebooklm.svg" alt="" width="24" height="24" /> NotebookLM
 
 **Wat is het?**
 Google's "virtuele onderzoeksassistent" — je uploadt bronnen (PDF's, docs, websites), en NotebookLM helpt je ze begrijpen. Het bijzondere: de AI antwoordt alleen op basis van jouw bronnen, niet op basis van het hele internet.
@@ -187,7 +187,7 @@ Je kunt informatie en kennis delen op manieren die voorheen niet mogelijk waren.
 
 ## Ingebouwde opties
 
-### Google Meet / Microsoft Teams
+### <img src="/icons/tools/google-meet.svg" alt="" width="24" height="24" /> Google Meet / <img src="/icons/tools/microsoft-teams.svg" alt="" width="24" height="24" /> Microsoft Teams
 
 Basis transcriptie in je bestaande ecosysteem. Als je al in Google of Microsoft werkt en alleen basis-transcriptie nodig hebt, hoef je geen extra tools te installeren.
 
