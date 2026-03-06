@@ -190,7 +190,7 @@ Je volgt een groep of traject over tijd. Wat verandert er in de taal? Waar versc
 
 Meerdere gesprekken van dezelfde dag of hetzelfde traject naast elkaar leggen. Waar worstelen mensen met hetzelfde, waar zijn ze het over eens, welke keuzes en toekomstbeelden delen ze? Waar zitten verschillen? Dit is de toepassing voor breakouts, parallelle tafels, en sessies met verschillende groepen over hetzelfde thema.
 
-→ *Ga dieper: In de sessie — haakjes vinden en verbinden (binnenkort beschikbaar)*
+→ *Ga dieper: [In de sessie — AI inzetten bij co-creatieve sessies met meerdere groepen](technieken/fase-3/in-de-sessie.md)*
 
 ### Langlopend traject, eigenaarschapsvraag
 
@@ -201,7 +201,7 @@ Floor de Ruiter's formule zegt: Succes = Kwaliteit Idee x Eigenaarschap. Een bri
 | Jouw situatie | Begin hier | Verdieping |
 |---------------|------------|------------|
 | Dezelfde groep, meerdere sessies | Verschuivingen over tijd | [Over tijd heen](technieken/fase-3/patronen-over-tijd.md) |
-| Breakouts of parallelle sessies | Haakjes en verbindingen | *Binnenkort beschikbaar* |
+| Breakouts of parallelle sessies | Haakjes en verbindingen | [In de sessie](technieken/fase-3/in-de-sessie.md) |
 | Langlopend traject, eigenaarschapsvraag | Eigenaarschap volgen | *Binnenkort beschikbaar* |
 
 ---

@@ -196,8 +196,6 @@ Voor bovenbouwouders:
 
 Twee ouders die allebei worstelen, zich allebei alleen voelen, nu een haakje hebben om elkaar te vinden.
 
-*Wil je dit systematischer aanpakken, over meerdere gesprekken? De volledige techniek staat in [Haakjes vinden](../fase-3/haakjes-vinden.md) (Fase 3).*
-
 ### Krachtige quotes
 
 Dit was geen apart deel in de prompt. Maar de randvoorwaarde "gebruik de letterlijke bewoordingen van deelnemers" zorgde ervoor dat AI de krachtigste uitspraken bewaarde in plaats van ze te parafraseren. Dat zie je al bij deel 2: de spiegel-quote over eigen telefoongebruik was bijvangst van een goede afkadering. Soms levert een randvoorwaarde meer op dan een expliciete opdracht.
@@ -281,12 +279,6 @@ De vraag is niet "wat heb ik gemist?" maar "wat zit er allemaal in dat ik nog ni
 
 **Andere ingangen naar verdieping:**
 - [Intuïtie zwart op wit](intuitie-zwart-op-wit.md): wanneer je al een gevoel hebt dat je wilt benoemen (dit is de proactieve variant)
-
-**Het proces zelf:**
-- [Iteratie](iteratie.md): hoe het iteratie-gesprek werkt dat in dit verhaal centraal staat
-
-**Verder bouwen:**
-- [Haakjes vinden](../fase-3/haakjes-vinden.md) (Fase 3): de volledige techniek voor systematisch verbindingen vinden over meerdere gesprekken
 
 ---
 

@@ -190,7 +190,7 @@ You follow a group or process over time. What changes in the language? Where doe
 
 Laying multiple conversations from the same day or process side by side. Where do people struggle with the same thing, where do they agree, what shared choices and visions do they hold? Where are the differences? This is the application for breakouts, parallel tables, and sessions with different groups on the same theme.
 
-→ *Go deeper: In the session, finding hooks and connecting (coming soon)*
+→ *Go deeper: [In the session — using AI in co-creative sessions with multiple groups](techniques/phase-3/in-the-session.md)*
 
 ### Long-running process, ownership question
 
@@ -201,7 +201,7 @@ Floor de Ruiter's formula says: Success = Quality of Idea x Ownership. A brillia
 | Your situation | Start here | Deep dive |
 |----------------|------------|-----------|
 | Same group, multiple sessions | Shifts over time | [Over time](techniques/phase-3/patterns-over-time.md) |
-| Breakouts or parallel sessions | Hooks and connections | *Coming soon* |
+| Breakouts or parallel sessions | Hooks and connections | [In the session](techniques/phase-3/in-the-session.md) |
 | Long-running process, ownership question | Following ownership | *Coming soon* |
 
 ---

@@ -196,8 +196,6 @@ For late primary parents:
 
 Two parents who both struggle, both feel alone, now have a hook to find each other.
 
-*Want to approach this more systematically, across multiple conversations? The full technique is in [Finding hooks](../phase-3/finding-hooks.md) (Phase 3).*
-
 ### Striking quotes
 
 This wasn't a separate section in the prompt. But the constraint "use the literal words of participants" ensured that AI preserved the most striking statements rather than paraphrasing them. You can already see that in section 2: the mirror quote about personal phone use was a byproduct of good framing. Sometimes a constraint delivers more than an explicit instruction.
@@ -281,12 +279,6 @@ The question isn't "what did I miss?" but "what's in there that I haven't named 
 
 **Other entry points to depth:**
 - [Intuition in writing](intuition-in-writing.md): when you already have a feeling you want to articulate (this is the proactive variant)
-
-**The process itself:**
-- [Iteration](iteration.md): how the iteration conversation at the heart of this story works
-
-**Building further:**
-- [Finding hooks](../phase-3/finding-hooks.md) (Phase 3): the full technique for systematically finding connections across multiple conversations
 
 ---
 
