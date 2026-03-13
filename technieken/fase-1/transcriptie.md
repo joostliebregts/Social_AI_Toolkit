@@ -383,3 +383,5 @@ De kracht van transcriptie ligt niet in de technologie. Die is nu bijna gratis. 
 
 ---
 
+*"De kracht van transcriptie ligt niet in de technologie. De kracht ligt in wat je ermee doet: mensen hun eigen woorden teruggeven."*
+
