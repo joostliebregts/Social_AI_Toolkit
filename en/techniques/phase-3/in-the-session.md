@@ -49,7 +49,7 @@ Four tables, each with a table host. Three rounds with the same questions: dream
 
 **The prompt:** Two prompts in tandem: an analysis prompt that you use for each table (that makes the results comparable), and a synthesis prompt that lays the analyses side by side. Copy the prompt below; it helps you create both prompts for your session.
 
-<ProbeerStory experiment="in-de-sessie"></ProbeerStory>
+<ProbeerStory experiment="in-the-session"></ProbeerStory>
 
 ---
 
@@ -86,7 +86,7 @@ At the end: three rounds per theme analyzed separately, then synthesized into a 
 
 **The prompt:** Two prompts in tandem: an interim analysis after each round, and a final synthesis after the session. Paste the prompt below into the AI tool of your choice; it helps you create both prompts for your session.
 
-<ProbeerStory experiment="in-de-sessie-sequential"></ProbeerStory>
+<ProbeerStory experiment="in-the-session-sequential"></ProbeerStory>
 
 ---
 
@@ -128,7 +128,7 @@ Round 2: a new group of six sat down. They saw V2 and discussed what still neede
 
 **The prompt:** A prompt with built-in logic: for a first discussion it generates a draft, for feedback it generates a revised version. Paste the prompt below into the AI tool of your choice; it helps you create a prompt for your session.
 
-<ProbeerStory experiment="in-de-sessie-doordraaien"></ProbeerStory>
+<ProbeerStory experiment="in-the-session-iterative"></ProbeerStory>
 
 ---
 
