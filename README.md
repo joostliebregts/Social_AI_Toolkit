@@ -14,6 +14,12 @@ Not efficiency, not automation, but a different question: about participation at
 
 ---
 
+## Journey Map
+
+![Journey Map — 12 techniques across 3 phases](images/journeymap-en.png)
+
+---
+
 ## What is this?
 
 A field guide for anyone who wants to use AI to strengthen human collaboration.
