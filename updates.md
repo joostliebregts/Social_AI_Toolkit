@@ -4,6 +4,19 @@
 
 ---
 
+## 22 mei 2026
+
+**Veldnotities sectie + eerste verslag online**
+
+- **Nieuwe sectie "Veldnotities"**: in de sidebar, tussen Hulpmiddelen en Extra. Hier landen verslagen van koffiemomenten en andere gesprekken rond de Veldtocht.
+- **Veldtocht koffie 2 · Joost en Lars · Utrecht**: het eerste verslag staat live. Zes hoofdstukken uit een opname op 13 mei: de check-in, de breuk, de spiegel, de paradox, het kampvuur en de echo. Te lezen op [jmfl.nl/social-ai/veldtocht-koffie-2](https://jmfl.nl/social-ai/veldtocht-koffie-2).
+
+## 21 mei 2026
+
+**Bedachtzaam met Social AI**
+
+- **Nieuwe sectie in de sidebar**, onder Start. Verzamelt de principes onder het werk: Social AI Principes, Prompt Best Practices, Eigenaarschap, en Bottom-up. Plus een Complete Bundle (AI-input) voor wie het hele kader in één keer wil meegeven aan een model.
+
 ## 3 maart 2026
 
 **Duitse vertaling beschikbaar**
