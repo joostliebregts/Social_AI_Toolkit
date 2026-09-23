@@ -4,12 +4,30 @@
 
 ---
 
+## 19 juni 2026
+
+**Veldtocht koffie 4 · Den Bosch online, nu ook in het Engels**
+
+- **Veldtocht koffie 4 · Joost, Lars, Marijn van der Steen & Sameer Pashikanti · Den Bosch**: nieuw verslag van een koffiemoment op 10 juni, op het kantoor van Dembrane. Vier stemmen, het gesprek deels in het Engels gevoerd. Te lezen op [socialaiveldgids.nl/veldtocht-koffie-4](https://socialaiveldgids.nl/social-ai/veldtocht-koffie-4).
+- **Eerste veldnotitie in het Engels**: koffie 4 is ook in een Engelse vertaling beschikbaar, via de nieuwe sectie "Field notes" in de Engelse veldgids.
+
+## 22 mei 2026 (later op de dag)
+
+**Social AI Principes: nuance op principe 1 + nieuwe sub-nuance over verbatim quotes**
+
+- **Principe 1 herschreven** naar tweelaagsstructuur. Oude formulering *"AI voegt niets toe"* was te zwart-wit en botste met andere principes (schaalbaarheid bij principe 3, AI-waardeniveaus, Verbreden-rol). Nieuwe formulering: *"Wijsheid zit in het systeem. AI helpt het zichtbaar te maken."* Laag 1 houdt vast dat de wijsheid uit het systeem zelf komt (geen externe expert-taal als startpunt). Laag 2 erkent dat AI legitiem dingen toevoegt (structuur, verbanden, hypothesen, schaal, leesbaarheid), zolang die toevoegingen bewust gekozen en expliciet gemarkeerd worden.
+- **Nieuw blok "Discipline-in-ontwikkeling"** als voorwoord-noot bij de hele bundle. Erkent expliciet dat we aan het begin van deze AI-ontdekkingsreis staan. Regels zijn werkhypothesen, geen wet. Markering van AI-inferentie ("dit is een aanname die AI zelf doet", "mogelijk onderbelicht") is waardevol waar het kan, soms haalbaar, soms niet. Ruimte voor wat zich verder ontwikkelt.
+- **Nieuwe sub-nuance bij principe 4 (Eigenaarschap door taal): "Verbatim is verbatim-in-meaning, niet stenografie".** Filler-woorden (eh, ehm), onbedoelde haper-herhalingen en door-spreker-gecorrigeerde false starts horen niet bij wat iemand "zei", schrap ze. Woordkeuze, zinsstructuur, intentionele herhaling voor nadruk en karakteristieke spreektaal of dialect raak je niet aan. Test: zou de spreker zichzelf herkennen? Géén markering in output (geen [eh] of [...]). Praktijk-aanleiding: tweedaagse 19-20 mei waarin live-quotes verbatim correct waren maar onleesbaar bij plenair voorlezen.
+- **Taal-opfrissing:** woord "wiki" vervangen door "AI-output" waar het generiek bedoeld was, niet specifiek over een wiki-toepassing.
+
+Inhoudelijk te lezen op [socialaiveldgids.nl/bedachtzaam/principes](https://socialaiveldgids.nl/social-ai/bedachtzaam/principes).
+
 ## 22 mei 2026
 
 **Veldnotities sectie + eerste verslag online**
 
 - **Nieuwe sectie "Veldnotities"**: in de sidebar, tussen Hulpmiddelen en Extra. Hier landen verslagen van koffiemomenten en andere gesprekken rond de Veldtocht.
-- **Veldtocht koffie 2 · Joost en Lars · Utrecht**: het eerste verslag staat live. Zes hoofdstukken uit een opname op 13 mei: de check-in, de breuk, de spiegel, de paradox, het kampvuur en de echo. Te lezen op [jmfl.nl/social-ai/veldtocht-koffie-2](https://jmfl.nl/social-ai/veldtocht-koffie-2).
+- **Veldtocht koffie 2 · Joost en Lars · Utrecht**: het eerste verslag staat live. Zes hoofdstukken uit een opname op 13 mei: de check-in, de breuk, de spiegel, de paradox, het kampvuur en de echo. Te lezen op [socialaiveldgids.nl/veldtocht-koffie-2](https://socialaiveldgids.nl/social-ai/veldtocht-koffie-2).
 
 ## 21 mei 2026
 
